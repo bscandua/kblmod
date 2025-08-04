@@ -6,6 +6,7 @@ m3u_urls = [
     "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u",
     "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u",
     "http://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLiveEvents.m3u8",
+    "https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/IPTV_CXT.m3u",
 ]
 
 # Çıktı dosyası adı
