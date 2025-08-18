@@ -373,10 +373,10 @@ https://chcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV THẠCH TÚ m3u
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV TẦN CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/THACHTU/index.m3u8?expire=1872315180&sign=18ecac18499a7e056b3424339a7e819f
-#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV THẠCH TÚ flv
+https://hls.cdnokvip.com/live/TANCA/index.m3u8?expire=1891230240&sign=a7d6fbe261e2edad612261d2747ceef9
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV TẦN CA flv
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
 https://hello#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/bd9d6cf0d0c6d88b5112851ef6d6b106.png",17h00 Akron Togliatti B vs Nosta Novotroitsk 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
@@ -390,6 +390,18 @@ https://live.alilicloud.com/live/562d649bf9c38200f0e348f01e5b602b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/07f57f300f42a5e83f7083901da68285/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/f4bd932b7d276a93696f4491f334c932.png",18h30 Persijap Jepara vs Persib Bandung 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/c1458ac045a2c5b8b69e1141a8caabc5/playlist.m3u8
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/f4bd932b7d276a93696f4491f334c932.png",18h30 Persijap Jepara vs Persib Bandung [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68a30f032f362_18754/index.m3u8?expire=1756121475&sign=6aacd392e416aaaea95df557a8d12248
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn.rapid-api.icu/football/team/f4bd932b7d276a93696f4491f334c932.png",18h30 Persijap Jepara vs Persib Bandung [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68a30f032f362_18754.flv?expire=1756121475&sign=6aacd392e416aaaea95df557a8d12248
 #EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/f4bd932b7d276a93696f4491f334c932.png",18h30 Persijap Jepara vs Persib Bandung (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -414,18 +426,38 @@ https://chcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/bd9d6cf0d0c6d88b5112851ef6d6b106.png",17h00 Akron Togliatti B VS Nosta Novotroitsk (CK) Backup 1
+#EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/5b880ea9815173996cd07ab4898b295c.png!w60",19h00 Fergana University vs Lokomotiv Tashkent (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Ab82OHV3Np2X9uHECDWO0A/Fv2lucGIbhPi2caWYvF5Lg/1755533105196/live/sd-6MuScf6VMqkDKMubns/playlist.m3u8
-#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/e2b97426d7625e5cd01538ee80f50d2a.png",17h00 Edgeworth Eagles FC VS Weston Workers FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/WLte5wnQJ8STTnqG5jjH0g/Fv2lucGIbhPi2caWYvF5Lg/1755533706333/live/sd-6MvXc3nDmXWhcJhqkX/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="",18h00 Atlet Kiev VS Nyva Ternopil B (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/5_POQauYPF03_o7W34C_oA/Fv2lucGIbhPi2caWYvF5Lg/1755536703643/live/sd-6MuPtxNVQVgaacEqE3/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/bd9d6cf0d0c6d88b5112851ef6d6b106.png",17h00 Akron Togliatti B VS Nosta Novotroitsk (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/3G9Mot01bdSJsssx67O7xg/Fv2lucGIbhPi2caWYvF5Lg/1755533407602/live/sd-6MuScf6VMqkDKMubns/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://img.thesports.com/football/team/e2b97426d7625e5cd01538ee80f50d2a.png",17h00 Edgeworth Eagles FC VS Weston Workers FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/WLte5wnQJ8STTnqG5jjH0g/Fv2lucGIbhPi2caWYvF5Lg/1755533706333/live/sd-6MvXc3nDmXWhcJhqkX/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://static.flashscore.com/res/image/data/tjn8RjEa-ngTEm5d7.png",18h30 Persijap Jepara vs Persib Bandung (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/satHD.flv?expire=1755534914&sign=90d8820bfd4f1fea0864c9140ed33ddf
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://static.flashscore.com/res/image/data/tjn8RjEa-ngTEm5d7.png",18h30 Persijap Jepara vs Persib Bandung (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/yYz6_k0DJPTLNDRyOsHfuA/5c978519fd4da0d4f4d7d1181446e6c9/1755534914/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://static.flashscore.com/res/image/data/tjn8RjEa-ngTEm5d7.png",18h30 Persijap Jepara vs Persib Bandung (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/2ngrpc3qV6_EQ-m4GzJsWQ/Fv2lucGIbhPi2caWYvF5Lg/1755534914364/live/satSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁ KÈO]" tvg-logo="https://static.flashscore.com/res/image/data/tjn8RjEa-ngTEm5d7.png",18h30 Persijap Jepara vs Persib Bandung (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/q1XUPiL4hpH1lkUmmWhLZQ/6b78b4ff262c15bca3bdb372d5d5d695/1755534914/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/f4bd932b7d276a93696f4491f334c932.png",18h30 Persijap Jepara vs Persib Bandung (LẤY KINH) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -450,13 +482,47 @@ https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/5b880ea9815173996cd07ab4898b295c.png!w60",19h00 Fergana University vs Lokomotiv Tashkent (LẤY KINH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/URA/index.m3u8?expire=1892009160&sign=091358530f63d729f8085bf8c9ea6b55
 #EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/URA.flv?expire=1892009160&sign=091358530f63d729f8085bf8c9ea6b55
-# Last forced update: 2025-08-18T11:18:09.100869Z
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV THẠCH TÚ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/THACHTU/index.m3u8?expire=1872315180&sign=18ecac18499a7e056b3424339a7e819f
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV THẠCH TÚ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/THACHTU.flv?expire=1872315180&sign=18ecac18499a7e056b3424339a7e819f
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/KEVILL/index.m3u8?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/KEVILL.flv?expire=1843660560&sign=c10b696ab4978fc4e5b85f2a2e842ab1
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/LUUBI/index.m3u8?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnokvip.com/live/LUUBI.flv?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/TANCA/index.m3u8?expire=1891230240&sign=a7d6fbe261e2edad612261d2747ceef9
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnokvip.com/live/TANCA.flv?expire=1891230240&sign=a7d6fbe261e2edad612261d2747ceef9
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
+#EXTINF:0 group-title="[LƯƠNG SƠN]" tvg-logo="https://cdn-api-ls.cdnokvip.com/uploads/team_logo/1726733608.png",18h30 Persijap Jepara vs Persib Bandung (LS) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnokvip.com/live/TRIEUTULONG.flv?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
+# Last forced update: 2025-08-18T11:31:23.861841Z
 #EXTINF:-1  tvg-name="13th Street DE" tvg-id="skyde/13thstreet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="UDPTV Live Streams",13th Street DE
 https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="UDPTV Live Streams",A2Z
@@ -3185,7 +3251,7 @@ http://178.134.1.158:8081/viasatsport/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="🎎|Selection Sport|🎎", Setanta Sports 2
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-# Last forced update: 2025-08-18T11:00:12.534424Z
+# Last forced update: 2025-08-18T11:18:09.100869Z
 #EXTINF:-1  tvg-name="13th Street DE" tvg-id="skyde/13thstreet" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/13th-street-de.png?raw=true" group-title="UDPTV Live Streams",13th Street DE
 https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="UDPTV Live Streams",A2Z
@@ -7730,4 +7796,4 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjU1MDM5ZjMz
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDZkZWFlNGI2YjMzLWM0MGEtZmRjNC0xNzQzLTMzMjAzY2Fi/master.m3u8?md5=X7_oLMZrQq3-I_wM3RkTlQ&expires=1755555828&t=1755512628
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDZkZWFlNGI2YjMzLWM0MGEtZmRjNC0xNzQzLTMzMjAzY2Fi/master.m3u8?md5=K2Zigp0DJDo4gJN-hKKCqQ&expires=1755559152&t=1755515952
