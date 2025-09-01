@@ -362,19 +362,7 @@ http://192.168.11.1:61292/udp/232.84.3.86:11542
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8.5Mbps)
 http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
-https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/c3e738aaebb7a997a17ced544082d69a.png",17h00 USA vs Canada [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68b56df45bab8_42127/index.m3u8?expire=1757325428&sign=b22c6e3f7efc41dc5780adeaabe0eac0
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/c3e738aaebb7a997a17ced544082d69a.png",17h00 USA vs Canada [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68b56df45bab8_42127.flv?expire=1757325428&sign=b22c6e3f7efc41dc5780adeaabe0eac0
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="",18h00 Tobol Kostanay (W) vs Ulytau W 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/1c2924f28f47e5c7af7860ab76978cf8/playlist.m3u8
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/58b5d5f352fafb845b4f6755c2d5b724.png",19h00 Iran vs India 1 (Bc)
+https://hello#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/58b5d5f352fafb845b4f6755c2d5b724.png",19h00 Iran vs India 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.alilicloud.com/live/e7e51502236ad765a93f9af04d1616f7/playlist.m3u8
@@ -402,10 +390,6 @@ https://2893254555.global.cdnfastest.com/live/68b524e85bab8_6308/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68b524e85bab8_6308.flv?expire=1757306728&sign=03a26b90746d7f9fbb24d4b11abcdb0b
-#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/hGWEqPXg-Y5PQRWFD.png",18h00 Tobol Kostanay (W) vs Ulytau W (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png!w100",19h00 Ấn Độ vs Iran (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -430,10 +414,30 @@ https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="",18h00 Tobol Kostanay (W) VS Ulytau W (CK) Backup 1
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/8CbvrPZrCDggD6sBl33uVw/Fv2lucGIbhPi2caWYvF5Lg/1756746313562/live/sd-6MvXMth1vfFER1yisu/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (CH) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTINF:0 group-title="CÁ HEO" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (CH) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/india.png",19h00 Iran VS India (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -478,10 +482,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
-#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/hGWEqPXg-Y5PQRWFD.png",18h00 Tobol Kostanay (W) vs Ulytau W (LẤY KINH) Nhà đài
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8 
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTINF:0 group-title="CÀ KHỊA" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
 #EXTINF:0 group-title="LẤY KINH" tvg-logo="https://img.thesports.com/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png!w100",19h00 Ấn Độ vs Iran (LẤY KINH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -506,6 +530,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (LẤY KINH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (LẤY KINH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (LẤY KINH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (LẤY KINH) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (LẤY KINH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTINF:0 group-title="LẤY KINH" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (LẤY KINH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018993893.png?win007=sell",19h00 Iran vs India (LS) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TRIEUTULONG/index.m3u8?expire=1861716660&sign=c987a13cb57bcf185dee0bcd3fa311d0
@@ -536,12 +584,6 @@ https://hls.cdnokvip.com/live/DUONGQUA/index.m3u8?expire=1861716660&sign=3f4bf2e
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018993893.png?win007=sell",19h00 Iran vs India (LS) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/DUONGQUA.flv?expire=1861716660&sign=3f4bf2e90f2c526fd4224d754b1a2827
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018993893.png?win007=sell",19h00 Iran vs India (LS) BLV VƯƠNG ANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnokvip.com/live/VUONGANH/index.m3u8?expire=1861716660&sign=02fefa0e2833e6aa0e0294955f084de6
-#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018993893.png?win007=sell",19h00 Iran vs India (LS) BLV VƯƠNG ANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnokvip.com/live/VUONGANH.flv?expire=1861716660&sign=02fefa0e2833e6aa0e0294955f084de6
 #EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165018993893.png?win007=sell",19h00 Iran vs India (LS) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/LUUBI/index.m3u8?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
@@ -578,6 +620,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTINF:0 group-title="RA KHƠI" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",19:00 India vs Iran (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -614,10 +680,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke4x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke4x3/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/575aecf6c4aa0437c051c590efaeffc2/image/small",13h00 Wuhan Sports Three Towns University Women vs Fujian Nanan Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/efa9db775b537e91d1011be2389b0a79/playlist.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/1c68f892804c1bf6bc33a97daaf349d4/image/small",15h15 Qingdao West CoastWomen vs Hebei Snow Ruyi  Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -630,30 +692,6 @@ https://live.alilicloud.com/live/d82df960db36dd56d0893fb7cdf21c78/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/cd255c9bf03c52849a3b5d51a12af5a2/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small",17h00 Changnyeong Women vs Hwacheon KSPO WFC (Khán Đài A) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/9efc3f8e23b64668bef37e2c588a4fc3_480/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small",17h00 Changnyeong Women vs Hwacheon KSPO WFC (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/9efc3f8e23b64668bef37e2c588a4fc3_720/playlist.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small",17h00 Changnyeong Women vs Hwacheon KSPO WFC (Khán Đài A) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/9efc3f8e23b64668bef37e2c588a4fc3_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small",17h00 Changnyeong Women vs Hwacheon KSPO WFC (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live3.fastestcdn-global.com/live3/9efc3f8e23b64668bef37e2c588a4fc3_720/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small",17h00 Changnyeong Women vs Hwacheon KSPO WFC (Khán Đài A) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/9efc3f8e23b64668bef37e2c588a4fc3_480/index.m3u8
-#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small",17h00 Changnyeong Women vs Hwacheon KSPO WFC (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/9efc3f8e23b64668bef37e2c588a4fc3_720/index.m3u8
 #EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/football/team/62b7a62996e18d121a4208570ec4c3a9/image/small",17h00 Akron Togliatti B vs Rubin Kazan B (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -702,10 +740,30 @@ https://live4.fastestcdn-global.com/live4/1aca88c3cf5b41e59c5db1a978018d82_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live4.fastestcdn-global.com/live4/1aca88c3cf5b41e59c5db1a978018d82_720/index.m3u8
-#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/hGWEqPXg-Y5PQRWFD.png",18h00 Tobol Kostanay (W) vs Ulytau W (QUAY TAY) Nhà đài
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Khán Đài A) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8 
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/a04e72b7f5b146fca0d18a55a932f49b_480/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/a04e72b7f5b146fca0d18a55a932f49b_720/playlist.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Khán Đài A) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/a04e72b7f5b146fca0d18a55a932f49b_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/a04e72b7f5b146fca0d18a55a932f49b_720/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Khán Đài A) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/a04e72b7f5b146fca0d18a55a932f49b_480/index.m3u8
+#EXTINF:0 group-title="KHÁN ĐÀI A" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/a04e72b7f5b146fca0d18a55a932f49b_720/index.m3u8
 #EXTINF:0 group-title="QUAY TAY" tvg-logo="https://img.thesports.com/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png!w100",19h00 Ấn Độ vs Iran (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -730,6 +788,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nunghd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maohd1/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (QUAY TAY) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maosd1.flv
+#EXTINF:0 group-title="QUAY TAY" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",20h30 Thổ Nhĩ Kỳ Nữ vs Slovenia Nữ (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@maohd1.flv
 #EXTINF:0 group-title="CHUỐI CHIÊN" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134311_eaf689af.png",19h00 ngày 01 India vs Iran (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -898,10 +980,6 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/575aecf6c4aa0437c051c590efaeffc2/image/small",13h00 Wuhan Sports Three Towns University Women vs Fujian Nanan Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/efa9db775b537e91d1011be2389b0a79/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/a83b812a3789bbcabcc7408abc7b73ee/image/small",15h00 Mungyeong Sangmu WFC vs Incheon Hyundai Steel Red Angels Women (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -942,34 +1020,6 @@ https://live.alilicloud.com/live/cd255c9bf03c52849a3b5d51a12af5a2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5c28cd4cf65ba4b956b9fd7085270bdc/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small",17h00 Sejong Sportstoto WFC vs Suwon FC Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/093436d000807527881dfd43d38ade24/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small",17h00 Sejong Sportstoto WFC vs Suwon FC Women (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/0076f70c35ed4a8db03193e7785078fe_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small",17h00 Sejong Sportstoto WFC vs Suwon FC Women (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/0076f70c35ed4a8db03193e7785078fe_720/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small",17h00 Sejong Sportstoto WFC vs Suwon FC Women (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/0076f70c35ed4a8db03193e7785078fe_480/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small",17h00 Sejong Sportstoto WFC vs Suwon FC Women (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/0076f70c35ed4a8db03193e7785078fe_720/index.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small",17h00 Sejong Sportstoto WFC vs Suwon FC Women (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/0076f70c35ed4a8db03193e7785078fe_480/playlist.m3u8
-#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/1c186707c637d240a6a24cc5f621e1a1/image/small",17h00 Sejong Sportstoto WFC vs Suwon FC Women (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/0076f70c35ed4a8db03193e7785078fe_720/playlist.m3u8
 #EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/football/team/10ff70307c49666ae2f56327c718257b/image/small",17h00 Changnyeong Women vs Hwacheon KSPO WFC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1014,6 +1064,30 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/920c64289a7343479f12964099c5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc43163716.stream.hdplaylink.com/live7/920c64289a7343479f12964099c590e0_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/abc0d5d7f77b48148dacd4f2ff851600_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/abc0d5d7f77b48148dacd4f2ff851600_720/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/abc0d5d7f77b48148dacd4f2ff851600_480/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/abc0d5d7f77b48148dacd4f2ff851600_720/index.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/abc0d5d7f77b48148dacd4f2ff851600_480/playlist.m3u8
+#EXTINF:0 group-title="GÀ VÀNG" tvg-logo="https://img.rapid-api.icu/volleyball/team/ef094bb22af3a057ea58acaea479e17f/image/small",20h30 Turkey Women vs Slovenia Women (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/abc0d5d7f77b48148dacd4f2ff851600_720/playlist.m3u8
 #EXTINF:0 group-title="VĂN KHÁNH" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165018993893.png?win007=sell",19h00 Iran vs India (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -2909,7 +2983,6 @@ http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/193622
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
 http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/200528
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
-http://sansat.cc:88/02025033583654/1680219086/126831
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
 http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/102234
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
