@@ -363,14 +363,6 @@ http://192.168.11.1:61292/udp/232.84.3.86:11542
 http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
 https://hello
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/8610ef674ab1cf69b8e575ea7e15e120.png",07h00 Novak Djokovic vs Taylor Fritz [hls]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893254555.global.cdnfastest.com/live/68b783332f365_4733/index.m3u8?expire=1757461939&sign=3d5fd4192fb16fe248109d6a435e91c2
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/8610ef674ab1cf69b8e575ea7e15e120.png",07h00 Novak Djokovic vs Taylor Fritz [flv]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://2893950149.global.cdnfastest.com/live/68b783332f365_4733.flv?expire=1757461939&sign=3d5fd4192fb16fe248109d6a435e91c2
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn.rapid-api.icu/football/team/7b4ab541114bb4897eb3f5111a6b3d16.png",19h30 Japan U23 vs Afghanistan U23 [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -427,14 +419,16 @@ https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1756870683.png",10h40 Paris Saint Germain (PSG) vs Tottenham Hotspur (LS) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/TEST/index.m3u8?expire=1841039400&sign=96fcf5f00f6a32b0c59a452c3277c2dd
+#EXTINF:0 group-title="LƯƠNG SƠN" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1756870683.png",10h40 Paris Saint Germain (PSG) vs Tottenham Hotspur (LS) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://www.flashscore.com/res/image/data/tSfwGCdM-0rY6MEPI.png",07:10 Novak Djokovic vs Taylor Fritz (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke4x1/playlist.m3u8
-#EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1798943_small.png",08:00 Xem trực tiếp bình luận bóng đá full HD hôm nay: Alianza và Gotham FC (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
 #EXTINF:0 group-title="SAO KÊ" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6320_small.png",20:00 Syria vs Philippines (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1302,17 +1296,16 @@ https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/setanta-sports-plus.png" group-title="🎎|Selection Sport|🎎", Setanta Sports 2
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skyspnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/1200px-Sky_sports_news_2021_logo.svg.png",Sky Sports News
-http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/116391
+http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588069&extension=ts&play_token=lh97TPSDwG
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
-http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/56239
+http://cmc.best-ott.me:80/play/live.php?mac=00:1A:79:B5:F9:D6&stream=588065&extension=ts&play_token=xBXM5E3VAZ
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
-http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/193624
+http://beno4k.live:8080/live/123/123/643774.ts
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
-http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/193623
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="skytennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
 http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/193622
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
-http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/200528
+http://beno4k.live:8080/live/123/123/671071.ts
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
 http://pedro8k.world:88/YPXLHFIZI1/6LR3GQVOBP/126831
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
