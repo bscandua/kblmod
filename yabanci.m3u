@@ -216,6 +216,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD
 #EXTINF:-1  tvg-id="vtv3hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.1.118:10260 và http://4.3.2.1:0000/udp/225.1.3.2:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup="default" catchup-days="3" catchup-source="Kenh VTV",VTV3 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
+#EXTINF:-1  tvg-id="vtv4hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.32:10600 và http://4.3.2.1:0000/udp/225.1.2.20:30120" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV4 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV4_HD
 #EXTINF:-1  tvg-id="vtv5hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.33:10606 và http://4.3.2.1:0000/udp/225.1.3.4:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV5 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
 #EXTINF:-1  tvg-id="vtv6hd" tvg-link="Kenh VTV" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV_Can_Tho HD
@@ -226,6 +228,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV8_HD
 #EXTINF:-1  tvg-id="vtv9hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.35:10618 và http://4.3.2.1:0000/udp/225.1.1d.128:30120" group-title="KÊNH ĐẶC SẮC" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV9 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
+#EXTINF:-1  tvg-link="https://livesct.vtvprime.vn/mean/VIETNAMTODAY/manifest.mpd" group-title="Kenh VTV" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vietnam%20Today%20HD.png",VIETNAM TODAY HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Vietnam_Today_HD
 #EXTINF:-1  tvg-id="hanoi1" tvg-link="https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w1699606010_b3128000_slen.m3u8 và http://4.3.2.1:0000/rtp/232.84.3.143:10738 và http://4.3.2.1:0000/udp/225.1.2.186:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20ph%E1%BB%A5%20th%E1%BB%A9%20s%C3%A1u%20-%20B%E1%BA%A3n%202.png" catchup-days="4" catchup-source="https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD_catchup",TH HÀ NỘI 1 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
 #EXTINF:-1  tvg-name="KÊNH 13 - TH HÀ NỘI 2 4K 50fps" tvg-id="hanoi2" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%204K%20%E2%80%A2%20B%E1%BA%A3n%202.png",TH HÀ NỘI 2 4K
@@ -363,10 +367,6 @@ http://192.168.11.1:61292/udp/232.84.3.86:11542
 http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTINF:0 group-title="__THÔNG BÁO__",!!! Link XEM LẠI đã tách sang byvn.net/KHXg
 https://hello
-#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/a46dd63b946ae627c352a9400994e6be.png",09h30 AV Alta vs Forward Madison FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/ae19f9db588e11b6e482c582385df2ae/playlist.m3u8
 #EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://img.thesports.com/football/team/e3924ed4c20acaab2262ec55d93a8c13.png",10h00 Tampico Madero vs Club Chivas Tapatio 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -395,6 +395,14 @@ https://2893254555.global.cdnfastest.com/live/68bd07565bab9_44731/index.m3u8?exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68bd07565bab9_44731.flv?expire=1757823446&sign=b90871d69286d538b02404c30e1ea3ba
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/bff3a27aef1a0cf717ebe58cd4b3e744.png",12h00 ZHU Yi Jun vs Ruttanapak OUPTHONG [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/68bd0c8e2f365_5160/index.m3u8?expire=1757824782&sign=ed8402d7d4aac9fb5a3a2dacfcb59288
+#EXTINF:0 group-title="BÚN CHẢ" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/bff3a27aef1a0cf717ebe58cd4b3e744.png",12h00 ZHU Yi Jun vs Ruttanapak OUPTHONG [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/68bd0c8e2f365_5160.flv?expire=1757824782&sign=ed8402d7d4aac9fb5a3a2dacfcb59288
 #EXTINF:0 group-title="CÁ HEO" tvg-logo="https://img.thesports.com/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png",07h30 Houston Dynamo vs Los Angeles Galaxy (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -495,10 +503,6 @@ https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@lulusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://caheopro.cdnlive.pro/live/stream_9_f915e9e2@luluhd1.flv
-#EXTINF:0 group-title="CÁ KÈO" tvg-logo="",09h30 ngày 07/09 AV Alta vs Forward Madison FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/-2BSEGCeD08GeiphLHTMAA/Fv2lucGIbhPi2caWYvF5Lg/1757234450264/live/sd-6MuS7tikBfCi4wFQ9H/playlist.m3u8
 #EXTINF:0 group-title="CÁ KÈO" tvg-logo="https://img.thesports.com/football/team/e3924ed4c20acaab2262ec55d93a8c13.png",10h00 ngày 07/09 Tampico Madero vs Club Chivas Tapatio (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
