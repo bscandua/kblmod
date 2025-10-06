@@ -122,29 +122,29 @@ udp://@225.1.4.39:30120
 udp://@225.1.4.90:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 4Mbps)
 udp://@225.1.4.183:30120
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://rg.pipitv.top/vtv1
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD
 https://rg.pipitv.top/vtv2
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD
 https://rg.pipitv.top/vtv3
-#EXTINF:-1 tvg-id="vtv4hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 HD
 https://rg.pipitv.top/vtv4
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD
 https://rg.pipitv.top/vtv5
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ HD
 https://rg.pipitv.top/vtv5tnb
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD
 https://rg.pipitv.top/vtv5tn
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV_Can_Tho HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV_Can_Tho HD
 https://rg.pipitv.top/vtvct
-#EXTINF:-1 tvg-id="vtv7hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
 https://rg.pipitv.top/vtv7
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
 https://rg.pipitv.top/vtv8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD
 https://rg.pipitv.top/vtv9
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="https://img.lichphatsong.site/logo/vietnamtoday.jpg",VIETNAM TODAY HD
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://img.lichphatsong.site/logo/vietnamtoday.jpg",VIETNAM TODAY HD
 https://rg.pipitv.top/vntoday
 #EXTINF:0 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
@@ -514,30 +514,10 @@ https://live.alilicloud.com/live/0654d232d8c4beaa967de5cc2b798381/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/c7d0681dd0dbbdc10dedaad92d2d9053/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cá heo) SD 1
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/cedefb834d84c29f26ebdf2384b381a4.png",15h00 ngày 06/10 Hal FC vs FC United Stars 1 (Bún Chả1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cá heo) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cá heo) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cá heo) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179245845.cdnfree.pro/live/tichhd2/playlist.m3u8
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cá heo) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/tichsd1.flv
-#EXTINF:0 group-title="Cá heo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cá heo) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://chcdn.livestreameuro.live/live/tichhd1.flv
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/096be31b8ff3847a3a86a0f807ac4905/playlist.m3u8
 #EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/56f28f58ca07a6c825a34611d4b45afb.png",14h00 ngày 06/10 BIIK Shymkent (w) vs Kairat Almaty (W) (Cá heo) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -566,62 +546,86 @@ https://chcdn.livestreameuro.live/live/phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://chcdn.livestreameuro.live/live/phuhd1.flv
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Cá heo) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Cá heo) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Cá heo) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Cá heo) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Cá heo) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Cá heo) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Cá heo) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/musd1/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Cá heo) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/muhd1/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Cá heo) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/musd2/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Cá heo) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/muhd2/playlist.m3u8
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Cá heo) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/musd1.flv
+#EXTINF:0 group-title="Cá heo" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Cá heo) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/muhd1.flv
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",14h00 ngày 06/10 ZhFC Astana (W) VS Kyzyl-Zhar SK (w) (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/e_43na9PJ1sU5Ea7LzXgMA/Fv2lucGIbhPi2caWYvF5Lg/1759757407833/live/sd-6MvYbQqBxz3bBvs49q/playlist.m3u8
+https://apisportzz179528093.nsnd.live/vDdQRtje4VN1FEoTIBOkbg/Fv2lucGIbhPi2caWYvF5Lg/1759759928549/live/sd-6MvYbQqBxz3bBvs49q/playlist.m3u8
+#EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/cedefb834d84c29f26ebdf2384b381a4.png",15h00 ngày 06/10 Hal FC VS FC United Stars (Cá Kèo) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Y7qPgzlm-8ce0G5mL_DV3Q/Fv2lucGIbhPi2caWYvF5Lg/1759759929952/live/sd-6MvYbMUGL72GpgkaSw/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",13h30 ngày 06/10 P.S Elput Bandung VS Saswco FC (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/FodF8JXETroERhtD_aGlXw/Fv2lucGIbhPi2caWYvF5Lg/1759757409354/live/sd-6MvYbMUGKeeWNvqacB/playlist.m3u8
+https://apisportzz179528093.nsnd.live/WTU1jzWh3eeNWq_N98B29Q/Fv2lucGIbhPi2caWYvF5Lg/1759759931003/live/sd-6MvYbMUGKeeWNvqacB/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/e44b3060eb2966ef59c260782f632fe3.png",14h00 ngày 06/10 Guangan Team VS Suining Team (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/b3wNIj2GPu12Kh9dyzC3Iw/Fv2lucGIbhPi2caWYvF5Lg/1759757410064/live/sd-6MvY73By6XXMhTaRrB/playlist.m3u8
-#EXTINF:0 group-title="Cá kèo" tvg-logo="",12h30 ngày 06/10 Parikrma FC VS South United (Cá Kèo) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/10MJLjLCQ0yxPrafXiVkrQ/Fv2lucGIbhPi2caWYvF5Lg/1759757410421/live/sd-6MvYbQqBoYkwUU9rxb/playlist.m3u8
+https://apisportzz179528093.nsnd.live/zRD_jQqLkpIzya0tYT5Mvw/Fv2lucGIbhPi2caWYvF5Lg/1759759932089/live/sd-6MvY73By6XXMhTaRrB/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/56f28f58ca07a6c825a34611d4b45afb.png",14h00 ngày 06/10 BIIK Shymkent (w) VS Kairat Almaty (W) (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/mWK8euChANV51rjezb071Q/Fv2lucGIbhPi2caWYvF5Lg/1759757410775/live/sd-6MvYbQqATpnPQUjFMm/playlist.m3u8
+https://apisportzz179528093.nsnd.live/bx4XkEn4jOb0Dzs4ReHwWA/Fv2lucGIbhPi2caWYvF5Lg/1759759932647/live/sd-6MvYbQqATpnPQUjFMm/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/5eb3ba67125cf8f2f99955d1ff49640b.png",14h00 ngày 06/10 Bazhong Team VS Chengdu Team (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ikqfGleYygvfPc10HcsTvw/Fv2lucGIbhPi2caWYvF5Lg/1759757411152/live/sd-6MvY73By6bvKSREG9y/playlist.m3u8
+https://apisportzz179528093.nsnd.live/n9OnOkLDaHeCQLBfz7M1Pg/Fv2lucGIbhPi2caWYvF5Lg/1759759933241/live/sd-6MvY73By6bvKSREG9y/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="https://img.thesports.com/football/team/0d58006c963a408cfc17fd3a2ab13568.png",14h00 ngày 06/10 Nanchong Team VS Dazhou Team (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/T9Knj8XktWjV1LW7oChI7w/Fv2lucGIbhPi2caWYvF5Lg/1759757411638/live/sd-6MvY73By6iWm3ri1cf/playlist.m3u8
+https://apisportzz179528093.nsnd.live/8FsGTrlMddboVBBjWFZmaw/Fv2lucGIbhPi2caWYvF5Lg/1759759934893/live/sd-6MvY73By6iWm3ri1cf/playlist.m3u8
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/56f28f58ca07a6c825a34611d4b45afb.png",14h00 ngày 06/10 BIIK Shymkent (w) vs Kairat Almaty (W) (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cà Khịa) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Cà Khịa) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://static.flashscore.com/res/image/data/0p1ZQ8pG-SQ5Xn3HG.png",14h00 ngày 06/10 ZhFC Astana (W) vs Kyzyl-Zhar SK (w) (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -646,30 +650,6 @@ https://ckcdn.livestreameuro.live/live/phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/phuhd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Lấy kinh) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Lấy kinh) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Lấy kinh) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Lấy kinh) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Lấy kinh) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Lấy kinh) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://static.flashscore.com/res/image/data/0p1ZQ8pG-SQ5Xn3HG.png",14h00 ngày 06/10 ZhFC Astana (W) vs Kyzyl-Zhar SK (w) (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -698,6 +678,54 @@ https://ckhot-179939170.cdnfree.pro/live/phuhd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/muhd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/musd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/musd1/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/muhd1/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1759727287.png",12h10 ngày 06/10 Hungary vs Portugal (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
@@ -708,30 +736,6 @@ https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Ra Khơi) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (Ra Khơi) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/0p1ZQ8pG-SQ5Xn3HG.png",14h00 ngày 06/10 ZhFC Astana (W) vs Kyzyl-Zhar SK (w) (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -756,6 +760,54 @@ https://ckcdn.livestreameuro.live/live/phusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/phuhd1.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/efe92bfbb85450769c05249eb65b0a4f.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/musd1/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/muhd1/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/muhd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Ra Khơi) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/musd1.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://sportcdns.live/resized/128/128/team/5ca09d7aadaaa227c8b3f93cb4d3f4f60d20bb1b4944e53e325fb1c983403565.png",15h30 ngày 06/10 Tornado FC Pekanbaru vs Persiba Balikpapan (Ra Khơi) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/muhd1.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10105_small.png",23:00 ngày 10/06 FK Sarajevo và Zrinjski Mostar (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -768,6 +820,10 @@ https://wtyi0525.edgemaxcdn.org/live/x16y3-0237/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/cedefb834d84c29f26ebdf2384b381a4.png",15h00 ngày 05/10 Hal FC vs FC United Stars (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/096be31b8ff3847a3a86a0f807ac4905/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/c9fa2d64ba4424b27265162ebdbaf3dd.png",14h00 ngày 05/10 ZhFC Astana (W) vs KyzylvsZhar SK (W) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -792,30 +848,18 @@ https://live.alilicloud.com/live/ec90a5097a3c80fb7d2792e387d6d056/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/cfa3899b8f98a27f81827aec2dd850c8/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (QUAY TAY) SD Nhanh
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/64e9d89e754d4fbaa74a2dbdbce1a17e_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Khán Đài A) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (QUAY TAY) SD 1
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/64e9d89e754d4fbaa74a2dbdbce1a17e_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Khán Đài A) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichsd1/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/tichhd1/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 06/10 Parikrma FC vs South United (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/64e9d89e754d4fbaa74a2dbdbce1a17e_720/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://static.flashscore.com/res/image/data/0p1ZQ8pG-SQ5Xn3HG.png",14h00 ngày 06/10 ZhFC Astana (W) vs Kyzyl-Zhar SK (w) (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -847,51 +891,51 @@ https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26648.png",15h30 ngày 06/10 Tornado Pekanbaru vs Persiba Balikpapan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26648.png",15h30 ngày 06/10 Tornado Pekanbaru vs Persiba Balikpapan (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26648.png",15h30 ngày 06/10 Tornado Pekanbaru vs Persiba Balikpapan (Chuối Chiên) HD3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26648.png",15h30 ngày 06/10 Tornado Pekanbaru vs Persiba Balikpapan (Chuối Chiên) HD4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
+https://cyber.chuoichien.tv/chuoihot.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26648.png",15h30 ngày 06/10 Tornado Pekanbaru vs Persiba Balikpapan (Chuối Chiên) SD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
+https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26648.png",15h30 ngày 06/10 Tornado Pekanbaru vs Persiba Balikpapan (Chuối Chiên) SD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
+https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140540_c320bf76.png",15h30 ngày 06/10 Putra Sinar Giri vs Sumsel United (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140540_c320bf76.png",15h30 ngày 06/10 Putra Sinar Giri vs Sumsel United (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140540_c320bf76.png",15h30 ngày 06/10 Putra Sinar Giri vs Sumsel United (Chuối Chiên) HD3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140540_c320bf76.png",15h30 ngày 06/10 Putra Sinar Giri vs Sumsel United (Chuối Chiên) HD4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
+https://cyber.chuoichien.tv/chuoilua.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140540_c320bf76.png",15h30 ngày 06/10 Putra Sinar Giri vs Sumsel United (Chuối Chiên) SD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
+https://stream.chuoichien.tv/chuoilua/index.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140540_c320bf76.png",15h30 ngày 06/10 Putra Sinar Giri vs Sumsel United (Chuối Chiên) SD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
+https://stream.chuoichien.tv/chuoilua.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_140535_4590d710.png",19h00 ngày 06/10 Persela Lamongan vs Persipura Jayapura (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1088,6 +1132,10 @@ https://stream.chuoichien.tv/duyhung.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0654d232d8c4beaa967de5cc2b798381/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/cedefb834d84c29f26ebdf2384b381a4.png",15h00 ngày 05/10 Hal FC vs FC United Stars (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/096be31b8ff3847a3a86a0f807ac4905/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e44b3060eb2966ef59c260782f632fe3.png",14h00 ngày 05/10 Guangan Team vs Suining Team (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1108,178 +1156,346 @@ https://live.alilicloud.com/live/ec90a5097a3c80fb7d2792e387d6d056/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/cfa3899b8f98a27f81827aec2dd850c8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/8103d6f20b3741d7a6c4b31266dca8e5_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/8103d6f20b3741d7a6c4b31266dca8e5_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/8103d6f20b3741d7a6c4b31266dca8e5_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/8103d6f20b3741d7a6c4b31266dca8e5_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/8103d6f20b3741d7a6c4b31266dca8e5_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/38cf9696aa91dd91fcea12e966eceb0f.png",15h30 ngày 05/10 Kendal Tornado FC vs Persiba Balikpapan (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/8103d6f20b3741d7a6c4b31266dca8e5_720/index.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1759742241-0-0-50060ac903288e222fe120d8546829e7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1759742241-0-0-7e63888b84aaea282abf5ace67fd24b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1759742241-0-0-a3c5e81cf20d3f7ae6b21237134ca95e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1759742241-0-0-f0424171f112f6c62c1e0ce9f15fb64b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV BƠ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912105_lsd.flv?auth_key=1759742241-0-0-87177535fcd8fc11e0ee70a4cfc5cf7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV BƠ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912105_lhd.flv?auth_key=1759742241-0-0-aef75677c0891692f57b33c692316f5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV BƠ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912105_lsd.m3u8?auth_key=1759742241-0-0-1a038b9f628c62698de3c0afaca7099e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV BƠ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1759742241-0-0-b539d891e4e99d7df47ce31b5724dc72
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1759742241-0-0-7d62f4f793d28897d6f6f041cd5daa3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1759742241-0-0-a846f4d9ddbd132cec3009e47ba7f3b4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1759742241-0-0-b2e077b2454d6946f7c5a4eb688bf1ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1759742241-0-0-f596710600504a245dd54591138528a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=eff623d623a797fb164d5a1229f80b4e&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=2ec13ecfa06ca63237f727dc1d448340&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=eff623d623a797fb164d5a1229f80b4e&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=2ec13ecfa06ca63237f727dc1d448340&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1759742241-0-0-c111566db56568aec43e40f3700a1c3c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1759742241-0-0-fcb84c701b3050e26233eeb82082b873
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1759742241-0-0-1b0bfe537d64f36ef49fd50f93c01cc9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1759742241-0-0-1fee94d8011b9cf39f7ef7a5686d7319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=85148cbef77c62e4fa335b40f93df16e&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=2f2290fb72b529ba604cc406024b5b2b&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=85148cbef77c62e4fa335b40f93df16e&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/92c0750cdc86c10bcb5165aac5832a15.png",15h30 ngày 06/10 Kendal Tornado FC vs Persiba Balikpapan [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2f2290fb72b529ba604cc406024b5b2b&txTime=68e3cf71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV KUDO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-334434_lsd.flv?auth_key=1759742241-0-0-6ce1720a61462c20b8641bbf3bc8eddc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV KUDO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-334434_lhd.flv?auth_key=1759742241-0-0-f32fe5e0d309da3dd8f39754f0775c95
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV KUDO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1759742241-0-0-b493b5d3e2f17e431a89e08eb8c34be6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [BLV KUDO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1759742241-0-0-373472da0ac118ef4d403441f4a8c668
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1759742241-0-0-20aeb203d8121aeb5511c3f2741d30d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1759742241-0-0-0603ec92396f6366e9ea084f898e0570
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1759742241-0-0-6e047057e14e456ba8a5d0e7eb4be3d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251002/9dc841728512f3a50ba8b4e6deef7d70.png",15h30 ngày 06/10 FC Bekasi City vs Sumsel United [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1759742241-0-0-279b73416e9eebcb7d9753c4210c5092
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759738641-0-0-61a83ec1b44e487a5dac09e9ebb4670e
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1759742241-0-0-4208b5470f5dd4e1e1cec74c0c48ee29
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759738641-0-0-7cadd7e44a3f2d9fe6ba996425fc30bb
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1759742241-0-0-eb100b0bdac60b5418d8c0333540094c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759738641-0-0-ec619976fb957a370e21b33e9af3fa01
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1759742241-0-0-f6c0199bb31cd8425a6dc600b2e72cc4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759738641-0-0-ba8e065cfe3c4ec1c23cb761b6c9f81a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: FRA D1 - LOSC Lille vs Paris Saint Germain [Sóc chó điên] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1759738641-0-0-4d5c418404b997f19bd2f7be0af19335
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: FRA D1 - LOSC Lille vs Paris Saint Germain [Sóc chó điên] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1759738641-0-0-920f0180aaa4c3fdf1ee7788af9f6525
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: FRA D1 - LOSC Lille vs Paris Saint Germain [Sóc chó điên] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1759738641-0-0-5129254157214206d7cf81470e0a49bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: FRA D1 - LOSC Lille vs Paris Saint Germain [Sóc chó điên] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1759738641-0-0-5784576ce73a6dc34eab080a3a76884f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Napoli vs Genoa [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1759738641-0-0-be74d5c4de2ca1a2c55b7398ee41aa6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Napoli vs Genoa [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1759738641-0-0-e494a1f4841c0d0b58ad20c80fae1cd3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Napoli vs Genoa [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1759738641-0-0-1d68f6269bfcf1f04dac03a5262e0645
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Napoli vs Genoa [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1759738641-0-0-9694334d0d667d722d08f29171b5f3e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Juventus vs AC Milan [Sóc xào sả ớt] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1759738641-0-0-97028a0fef7f4040bbe4c7e1aab6d143
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Juventus vs AC Milan [Sóc xào sả ớt] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1759738641-0-0-7c36c63f8ad2e4fdae725f8a2ece8827
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Juventus vs AC Milan [Sóc xào sả ớt] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1759738641-0-0-647b7e7dd825c1aedbd6be9aabac2fa5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ITA D1 - Juventus vs AC Milan [Sóc xào sả ớt] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1759738641-0-0-73be760c20025ca0e74a7e8f32afdc31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ENG PR - Brentford vs Manchester City [Sóc phụ hồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1759738641-0-0-45a9641e349ae3bc5c08125746d2fd51
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ENG PR - Brentford vs Manchester City [Sóc phụ hồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1759738641-0-0-bb763b7dbb87bb8d187cbfe6a37230fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ENG PR - Brentford vs Manchester City [Sóc phụ hồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1759738641-0-0-ee7cc3378d3f78f373d838952cb3172d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: ENG PR - Brentford vs Manchester City [Sóc phụ hồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1759738641-0-0-2f61d6235d91e0c811b7e9bc879504e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: GER D1 - Borussia Monchengladbach vs SC Freiburg [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1759738641-0-0-a72d175c5615ff385632824077f1ebe6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: GER D1 - Borussia Monchengladbach vs SC Freiburg [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1759738641-0-0-fa8002bc5ecd543408d0fdaf2dc540aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: GER D1 - Borussia Monchengladbach vs SC Freiburg [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1759738641-0-0-3252747a53970c945c8aee87367a17b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: GER D1 - Borussia Monchengladbach vs SC Freiburg [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1759738641-0-0-42dd73ac35d4b9d68953682466a0bd6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: SPA D1 - RC Celta vs Atletico Madrid [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1759738641-0-0-ac6dca86216d95fb643e173d86db94ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: SPA D1 - RC Celta vs Atletico Madrid [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1759738641-0-0-b62f517935e7211217a304036c870c98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: SPA D1 - RC Celta vs Atletico Madrid [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1759738641-0-0-3bd95431e6f1c9fe518df974f60eea26
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251003/51ab5cb7350319a217627073116e131d.png",Tường thuật: SPA D1 - RC Celta vs Atletico Madrid [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1759738641-0-0-f193f9cb1db0692fa10bc53e8793e6f5
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1759742241-0-0-7b6bdfc1dbf6777ff521a4320c5a7701
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/356e9a1424cc69fca7ae1eb678078263.png",13:30 ngày 06/10 Shang Juncheng vs Nuno Borges (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1759753809&sign=d07f3919f8143b1c413ab3f7c43f5bf5
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1759758126&sign=47481f029bb3c9c32983b539c0bbf76b
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/356e9a1424cc69fca7ae1eb678078263.png",13:30 ngày 06/10 Shang Juncheng vs Nuno Borges (1) [Mỳ Tôm] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/xoNUL4LIM5sMuuBMd3QUiQ/Fv2lucGIbhPi2caWYvF5Lg/1759753809512/live/myHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/0u3ZfI0L3j3tcAjfyjT4CQ/Fv2lucGIbhPi2caWYvF5Lg/1759758126308/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/356e9a1424cc69fca7ae1eb678078263.png",13:30 ngày 06/10 Shang Juncheng vs Nuno Borges (1) [Mỳ Tôm] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/1KwM8Ax4dLT1RnpUu2ZLUQ/ad962176acd070100f306c790419005d/1759753809/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/BinfhoXDNwdzEKAV9kdc8A/ad962176acd070100f306c790419005d/1759758126/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/356e9a1424cc69fca7ae1eb678078263.png",13:30 ngày 06/10 Shang Juncheng vs Nuno Borges (1) [Mỳ Tôm] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/LTWHSNMFbuxOv8Lf7aMJ8Q/Fv2lucGIbhPi2caWYvF5Lg/1759753809512/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Bqcj88lUmJoGMqy1Tdxnbg/Fv2lucGIbhPi2caWYvF5Lg/1759758126309/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/356e9a1424cc69fca7ae1eb678078263.png",13:30 ngày 06/10 Shang Juncheng vs Nuno Borges (1) [Mỳ Tôm] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/kdOsoufeHSBt4vUi1tIkOg/37c56eb4aaf958eda25bed5c53705fc2/1759753809/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/btUuMxOU1kfPr7QnR06nNA/37c56eb4aaf958eda25bed5c53705fc2/1759758126/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/dcf4be58bbc58dde59f9ce3c73a56e85.png",13:30 ngày 06/10 Denis Shapovalov vs Jiri Lehecka (1) [Người Cún] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1759754893&sign=2da20b07965d5f645a67ce19d204bcbb
+https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1759758128&sign=474e1503ff6f73bc2a5126847f90d6f7
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/dcf4be58bbc58dde59f9ce3c73a56e85.png",13:30 ngày 06/10 Denis Shapovalov vs Jiri Lehecka (1) [Người Cún] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/DWxpFHmHZKvNA-DZHJvM9A/Fv2lucGIbhPi2caWYvF5Lg/1759754893922/live/cunHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/9oDWXjXSmTTCcQh3Re9JYQ/Fv2lucGIbhPi2caWYvF5Lg/1759758128638/live/cunHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/dcf4be58bbc58dde59f9ce3c73a56e85.png",13:30 ngày 06/10 Denis Shapovalov vs Jiri Lehecka (1) [Người Cún] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/_0z22gX8-G7z4jUmlUBpFQ/205501ba1448ae306a52cba7683e6a5f/1759754893/live/_definst_/stream_1_1bda7@cunHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/05NBlut-xJLjkU-Fmo4tpA/205501ba1448ae306a52cba7683e6a5f/1759758128/live/_definst_/stream_1_1bda7@cunHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/dcf4be58bbc58dde59f9ce3c73a56e85.png",13:30 ngày 06/10 Denis Shapovalov vs Jiri Lehecka (1) [Người Cún] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/JJ8me99bP01v_wwCTVB5fw/Fv2lucGIbhPi2caWYvF5Lg/1759754893922/live/cunSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/HwTN1RVGzEaFWWWWGWdseA/Fv2lucGIbhPi2caWYvF5Lg/1759758128639/live/cunSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/dcf4be58bbc58dde59f9ce3c73a56e85.png",13:30 ngày 06/10 Denis Shapovalov vs Jiri Lehecka (1) [Người Cún] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/Eds3OZrZLJEdgitDPD8bNg/317070d9a306b71c37e6ea9e37f2842f/1759754893/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/wIF2EjZD57opXwvIo4OUNg/317070d9a306b71c37e6ea9e37f2842f/1759758128/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",14:00 ngày 06/10 JD Gaming vs Dplus KIA (1) [Tai Lung] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1759754889&sign=e6b9eb0b162e8190adf97f6d5da0966b
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1759758130&sign=aef374d2a4d9995b4688ddab3bd3dd42
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",14:00 ngày 06/10 JD Gaming vs Dplus KIA (1) [Tai Lung] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Hku3LA3N1MaMKZQqAxbhAA/Fv2lucGIbhPi2caWYvF5Lg/1759754889840/live/lungHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/DRwrwqyf05eeRea0XW6Nrg/Fv2lucGIbhPi2caWYvF5Lg/1759758130435/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",14:00 ngày 06/10 JD Gaming vs Dplus KIA (1) [Tai Lung] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/afuzyLVpJX6xN6hkgJucEg/2b6f412a8d5f1f173548083dc2d6020e/1759754889/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/g-2nE_mn8-ToA71EsPnyLQ/2b6f412a8d5f1f173548083dc2d6020e/1759758130/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",14:00 ngày 06/10 JD Gaming vs Dplus KIA (1) [Tai Lung] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ezz1A-YUn1TFZesyqGRszQ/Fv2lucGIbhPi2caWYvF5Lg/1759754889841/live/lungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/p4OeuwwS-sm3UX9NYjtCGw/Fv2lucGIbhPi2caWYvF5Lg/1759758130435/live/lungSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",14:00 ngày 06/10 JD Gaming vs Dplus KIA (1) [Tai Lung] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/VX77-9Ck1FY7RTURECnRcA/883ca40e5184f080c92fcfdbaf37405d/1759754889/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/oFpp1J36gdZz66fGKxUcMg/883ca40e5184f080c92fcfdbaf37405d/1759758130/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/fcd68e0cc05e20278ea1cab823442780.png",14:15 ngày 06/10 Zhu Lin vs Maya Joint (1) [Bánh Cuốn] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/cuonHD.flv?expire=1759758132&sign=376456e24483d9c67fcb1d26f132bc1c
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/fcd68e0cc05e20278ea1cab823442780.png",14:15 ngày 06/10 Zhu Lin vs Maya Joint (1) [Bánh Cuốn] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/HWcxJnANUnt_0ntn99gwUA/Fv2lucGIbhPi2caWYvF5Lg/1759758132339/live/cuonHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/fcd68e0cc05e20278ea1cab823442780.png",14:15 ngày 06/10 Zhu Lin vs Maya Joint (1) [Bánh Cuốn] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/H0GIoQvKnEocC9T2DVlsAw/295c8ca83541966399d34da8d431f57c/1759758132/live/_definst_/stream_1_1bda7@cuonHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/fcd68e0cc05e20278ea1cab823442780.png",14:15 ngày 06/10 Zhu Lin vs Maya Joint (1) [Bánh Cuốn] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Hl2-p0VKjW5pqyfQ1btCCw/Fv2lucGIbhPi2caWYvF5Lg/1759758132339/live/cuonSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/fcd68e0cc05e20278ea1cab823442780.png",14:15 ngày 06/10 Zhu Lin vs Maya Joint (1) [Bánh Cuốn] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/RZ-leu0XHYKGRIDjR6Su6Q/ecdd2fe3d570b8f38d7664bb44af6d73/1759758132/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",15:30 ngày 06/10 Vitality vs HOTU (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1759760292&sign=6569a953e8c67965143eab8afc320159
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",15:30 ngày 06/10 Vitality vs HOTU (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/OwJsz1U7FURiFoAcRq5Z-g/Fv2lucGIbhPi2caWYvF5Lg/1759760292527/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",15:30 ngày 06/10 Vitality vs HOTU (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/bX8G99bv7HvhBawZORT56A/44aad5dfa01c79ab75667d799c2e06c1/1759760292/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",15:30 ngày 06/10 Vitality vs HOTU (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/wWFTuzqIj15800NktaJ-3Q/Fv2lucGIbhPi2caWYvF5Lg/1759760292527/live/phepSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",15:30 ngày 06/10 Vitality vs HOTU (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/JYl4IfN4ERNfTG2eGbDblA/bb30dc1883f5f92057cd67eec640c4d0/1759760292/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/t0Ieuvf5-h2pEHB7M.png",16:00 ngày 06/10 FearX vs Nongshim Red Force (1) [Tai Lung] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1759760293&sign=4c9ff59ce180a10f5e24f0c0ce32ffed
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/t0Ieuvf5-h2pEHB7M.png",16:00 ngày 06/10 FearX vs Nongshim Red Force (1) [Tai Lung] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/NiJcsWT5TSw-8Q-tX-2keQ/Fv2lucGIbhPi2caWYvF5Lg/1759760293938/live/lungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/t0Ieuvf5-h2pEHB7M.png",16:00 ngày 06/10 FearX vs Nongshim Red Force (1) [Tai Lung] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/ncXnq2KzzPQ6KnbchIryNQ/2b6f412a8d5f1f173548083dc2d6020e/1759760293/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/t0Ieuvf5-h2pEHB7M.png",16:00 ngày 06/10 FearX vs Nongshim Red Force (1) [Tai Lung] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/rNwkeX6Bn2U9Uq8JY_nAcg/Fv2lucGIbhPi2caWYvF5Lg/1759760293938/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/t0Ieuvf5-h2pEHB7M.png",16:00 ngày 06/10 FearX vs Nongshim Red Force (1) [Tai Lung] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/2XyrcAaTpW35tjvXtaAskA/883ca40e5184f080c92fcfdbaf37405d/1759760293/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 ngày 06/10 WTA1000 Wuhan Open (1) [Nhà Đài] Sân Trung Tâm
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/H6_pBeKuVBmFOZjgGXWNtw/Fv2lucGIbhPi2caWYvF5Lg/1759756329774/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/mwFK07Jf56YeKw-ANqyEqg/Fv2lucGIbhPi2caWYvF5Lg/1759758134317/live/may24/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 ngày 06/10 WTA1000 Wuhan Open (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/bkyY4ZNsVeirrGNLlVesEw/Fv2lucGIbhPi2caWYvF5Lg/1759756329774/live/may241/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/2ooapegtue_iIyK2rwZDww/Fv2lucGIbhPi2caWYvF5Lg/1759758134317/live/may241/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/vVbEdPiD-On4v2Ok0.png",10:00 ngày 06/10 WTA1000 Wuhan Open (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/03LIeRh7fuH9YE3qm0Qs8A/Fv2lucGIbhPi2caWYvF5Lg/1759756329774/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/r5_bvX-hjerOCEk-L0faZQ/Fv2lucGIbhPi2caWYvF5Lg/1759758134319/live/may27/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 ngày 06/10 ATP1000 Shanghai Master (1) [Nhà Đài] Sân Stadium
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/7pVnV59GJ0JKEILC4Ts2qQ/Fv2lucGIbhPi2caWYvF5Lg/1759749856659/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/H4tES0M1Ag0z9ELegklX7A/Fv2lucGIbhPi2caWYvF5Lg/1759760296077/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 ngày 06/10 ATP1000 Shanghai Master (1) [Nhà Đài] Sân Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/khUEo2iMco9m4hJjwF9x2Q/Fv2lucGIbhPi2caWYvF5Lg/1759749856659/live/may261/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/iMKHxRyevxXkiRMbvwdeAA/Fv2lucGIbhPi2caWYvF5Lg/1759760296077/live/may261/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCtAHB97-zopZLYrA.png",11:30 ngày 06/10 ATP1000 Shanghai Master (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/E9WUxCFPlSH6RHpdxA0b-w/Fv2lucGIbhPi2caWYvF5Lg/1759749856659/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/ZD_HxkneYCzLO1fhnUNTMg/Fv2lucGIbhPi2caWYvF5Lg/1759760296077/live/may271/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/91cf23812e9c322f3095477dadbe2b52.png",11:55 ngày 06/10 Elise Mertens vs Polina Kudermetova (1) [Nhà đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/gUVFH0jxpcSTULuRK3cGjg/Fv2lucGIbhPi2caWYvF5Lg/1759758138294/live/may241/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/6HP7/SaigonSouls.png",14:00 ngày 06/10 SaiGon Souls vs Solar (1) [Nhà Đài] HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/HnLW-nMpIoseXgw-lA0JeQ/Fv2lucGIbhPi2caWYvF5Lg/1759756332504/live/may17/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/HMFOE6fewaAzR7bHMO1GnA/Fv2lucGIbhPi2caWYvF5Lg/1759759220738/live/may21/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/LILG/Tsunami_Dreamers.png",16:00 ngày 06/10 Tsunami Dreamers vs 3F Phú Thọ (1) [Nhà Đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/wWCqgFBqV0XCCFTLEJykQA/Fv2lucGIbhPi2caWYvF5Lg/1759760300348/live/may21/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/614b17a5a67a65bb7d8eb65a7f442cf4.png",15:30 ngày 06/10 Luciano Darderi vs Lorenzo Musetti (1) [Người Cồn] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1759760301&sign=0f93915fad6dc25da2cdd105a4085d80
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/614b17a5a67a65bb7d8eb65a7f442cf4.png",15:30 ngày 06/10 Luciano Darderi vs Lorenzo Musetti (1) [Người Cồn] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/87-p2X_hi2UUoCY7K7-PrA/Fv2lucGIbhPi2caWYvF5Lg/1759760301485/live/conHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/614b17a5a67a65bb7d8eb65a7f442cf4.png",15:30 ngày 06/10 Luciano Darderi vs Lorenzo Musetti (1) [Người Cồn] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/vSFqKOkEjF2PNmYufgcuig/2506a4c9a49d6a20c02208f6ddb30434/1759760301/live/_definst_/stream_1_1bda7@conHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/614b17a5a67a65bb7d8eb65a7f442cf4.png",15:30 ngày 06/10 Luciano Darderi vs Lorenzo Musetti (1) [Người Cồn] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Sish9rnPM2AkU8FdayZ3RQ/Fv2lucGIbhPi2caWYvF5Lg/1759760301485/live/conSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/614b17a5a67a65bb7d8eb65a7f442cf4.png",15:30 ngày 06/10 Luciano Darderi vs Lorenzo Musetti (1) [Người Cồn] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/hjVzZ7T3Cb45aS0o2yFAlA/7135f49323c9408d9b4f4a596ce26852/1759760301/live/_definst_/stream_1_1bda7@conFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/0b940a65858aa8b75cfbb236e05030b5.png",15:30 ngày 06/10 Olga Danilovic vs Clara Tauson (1) [Người Sắt] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/satHD.flv?expire=1759760302&sign=861854dd8cf09eb4947e9f08b8857080
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/0b940a65858aa8b75cfbb236e05030b5.png",15:30 ngày 06/10 Olga Danilovic vs Clara Tauson (1) [Người Sắt] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/QtmhGQLENRtLgm2kWbuxhQ/Fv2lucGIbhPi2caWYvF5Lg/1759760302590/live/satHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/0b940a65858aa8b75cfbb236e05030b5.png",15:30 ngày 06/10 Olga Danilovic vs Clara Tauson (1) [Người Sắt] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/ukSkxJYg2ZQIF10CKrOnKw/5c978519fd4da0d4f4d7d1181446e6c9/1759760302/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/0b940a65858aa8b75cfbb236e05030b5.png",15:30 ngày 06/10 Olga Danilovic vs Clara Tauson (1) [Người Sắt] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/KWL0A2LJ3GIfl2D0Yiu1yQ/Fv2lucGIbhPi2caWYvF5Lg/1759760302590/live/satSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/0b940a65858aa8b75cfbb236e05030b5.png",15:30 ngày 06/10 Olga Danilovic vs Clara Tauson (1) [Người Sắt] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/Fj2jDBb0wC926rMaqFanMw/6b78b4ff262c15bca3bdb372d5d5d695/1759760302/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/FC_Bekasi_City_Logo.png/250px-FC_Bekasi_City_Logo.png",15h30 ngày 06.10 Bekasi City vs Sumsel United (Hội Quán) BLV PHAN SON FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/FC_Bekasi_City_Logo.png/250px-FC_Bekasi_City_Logo.png",15h30 ngày 06.10 Bekasi City vs Sumsel United (Hội Quán) BLV PHAN SON HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/FC_Bekasi_City_Logo.png/250px-FC_Bekasi_City_Logo.png",15h30 ngày 06.10 Bekasi City vs Sumsel United (Hội Quán) BLV PHAN SON SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10105_small.png",23:00 ngày 10/06 FK Sarajevo và Zrinjski Mostar (Mãn nhãn) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1298,6 +1514,18 @@ https://live5.k8v4dh4.app/live/57010001.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",ENG PR Leeds United vs Tottenham Hotspur TƯỜNG THUẬT (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/57010001.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NjdkZTQ4YjA4NGYtOTNkOA/ZTFiMjdjNzU2OTktYWRjNw.png",IDN D2 Bekasi City vs Sumsel United BLV POCARI (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/19919577.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NjdkZTQ4YjA4NGYtOTNkOA/ZTFiMjdjNzU2OTktYWRjNw.png",IDN D2 Bekasi City vs Sumsel United BLV POCARI (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/19919577.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/Yzg4YWU3NjExOGQtYzQxMg/NGE1ZmFkMzExZTMtYjJlNA.png",IDN D2 Tornado Pekanbaru vs Balikpapan BLV 7UP (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/78905744.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/Yzg4YWU3NjExOGQtYzQxMg/NGE1ZmFkMzExZTMtYjJlNA.png",IDN D2 Tornado Pekanbaru vs Balikpapan BLV 7UP (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh4.app/live/78905744.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",VSBET - THỂ THAO HÀNG ĐẦU ĐỐI TÁC VSBET (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh4.app/live/36669975.flv
