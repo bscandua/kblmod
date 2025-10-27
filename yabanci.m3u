@@ -467,10 +467,6 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/b641a84c2286632196e3cb0614a41fc2.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/23401779795860ce77b10e399c96e3ae/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/4970b9a9a215c78759a6bb84ecaa3701.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -527,6 +523,22 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@ngaosd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@ngaohd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/394dc0b80ec0c69be996f37e900282f2.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -543,42 +555,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@ngaosd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@ngaohd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/b641a84c2286632196e3cb0614a41fc2.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Lấy kinh) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@saysd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/b641a84c2286632196e3cb0614a41fc2.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Lấy kinh) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sayhd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/b641a84c2286632196e3cb0614a41fc2.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Lấy kinh) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sayhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/b641a84c2286632196e3cb0614a41fc2.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Lấy kinh) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@saysd1RK.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/b641a84c2286632196e3cb0614a41fc2.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Lấy kinh) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sayhd1RK.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/4970b9a9a215c78759a6bb84ecaa3701.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -647,24 +623,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1761547198.png",14h00 ngày 30/10 G2 vs TES (Lương Sơn) MEGA LIVE m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1761547198.png",14h00 ngày 30/10 G2 vs TES (Lương Sơn) MEGA LIVE flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/26530/1h8fzsfes61z.png?win007=sell",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/26530/1h8fzsfes61z.png?win007=sell",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/26530/1h8fzsfes61z.png?win007=sell",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Lương Sơn) BLV HẠNG VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/26530/1h8fzsfes61z.png?win007=sell",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Lương Sơn) BLV HẠNG VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/b641a84c2286632196e3cb0614a41fc2.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -713,26 +695,22 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) SD 1
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@ngaosd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) HD 1
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@ngaohd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) SD Nhanh
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) HD Nhanh
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Ra Khơi) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1RK.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7815_small.png",04:00 ngày 10/28 Colo Colo và Deportes Limache (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197693_small.png",05:00 ngày 10/28 Chapecoense AF và Operario Ferroviario (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -757,26 +735,18 @@ https://wtyi0525.edgemaxcdn.org/live/x17y3-0177/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/56484f26eac26f8e279ea2172c48632d.png",00h00 ngày 27/10 Ittihad Alexandria SC vs Wadi Degla SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0a82885f5653fa7cacff9fb9f9305806/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/9b7fc379f630acc2c9d58391e0ec3707.png",02h30 ngày 27/10 Perugia vs Livorno (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/dad47345918bc7bca4a7149768a9386e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/7ddeb762b81e7575623341d01c90d478.png",00h00 ngày 27/10 Suduva vs Kauno Zalgiris (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/ffa3acd73ef1b617c050414162a20694.png",06h00 ngày 27/10 FC Nacional Asuncion vs Cerro Porteno (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/089a11bd5a3ee83337d8ee75da0cfe70/playlist.m3u8
+https://live.alilicloud.com/live/e8eafe81060124abd0372800014f9ec1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/b419f3905f8bb7466a88cd21caf0b365.png",02h00 ngày 27/10 Budafoki MTE vs SOROKSAR (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8642d14d5e6fccd073681317213fdb06/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/d4c8121b5f738cfaf222779a43e7495d.png",00h00 ngày 27/10 Samsunspor vs Caykur Rizespor (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f46b4f7bcd0a99f9cc1b374e93e90fdc/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/61603b48126b6e023af5811bf43354b2.png",01h00 ngày 27/10 Brommapojkarna vs GAIS (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -793,10 +763,10 @@ https://live.alilicloud.com/live/b8243d43aa8b2b85b860b3dbfebdd2a9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9d99a394e5185690597e478602f077df/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/a28196a8b0372e2ef21ec2bd8f08043d.png",00h00 ngày 27/10 DFK Dainava Alytus vs Hegelmann Litauen (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/b641a84c2286632196e3cb0614a41fc2.png",06h00 ngày 27/10 Colo Colo vs Deportes Limache (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d14cbde669cfca3e9e54adb5bb188f3d/playlist.m3u8
+https://live.alilicloud.com/live/23401779795860ce77b10e399c96e3ae/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/6bb1babe89fffc1f77f25a47db40c847.png",01h30 ngày 27/10 FC Rapid 1923 vs FC Unirea 2004 Slobozia (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -821,10 +791,6 @@ https://live.alilicloud.com/live/3833cda61f0838dc0dbc59066be8951b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/20fd9645b06f29be9da348bb7cd10d1d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/db37b08b778cff15854d3d3bc71a426c.png",00h00 ngày 27/10 JK Welco Elekter vs Elva (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e2bd0a7cd214a00bae30a68ad0e8f83f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/891380f57dff6a3766310ba607efd052.png",01h00 ngày 27/10 HNK Vukovar 1991 vs Dinamo Zagreb (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -837,30 +803,10 @@ https://live.alilicloud.com/live/cd3c3b3da1317ef56cd02688f9cb7737/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2bfc244c10a6248562ce491a57874827/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1d590fbc66db477bb5cb14304cd00c84.png",00h00 ngày 27/10 Gazisehir Gaziantep vs Fenerbahce (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2618c0c3b17a6840acaff61514dcf19e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1d590fbc66db477bb5cb14304cd00c84.png",00h00 ngày 27/10 Gazisehir Gaziantep vs Fenerbahce (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/dc9f41e71ebd49258c0083e10ff5d230_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1d590fbc66db477bb5cb14304cd00c84.png",00h00 ngày 27/10 Gazisehir Gaziantep vs Fenerbahce (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/dc9f41e71ebd49258c0083e10ff5d230_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1d590fbc66db477bb5cb14304cd00c84.png",00h00 ngày 27/10 Gazisehir Gaziantep vs Fenerbahce (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/dc9f41e71ebd49258c0083e10ff5d230_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/6c0c94ba08aaf8dc547054a22d68cbd6.png",01h00 ngày 27/10 Radomiak Radom vs Wisla Plock (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/647be3b371d4ce3a3e04ecdf1da0118f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/006fb97cc07bfc196e708a8a20c8a065.png",00h00 ngày 27/10 HSK Zrinjski Mostar vs Borac Banja Luka (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7f7e517fe2fe2c116fa41242b6a50c47/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/3647a0ee61721dbc5ea4029212e35548.png",03h30 ngày 27/10 Sportivo Ameliano vs General Caballero (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -945,6 +891,26 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/394dc0b80ec0c69be996f37e900282f2.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sunsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/394dc0b80ec0c69be996f37e900282f2.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sunhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/394dc0b80ec0c69be996f37e900282f2.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/394dc0b80ec0c69be996f37e900282f2.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/394dc0b80ec0c69be996f37e900282f2.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1RK.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/aac05c0fbd8ec8adb8da8345d288bb07.png",05h15 ngày 28/10 Deportes Quindio vs Real Cartagena (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -953,410 +919,18 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8 
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132754_9894a302.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132754_9894a302.png",04h00 ngày 28/10 Colo Colo vs Deportes Limache (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x3.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131611_88284967.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131611_88284967.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131611_88284967.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131611_88284967.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131611_88284967.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131611_88284967.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131608_bba55c72.png",08h00 ngày 28/10 Minnesota United FC vs Seattle Sounders (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131608_bba55c72.png",08h00 ngày 28/10 Minnesota United FC vs Seattle Sounders (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131608_bba55c72.png",08h00 ngày 28/10 Minnesota United FC vs Seattle Sounders (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131608_bba55c72.png",08h00 ngày 28/10 Minnesota United FC vs Seattle Sounders (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131608_bba55c72.png",08h00 ngày 28/10 Minnesota United FC vs Seattle Sounders (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131608_bba55c72.png",08h00 ngày 28/10 Minnesota United FC vs Seattle Sounders (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133857_ce6dbf10.png",14h30 ngày 28/10 Kuching FA vs Terengganu (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133857_ce6dbf10.png",14h30 ngày 28/10 Kuching FA vs Terengganu (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133857_ce6dbf10.png",14h30 ngày 28/10 Kuching FA vs Terengganu (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133857_ce6dbf10.png",14h30 ngày 28/10 Kuching FA vs Terengganu (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133857_ce6dbf10.png",14h30 ngày 28/10 Kuching FA vs Terengganu (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133857_ce6dbf10.png",14h30 ngày 28/10 Kuching FA vs Terengganu (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134017_6aeb291f.png",16h00 ngày 28/10 Abdish-Ata vs Al-Shabab (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134017_6aeb291f.png",16h00 ngày 28/10 Abdish-Ata vs Al-Shabab (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134017_6aeb291f.png",16h00 ngày 28/10 Abdish-Ata vs Al-Shabab (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134017_6aeb291f.png",16h00 ngày 28/10 Abdish-Ata vs Al-Shabab (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134017_6aeb291f.png",16h00 ngày 28/10 Abdish-Ata vs Al-Shabab (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134017_6aeb291f.png",16h00 ngày 28/10 Abdish-Ata vs Al-Shabab (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251027_202431_5d218426.png",18h00 ngày 28/10 Maritimo U23 vs Academico Viseu U23 (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251027_202431_5d218426.png",18h00 ngày 28/10 Maritimo U23 vs Academico Viseu U23 (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251027_202431_5d218426.png",18h00 ngày 28/10 Maritimo U23 vs Academico Viseu U23 (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251027_202431_5d218426.png",18h00 ngày 28/10 Maritimo U23 vs Academico Viseu U23 (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251027_202431_5d218426.png",18h00 ngày 28/10 Maritimo U23 vs Academico Viseu U23 (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251027_202431_5d218426.png",18h00 ngày 28/10 Maritimo U23 vs Academico Viseu U23 (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133412_4bfd7b04.png",19h15 ngày 28/10 Johor Darul Takzim FC vs Penang (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133412_4bfd7b04.png",19h15 ngày 28/10 Johor Darul Takzim FC vs Penang (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133412_4bfd7b04.png",19h15 ngày 28/10 Johor Darul Takzim FC vs Penang (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133412_4bfd7b04.png",19h15 ngày 28/10 Johor Darul Takzim FC vs Penang (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133412_4bfd7b04.png",19h15 ngày 28/10 Johor Darul Takzim FC vs Penang (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133412_4bfd7b04.png",19h15 ngày 28/10 Johor Darul Takzim FC vs Penang (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141109_d46cb8a4.png",20h30 ngày 28/10 Chelyabinsk vs KAMAZ (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141109_d46cb8a4.png",20h30 ngày 28/10 Chelyabinsk vs KAMAZ (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141109_d46cb8a4.png",20h30 ngày 28/10 Chelyabinsk vs KAMAZ (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141109_d46cb8a4.png",20h30 ngày 28/10 Chelyabinsk vs KAMAZ (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141109_d46cb8a4.png",20h30 ngày 28/10 Chelyabinsk vs KAMAZ (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_141109_d46cb8a4.png",20h30 ngày 28/10 Chelyabinsk vs KAMAZ (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134006_71b12424.png",22h10 ngày 28/10 Al Akhdoud vs Al-Hilal Saudi FC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134006_71b12424.png",22h10 ngày 28/10 Al Akhdoud vs Al-Hilal Saudi FC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134006_71b12424.png",22h10 ngày 28/10 Al Akhdoud vs Al-Hilal Saudi FC (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134006_71b12424.png",22h10 ngày 28/10 Al Akhdoud vs Al-Hilal Saudi FC (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134006_71b12424.png",22h10 ngày 28/10 Al Akhdoud vs Al-Hilal Saudi FC (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134006_71b12424.png",22h10 ngày 28/10 Al Akhdoud vs Al-Hilal Saudi FC (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125606_5147c1a2.png",00h30 ngày 29/10 Lecce vs Napoli (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125606_5147c1a2.png",00h30 ngày 29/10 Lecce vs Napoli (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125606_5147c1a2.png",00h30 ngày 29/10 Lecce vs Napoli (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125606_5147c1a2.png",00h30 ngày 29/10 Lecce vs Napoli (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125606_5147c1a2.png",00h30 ngày 29/10 Lecce vs Napoli (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125606_5147c1a2.png",00h30 ngày 29/10 Lecce vs Napoli (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",00h30 ngày 29/10 Eintracht Frankfurt vs Borussia Dortmund (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",00h30 ngày 29/10 Eintracht Frankfurt vs Borussia Dortmund (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",00h30 ngày 29/10 Eintracht Frankfurt vs Borussia Dortmund (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",00h30 ngày 29/10 Eintracht Frankfurt vs Borussia Dortmund (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",00h30 ngày 29/10 Eintracht Frankfurt vs Borussia Dortmund (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125556_bdd9ff42.png",00h30 ngày 29/10 Eintracht Frankfurt vs Borussia Dortmund (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133413_57842973.png",01h00 ngày 29/10 Al-Nassr vs Al-Ittihad FC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133413_57842973.png",01h00 ngày 29/10 Al-Nassr vs Al-Ittihad FC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133413_57842973.png",01h00 ngày 29/10 Al-Nassr vs Al-Ittihad FC (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133413_57842973.png",01h00 ngày 29/10 Al-Nassr vs Al-Ittihad FC (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133413_57842973.png",01h00 ngày 29/10 Al-Nassr vs Al-Ittihad FC (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133413_57842973.png",01h00 ngày 29/10 Al-Nassr vs Al-Ittihad FC (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125603_d3cec98d.png",02h45 ngày 29/10 Atalanta vs AC Milan (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125603_d3cec98d.png",02h45 ngày 29/10 Atalanta vs AC Milan (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125603_d3cec98d.png",02h45 ngày 29/10 Atalanta vs AC Milan (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125603_d3cec98d.png",02h45 ngày 29/10 Atalanta vs AC Milan (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125603_d3cec98d.png",02h45 ngày 29/10 Atalanta vs AC Milan (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125603_d3cec98d.png",02h45 ngày 29/10 Atalanta vs AC Milan (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130913_ee88690a.png",02h45 ngày 29/10 Grimsby vs Brentford (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130913_ee88690a.png",02h45 ngày 29/10 Grimsby vs Brentford (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130913_ee88690a.png",02h45 ngày 29/10 Grimsby vs Brentford (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130913_ee88690a.png",02h45 ngày 29/10 Grimsby vs Brentford (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130913_ee88690a.png",02h45 ngày 29/10 Grimsby vs Brentford (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_130913_ee88690a.png",02h45 ngày 29/10 Grimsby vs Brentford (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26735.png",03h00 ngày 29/10 SD Negreira vs Real Sociedad (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26735.png",03h00 ngày 29/10 SD Negreira vs Real Sociedad (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26735.png",03h00 ngày 29/10 SD Negreira vs Real Sociedad (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26735.png",03h00 ngày 29/10 SD Negreira vs Real Sociedad (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26735.png",03h00 ngày 29/10 SD Negreira vs Real Sociedad (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26735.png",03h00 ngày 29/10 SD Negreira vs Real Sociedad (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131612_86a01c98.png",05h45 ngày 29/10 Charlotte vs New York City FC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131612_86a01c98.png",05h45 ngày 29/10 Charlotte vs New York City FC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131612_86a01c98.png",05h45 ngày 29/10 Charlotte vs New York City FC (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131612_86a01c98.png",05h45 ngày 29/10 Charlotte vs New York City FC (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131612_86a01c98.png",05h45 ngày 29/10 Charlotte vs New York City FC (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_131612_86a01c98.png",05h45 ngày 29/10 Charlotte vs New York City FC (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133532_3aea03a4.png",06h10 ngày 29/10 Deportivo Cali vs Alianza Petrolera (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133532_3aea03a4.png",06h10 ngày 29/10 Deportivo Cali vs Alianza Petrolera (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133532_3aea03a4.png",06h10 ngày 29/10 Deportivo Cali vs Alianza Petrolera (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133532_3aea03a4.png",06h10 ngày 29/10 Deportivo Cali vs Alianza Petrolera (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133532_3aea03a4.png",06h10 ngày 29/10 Deportivo Cali vs Alianza Petrolera (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133532_3aea03a4.png",06h10 ngày 29/10 Deportivo Cali vs Alianza Petrolera (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05h45 ngày 27/10 FC Cincinnati vs Columbus Crew (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0444702a7d698c715678458a0d59610a/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/9b7fc379f630acc2c9d58391e0ec3707.png",02h30 ngày 27/10 Perugia vs Livorno (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/dad47345918bc7bca4a7149768a9386e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/b419f3905f8bb7466a88cd21caf0b365.png",02h00 ngày 27/10 Budafoki MTE vs SOROKSAR (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/ffa3acd73ef1b617c050414162a20694.png",06h00 ngày 27/10 FC Nacional Asuncion vs Cerro Porteno (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8642d14d5e6fccd073681317213fdb06/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/cddcef15578553ba62ac2719fce6aead.png",02h00 ngày 27/10 San Antonio Bulo Bulo vs Independiente Petrolero (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0d97b822a7faca78a1b47f484d84e28e/playlist.m3u8
+https://live.alilicloud.com/live/e8eafe81060124abd0372800014f9ec1/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/ee5b1bcc98e7232350988a477974fb26.png",03h15 ngày 27/10 Moreirense vs FC Porto (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1365,6 +939,10 @@ https://live.alilicloud.com/live/b8243d43aa8b2b85b860b3dbfebdd2a9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9d99a394e5185690597e478602f077df/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/b641a84c2286632196e3cb0614a41fc2.png",06h00 ngày 27/10 Colo Colo vs Deportes Limache (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/23401779795860ce77b10e399c96e3ae/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/224fc1a1876493fa1b072cf9eb4d5eb3.png",03h00 ngày 27/10 Real Santander vs Atletico Huila (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1393,10 +971,14 @@ https://live.alilicloud.com/live/62afc0a384105e40db1c7631ec31f6ad/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c5a5e3d18bc7894a7d062ecf559902af/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png",02h00 ngày 27/10 Barracas Central vs Boca Juniors (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c7234a0794b8cfe0f3da2fd74f2e821b/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/26530/1h8fzsfes61z.png?win007=sell",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/26530/1h8fzsfes61z.png?win007=sell",05h50 ngày 28/10 FC Cincinnati vs Columbus Crew (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1405,242 +987,186 @@ https://hls.cdnvankhanh.com/live/VANKHANG/index.m3u8?expire=1862206680&sign=7ac8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANKHANG.flv?expire=1862206680&sign=7ac84ad876b1ccbad9036fe76373e2c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1761608483-0-0-74dbaea33fb671774358399ad05194b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1761608483-0-0-11b88495de9b29f833b98f55a9ed8ac9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1761608483-0-0-d4c9dfaae93d0b25bcfaa9a102e21622
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1761608483-0-0-16a28fa12bd24ba55902b866c3c85614
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1761608500-0-0-6cbf71b80191f7d5f4ce908c28e892db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1761608500-0-0-d735f4928d4e46a67ad83a9f06f20a68
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1761608500-0-0-438ae3ca2b868216cd0339c8644958a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1761608500-0-0-47e20bcdbe60d32ce8a0f55ade5156a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1761608483-0-0-92b32bc8afa9b4f034de50503a36ca38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1761608483-0-0-1d9bf6e386190bc21be2630984b53f78
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761608483-0-0-73a22f9c849d712943094e37054f5a08
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761608483-0-0-f76f80c1a6d90012fa4b4ed0a879ab36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1761608483-0-0-5043ad1ef7479a4c7ac7938a5aff2142
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1761608483-0-0-124b64fc2905cf0e31299606e7c6463e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1761608483-0-0-d84640ae51f6c62c875692b092901c03
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1761608483-0-0-4a69d90b4b64dca2c68ff021252fb5b8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",CHI D1: Colo-Colo vs Deportes Limache [NGOẠ LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lsd.flv?auth_key=1761608483-0-0-42f4f811b8bd017f2973b0d7c55554d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",CHI D1: Colo-Colo vs Deportes Limache [NGOẠ LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lhd.flv?auth_key=1761608483-0-0-f8a787a537449cb14e283a1d6e240c52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",CHI D1: Colo-Colo vs Deportes Limache [NGOẠ LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1761608483-0-0-9a151ab1c98cf1f778318746780a4b22
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",CHI D1: Colo-Colo vs Deportes Limache [NGOẠ LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1761608483-0-0-9cd7d511c6ca50620c5668a15d2dfad2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=a718f2a8ff208f244dba999a65cd4a67&txTime=69004973
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=5a4cebb75a9b23ed8ec70d6e238ae1fe&txTime=69004973
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=a718f2a8ff208f244dba999a65cd4a67&txTime=69004973
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=5a4cebb75a9b23ed8ec70d6e238ae1fe&txTime=69004973
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1761608483-0-0-e7ce8544b481a70ab0048a899ef92e44
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1761608483-0-0-c859f39c342c0d8d6ed51c5cb7fc1f8b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1761608483-0-0-03a68fb62aebdae792bdec4e30df8b20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1761608483-0-0-0f1714a5328120f018969e0b9593b3d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1761608843-0-0-6749a31135c4511ac8aed4b03c656219
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1761608843-0-0-7d318118fda8ec55d695c20327f7f4b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1761608843-0-0-8fd8cd006ef22d5a97f487cf321579a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1761608843-0-0-f01c30172967078b85c3f767dc3c36e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1761608843-0-0-509bb04d9911f16c7868503e67229088
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1761608843-0-0-a005f080be1902db87e87d2e01d4ec1b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1761608843-0-0-3e0359a9cc6727ebd613072ac3d61280
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1761608843-0-0-5207fb638744d926d70649b28914032f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1761608843-0-0-88af408884115c2c72f73443607741dd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1761608843-0-0-eb3f7d4bb3823b4eba84e0bd7b81c3ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1761608843-0-0-057a7a6b3c35b56091394a5137aa0267
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1761608843-0-0-eda870933d4bc690d2bee4a3519b5ce1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SÓI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1761608843-0-0-57975eb1fa5737127c58c5ba4d1fb081
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1761610283-0-0-9e067b02b58301574083413fef15fd08
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SÓI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1761608843-0-0-45cfcd832b227bd18a6f601ce16350da
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1761610283-0-0-faa330490e7fc45df8db60257fcccc17
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SÓI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761608843-0-0-0d76e8e46668ae1b9ed4273a76312587
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1761610283-0-0-1c76ffaa9cc3d647354da4837ca659c9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SÓI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761608843-0-0-000acac5c4721d8544e812c4b7608d51
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1761610283-0-0-adeca2d7d49ac6fd65e489157f5207c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1761608843-0-0-81d6023eae5cfee8967d2d00302413b5
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1761610283-0-0-d1e67045282f1b6dec6802e085529e2d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1761608843-0-0-5ae8236bc6aa35d664779c9114a4f254
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1761610283-0-0-698bac5389651564fbee0d83e7a5a5bb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1761608843-0-0-a35a061564b38d621cffdb67e9c6ff3c
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1761610283-0-0-4b1bb8df2c0c92040d9c71cbc248003f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1761608843-0-0-4d256ccf230940db8397d3b6740823ad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) flv
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1761610283-0-0-1cf301ccbb15f197d3a4693f23388f3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1761608843-0-0-fc4bf0216594a3bd273ff4bff72608ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1761610283-0-0-6e92abce74f9ace814aae934a3c17d2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1761608843-0-0-c284946b33389bbfde0492203099e0ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1761610283-0-0-609e2f5792e0f0cccd62728c1996cc70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761608843-0-0-82acf5c792e26b5b03fa680c6db61b1b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1761610283-0-0-9232b8546ebb22dac98b09ef640e59ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761608843-0-0-9f14e47ff0446c48030d67ac3476b1ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=f538b6c64859b01c6b143bf12625d91f&txTime=69004ae5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=23159a3c51757d3028c6680c6113b8bc&txTime=69004ae5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=f538b6c64859b01c6b143bf12625d91f&txTime=69004ae5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=23159a3c51757d3028c6680c6113b8bc&txTime=69004ae5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1761608843-0-0-73c8dbb88dae53bad4996287ebfd74ca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1761608843-0-0-804d3495ae535de1be5836a50cda6af8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1761608843-0-0-4f244237175ff471016edb4e5bc5d8c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1761608843-0-0-50502a2538b19802d6cc878a6ec4a80f
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1761610283-0-0-067f55bdc30a37f9e4dc0bce93629757
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [JACKMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1761609203-0-0-4c74f65f3f864841459fe04ea6498e5c
+https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1761610283-0-0-6ef42be1a0b396bb150443b945f08ef1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [JACKMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1761609203-0-0-142737a2204cbf26cc7441a98127027b
+https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1761610283-0-0-73975e529a22bd3fda5931a76ede4578
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [JACKMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1761609203-0-0-40362f430697376012ba7d5750207801
+https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1761610283-0-0-ef12fd2fa2b29ee432512247d1f3f182
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [JACKMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1761609203-0-0-e3c7a0cfcf95b65695680172f3c1245c
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05:45 ngày 28/10 FC Cincinnati vs Columbus Crew (1) [Lơ Đao] HD Nhanh
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1761610283-0-0-2e46e846356c46b35944547914db4c58
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1761625806&sign=39f5b4f35d012f39e4f70b81df46c7a5
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05:45 ngày 28/10 FC Cincinnati vs Columbus Crew (1) [Lơ Đao] HD1
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1761610283-0-0-f5e024a150976e3c57bb3d6c950ea9e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/GlBltiKo9N5HFPpTz1CpqQ/Fv2lucGIbhPi2caWYvF5Lg/1761625806160/live/daoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05:45 ngày 28/10 FC Cincinnati vs Columbus Crew (1) [Lơ Đao] HD2
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1761610283-0-0-9fa2922d7163b2f02265ee0e9936bec3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/uSrVSyyOqlbNMU3OQwV9ZA/bcb43f9217ab3be1d1ab47881bede4b9/1761625806/live/_definst_/stream_1_1bda7@daoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05:45 ngày 28/10 FC Cincinnati vs Columbus Crew (1) [Lơ Đao] SD
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1761610283-0-0-776dc0a73e2711b2fbc876403ec4ec60
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/haxGf6rMgwhEfLC_5PC3GA/Fv2lucGIbhPi2caWYvF5Lg/1761625806160/live/daoSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/1d14acf20b6647d3bf1f70959a875c8f.png",05:45 ngày 28/10 FC Cincinnati vs Columbus Crew (1) [Lơ Đao] FullHD
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1761610283-0-0-079baf40900694379f312c3c073ab32c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/6G2ai8tV30LA42NLHw7zYg/67544df98adad7c165ac45843eec88d6/1761625806/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",06:00 ngày 28/10 Pistons vs Cavaliers (1) [Bánh Cuốn] HD Nhanh
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1761610283-0-0-fe1842710bfe9d16179ed3eb71a4592c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1761647407&sign=ec260c8f3dbf17ff9161388b0cd5e638
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",06:00 ngày 28/10 Pistons vs Cavaliers (1) [Bánh Cuốn] HD1
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1761610283-0-0-b1bd9931d091b2225ef7f134c86944ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/KO6hPvKag_5nlSg08SbUZw/Fv2lucGIbhPi2caWYvF5Lg/1761647407630/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",06:00 ngày 28/10 Pistons vs Cavaliers (1) [Bánh Cuốn] HD2
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1761610283-0-0-f771979fd25f62eeb7ad4b2c72b762c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV SATIVA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/KXBcQup3El08NrbxlZIaJQ/d8575e4f2bb7991d6a11b5e422c908f2/1761647407/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",06:00 ngày 28/10 Pistons vs Cavaliers (1) [Bánh Cuốn] SD
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1761610283-0-0-b677911c1760bd1ce2f53de131c011e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/eUv2WlnC2YPj9L5F6ffz6A/Fv2lucGIbhPi2caWYvF5Lg/1761647407630/live/Z2SD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",06:00 ngày 28/10 Pistons vs Cavaliers (1) [Bánh Cuốn] FullHD
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1761610283-0-0-f579dd2e36727064f92e4830b5b9c132
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/jbG92JxAoV4gmyEXNfAY_A/2f5c86e8dcb258706feb1f79081dd77d/1761647407/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7815_small.png",04:00 ngày 10/28 Colo Colo và Deportes Limache (Mãn nhãn) Nhà đài
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1761610283-0-0-ccc28cd58fd4ded8b4a70009d30f4cc3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1761610283-0-0-465710ea98e645bf0716e2b087230ffd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/a1341dc672c26e0ea94dde10a815a115.png",06h00 ngày 28/10 Detroit Pistons vs Cleveland Cavaliers [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1761610283-0-0-e0d84d13d68e1fcd9de6a280b852b742
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1761610283-0-0-bb12e8e8c8e5b19586a9c9698861366a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1761610283-0-0-aac67b49c567bc1a93f93958720bb0c2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1761610283-0-0-4161d85b59a35d6c5b173e311551b012
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1761610283-0-0-c298ad6df7f90d42ec9793700ed1368d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1761610283-0-0-37da20fa95555afb0b1c5d985dd4b7d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1761610283-0-0-4d7bac57a84de291c11d7d7accef0598
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1761610283-0-0-8dbe962c250a9b88f5e5d637cfc7db72
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/29d83b59b4e71066c7d07d182ad8713b.png",06h00 ngày 28/10 FC Nacional Asuncion vs Cerro Porteno [BLV GẤU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1761610283-0-0-f03c0382613aaf5a04fe621264f69a84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1761610283-0-0-50e55614de22582a2f72f69bc3d19e32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1761610283-0-0-de2fc7b847278a1cd5eca4c7ecec32e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1761610283-0-0-b5aa5706cd8936eff90bca837be22ffc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1761610283-0-0-8273cec0aec6245fb0fb4ba461cf610a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1761610283-0-0-1011a8e82c3650a658d01520697809c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1761610283-0-0-6c48bfd454a31c5961cea2ebf036c4da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1761610283-0-0-e16116f1de01369cb5ff16f1a965a228
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/21f7bc0be6abb2a2822269d6afe21fbd.png",05h45 ngày 28/10 FC Cincinnati vs Columbus Crew [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1761610283-0-0-bbcf8d90e37ad43663792e44bd4b6d26
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=bb1f571b631e4fe59d47402b22b25396&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=0c12de1e0ffdd7ffd8c10c35e1a084a0&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=bb1f571b631e4fe59d47402b22b25396&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251025/27cd46ce3b41ffbf0523c41d35aac515.png",05h00 ngày 28/10 Chapecoense SC vs Operario Ferroviario PR [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=0c12de1e0ffdd7ffd8c10c35e1a084a0&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1761610283-0-0-e27a18fd1acca57e9993e9d937eef0ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1761610283-0-0-0a1e5d3275b873553d67607da75ece13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1761610283-0-0-cafdbeef85e1349751fea107370247ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1761610283-0-0-af4348aa0dde9298a504da633ba586bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=399a9ae8aedca2d17715fa0ccd64e8be&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=cde9fd8f473040bde3d2b5c28acdb806&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=399a9ae8aedca2d17715fa0ccd64e8be&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251026/0b056f7e55a754e2ac2a52d253a41525.png",06h00 ngày 28/10 Philadelphia 76ers vs Orlando Magic [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=cde9fd8f473040bde3d2b5c28acdb806&txTime=6900507b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1761610283-0-0-2a16f676a35e97dd516478594d1b3f69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1761610283-0-0-fda2115a31f3977c4efe6f4f2d22e6ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1761610283-0-0-004ee1d0521b34fe0b6e176d8f0014a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251024/d5bd4a7833db379596be82401190d57f.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1761610283-0-0-6b5c1c81b990c60258840417da7bb23d
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/197693_small.png",05:00 ngày 10/28 Chapecoense AF và Operario Ferroviario (Mãn nhãn) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1695,21 +1221,21 @@ https://live5.k8v4dh5.app/live/26250293.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",XÓC DĨA XÓC DĨA (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/26250293.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/543.png",03h00 28/10 Real Betis vs Atletico Madrid (blvtoptop) Adam
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/543.png",03h00 28/10 Real Betis vs Atletico Madrid (blvtoptop) Lil Shady
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20251027a2dc9fa7925219ed99d423253a621cfd.jpg",09h00 28/10 Golden State Warrriors vs Memphis Grizzlies (blvtoptop) Bàng Còi Xương
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/15466.png",18h00 28/10 Marítimo U23 vs Academico Viseu U23 (blvtoptop) Bún
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/10108.png",18h45 28/10 Kuching FA vs Terengganu (blvtoptop) CHAIEN
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2523.png",19h15 28/10 Johor Darul Takzim FC vs Penang (blvtoptop) BED
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20251028eff1c9a7e805cf157ab269288da3c838.jpg",20h00 28/10 Sporting Liesti vs Otelul (blvtoptop) Tôm Mì
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2977.png",22h10 28/10 Al Akhdoud vs Al-Hilal Saudi FC (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
@@ -1719,6 +1245,45 @@ https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/683.png",23h45 28/10 Dunav Ruse vs Lokomotiv Plovdiv (blvtoptop) BED
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/867.png",00h30 29/10 Lecce vs Napoli (blvtoptop) Tôm Mì
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2939.png",01h00 29/10 Al-Nassr vs Al-Ittihad FC (blvtoptop) Bún
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2939.png",01h00 29/10 Al-Nassr vs Al-Ittihad FC (blvtoptop) Adam
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/1365.png",02h45 29/10 Grimsby vs Brentford (blvtoptop) Bàng Còi Xương
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/1358.png",02h45 29/10 Wycombe vs Fulham (blvtoptop) CHAIEN
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/499.png",02h45 29/10 Atalanta vs AC Milan (blvtoptop) Lil Shady
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://sf-static.upanhlaylink.com/img/image_202510286c2e90780c9e94dd50d9d822f7fe1ae1.jpg",10h00 29/10 Golden State Warriors vs Los Angeles Clipper (blvtoptop) Bàng Còi Xương
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/14568.png",18h30 29/10 Spartak Plovdiv vs Slavia Sofia (blvtoptop) Tôm Mì
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/850.png",18h30 29/10 Vitosha Bistritsa vs Beroe (blvtoptop) BED
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/4659.png",21h30 29/10 Hebar 1918 vs Levski Sofia (blvtoptop) Bún
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/17666.png",23h00 29/10 Khalidiya vs Al Ahli Doha (blvtoptop) CHAIEN
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/17666.png",23h00 29/10 Khalidiya vs Al Ahli Doha (blvtoptop) BED
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/aklh087186/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/408.png",23h45 29/10 Hobro vs FC Copenhagen (blvtoptop) Adam
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
 # Generated: 2025-10-27T09:47:01.411842+00:00 UTC
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="DaddyLive - Combat Zone",World Taekwondo Championships 09:30 (oct-27-2025 09:30 Am Uk / Oct-27-2025 03:30 Am Mdt / Oct-27-2025 05:30 Am Edt)
