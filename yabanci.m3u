@@ -226,80 +226,62 @@ udp://@225.1.3.81:30120
 udp://@225.1.1.136:30120
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
 udp://@225.1.2.227:30120
-#EXTINF:-1 group-title="Kenh VTV" tvg-id="2" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://tr-netcdn.tv360.vn/netcdn-live/154/output/index.m3u8?timestamp=1762203828&wmkid=0&token=e1271345980e9e915f3b35169cc1f3e8&minrate=0&maxrate=5000000&uid=114731659
-#EXTINF:-1 group-title="Kenh VTV" tvg-id="3" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjIwMzgyOH0.XM3u5HaydHEFuttcONdbgWSsXQpfVbPSYczhLYRf4BoLqiMjrEjZBAf1d-IqDvKPi2Q2hL5K8YPor5cOcvLTzw&screen=MHN&uid=114731659
-#EXTINF:-1 group-title="Kenh VTV" tvg-id="4" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://fo-hlc.tv360.vn/bpk-tv/155/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDM4MzEsInVyaSI6Ii9icGstdHYvMTU1L291dHB1dC9pbmRleC5tM3U4In0._ircLZvMRm4gTdK_y0q4y45BSkUfoRZ24bgABymrWy4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="6" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://116.108.198.134:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7ThlYq4JQE0vKmURYlcsf8FnccU7quhCpiHg0ZGRH+uhYhZJi4DWoUrXmU/lRmzD4yfCZPXoZ3xrBOsV8kPEGb5ULaL68jQ/OVgrtPJ9xLk7DvHf4yfA6Jy3dd3lKEeM71tp42zm9Qb7N5HdBmdsme/QtJsENnwTSCbxC8E9Xd/PA==&uid=114731659
+http://27.67.64.6:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QOUIM53Tzt7xorMw6cYu/Ubp1xJGG+sMQBy2nHuPlbcbxHv+BHPdsHaqEWJz0zAqOUlLlVpeZs04ViQMlvyNKtZ9ndEhhsbafCpHrs+qwUvRYax14/Nq9NOpTNGXZcZVYHBQKuhRnrBr5LTCcVzgDo/4axylRR0q4NnjPcDkrt/Q==&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="8" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDM4MzQsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.ik3QuNDtI7q-hvg5nT9zQkY78Zl5kf7NMmmKZybYfdw&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQxMTUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.3xICDh6CVI5eOegSheYhDedzRNZ1jvFXa-6Xp-zZsXo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="98" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ
-https://tr-netcdn.tv360.vn/netcdn-live/156/output/index.m3u8?timestamp=1762204206&wmkid=0&token=80262454036361862ab927dd883ec19c&minrate=0&maxrate=5000000&uid=114731659
+http://27.67.64.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R2x8xGFSgMjbquYAPvQSfZxtmqbcnQLQ9t2y5V/qbkISs1pjzl7WxFiFcQFgsp16sPRNvIZdX2/kTEQkGJiBbSDtV3iawZ3P8Lffzdd5kE8w0JYKjTCiynOunBkMPTeuS/Ex2674v/z305jhz1OXybCSmauR1usfJaNETvZK3xZQ==&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="108" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyMDksInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.eUsT9ooNJO1N2VdCrEqGgvANB44ReEh20Slolihsaro&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MDgsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.LdANfkVOws2TfYAR-k9Mo32twcqN4zhHskpywR9NZXU&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="110" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyMDQyMjd9.AvrnNekrQxXL4REkbOgT1yLm7YhP_uOeigIv_EUXYM952FqoykKyx0A5771dFql-O0ZtaJHMbftp1uLe0L0vcw&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNDQ1MjZ9.wm4PQU30t1M_M71f0cUSJU_8CJrEDpFCUIx-LTW0vh1MwVGONiAmRNfDciDFJSrSKhMhDmCKeFLAY0qkRsvpag&screen=MHN&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="115" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyMzMsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.jxcyYD1QK8RzmJudy9sONFzIopwx6UawxYXbMxsIt0w&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MjksInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.kyEJCRW7Ei-NFMNYNdI9rcii_PpqrKbnx093pG8T6Mc&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="157" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyNDUsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.gf5ZH67iYX5t9Q575XCtDwWKfiuMax8adWFF7BYGukQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.AST3MrG6TBB-5QY-NTZ-YlZoP4sSi_tnmyfCzJfRTUQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="207" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyODQsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.rHDUhW1zNj14Mu02hwEQ4i9U_SiTQNGTj5zQj2ckIFc&minrate=0&maxrate=5000000&uid=114731659
-#EXTINF:-1 group-title="Kenh VTV" tvg-id="2" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://tr-netcdn.tv360.vn/netcdn-live/154/output/index.m3u8?timestamp=1762203828&wmkid=0&token=e1271345980e9e915f3b35169cc1f3e8&minrate=0&maxrate=5000000&uid=114731659
-#EXTINF:-1 group-title="Kenh VTV" tvg-id="3" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjIwMzgyOH0.XM3u5HaydHEFuttcONdbgWSsXQpfVbPSYczhLYRf4BoLqiMjrEjZBAf1d-IqDvKPi2Q2hL5K8YPor5cOcvLTzw&screen=MHN&uid=114731659
-#EXTINF:-1 group-title="Kenh VTV" tvg-id="4" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://fo-hlc.tv360.vn/bpk-tv/155/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDM4MzEsInVyaSI6Ii9icGstdHYvMTU1L291dHB1dC9pbmRleC5tM3U4In0._ircLZvMRm4gTdK_y0q4y45BSkUfoRZ24bgABymrWy4&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1ODMsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.msmKThZoSkYdOGJ5ryUI_PRZ3rFlPMFj3Spd6WDkN74&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="6" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://116.108.198.134:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7ThlYq4JQE0vKmURYlcsf8FnccU7quhCpiHg0ZGRH+uhYhZJi4DWoUrXmU/lRmzD4yfCZPXoZ3xrBOsV8kPEGb5ULaL68jQ/OVgrtPJ9xLk7DvHf4yfA6Jy3dd3lKEeM71tp42zm9Qb7N5HdBmdsme/QtJsENnwTSCbxC8E9Xd/PA==&uid=114731659
+http://27.67.64.6:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QOUIM53Tzt7xorMw6cYu/Ubp1xJGG+sMQBy2nHuPlbcbxHv+BHPdsHaqEWJz0zAqOUlLlVpeZs04ViQMlvyNKtZ9ndEhhsbafCpHrs+qwUvRYax14/Nq9NOpTNGXZcZVYHBQKuhRnrBr5LTCcVzgDo/4axylRR0q4NnjPcDkrt/Q==&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="8" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDM4MzQsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.ik3QuNDtI7q-hvg5nT9zQkY78Zl5kf7NMmmKZybYfdw&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQxMTUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.3xICDh6CVI5eOegSheYhDedzRNZ1jvFXa-6Xp-zZsXo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="98" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ
-https://tr-netcdn.tv360.vn/netcdn-live/156/output/index.m3u8?timestamp=1762204206&wmkid=0&token=80262454036361862ab927dd883ec19c&minrate=0&maxrate=5000000&uid=114731659
+http://27.67.64.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R2x8xGFSgMjbquYAPvQSfZxtmqbcnQLQ9t2y5V/qbkISs1pjzl7WxFiFcQFgsp16sPRNvIZdX2/kTEQkGJiBbSDtV3iawZ3P8Lffzdd5kE8w0JYKjTCiynOunBkMPTeuS/Ex2674v/z305jhz1OXybCSmauR1usfJaNETvZK3xZQ==&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="108" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyMDksInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.eUsT9ooNJO1N2VdCrEqGgvANB44ReEh20Slolihsaro&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MDgsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.LdANfkVOws2TfYAR-k9Mo32twcqN4zhHskpywR9NZXU&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="110" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyMDQyMjd9.AvrnNekrQxXL4REkbOgT1yLm7YhP_uOeigIv_EUXYM952FqoykKyx0A5771dFql-O0ZtaJHMbftp1uLe0L0vcw&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNDQ1MjZ9.wm4PQU30t1M_M71f0cUSJU_8CJrEDpFCUIx-LTW0vh1MwVGONiAmRNfDciDFJSrSKhMhDmCKeFLAY0qkRsvpag&screen=MHN&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="115" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyMzMsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.jxcyYD1QK8RzmJudy9sONFzIopwx6UawxYXbMxsIt0w&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MjksInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.kyEJCRW7Ei-NFMNYNdI9rcii_PpqrKbnx093pG8T6Mc&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="157" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyNDUsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.gf5ZH67iYX5t9Q575XCtDwWKfiuMax8adWFF7BYGukQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.AST3MrG6TBB-5QY-NTZ-YlZoP4sSi_tnmyfCzJfRTUQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="207" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyODQsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.rHDUhW1zNj14Mu02hwEQ4i9U_SiTQNGTj5zQj2ckIFc&minrate=0&maxrate=5000000&uid=114731659
-#EXTINF:-1 tvg-id="2" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://tr-netcdn.tv360.vn/netcdn-live/154/output/index.m3u8?timestamp=1762203828&wmkid=0&token=e1271345980e9e915f3b35169cc1f3e8&minrate=0&maxrate=5000000&uid=114731659
-#EXTINF:-1 tvg-id="3" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjIwMzgyOH0.XM3u5HaydHEFuttcONdbgWSsXQpfVbPSYczhLYRf4BoLqiMjrEjZBAf1d-IqDvKPi2Q2hL5K8YPor5cOcvLTzw&screen=MHN&uid=114731659
-#EXTINF:-1 tvg-id="4" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://fo-hlc.tv360.vn/bpk-tv/155/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDM4MzEsInVyaSI6Ii9icGstdHYvMTU1L291dHB1dC9pbmRleC5tM3U4In0._ircLZvMRm4gTdK_y0q4y45BSkUfoRZ24bgABymrWy4&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1ODMsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.msmKThZoSkYdOGJ5ryUI_PRZ3rFlPMFj3Spd6WDkN74&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="6" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://116.108.198.134:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7ThlYq4JQE0vKmURYlcsf8FnccU7quhCpiHg0ZGRH+uhYhZJi4DWoUrXmU/lRmzD4yfCZPXoZ3xrBOsV8kPEGb5ULaL68jQ/OVgrtPJ9xLk7DvHf4yfA6Jy3dd3lKEeM71tp42zm9Qb7N5HdBmdsme/QtJsENnwTSCbxC8E9Xd/PA==&uid=114731659
+http://27.67.64.6:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QOUIM53Tzt7xorMw6cYu/Ubp1xJGG+sMQBy2nHuPlbcbxHv+BHPdsHaqEWJz0zAqOUlLlVpeZs04ViQMlvyNKtZ9ndEhhsbafCpHrs+qwUvRYax14/Nq9NOpTNGXZcZVYHBQKuhRnrBr5LTCcVzgDo/4axylRR0q4NnjPcDkrt/Q==&uid=114731659
 #EXTINF:-1 tvg-id="8" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDM4MzQsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.ik3QuNDtI7q-hvg5nT9zQkY78Zl5kf7NMmmKZybYfdw&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQxMTUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.3xICDh6CVI5eOegSheYhDedzRNZ1jvFXa-6Xp-zZsXo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="98" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ
-https://tr-netcdn.tv360.vn/netcdn-live/156/output/index.m3u8?timestamp=1762204206&wmkid=0&token=80262454036361862ab927dd883ec19c&minrate=0&maxrate=5000000&uid=114731659
+http://27.67.64.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R2x8xGFSgMjbquYAPvQSfZxtmqbcnQLQ9t2y5V/qbkISs1pjzl7WxFiFcQFgsp16sPRNvIZdX2/kTEQkGJiBbSDtV3iawZ3P8Lffzdd5kE8w0JYKjTCiynOunBkMPTeuS/Ex2674v/z305jhz1OXybCSmauR1usfJaNETvZK3xZQ==&uid=114731659
 #EXTINF:-1 tvg-id="108" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyMDksInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.eUsT9ooNJO1N2VdCrEqGgvANB44ReEh20Slolihsaro&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MDgsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.LdANfkVOws2TfYAR-k9Mo32twcqN4zhHskpywR9NZXU&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="110" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyMDQyMjd9.AvrnNekrQxXL4REkbOgT1yLm7YhP_uOeigIv_EUXYM952FqoykKyx0A5771dFql-O0ZtaJHMbftp1uLe0L0vcw&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNDQ1MjZ9.wm4PQU30t1M_M71f0cUSJU_8CJrEDpFCUIx-LTW0vh1MwVGONiAmRNfDciDFJSrSKhMhDmCKeFLAY0qkRsvpag&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="115" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyMzMsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.jxcyYD1QK8RzmJudy9sONFzIopwx6UawxYXbMxsIt0w&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MjksInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.kyEJCRW7Ei-NFMNYNdI9rcii_PpqrKbnx093pG8T6Mc&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="157" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyNDUsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.gf5ZH67iYX5t9Q575XCtDwWKfiuMax8adWFF7BYGukQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.AST3MrG6TBB-5QY-NTZ-YlZoP4sSi_tnmyfCzJfRTUQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="207" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyODQsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.rHDUhW1zNj14Mu02hwEQ4i9U_SiTQNGTj5zQj2ckIFc&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1ODMsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.msmKThZoSkYdOGJ5ryUI_PRZ3rFlPMFj3Spd6WDkN74&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="159" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/pd7GZJ71/0000-1.png",Box Movie
-https://fo-hlc.tv360.vn/bpk-tv/162/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyNDUsInVyaSI6Ii9icGstdHYvMTYyL291dHB1dC9pbmRleC5tM3U4In0.2g4daxjhzloZb_g3rMkLn5acowfcbxkqb7bYGIxrf-0&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/162/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDQsInVyaSI6Ii9icGstdHYvMTYyL291dHB1dC9pbmRleC5tM3U4In0.p-wBmO5d8JWlTgRphEfLwmh1H2mrdOkgmor2O2xdflg&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="160" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/YjKZnzwR/Hollywood-Classics.png",Hollywood Classics
-http://171.238.180.230:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TcTItYUghk2KrcPWDlh1jJGrBkeycnANusWs5Zr0iPbPdU8gyVPxQoWpc9r+7rafHAKiYExhVjsKZZGXads7tovFeRtvn34VgVIRjcDOnfhBUe+FUkzZcR/PUYHKprkPc9fTq4vS1xxfhmrGDTUYlGikmeycKkHOSyspfnZkizMw==&uid=114731659
+https://rr2-ateme.tv360.vn/live/eds/163/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE2My9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI0NDU0NH0.dHMm752cnLvnFLmBhPxl2dR1iNHPcxZJqE9m7wZXJXTos33UJIQAQBpO6TCOMQ0GEKgCuIEvOmYJ6ce8sO03WQ&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="235" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/nVC6bCpJ/t-i-xu-ng.png",In The Box
-https://fo-hlc.tv360.vn/bpk-tv/187/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQyOTksInVyaSI6Ii9icGstdHYvMTg3L291dHB1dC9pbmRleC5tM3U4In0.2HmmPEizEF4wdccEqohDYS8QlqIO5wL36ptpNUAmrzI&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/187/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1OTUsInVyaSI6Ii9icGstdHYvMTg3L291dHB1dC9pbmRleC5tM3U4In0.XJfjJeZRMyWg8BiFwIrJwowP9rUOegSd4ZOK7l9_h7k&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9856" group-title="Quốc Tế 👻" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/Hybris/VC400038_1_image01.png",History
-https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyMDQzNDEsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.saPcLgtfqAivG0m4g-JOBXYeGjpjyC8Mmhb0-xWZ0_c&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ2MzcsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.gpP1Lz1bZtpuq5amVgwrnHOuW7BU7lPwLbG4NM4-qSw&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
@@ -458,22 +440,18 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Bún Chả)
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/ad010af729c420626d1865ad744168d3.png",17h00 ngày 04/11 Football Club Seoul vs Chengdu Rongcheng FC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/c26c620530299118f6da56bddbdf98d2/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/0a4be74a9612071c7992274538563b78.jpg",07h10 ngày 04/11 Comunicaciones BsAs vs UAI Urquiza (Bún Chả)
+https://live.alilicloud.com/livehd/84be4bc634c35ec8e65f788f5188dd91/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",17h00 ngày 04/11 Sanfrecce Hiroshima vs Gangwon Football Club (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/fc3b2e02ce6dc6b6f79cd8c130277f19/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús (Bún Chả)
+https://live.alilicloud.com/livehd/f6e25e54696e8d412ef441b9780a2f4c/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",17h00 ngày 04/11 Machida Zelvia vs Melbourne City (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/fc8be2ae06e335585694d027dc572c67/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/0a77926b661158412a168cc1f30535c4/playlist.m3u8
+https://live.alilicloud.com/livehd/7817175174dc8320693e5003ea4b133e/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/649a85f258f62ec83a62983488e4b347.png",19h15 ngày 04/11 Buriram United vs Shanghai Port FC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -486,22 +464,6 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Cà Khịa) SD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Cà Khịa) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -518,26 +480,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungshd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Lấy kinh) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Lấy kinh) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Lấy kinh) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Lấy kinh) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1RK.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Lấy kinh) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1RK.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/4150a647c6e381a69980e98bb86582a5.png",07h00 ngày 04/11 Brooklyn Nets vs Minnesota Timberwolves (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -578,108 +520,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungshd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (Lấy kinh) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1RK.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3760_1h6wfbyh4f3.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3760_1h6wfbyh4f3.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3760_1h6wfbyh4f3.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3760_1h6wfbyh4f3.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/625_1hxqrphfkc1t.png",07h15 ngày 04/11 Banfield vs Lanus (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/625_1hxqrphfkc1t.png",07h15 ngày 04/11 Banfield vs Lanus (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sunsd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sunhd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Ra Khơi) SD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (Ra Khơi) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungshd1RK.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49720_small.png",06:30 ngày 11/04 Aurora và Independiente Petrolero (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49720_small.png",06:30 ngày 11/04 Aurora và Independiente Petrolero (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x21y3-8079/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49720_small.png",06:30 ngày 11/04 Aurora và Independiente Petrolero (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x21y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1345405_small.png",07:00 ngày 11/04 Libertad và Independiente del Valle (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",07:15 ngày 11/04 Banfield và Lanus (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",07:15 ngày 11/04 Banfield và Lanus (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x8y3-0574/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",07:15 ngày 11/04 Banfield và Lanus (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10092_small.png",07:15 ngày 11/04 Belgrano và Tigre (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/0a4be74a9612071c7992274538563b78.jpg",07h10 ngày 03/11 Comunicaciones BsAs vs UAI Urquiza (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -688,10 +552,6 @@ https://live.alilicloud.com/live/fc3b2e02ce6dc6b6f79cd8c130277f19/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b4069fbcd5fcdf4afa85126c06af1087/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/6a2005d20c872db3173d2bf995768055.png",03h45 ngày 03/11 Gil Vicente vs Santa Clara (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dba6381d70748e7b977ed0677ef45582/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/73eb62698518ab54028aee31105931ae.png",05h00 ngày 03/11 Central Cordoba SDE vs Racing Club de Avellaneda (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -700,30 +560,10 @@ https://live.alilicloud.com/live/525d7b7b6b5cb26c38e028fc925a19d6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2b4f7b724428faaef151bf64baf6eb13/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/26812ecc3d6fe43f2b42f59125adc239.png",03h00 ngày 03/11 Uniao Leiria vs GD Chaves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/0b1252caace1a2a42b83d372d2ab3dc9/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/24403efa393f55163b5593c435bbe4a7.png",05h00 ngày 03/11 America MG vs Gremio Novorizontino (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/6c937f08cdaf80d41422a4ada7ae3f82/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",03h00 ngày 03/11 Sunderland vs Everton (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4845f9421e0ecf4abd78f15b10dccd78/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",03h00 ngày 03/11 Sunderland vs Everton (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/58358eb8c7bf4957b398a80ab81d27e2_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",03h00 ngày 03/11 Sunderland vs Everton (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/58358eb8c7bf4957b398a80ab81d27e2_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",03h00 ngày 03/11 Sunderland vs Everton (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/58358eb8c7bf4957b398a80ab81d27e2_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -736,10 +576,6 @@ https://live.alilicloud.com/live/8909d23c410dec85664c2deaa54c55b3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0a77926b661158412a168cc1f30535c4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/d53d8c2e307894416c0b1989482fd022.png",04h00 ngày 03/11 Envigado FC vs Dep.Independiente Medellin (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/46b91d6304e138f2a223ccf7a2723f03/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 03/11 Libertad FC vs Independiente del Valle (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -748,130 +584,26 @@ https://live.alilicloud.com/live/c26c620530299118f6da56bddbdf98d2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4642f99a130ca87b7ef79791d130586d/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (QUAY TAY) SD 1
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sunsd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (QUAY TAY) HD 1
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sunhd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (QUAY TAY) 
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cayhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (QUAY TAY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (QUAY TAY) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunsd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 04/11 Club Aurora vs Independiente Petrolero (QUAY TAY) HD Nhanh
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@caysd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",09h00 ngày 04/11 Denver Nuggets vs Sacramento Kings (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@sunhd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomhd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (QUAY TAY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/bomhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomsd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 04/11 Libertad FC vs Independiente del Valle (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@bomhd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/4150a647c6e381a69980e98bb86582a5.png",07h00 ngày 04/11 Brooklyn Nets vs Minnesota Timberwolves (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/4150a647c6e381a69980e98bb86582a5.png",07h00 ngày 04/11 Brooklyn Nets vs Minnesota Timberwolves (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buihd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/4150a647c6e381a69980e98bb86582a5.png",07h00 ngày 04/11 Brooklyn Nets vs Minnesota Timberwolves (QUAY TAY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/4150a647c6e381a69980e98bb86582a5.png",07h00 ngày 04/11 Brooklyn Nets vs Minnesota Timberwolves (QUAY TAY) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buisd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/4150a647c6e381a69980e98bb86582a5.png",07h00 ngày 04/11 Brooklyn Nets vs Minnesota Timberwolves (QUAY TAY) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@buihd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nunghd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (QUAY TAY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungsd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 04/11 Banfield vs Lanus (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nungshd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8 
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132254_7e6c4cd8.png",07h00 ngày 04/11 Libertad vs Independiente del Valle (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132254_7e6c4cd8.png",07h00 ngày 04/11 Libertad vs Independiente del Valle (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x2.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132719_cb10e107.png",07h15 ngày 04/11 Belgrano Cordoba vs Tigre (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132719_cb10e107.png",07h15 ngày 04/11 Belgrano Cordoba vs Tigre (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x3.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132721_1dcc44b0.png",07h15 ngày 04/11 Banfield vs Lanus (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132721_1dcc44b0.png",07h15 ngày 04/11 Banfield vs Lanus (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132721_1dcc44b0.png",07h15 ngày 04/11 Banfield vs Lanus (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132721_1dcc44b0.png",07h15 ngày 04/11 Banfield vs Lanus (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132721_1dcc44b0.png",07h15 ngày 04/11 Banfield vs Lanus (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132721_1dcc44b0.png",07h15 ngày 04/11 Banfield vs Lanus (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cayhd1RK.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132408_a8809b85.png",17h00 ngày 04/11 Sanfrecce Hiroshima vs Gangwon FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1236,34 +968,6 @@ https://stream.chuoichien.tv/chuoilun.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/fc3b2e02ce6dc6b6f79cd8c130277f19/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/fc8be2ae06e335585694d027dc572c67/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/28f3a7cce9ec4c9c9cd80126e40003e9_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/28f3a7cce9ec4c9c9cd80126e40003e9_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/28f3a7cce9ec4c9c9cd80126e40003e9_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/28f3a7cce9ec4c9c9cd80126e40003e9_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/28f3a7cce9ec4c9c9cd80126e40003e9_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",07h15 ngày 03/11 Banfield vs Club Atlético Lanús (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/28f3a7cce9ec4c9c9cd80126e40003e9_720/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/ec2ed16825c0bf497854333615c4e2af.png",06h30 ngày 03/11 Club Aurora vs Independiente Petrolero (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1272,266 +976,154 @@ https://live.alilicloud.com/live/8909d23c410dec85664c2deaa54c55b3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0a77926b661158412a168cc1f30535c4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 03/11 Belgrano vs Club Atletico Tigre (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/4bba4db53d3b4bf7b712f71a6033b3a5_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 03/11 Belgrano vs Club Atletico Tigre (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/4bba4db53d3b4bf7b712f71a6033b3a5_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 03/11 Belgrano vs Club Atletico Tigre (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/4bba4db53d3b4bf7b712f71a6033b3a5_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 03/11 Belgrano vs Club Atletico Tigre (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/4bba4db53d3b4bf7b712f71a6033b3a5_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 03/11 Belgrano vs Club Atletico Tigre (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/4bba4db53d3b4bf7b712f71a6033b3a5_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f24c6d2696f439d43875fba52100991d.png",07h15 ngày 03/11 Belgrano vs Club Atletico Tigre (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/4bba4db53d3b4bf7b712f71a6033b3a5_720/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/7d6d40e3a8efd6078a295754093d2f19.png",07h00 ngày 03/11 Libertad FC vs Independiente del Valle (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c26c620530299118f6da56bddbdf98d2/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/728/1hxqrphfkc1t.png?win007=sell",07h15 ngày 04/11 Banfield vs Lanus (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/728/1hxqrphfkc1t.png?win007=sell",07h15 ngày 04/11 Banfield vs Lanus (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/4465/1h6wfbyh4f3.png?win007=sell",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/TIEULINH/index.m3u8?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/4465/1h6wfbyh4f3.png?win007=sell",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/TIEULINH.flv?expire=1891779900&sign=5353000df59fd7da4b1d1f4a66da8495
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1762224084-0-0-9f037acb780bdf6b2d33d8b54cd1b03f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1762224084-0-0-7a296b8369e769a0e95739bb24f862fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1762224084-0-0-dc888473b09e07c60c53f092c0e5cea8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1762224084-0-0-538f441afd8584a05e26fa26b233602b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1762224084-0-0-3600c344fdc6fdeb5f392806f7e80b43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1762224084-0-0-26782aa4ffe0bbfac7f00d64ac28d6fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762224084-0-0-83f6d4c0570bcb766d11083e344b2188
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762224084-0-0-03ad1fa85ec308a11b51ad78414cbf54
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=af8980c697fca28e4e6ce1e14e3780ea&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=69e9da0308cb23cc2bddf06ccd18a17e&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=af8980c697fca28e4e6ce1e14e3780ea&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=69e9da0308cb23cc2bddf06ccd18a17e&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=621ef9a3cb4856ec2ebb103d098f9303&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=d0964b31810ec652216d919a0cb59e09&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=621ef9a3cb4856ec2ebb103d098f9303&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d0964b31810ec652216d919a0cb59e09&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV KAI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1762224084-0-0-16271902d75199e6fce460adf5827bb0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV KAI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1762224084-0-0-fb5f1e5d93f407e2fab1adad8ad66da4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV KAI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1762224084-0-0-36f3fd30c4418011b34c6753c03b3f59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV KAI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1762224084-0-0-293c5a0ca7bb39acd0c40c6dfa619437
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1762224084-0-0-000a5a054812066ff3c743e3f49aaeae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1762224084-0-0-a2fc99198e3a50c4165bf2accecb6dbf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1762224084-0-0-f678ad618be4cb234f947a4e050c995e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1762224084-0-0-24dc4b45a60a0f86ec351865cd0ccd37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=9538e7de5f4c0412aa1a35b96740b3ab&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=f66580df626a97a072b664a93779bb8e&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=9538e7de5f4c0412aa1a35b96740b3ab&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=f66580df626a97a072b664a93779bb8e&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1762224084-0-0-ce0d65e0bb2bcc48883cf128a7dc6d3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1762224084-0-0-67fbaf9b26a0def1710ff29bcea9b518
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1762224084-0-0-bf3fb2c54c7651a4d7f304da78c4df6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1762224084-0-0-ab4e78446892dc2250defa2a2f0f6116
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=ab156e1edd0ce096f3480f86fc7f889a&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=364a1e1c5083a13fbf6402694a7f00f8&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=ab156e1edd0ce096f3480f86fc7f889a&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=364a1e1c5083a13fbf6402694a7f00f8&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=8301b0ab670fcf05be145013e1c4f797&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=964db8245854678a7ade28fcaadb7aae&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=8301b0ab670fcf05be145013e1c4f797&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/241f2fdbf5e009afe80e4de8d230ea67.png",07h15 ngày 04/11 Belgrano vs Club Atletico Tigre [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=964db8245854678a7ade28fcaadb7aae&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Hổ Lùn] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=3ffc568f079f2fbf9aef081d9b1218c3&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Hổ Lùn] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=20de942c92f840d9a6366b2836a884df&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Hổ Lùn] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=3ffc568f079f2fbf9aef081d9b1218c3&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV Hổ Lùn] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=20de942c92f840d9a6366b2836a884df&txTime=6909ae24
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/95e7022ce57f992026543bad6a5b9a16.png",07h30 ngày 04/11 New York Knicks vs Washington Wizards [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1762224084-0-0-08046a6a7160ee660b5150ae16e0974b
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1762228404-0-0-7d1ec40c54b3b92aa9fa22a8d53236e6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/95e7022ce57f992026543bad6a5b9a16.png",07h30 ngày 04/11 New York Knicks vs Washington Wizards [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1762224084-0-0-862d28ba2473dd92d535d3280e2a9389
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1762228404-0-0-8c89b3ece3c93d996f0e6cd72db5a3bb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/95e7022ce57f992026543bad6a5b9a16.png",07h30 ngày 04/11 New York Knicks vs Washington Wizards [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762224084-0-0-44e16e01328bce1c915c7ae5c5b83ae2
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762228404-0-0-5ba10e2d43505dbfb509ee87c8747e5b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/95e7022ce57f992026543bad6a5b9a16.png",07h30 ngày 04/11 New York Knicks vs Washington Wizards [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762224084-0-0-ec7de68c1f51b12c690adb953b2f88d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV NOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-537460_lsd.flv?auth_key=1762224084-0-0-183349ad1d94c083cdbd97222fd76228
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV NOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-537460_lhd.flv?auth_key=1762224084-0-0-154e6b13eba232605a765cefacd43e9a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV NOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1762224084-0-0-57545afb79efb320a7571668244601d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251101/12570f7245a97190e04c22d0e7027759.png",07h15 ngày 04/11 Banfield vs Club Atlético Lanús [BLV NOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1762224084-0-0-2c17c8a5f39a1b149e81e0591e659050
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1762224084-0-0-5fa2561d0ccdd901f77bdb58a2c163f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1762224084-0-0-b38089d3abc129ed256f36aa96230f77
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762224084-0-0-1217238491a1a959cad1cd2fae3a6900
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762224084-0-0-d944071ac3d14d54f384a8f98c473a1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [BLV DUSTIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=c634ad5b98eb0751289180dafa82c305&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [BLV DUSTIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=35b1e33ba309e2bea0c4d2ff21aad400&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [BLV DUSTIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=c634ad5b98eb0751289180dafa82c305&txTime=6909ae24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/63dc309bc0d63ffa3d2ce375460b2d18.png",07h00 ngày 04/11 Indiana Pacers vs Milwaukee Bucks [BLV DUSTIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=35b1e33ba309e2bea0c4d2ff21aad400&txTime=6909ae24
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762228404-0-0-5c5158ab3e3a0fe455102155ac065291
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1762224084-0-0-5acde6b9bce4f538372b3d3ff897890c
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1762228404-0-0-f98fab702863309a3676b223f34c538e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1762224084-0-0-11ffb1fb355ad7ef6419068ea0020bd7
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1762228404-0-0-d130ff2eea5f87340ddc46fd7ab884d8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762224084-0-0-d35298d3723b57c6f4bec003a9f42226
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762228404-0-0-7271d61c0e3fe50f831a45185051eb3b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762224084-0-0-efb9268d1f50cab6e649bdac3ae4b7c3
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762228404-0-0-3ab49e9cd8a852899d52ece27641036b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1762224084-0-0-8911360cca15717bb3c912ce0037644b
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1762228404-0-0-807c9df4fdc5645d3d43dd29aa53b846
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1762224084-0-0-ee3aecb93c7b94665fe60a2b63576807
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1762228404-0-0-f1300520f643dea3c64f99daf9a21761
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762224084-0-0-c7762a23b2be2442a39ab78686f01161
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762228404-0-0-cdf80274c0eb7d287fa19c395978b673
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/fb2f7dbab5dba2f64f31df4a31197abd.png",07h30 ngày 04/11 Boston Celtics vs Utah Jazz [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762224084-0-0-c9e9758d5e6c78a2a1521112824d5118
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762228404-0-0-e0c60bf38e22fc33656b2407cfcd5382
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762224084-0-0-8d4fc488a87908812496d9e5f5c1b3bf
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762228404-0-0-e4792a5aa416058347c85c43fa175168
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762224084-0-0-44e5de8712c0e2c04d78ff489ac28bd8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762228404-0-0-d97e2459d56954877ccdff18992de9db
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762224084-0-0-8bc0b5ce4cd8ef62ba92a943fc7c3827
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762228404-0-0-cfe83970d094398e670e97bd4209f5a6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762224084-0-0-9e7be8212b7ce95d86694ffa95bccaf2
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762228404-0-0-73792d4da3ab07ac33685a082e4389d9
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/57dByhVa4OVWwdMYrQKpvw/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may24/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/szDA8VxVZ0msn0c9Dehjow/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may241/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/ToRGySo4GVBnI23Lg5x3Ng/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may27/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/RKscdcbIXV3J8lmrstGwVQ/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may271/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1762261233&sign=a9347dda627c830e5355be4b5179ffcc
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/QfOoAjEx4zJ4RZNxrQv20g/Fv2lucGIbhPi2caWYvF5Lg/1762261233083/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/S2971dpiBGcQO2XYqOwjaA/9f8b38d400ef6d394f2d68b3096e00f1/1762261233/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Qt362KTwmDG5pU2luzpkfQ/Fv2lucGIbhPi2caWYvF5Lg/1762261233083/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/-PfV4qyZ33pMSV1VCHu1uA/74b8773ecaa9df430432c2bf2b6bd9e0/1762261233/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 04/11 Nuggets vs Kings (1) [Người Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1762264872&sign=4d9da62360d5140e87f87d152f784ea5
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 04/11 Nuggets vs Kings (1) [Người Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/ZGKsd--iMqer9vlQUMx2lQ/Fv2lucGIbhPi2caWYvF5Lg/1762264872418/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 04/11 Nuggets vs Kings (1) [Người Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/g7NcGTO1q4iZ5Kwz7u9eyA/66ae10d686c6ce5cc9ef4eeff7542f73/1762264872/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 04/11 Nuggets vs Kings (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/VkD6mJtRkWUejZSZEVgBtw/Fv2lucGIbhPi2caWYvF5Lg/1762264872418/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",09:00 ngày 04/11 Nuggets vs Kings (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/iNEzdG1klWFhdj3Z-_hwrg/84da5215d1a1dcfaac34c074325b27a0/1762264872/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/blazers.png",10:00 ngày 04/11 Blazers vs Lakers (1) [Người Cây] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z3HD.flv?expire=1762266606&sign=2c5fccd814f7ff9c2f98c75066ea6c6c
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/blazers.png",10:00 ngày 04/11 Blazers vs Lakers (1) [Người Cây] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/h1C3lYvUIH9T7KAmamiIow/Fv2lucGIbhPi2caWYvF5Lg/1762266606231/live/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/blazers.png",10:00 ngày 04/11 Blazers vs Lakers (1) [Người Cây] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/47SCDZMjMvJrMssQmmpj3A/5e80ef9f7927d7fe3e2715feff063a1a/1762266606/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/blazers.png",10:00 ngày 04/11 Blazers vs Lakers (1) [Người Cây] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/7PjL69H4onMXrhCGrBfSWg/Fv2lucGIbhPi2caWYvF5Lg/1762266606231/live/Z3SD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/blazers.png",10:00 ngày 04/11 Blazers vs Lakers (1) [Người Cây] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/Bu5CoiThdfkSivaAu1LpdA/fc724b392eb664de8f0b54609b1e66f5/1762266606/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1762258686&sign=1160bf4b09a897a0cd15b7a771c632de
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/gRrIHmh0m4J1tOzdY0O4UQ/Fv2lucGIbhPi2caWYvF5Lg/1762258686897/live/Z2HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/74_e11OOuj--1PWvbDDBzA/d8575e4f2bb7991d6a11b5e422c908f2/1762258686/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/LJuU43mjokiqtcnS3ZCOXQ/Fv2lucGIbhPi2caWYvF5Lg/1762258686897/live/Z2SD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/pyIpVI8I8-qaE2P9zqCtaw/2f5c86e8dcb258706feb1f79081dd77d/1762258686/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",08:00 ngày 04/11 Grizzlies vs Pistons (1) [Người Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1572,102 +1164,6 @@ https://hotlivezz179602324.akainu.xyz/8bfqdXVa-Muhscjz2GIKLA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/EqrSi2mVx6zdCEjXfUXUzQ/ecdd2fe3d570b8f38d7664bb44af6d73/1762260486/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/57dByhVa4OVWwdMYrQKpvw/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may24/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/szDA8VxVZ0msn0c9Dehjow/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may241/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ToRGySo4GVBnI23Lg5x3Ng/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may27/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/RKscdcbIXV3J8lmrstGwVQ/Fv2lucGIbhPi2caWYvF5Lg/1762261928735/live/may271/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/iishUmO7vbJBE7iK2CZCdw_96x96.png",07:00 ngày 04/11 Nets vs Timberwolves (1) [Người Già] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1762256929&sign=27e9423e698f115a918278fa3adfac34
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/iishUmO7vbJBE7iK2CZCdw_96x96.png",07:00 ngày 04/11 Nets vs Timberwolves (1) [Người Già] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/_j1ID0PDaoehajl7jQRDNQ/Fv2lucGIbhPi2caWYvF5Lg/1762256929322/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/iishUmO7vbJBE7iK2CZCdw_96x96.png",07:00 ngày 04/11 Nets vs Timberwolves (1) [Người Già] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/z6SesQ8jQPObuywiZnFpiQ/61b7c9f6fb3bff2f3c2273378af449b7/1762256929/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/iishUmO7vbJBE7iK2CZCdw_96x96.png",07:00 ngày 04/11 Nets vs Timberwolves (1) [Người Già] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/r2_ZzTxz7ehQZzA5mzYa8w/Fv2lucGIbhPi2caWYvF5Lg/1762256929323/live/oldSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/iishUmO7vbJBE7iK2CZCdw_96x96.png",07:00 ngày 04/11 Nets vs Timberwolves (1) [Người Già] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/Y3I6orljvKcqGZ5PokM5Jw/e56ce8a755cda33e7f050da0b700d013/1762256929/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",07:00 ngày 04/11 Pacers vs Bucks (1) [Người Phép] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1762256930&sign=69464a82b7e9870f8ea58d391ce5ccb9
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",07:00 ngày 04/11 Pacers vs Bucks (1) [Người Phép] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/9H3CCLyGSk2e6qAcSSkq_A/Fv2lucGIbhPi2caWYvF5Lg/1762256930440/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",07:00 ngày 04/11 Pacers vs Bucks (1) [Người Phép] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/Sehj4SCztKro17IamA3O-A/44aad5dfa01c79ab75667d799c2e06c1/1762256930/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",07:00 ngày 04/11 Pacers vs Bucks (1) [Người Phép] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/12p0gV0pOlC9jPpEGv7tsA/Fv2lucGIbhPi2caWYvF5Lg/1762256930440/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",07:00 ngày 04/11 Pacers vs Bucks (1) [Người Phép] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/yGx_wXYj438mOMBVEgAYoA/bb30dc1883f5f92057cd67eec640c4d0/1762256930/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/knicks.png",07:30 ngày 04/11 Knicks vs Wizards (1) [Người Cast] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z3HD.flv?expire=1762258685&sign=31b2dafe57996e7b7627e5d948da0739
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/knicks.png",07:30 ngày 04/11 Knicks vs Wizards (1) [Người Cast] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/NAlxCEKY6VQdpc5A2QfKNg/Fv2lucGIbhPi2caWYvF5Lg/1762258685709/live/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/knicks.png",07:30 ngày 04/11 Knicks vs Wizards (1) [Người Cast] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/e6mwH0234V0HIgzVsJ66jQ/5e80ef9f7927d7fe3e2715feff063a1a/1762258685/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/knicks.png",07:30 ngày 04/11 Knicks vs Wizards (1) [Người Cast] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/tDKOQm_4VjyIAkixJUdacA/Fv2lucGIbhPi2caWYvF5Lg/1762258685709/live/Z3SD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/knicks.png",07:30 ngày 04/11 Knicks vs Wizards (1) [Người Cast] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/qK5iyOiE943763VYrgxPiQ/fc724b392eb664de8f0b54609b1e66f5/1762258685/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1762258686&sign=1160bf4b09a897a0cd15b7a771c632de
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/gRrIHmh0m4J1tOzdY0O4UQ/Fv2lucGIbhPi2caWYvF5Lg/1762258686897/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/74_e11OOuj--1PWvbDDBzA/d8575e4f2bb7991d6a11b5e422c908f2/1762258686/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/LJuU43mjokiqtcnS3ZCOXQ/Fv2lucGIbhPi2caWYvF5Lg/1762258686897/live/Z2SD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Celtics.png",07:30 ngày 04/11 Celtics vs Jazz (1) [Người Cây] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/pyIpVI8I8-qaE2P9zqCtaw/2f5c86e8dcb258706feb1f79081dd77d/1762258686/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/1200px-WWE_RAW_Logo_2025_svg.png",08:00 ngày 04/11 Monday Night Raw (1) [Người Hói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1692,102 +1188,26 @@ https://live-vipxlvb.nsnd.live/F5IFgUTK6XaIvw0X8wLHfQ/9f4a66eaa9212d11b576a17aa8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/KcztxpQCjPC45tMAp6gLeQ/Fv2lucGIbhPi2caWYvF5Lg/1762260130491/live/may21/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] HD Nhanh
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 ngày 04/11 Clippers vs Heat (1) [Người Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1762261233&sign=a9347dda627c830e5355be4b5179ffcc
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] HD1
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1762268411&sign=26a1dd224680e1b3670e78f270ab3cfb
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 ngày 04/11 Clippers vs Heat (1) [Người Thương] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/QfOoAjEx4zJ4RZNxrQv20g/Fv2lucGIbhPi2caWYvF5Lg/1762261233083/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] HD2
+https://hotlivezz179266008.akainu.xyz/K7X8aLpP-zgBUKcIzifQFA/Fv2lucGIbhPi2caWYvF5Lg/1762268411196/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 ngày 04/11 Clippers vs Heat (1) [Người Thương] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/S2971dpiBGcQO2XYqOwjaA/9f8b38d400ef6d394f2d68b3096e00f1/1762261233/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] SD
+https://live-vipxlvb.nsnd.live/u4drTduO1oCdCi5d_HKarg/364b95ac53bf5686ef14a09b64f6f3c1/1762268411/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 ngày 04/11 Clippers vs Heat (1) [Người Thương] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Qt362KTwmDG5pU2luzpkfQ/Fv2lucGIbhPi2caWYvF5Lg/1762261233083/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 04/11 Dallas Cowboys vs Arizona Cardinals (1) [Người Lửa] FullHD
+https://hotlivezz179602324.akainu.xyz/nAWidbdU7wO28olRgJuReA/Fv2lucGIbhPi2caWYvF5Lg/1762268411196/live/thuongSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 ngày 04/11 Clippers vs Heat (1) [Người Thương] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/-PfV4qyZ33pMSV1VCHu1uA/74b8773ecaa9df430432c2bf2b6bd9e0/1762261233/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07:15 ngày 04/11 Banfield vs Lanus (1) [Tai Lung] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1762237089&sign=89e415ba7fad324b94a8daed851b7b50
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07:15 ngày 04/11 Banfield vs Lanus (1) [Tai Lung] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/m36lc4j-_NdGw-xFH9DAQQ/Fv2lucGIbhPi2caWYvF5Lg/1762237089276/live/lungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07:15 ngày 04/11 Banfield vs Lanus (1) [Tai Lung] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/ncwBF1uCpq76Zc7ChbPj2w/2b6f412a8d5f1f173548083dc2d6020e/1762237089/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07:15 ngày 04/11 Banfield vs Lanus (1) [Tai Lung] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/HAmniOrFmN8wdeDvPM-nYQ/Fv2lucGIbhPi2caWYvF5Lg/1762237089277/live/lungSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",07:15 ngày 04/11 Banfield vs Lanus (1) [Tai Lung] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/GU6xBvtr8PZqOhEJwwm5vA/883ca40e5184f080c92fcfdbaf37405d/1762237089/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png/600px-Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png",07h15 ngày 04.11  Belgrano vs Tigre (Hội Quán) BLV PHAN CA FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png/600px-Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png",07h15 ngày 04.11  Belgrano vs Tigre (Hội Quán) BLV PHAN CA HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png/600px-Escudo_Oficial_del_Club_Atl%C3%A9tico_Belgrano.png",07h15 ngày 04.11  Belgrano vs Tigre (Hội Quán) BLV PHAN CA SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49720_small.png",06:30 ngày 11/04 Aurora và Independiente Petrolero (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49720_small.png",06:30 ngày 11/04 Aurora và Independiente Petrolero (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x21y3-8079/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49720_small.png",06:30 ngày 11/04 Aurora và Independiente Petrolero (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x21y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1345405_small.png",07:00 ngày 11/04 Libertad và Independiente del Valle (Mãn nhãn) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",07:15 ngày 11/04 Banfield và Lanus (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",07:15 ngày 11/04 Banfield và Lanus (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x8y3-0574/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10087_small.png",07:15 ngày 11/04 Banfield và Lanus (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10092_small.png",07:15 ngày 11/04 Belgrano và Tigre (Mãn nhãn) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MGYzZTUzMmY0YzItMjhmOA/NGQ0ZWM0YjRkOTctZjZmYg.png",ARG D1 Club Atletico Belgrano vs Tigre BLV BÍ ĐAO (Colalive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/99121525.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MGYzZTUzMmY0YzItMjhmOA/NGQ0ZWM0YjRkOTctZjZmYg.png",ARG D1 Club Atletico Belgrano vs Tigre BLV BÍ ĐAO (Colalive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/99121525.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARG D1 CA Banfield vs Club Atletico Lanus BLV RỒNG ĐỎ (Colalive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/88508431.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARG D1 CA Banfield vs Club Atletico Lanus BLV RỒNG ĐỎ (Colalive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/88508431.m3u8
+https://live-vipxlvb.nsnd.live/s6a7_SK8lN122feXjoRcIg/9d3c1936b065e6a3605ccd426df0ce6c/1762268411/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZDRmZDQ3OWJhNmYtZmY0Nw/YjBjNTQ5MjM0ODMtMTdmOQ.png",NBA Boston Celtics vs Utah Jazz BLV TEPPY (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/59444581.flv
@@ -1800,6 +1220,12 @@ https://live5.k8v4dh5.app/live/82054853.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/N2UxZmZhNmJmMDYtOGE2Yw/MDdlOWVlZGYyYTktZDcxNw.png",NBA Denver Nuggets vs Sacramento Kings BLV ROCKSTAR (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/82054853.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",NBA Portland Trail Blazers vs Los Angeles Lakers BLV Cozy (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/87379114.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",NBA Portland Trail Blazers vs Los Angeles Lakers BLV Cozy (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/87379114.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",VSBET - THỂ THAO HÀNG ĐẦU ĐỐI TÁC VSBET (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/36669975.flv
@@ -1827,15 +1253,15 @@ https://live5.k8v4dh5.app/live/26250293.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2025110356f42b2ff286851ee9bb0ece4352e47c.jpg",10h30 04/11 L.A Clippers vs Miami Heat (blvtoptop) Bàng Còi Xương
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2766.png",17h00 04/11 FC Seoul vs Chengdu Better City (blvtoptop) BED
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/aklh087186/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/303.png",17h00 04/11 Machida Zelvia vs Melbourne City (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/282.png",17h00 04/11 Sanfrecce Hiroshima vs Gangwon FC (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2766.png",17h00 04/11 FC Seoul vs Chengdu Better City (blvtoptop) BED
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/aklh087186/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/11134.png",18h00 04/11 Hồng Lĩnh Hà Tĩnh vs Hoang Anh Gia Lai (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
@@ -1857,6 +1283,9 @@ https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/560.png",00h45 05/11 Slavia Praha vs Arsenal (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7ka4/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/85.png",03h00 05/11 Paris Saint Germain vs Bayern München (blvtoptop) Lil Shady
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/40.png",03h00 05/11 Liverpool vs Real Madrid (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
@@ -1869,9 +1298,6 @@ https://livestream.waebox.com/live/aklh087186/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/496.png",03h00 05/11 Juventus vs Sporting CP (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/85.png",03h00 05/11 Paris Saint Germain vs Bayern München (blvtoptop) Lil Shady
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20251104a6521aeabc7cd32ca8ac9dd800b874cd.jpg",11h00 05/11 Los Angeles Clippers vs Oklahoma City Thunder (blvtoptop) Bàng Còi Xương
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
