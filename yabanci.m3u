@@ -226,62 +226,80 @@ udp://@225.1.3.81:30120
 udp://@225.1.1.136:30120
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV
 udp://@225.1.2.227:30120
+#EXTINF:-1 group-title="Kenh VTV" tvg-id="2" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjIxNjksInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.HR3dW23XerjBlbS57pLNIldhke1NnYwjMnCV3wTM3y0&minrate=0&maxrate=5000000&uid=114731659
+#EXTINF:-1 group-title="Kenh VTV" tvg-id="3" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI2MjE2OX0.SL48Yh6mRbALP49Q_-hiooGnzYp8-2hL47XS_MZzpu_vdodsuaBUFOEYdQs0EvnqBxbHoCYs4EK1l_6d8_oh3A&screen=MHN&uid=114731659
+#EXTINF:-1 group-title="Kenh VTV" tvg-id="4" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI2MjE3Mn0.ge3lDUOgbn0p6EAu2-8AQTyOgEZsOPVRCrS-L3HL3n29Jvz5M-AoinpxDU02EpwOT5oWsXPOb86Qjl0BBtx7Bw&screen=MHN&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="6" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://27.67.64.6:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QOUIM53Tzt7xorMw6cYu/Ubp1xJGG+sMQBy2nHuPlbcbxHv+BHPdsHaqEWJz0zAqOUlLlVpeZs04ViQMlvyNKtZ9ndEhhsbafCpHrs+qwUvRYax14/Nq9NOpTNGXZcZVYHBQKuhRnrBr5LTCcVzgDo/4axylRR0q4NnjPcDkrt/Q==&uid=114731659
+http://171.238.180.86:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TxOQvNIBd0DbkHyJiVdSCZAp0c9dlS7IAAvpAkSh9wxfhFFZ74Np7VW5EuksEGTyt+5Q6Cm8qjkH6zpgOMAFwiyysL8/gGHe79PVMjnPYWM7pN9XqXE+p1Hu2ukNbcQi0fM37VwWR/JaYW13iLmKJp0FidTBO4VhGfRXjJ3Evypg==&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="8" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQxMTUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.3xICDh6CVI5eOegSheYhDedzRNZ1jvFXa-6Xp-zZsXo&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjIxNzUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.uIqgh1E3pI2W5GUeUys1b8G81-2HNTyhCdW_L_8D294&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="98" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ
-http://27.67.64.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R2x8xGFSgMjbquYAPvQSfZxtmqbcnQLQ9t2y5V/qbkISs1pjzl7WxFiFcQFgsp16sPRNvIZdX2/kTEQkGJiBbSDtV3iawZ3P8Lffzdd5kE8w0JYKjTCiynOunBkMPTeuS/Ex2674v/z305jhz1OXybCSmauR1usfJaNETvZK3xZQ==&uid=114731659
+https://tr-netcdn.tv360.vn/netcdn-live/156/output/index.m3u8?timestamp=1762262544&wmkid=0&token=dfc2abb0ccb4fae65bffb698ff8f9de4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="108" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MDgsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.LdANfkVOws2TfYAR-k9Mo32twcqN4zhHskpywR9NZXU&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1NTAsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.HhfDsvHiRxV4q17REHuSyLI8oldAwSxmDNL6oc7tTLQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="110" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNDQ1MjZ9.wm4PQU30t1M_M71f0cUSJU_8CJrEDpFCUIx-LTW0vh1MwVGONiAmRNfDciDFJSrSKhMhDmCKeFLAY0qkRsvpag&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNjI1Njh9.TlB6NrYm-KhSV-I1lcd8vpDeyf4Kp-g1uz8LoG7DkA3mT9n9ZFs5Jj-yR8SN27UD9-UiVJFsXw2N7sjRbEzZVg&screen=MHN&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="115" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MjksInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.kyEJCRW7Ei-NFMNYNdI9rcii_PpqrKbnx093pG8T6Mc&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1NzEsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.OyJoDBuV8QHKCx8J_qpo_sv0_gvBXn8MgiJeCYMYvtQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="157" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.AST3MrG6TBB-5QY-NTZ-YlZoP4sSi_tnmyfCzJfRTUQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1ODMsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.w6S2lZsmnHCfzcPAMYMkeSPGgmzZx8zGPFHc3pkfYYI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="207" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1ODMsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.msmKThZoSkYdOGJ5ryUI_PRZ3rFlPMFj3Spd6WDkN74&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI2MzEsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.fILek7cqmUDnJgrINQsjtG818l0IYKLLZmMD-hbVO04&minrate=0&maxrate=5000000&uid=114731659
+#EXTINF:-1 group-title="Kenh VTV" tvg-id="2" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjIxNjksInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.HR3dW23XerjBlbS57pLNIldhke1NnYwjMnCV3wTM3y0&minrate=0&maxrate=5000000&uid=114731659
+#EXTINF:-1 group-title="Kenh VTV" tvg-id="3" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI2MjE2OX0.SL48Yh6mRbALP49Q_-hiooGnzYp8-2hL47XS_MZzpu_vdodsuaBUFOEYdQs0EvnqBxbHoCYs4EK1l_6d8_oh3A&screen=MHN&uid=114731659
+#EXTINF:-1 group-title="Kenh VTV" tvg-id="4" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI2MjE3Mn0.ge3lDUOgbn0p6EAu2-8AQTyOgEZsOPVRCrS-L3HL3n29Jvz5M-AoinpxDU02EpwOT5oWsXPOb86Qjl0BBtx7Bw&screen=MHN&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="6" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://27.67.64.6:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QOUIM53Tzt7xorMw6cYu/Ubp1xJGG+sMQBy2nHuPlbcbxHv+BHPdsHaqEWJz0zAqOUlLlVpeZs04ViQMlvyNKtZ9ndEhhsbafCpHrs+qwUvRYax14/Nq9NOpTNGXZcZVYHBQKuhRnrBr5LTCcVzgDo/4axylRR0q4NnjPcDkrt/Q==&uid=114731659
+http://171.238.180.86:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TxOQvNIBd0DbkHyJiVdSCZAp0c9dlS7IAAvpAkSh9wxfhFFZ74Np7VW5EuksEGTyt+5Q6Cm8qjkH6zpgOMAFwiyysL8/gGHe79PVMjnPYWM7pN9XqXE+p1Hu2ukNbcQi0fM37VwWR/JaYW13iLmKJp0FidTBO4VhGfRXjJ3Evypg==&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="8" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQxMTUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.3xICDh6CVI5eOegSheYhDedzRNZ1jvFXa-6Xp-zZsXo&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjIxNzUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.uIqgh1E3pI2W5GUeUys1b8G81-2HNTyhCdW_L_8D294&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="98" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ
-http://27.67.64.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R2x8xGFSgMjbquYAPvQSfZxtmqbcnQLQ9t2y5V/qbkISs1pjzl7WxFiFcQFgsp16sPRNvIZdX2/kTEQkGJiBbSDtV3iawZ3P8Lffzdd5kE8w0JYKjTCiynOunBkMPTeuS/Ex2674v/z305jhz1OXybCSmauR1usfJaNETvZK3xZQ==&uid=114731659
+https://tr-netcdn.tv360.vn/netcdn-live/156/output/index.m3u8?timestamp=1762262544&wmkid=0&token=dfc2abb0ccb4fae65bffb698ff8f9de4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="108" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MDgsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.LdANfkVOws2TfYAR-k9Mo32twcqN4zhHskpywR9NZXU&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1NTAsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.HhfDsvHiRxV4q17REHuSyLI8oldAwSxmDNL6oc7tTLQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="110" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNDQ1MjZ9.wm4PQU30t1M_M71f0cUSJU_8CJrEDpFCUIx-LTW0vh1MwVGONiAmRNfDciDFJSrSKhMhDmCKeFLAY0qkRsvpag&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNjI1Njh9.TlB6NrYm-KhSV-I1lcd8vpDeyf4Kp-g1uz8LoG7DkA3mT9n9ZFs5Jj-yR8SN27UD9-UiVJFsXw2N7sjRbEzZVg&screen=MHN&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="115" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MjksInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.kyEJCRW7Ei-NFMNYNdI9rcii_PpqrKbnx093pG8T6Mc&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1NzEsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.OyJoDBuV8QHKCx8J_qpo_sv0_gvBXn8MgiJeCYMYvtQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="157" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.AST3MrG6TBB-5QY-NTZ-YlZoP4sSi_tnmyfCzJfRTUQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1ODMsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.w6S2lZsmnHCfzcPAMYMkeSPGgmzZx8zGPFHc3pkfYYI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="Kenh VTV" tvg-id="207" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1ODMsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.msmKThZoSkYdOGJ5ryUI_PRZ3rFlPMFj3Spd6WDkN74&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI2MzEsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.fILek7cqmUDnJgrINQsjtG818l0IYKLLZmMD-hbVO04&minrate=0&maxrate=5000000&uid=114731659
+#EXTINF:-1 tvg-id="2" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjIxNjksInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.HR3dW23XerjBlbS57pLNIldhke1NnYwjMnCV3wTM3y0&minrate=0&maxrate=5000000&uid=114731659
+#EXTINF:-1 tvg-id="3" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI2MjE2OX0.SL48Yh6mRbALP49Q_-hiooGnzYp8-2hL47XS_MZzpu_vdodsuaBUFOEYdQs0EvnqBxbHoCYs4EK1l_6d8_oh3A&screen=MHN&uid=114731659
+#EXTINF:-1 tvg-id="4" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI2MjE3Mn0.ge3lDUOgbn0p6EAu2-8AQTyOgEZsOPVRCrS-L3HL3n29Jvz5M-AoinpxDU02EpwOT5oWsXPOb86Qjl0BBtx7Bw&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="6" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://27.67.64.6:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QOUIM53Tzt7xorMw6cYu/Ubp1xJGG+sMQBy2nHuPlbcbxHv+BHPdsHaqEWJz0zAqOUlLlVpeZs04ViQMlvyNKtZ9ndEhhsbafCpHrs+qwUvRYax14/Nq9NOpTNGXZcZVYHBQKuhRnrBr5LTCcVzgDo/4axylRR0q4NnjPcDkrt/Q==&uid=114731659
+http://171.238.180.86:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TxOQvNIBd0DbkHyJiVdSCZAp0c9dlS7IAAvpAkSh9wxfhFFZ74Np7VW5EuksEGTyt+5Q6Cm8qjkH6zpgOMAFwiyysL8/gGHe79PVMjnPYWM7pN9XqXE+p1Hu2ukNbcQi0fM37VwWR/JaYW13iLmKJp0FidTBO4VhGfRXjJ3Evypg==&uid=114731659
 #EXTINF:-1 tvg-id="8" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQxMTUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.3xICDh6CVI5eOegSheYhDedzRNZ1jvFXa-6Xp-zZsXo&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjIxNzUsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.uIqgh1E3pI2W5GUeUys1b8G81-2HNTyhCdW_L_8D294&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="98" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 Cần Thơ
-http://27.67.64.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7R2x8xGFSgMjbquYAPvQSfZxtmqbcnQLQ9t2y5V/qbkISs1pjzl7WxFiFcQFgsp16sPRNvIZdX2/kTEQkGJiBbSDtV3iawZ3P8Lffzdd5kE8w0JYKjTCiynOunBkMPTeuS/Ex2674v/z305jhz1OXybCSmauR1usfJaNETvZK3xZQ==&uid=114731659
+https://tr-netcdn.tv360.vn/netcdn-live/156/output/index.m3u8?timestamp=1762262544&wmkid=0&token=dfc2abb0ccb4fae65bffb698ff8f9de4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="108" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MDgsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.LdANfkVOws2TfYAR-k9Mo32twcqN4zhHskpywR9NZXU&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1NTAsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.HhfDsvHiRxV4q17REHuSyLI8oldAwSxmDNL6oc7tTLQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="110" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNDQ1MjZ9.wm4PQU30t1M_M71f0cUSJU_8CJrEDpFCUIx-LTW0vh1MwVGONiAmRNfDciDFJSrSKhMhDmCKeFLAY0qkRsvpag&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjIyNjI1Njh9.TlB6NrYm-KhSV-I1lcd8vpDeyf4Kp-g1uz8LoG7DkA3mT9n9ZFs5Jj-yR8SN27UD9-UiVJFsXw2N7sjRbEzZVg&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="115" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1MjksInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.kyEJCRW7Ei-NFMNYNdI9rcii_PpqrKbnx093pG8T6Mc&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1NzEsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.OyJoDBuV8QHKCx8J_qpo_sv0_gvBXn8MgiJeCYMYvtQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="157" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.AST3MrG6TBB-5QY-NTZ-YlZoP4sSi_tnmyfCzJfRTUQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1ODMsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.w6S2lZsmnHCfzcPAMYMkeSPGgmzZx8zGPFHc3pkfYYI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="207" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1ODMsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.msmKThZoSkYdOGJ5ryUI_PRZ3rFlPMFj3Spd6WDkN74&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI2MzEsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.fILek7cqmUDnJgrINQsjtG818l0IYKLLZmMD-hbVO04&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="159" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/pd7GZJ71/0000-1.png",Box Movie
-https://fo-hlc.tv360.vn/bpk-tv/162/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1NDQsInVyaSI6Ii9icGstdHYvMTYyL291dHB1dC9pbmRleC5tM3U4In0.p-wBmO5d8JWlTgRphEfLwmh1H2mrdOkgmor2O2xdflg&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/162/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI1ODYsInVyaSI6Ii9icGstdHYvMTYyL291dHB1dC9pbmRleC5tM3U4In0.quUoY0TNCdfnYdpneOkD0BqeO-wX8TLAICTAvuWr3S8&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="160" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/YjKZnzwR/Hollywood-Classics.png",Hollywood Classics
-https://rr2-ateme.tv360.vn/live/eds/163/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE2My9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjI0NDU0NH0.dHMm752cnLvnFLmBhPxl2dR1iNHPcxZJqE9m7wZXJXTos33UJIQAQBpO6TCOMQ0GEKgCuIEvOmYJ6ce8sO03WQ&screen=MHN&uid=114731659
+http://116.108.198.150:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SQPeSt74P1EFxhwdEWFYEK0R3TvrHw+9Q/Z22KTjAF+u+e6O61AXdzQatnGAN3P9CCOzolumeaEMtqT2R/kPwscDcOWJNtcM9Bvtcm8VcRiCazzFQl/FdqU+OWnmQU+7iD7YgUt8OkWXXJzL+0aZd5EyZ9gq59LL/B4wRYWJqfyQ==&uid=114731659
 #EXTINF:-1 tvg-id="235" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/nVC6bCpJ/t-i-xu-ng.png",In The Box
-https://fo-hlc.tv360.vn/bpk-tv/187/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ1OTUsInVyaSI6Ii9icGstdHYvMTg3L291dHB1dC9pbmRleC5tM3U4In0.XJfjJeZRMyWg8BiFwIrJwowP9rUOegSd4ZOK7l9_h7k&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/187/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI2NDksInVyaSI6Ii9icGstdHYvMTg3L291dHB1dC9pbmRleC5tM3U4In0.r3qrNn55FesfyqvFN0iy6fe3rnzbZ1g9KTny_Qd3Eqk&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9856" group-title="Quốc Tế 👻" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/Hybris/VC400038_1_image01.png",History
-https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNDQ2MzcsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.gpP1Lz1bZtpuq5amVgwrnHOuW7BU7lPwLbG4NM4-qSw&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIyNjI2OTQsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.Vo8_aWzF3rbfo94nYBruA2Co4APvYxAVzyZw6uk6X6Q&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
@@ -464,74 +482,58 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Cà Khịa) SD 1
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Cà Khịa) HD 1
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Cà Khịa) SD  (Nhanh)
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Cà Khịa) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Cà Khịa) HD  (Nhanh)
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Cà Khịa) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Lấy kinh) SD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Lấy kinh) HD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Lấy kinh) 
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Lấy kinh) SD Nhanh
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1RK.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Lấy kinh) HD Nhanh
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Lấy kinh) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1RK.flv
+https://ckhot-179939170.cdnfree.pro/live/natrahd2RK/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/973df86038951d13887d24ac718f4612.png",13h00 ngày 04/11 FC Lochin vs Oktepa (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762236590.png",13h15 ngày 04/11 Real Madrid vs Valencia (Lương Sơn) BLV THỜI THIÊN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762236590.png",13h15 ngày 04/11 Real Madrid vs Valencia (Lương Sơn) BLV THỜI THIÊN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762236361.png",13h00 ngày 04/11 Real Madrid vs Barcelona (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnokvip.com/live/TEST2/index.m3u8?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762236361.png",13h00 ngày 04/11 Real Madrid vs Barcelona (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnokvip.com/live/TEST2.flv?expire=1892296680&sign=1977a4202a07089c09e7170aee5cebb8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Ra Khơi) SD 1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762236590.png",13h15 ngày 04/11 Real Madrid vs Valencia (Lương Sơn) BLV THỜI THIÊN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Ra Khơi) HD 1
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762236590.png",13h15 ngày 04/11 Real Madrid vs Valencia (Lương Sơn) BLV THỜI THIÊN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Ra Khơi) SD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (Ra Khơi) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1RK.flv
+https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -556,26 +558,26 @@ https://live.alilicloud.com/live/79977ef01b3e92c668347f5d4611f427/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8523528afd4cd7cf83ac40a9e21d0748/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (QUAY TAY) SD 1
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (QUAY TAY) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (QUAY TAY) HD 1
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrasd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (QUAY TAY) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (QUAY TAY) 
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@natrahd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (QUAY TAY) SD Nhanh
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3e4ab507d5b1007d9932d22ac716be74.png",12h30 ngày 04/11 FC Bengaluru United vs Bengaluru Roots FC (QUAY TAY) HD Nhanh
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrahd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hindustan_Aeronautics_Limited_Logo.svg/1200px-Hindustan_Aeronautics_Limited_Logo.svg.png",15h00 ngày 04/11 Hal FC vs ASC & Center FC (QUAY TAY) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1RK.flv
+https://ckhot-179939170.cdnfree.pro/live/natrahd2RK/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/973df86038951d13887d24ac718f4612.png",13h00 ngày 04/11 FC Lochin vs Oktepa (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -947,103 +949,127 @@ https://live.alilicloud.com/live/79977ef01b3e92c668347f5d4611f427/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762231342.png",12h00 ngày 04/11 Barcelona  vs Elche (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/TO3C/index.m3u8?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762231342.png",12h00 ngày 04/11 Barcelona  vs Elche (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/TO3C.flv?expire=1875681300&sign=015129bcbd63368bf36946e12b5950c6
+
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762232603.png",12h00 ngày 04/11 Sunderland vs Everton (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762232603.png",12h00 ngày 04/11 Sunderland vs Everton (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1762245684-0-0-979dfaa93af2d02af50f3d490b5d712a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1762245684-0-0-5a283be5e008e0e3c7f3096ac0141276
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762245684-0-0-95392649045368b9891df76bf415bb09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762245684-0-0-6928ce6198269d0f52f51fab7a9ac352
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [BLV BEAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-480p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [BLV BEAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-720p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [BLV BEAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-480p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/69ccd3fc0acf86ab04dd7cf15686dfe2.png",15h00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves [BLV BEAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/9912111-720p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762241004-0-0-874db2c75cf8a4ed79d27b62a6fb43b0
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762245684-0-0-c8fda492ee6daa755e92b74ce862236a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762241004-0-0-02efe31766dc7ba940054973ec4f92a7
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762245684-0-0-38d86cc230831842a1651afa69bff162
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762241004-0-0-1c35f264278bc123bdbbe227667d1943
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762245684-0-0-9c9b629797902ef903291d0b117590c9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762241004-0-0-935478f274dc799e7eeec6d3eb139532
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1762241004-0-0-8e6f33612e7d0cf07548b6de3b65304c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1762241004-0-0-71fc51b4f2c19171367501adb3b43b93
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1762241004-0-0-8eede074d3b781b5ba5e2680e16bef7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1762241004-0-0-a85eede708c3f899e4a606c7f2d0b187
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1762241004-0-0-3b2c266d8d239e4ed4ebf5bf352e9cc8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1762241004-0-0-0b34627b459b417fe7293b57cfd593df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1762241004-0-0-180507aef1196ff3d0c61000e9504b14
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1762241004-0-0-636917c10b1184094f8dddcf762ff17f
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762245684-0-0-8eaa5e5a21bc295e3b36608c3e9828f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - AC Milan vs AS Roma [Sóc phụ hồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1762241004-0-0-80935443599265dcf4aedb683ef03205
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1762245684-0-0-e82f2f16c6440674e358eccb635fafb1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - AC Milan vs AS Roma [Sóc phụ hồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1762241004-0-0-db1a3552155d86d466b15a4bffdd2501
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1762245684-0-0-74a8c592f4d1af33073b23985fafd23c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - AC Milan vs AS Roma [Sóc phụ hồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1762241004-0-0-68d3553e62085221db708341295de274
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1762245684-0-0-0ef1ade40b1d655e1d6770afc91ffd3a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - AC Milan vs AS Roma [Sóc phụ hồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1762241004-0-0-bf075b519874ac5c19d2ec974d397851
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1762245684-0-0-44fb1d9d6de0686f6b0f85a3260f4056
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1762245684-0-0-c9940e65918da5798507687273943362
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1762245684-0-0-aac259ff359314e1c4cccdb85e8e48d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1762245684-0-0-1a3be2c4786ca31f5fe339d5bf7caa83
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - FC Barcelona vs Elche [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1762245684-0-0-dd84473d389c446d74f1f1b30e070a42
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - Real Betis vs RCD Mallorca [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1762241004-0-0-8b851356fa02c4cbd036bf882a1aeeac
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1762245684-0-0-6d3faf057c1509181145c58d3d2c7e87
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - Real Betis vs RCD Mallorca [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1762241004-0-0-1d0b1d9ceda93a0bd54e68c80375aa01
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1762245684-0-0-aa637d72dda4c1447c9671a42064bbea
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - Real Betis vs RCD Mallorca [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1762241004-0-0-05a95179558c67cedcc21f9b75d5eb1a
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1762245684-0-0-91ac2817aef146fc12d86175371377ba
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: SPA D1 - Real Betis vs RCD Mallorca [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1762241004-0-0-984b39576794b0838d088e35d046dc1e
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1762245684-0-0-8748a8df23be5fe9a4762d28600ebb32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1762245684-0-0-413684daaeceb3a21a4f3d234523b577
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1762245684-0-0-12935a26612b2555c04226a7360eaef4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1762245684-0-0-978d7761fe21754dc48b8f6dd112b0cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Lazio vs Cagliari [Sóc xào sả ớt] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1762245684-0-0-ebb2a7acd0a75cee1ae605a1a1a9d10b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Sassuolo vs Genoa [Sóc chó điên] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1762241004-0-0-4458d9fafd78b6a8b1e7d7572cf85a9a
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1762245684-0-0-a598656f3a83b0d1f81d2e162efa03fd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Sassuolo vs Genoa [Sóc chó điên] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1762241004-0-0-8c30f075498da656defe4a69a5058227
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1762245684-0-0-a89304a5e5e6ecb471915395ee7661f9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Sassuolo vs Genoa [Sóc chó điên] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1762241004-0-0-c18cea5ce6e6f898f3d9a63473dd0006
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1762245684-0-0-fad060b3877b5dbd0787cc0e9257f18f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ITA D1 - Sassuolo vs Genoa [Sóc chó điên] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1762241004-0-0-072b3d98a3ba05ee8030f80d5b7eeda5
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1762245684-0-0-6bd218693df9fff0032e28616f722aeb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ENG PR - Sunderland vs Everton [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1762241004-0-0-f163889731d98ccfc1b5a9728d4e02a7
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1762245684-0-0-4512fa8396aa9e88d8033418b8e41523
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ENG PR - Sunderland vs Everton [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1762241004-0-0-eac23bb94594e3cd8e4180a0695ddb82
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1762245684-0-0-b9c3e5f5842350cf29447c77a304b345
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ENG PR - Sunderland vs Everton [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1762241004-0-0-4925ef30dd62fc0d468392ab0e532d5a
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1762245684-0-0-93c4ab965214e9f008ec2e55e7d729d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251031/a9e2aea1b8160919be3ffb219a973eab.png",Tường thuật: ENG PR - Sunderland vs Everton [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1762241004-0-0-b09f3dfdb85cb389c413db831a677c1f
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1762245684-0-0-97cddeab366bf9df824ead616f5b7d92
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",08:00 ngày 04/11 IKSAN VICTOR Korea Masters 2025 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1123,43 +1149,43 @@ https://live-vipxlvb.nsnd.live/ko09w6CAyRQw6R1YEtdD3g/bb30dc1883f5f92057cd67eec6
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",16:30 ngày 04/11 Falcons vs Spirit (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1762284254&sign=619f3a6a76f928e2cdcf90bb2b4cb199
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1762285692&sign=5aa95152630d2f60d3a6e3a37817654c
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",16:30 ngày 04/11 Falcons vs Spirit (1) [Người Phép] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/oY3_bzwOVtDYTpmSQCYHNw/Fv2lucGIbhPi2caWYvF5Lg/1762284254445/live/phepHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/uMjVJl6OtH48GOfkyui3DQ/Fv2lucGIbhPi2caWYvF5Lg/1762285692661/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",16:30 ngày 04/11 Falcons vs Spirit (1) [Người Phép] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/3T5fdnDB4jVhgd1eT0z3PA/44aad5dfa01c79ab75667d799c2e06c1/1762284254/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/0a9uv9E7dydPqQDjCIajKw/44aad5dfa01c79ab75667d799c2e06c1/1762285692/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",16:30 ngày 04/11 Falcons vs Spirit (1) [Người Phép] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/gSUOEsbkKsSJU35uQpXQYg/Fv2lucGIbhPi2caWYvF5Lg/1762284254445/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/QWhAgwwownEqWpEDyZK8oQ/Fv2lucGIbhPi2caWYvF5Lg/1762285692661/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",16:30 ngày 04/11 Falcons vs Spirit (1) [Người Phép] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/yDSINzt2tE7ULT9Wo6_wJA/bb30dc1883f5f92057cd67eec640c4d0/1762284254/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/mgyrF1oZdK3ropGjaAT6Vg/bb30dc1883f5f92057cd67eec640c4d0/1762285692/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/47f1194ed9989759c7ed13c7659cd5ee.png",15:00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1762284606&sign=701738db730b2a602f8a92d3f171497a
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1762285694&sign=8689d16acfdc5f39e2abf4b519dd08be
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/47f1194ed9989759c7ed13c7659cd5ee.png",15:00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/zkkVyhYa-OLrYQEocUTfZA/Fv2lucGIbhPi2caWYvF5Lg/1762284606458/live/luaHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/sjZDrby2-RFrRlvEuuM4vg/Fv2lucGIbhPi2caWYvF5Lg/1762285694457/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/47f1194ed9989759c7ed13c7659cd5ee.png",15:00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/wP9adYK1RAH_SM0MbBtxIw/9f8b38d400ef6d394f2d68b3096e00f1/1762284606/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/0ingy_dd_rbsqJ-DiWMXvA/9f8b38d400ef6d394f2d68b3096e00f1/1762285694/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/47f1194ed9989759c7ed13c7659cd5ee.png",15:00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/zjnBcJk78wt03WR3Er-PmA/Fv2lucGIbhPi2caWYvF5Lg/1762284606459/live/luaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/s6esvPBQPDXB97b9mF1FMw/Fv2lucGIbhPi2caWYvF5Lg/1762285694457/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/47f1194ed9989759c7ed13c7659cd5ee.png",15:00 ngày 04/11 San Juan Knights vs Pangasinan Heatwaves (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/VhOVA8cbSMxy0oBElaHCEQ/74b8773ecaa9df430432c2bf2b6bd9e0/1762284606/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/e1gkPywp85GdqZhfCkVZrw/74b8773ecaa9df430432c2bf2b6bd9e0/1762285694/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",ENG PR Sunderland AFC vs Everton TƯỜNG THUẬT (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/73756949.flv
