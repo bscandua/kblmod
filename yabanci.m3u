@@ -444,10 +444,14 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/20ae97a46ed6bfe99b71930dc027d559.png",13h00 ngày 07/11 CF Wellington United Women vs Powerex Petone (w) (Bún Chả)
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/bb0af557092493a7ef9f5f3f0590e13b.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/2dbded353c289d56ca51875839044e40/playlist.m3u8
+https://live.alilicloud.com/live/99d4b9961e014ba9398396fa7c8bfad7/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/bc575d043f92657a6dd97751cd326cce.png",15h00 ngày 07/11 Bengaluru Roots FC vs Royal Banga Lu Lu (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/b771b9fbae8409fc5e6b68d1e266ef88/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -476,26 +480,62 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuonghd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/bc575d043f92657a6dd97751cd326cce.png",15h00 ngày 07/11 Bengaluru Roots FC vs Royal Banga Lu Lu (Lấy kinh) Nhà đài
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png",15h30 ngày 07/11 Garudayaksa vs Sumsel United (Cà Khịa) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heosd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heohd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Cà Khịa) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heosd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Cà Khịa) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Cà Khịa) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Cà Khịa) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8 ·
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WfHmkpCgV3QS07PvrXglKoeW_7Mb0WG6qlDJBYqkKHeZxt6rqkXE8GrwpkzZC59-sA0&usqp=CAU",14h45 ngày 07/11 Nongkseh SCC vs Ryntih SC (Lấy kinh) Nhà đài
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m3u8 
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png",15h30 ngày 07/11 Garudayaksa vs Sumsel United (Lấy kinh) Nhà đài
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Lấy kinh) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m302nd/playlist.m3u8 
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/e25b3c116f921e16474813c883d84b79.png",15h30 ngày 07/11 Persela Lamongan vs Persipal Palu (Lấy kinh) Nhà đài
+https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m303nd/playlist.m3u8 
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3070cb22221dce61d14dc1ed61ccb494.png",15h30 ngày 07/11 Deltras Sidoarjo vs Persiba Balikpapan (Lấy kinh) Nhà đài
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heosd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m304nd/playlist.m3u8 
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1RK.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 07/11 Perth Glory (w) vs Brisbane Roar (w) (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -516,16 +556,88 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuonghd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Lấy kinh) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/bc575d043f92657a6dd97751cd326cce.png",15h00 ngày 07/11 Bengaluru Roots FC vs Royal Banga Lu Lu (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/62e15339668906d0f8df72bd14d6f580.png",15h30 ngày 07/11 Sriwijaya FC vs Adhyaksa Farmel FC (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m305nd/playlist.m3u8 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762493734.png",12h40 ngày 07/11 Paris Saint-Germain vs Bayern München (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png",15h30 ngày 07/11 Garudayaksa vs Sumsel United (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762493734.png",12h40 ngày 07/11 Paris Saint-Germain vs Bayern München (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/e25b3c116f921e16474813c883d84b79.png",15h30 ngày 07/11 Persela Lamongan vs Persipal Palu (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m303nd/playlist.m3u8 
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3070cb22221dce61d14dc1ed61ccb494.png",15h30 ngày 07/11 Deltras Sidoarjo vs Persiba Balikpapan (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m304nd/playlist.m3u8 
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a2f47271892fb491ffab880158419ca0.png",15h35 ngày 07/11 Sydney United 58 FC vs A.P.I.A. Leichhardt Tigers (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8002_20130923115323.png",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Lương Sơn) BLV ODIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ODIN/index.m3u8?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8002_20130923115323.png",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Lương Sơn) BLV ODIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ODIN.flv?expire=1788427256&sign=dbabf306532cc0f9b44f028e60fcd7e5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8002_20130923115323.png",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Lương Sơn) BLV PEP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8002_20130923115323.png",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Lương Sơn) BLV PEP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PEP.flv?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8002_20130923115323.png",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Lương Sơn) BLV HOA VINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8002_20130923115323.png",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Lương Sơn) BLV HOA VINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LOELOE6380K.flv?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png",15h30 ngày 07/11 Garudayaksa vs Sumsel United (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (Ra Khơi) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1RK.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/bc575d043f92657a6dd97751cd326cce.png",15h00 ngày 07/11 Bengaluru Roots FC vs Royal Banga Lu Lu (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -546,6 +658,30 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuonghd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heosd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (Ra Khơi) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1RK.flv
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162236_small.png",15:00 ngày 11/07 Sydney United 58 và APIA Leichhardt FC (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675730_small.png",15:00 ngày 11/07 Perth Glory (W) và Brisbane Roar FC (W) (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/20ae97a46ed6bfe99b71930dc027d559.png",13h00 ngày 06/11 CF Wellington United Women vs Powerex Petone (w) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -554,26 +690,14 @@ https://live.alilicloud.com/live/2dbded353c289d56ca51875839044e40/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/70ab67a3db2702f060da0a1445e5b877/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/2b55a0016366c6b306fc94c6d4e4bd3d.png",08h45 ngày 06/11 Cobar Torre Onagawa vs Tokyo United (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 06/11 Perth Glory Women vs Brisbane Roar Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9f4471ebc5ef311d7e73dd30f1565b17/playlist.m3u8
+https://live.alilicloud.com/live/99d4b9961e014ba9398396fa7c8bfad7/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/cd1509ed8c21383fc3e87b640810ae14.png",11h30 ngày 06/11 Arterivo Wakayama vs Veroskronos Tsuno (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/92ed96eca724e04df7e55e7960d88553/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/a14e04b8e08256f34fcfcdb837fbb97d.png",08h45 ngày 06/11 VONDS Ichihara vs Celeste Tokushima (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/be7cb154f17f6e7b7cefdec51b990dda/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/dd52cccb1c72468edf32e96edd3df08d.png",08h45 ngày 06/11 Toyama Shinjo vs Gakunan F Mosuperio (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/48e34a8c188074a45996d69ca8673132/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/c28028bd9f03205a308a016f39e238f6.png",09h00 ngày 06/11 Venados FC Yucatán vs Tlaxcala FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/524ab7110654436b9ee26a1c1af011f9/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/5e1e93f0c13d03a2d23bfa87ee39a9d2.png",12h30 ngày 06/11 Asc And Center FC vs Rebels FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -586,18 +710,166 @@ https://live.alilicloud.com/live/555e3b50a810ae3c8d09758ccef5a4f0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d1147e7688195e07a84b782ff442fc6a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/144a55296ca94f84b237645fec26856d_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/144a55296ca94f84b237645fec26856d_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/144a55296ca94f84b237645fec26856d_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/bc575d043f92657a6dd97751cd326cce.png",15h00 ngày 06/11 Bengaluru Roots FC vs Royal Banga Lu Lu (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b771b9fbae8409fc5e6b68d1e266ef88/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 07/11 Perth Glory (w) vs Brisbane Roar (w) (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nguumavuongsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 07/11 Perth Glory (w) vs Brisbane Roar (w) (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nguumavuonghd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 07/11 Perth Glory (w) vs Brisbane Roar (w) (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 07/11 Perth Glory (w) vs Brisbane Roar (w) (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuongsd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 07/11 Perth Glory (w) vs Brisbane Roar (w) (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@nguumavuonghd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplushd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplussd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@hplushd1RK.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/bc575d043f92657a6dd97751cd326cce.png",15h00 ngày 07/11 Bengaluru Roots FC vs Royal Banga Lu Lu (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8 ·
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/62e15339668906d0f8df72bd14d6f580.png",15h30 ngày 07/11 Sriwijaya FC vs Adhyaksa Farmel FC (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m305nd/playlist.m3u8 
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3990ecb8ff4fa39127a6606f4ee53ba2.png",15h30 ngày 07/11 Garudayaksa vs Sumsel United (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m401nd/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e25b3c116f921e16474813c883d84b79.png",15h30 ngày 07/11 Persela Lamongan vs Persipal Palu (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m303nd/playlist.m3u8 
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3070cb22221dce61d14dc1ed61ccb494.png",15h30 ngày 07/11 Deltras Sidoarjo vs Persiba Balikpapan (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m304nd/playlist.m3u8 
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/a2f47271892fb491ffab880158419ca0.png",15h35 ngày 07/11 Sydney United 58 FC vs A.P.I.A. Leichhardt Tigers (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m403nd/playlist.m3u8 
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heosd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/db2f5c81315118627c68dcf5daa3a15d.png",15h35 ngày 07/11 Adelaide United vs Western Sydney (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1RK.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d21d80830af644a896518eb73b6acea9/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/f8fecd0681c24f7daeb520ff1e666b31_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/f8fecd0681c24f7daeb520ff1e666b31_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/f8fecd0681c24f7daeb520ff1e666b31_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/f8fecd0681c24f7daeb520ff1e666b31_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/f8fecd0681c24f7daeb520ff1e666b31_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e5f515e5720cd281a1a53ce2950992b1.png",15h35 ngày 06/11 Adelaide United vs Western Sydney (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/f8fecd0681c24f7daeb520ff1e666b31_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/bc575d043f92657a6dd97751cd326cce.png",15h00 ngày 06/11 Bengaluru Roots FC vs Royal Banga Lu Lu (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b771b9fbae8409fc5e6b68d1e266ef88/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/837cf9a178940067578b7343018e003a.png",15h30 ngày 06/11 Bhayangkara Presisi Indonesia FC vs Bali United (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/43bf6d830e180e32b977a57bca017daf/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/015df51660b2918c97305936453e454c.png",15h30 ngày 06/11 Garudayaksa FC vs Sumsel United (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/97efec5d2e7beb8b29019e4d59f9739d/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/20ae97a46ed6bfe99b71930dc027d559.png",13h00 ngày 06/11 CF Wellington United Women vs Powerex Petone (w) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/2dbded353c289d56ca51875839044e40/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/dcba383672b526b32cc5e2047c0e7722.png",15h00 ngày 06/11 Perth Glory Women vs Brisbane Roar Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/99d4b9961e014ba9398396fa7c8bfad7/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e25b3c116f921e16474813c883d84b79.png",15h30 ngày 06/11 Persela Lamongan vs Persipal Palu (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c2ddeb51cad7e06c7419177d0736a66a/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/cd1509ed8c21383fc3e87b640810ae14.png",11h30 ngày 06/11 Arterivo Wakayama vs Veroskronos Tsuno (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/92ed96eca724e04df7e55e7960d88553/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/3fc104043a1954d7ff2c03d017c7d1be.png",15h30 ngày 06/11 Sriwijaya FC vs Adhyaksa FC Banten (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/400fc79035917e1d69e3a90c40fb1b22/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5e1e93f0c13d03a2d23bfa87ee39a9d2.png",12h30 ngày 06/11 Asc And Center FC vs Rebels FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -610,6 +882,10 @@ https://live.alilicloud.com/live/555e3b50a810ae3c8d09758ccef5a4f0/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d1147e7688195e07a84b782ff442fc6a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/17b374526b13202d06280f9b43c8425d.png",15h30 ngày 06/11 Deltras Sidoarjo vs Persiba Balikpapan (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/666ecb092caece5a6ac88b5b380bc1ce/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762498539.png",13h55 ngày 07/11 Club Brugge vs FC Barcelona (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -618,150 +894,218 @@ https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [BLV BEAN] (Socolive) flv
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20130923115323.png?win007=sell",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912111_lsd.flv?auth_key=1762503444-0-0-90991f47f5ae942ec83be2220fa45358
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [BLV BEAN] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANTAI/index.m3u8?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/20130923115323.png?win007=sell",15h00 ngày 07/11 Perth Glory (W) vs Brisbane Roar (W) (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912111_lhd.flv?auth_key=1762503444-0-0-19fc05ade7d5de98bb2fa343df155a99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [BLV BEAN] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANTAI.flv?expire=1860501480&sign=48479b66b503225db4b2785147e6c4d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [CÔNG LÝ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912111_lsd.m3u8?auth_key=1762503444-0-0-d87da2e0064598ff5ce2527e580f8dfb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [BLV BEAN] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1762506684-0-0-40bbfffadcf65afb64813e8c831f7b31
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [CÔNG LÝ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912111_lhd.m3u8?auth_key=1762503444-0-0-2ab05699d0b1ddd35fac11aa5c8553a5
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1762506684-0-0-1750f223e56d3099c59a664d6d3bad0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [CÔNG LÝ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1762506684-0-0-fc2aed1518d9fb530d4fa770d1071a1f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [CÔNG LÝ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1762506684-0-0-7284c1f89315dfc9d8e32a2c793926dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/6498d38faee3d5c768ed784e0e3f1494.png",22h45 ngày 07/11 Brazil U17 vs Indonesia U17 [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1762507404-0-0-e00779983a52d6c70edecb3f5b542905
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/6498d38faee3d5c768ed784e0e3f1494.png",22h45 ngày 07/11 Brazil U17 vs Indonesia U17 [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1762507404-0-0-1a5edc7453d0eeaea1039608d64b707f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/6498d38faee3d5c768ed784e0e3f1494.png",22h45 ngày 07/11 Brazil U17 vs Indonesia U17 [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1762507404-0-0-d6ff94b22cb7ae28d9f99960bf690512
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/6498d38faee3d5c768ed784e0e3f1494.png",22h45 ngày 07/11 Brazil U17 vs Indonesia U17 [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1762507404-0-0-296f603220d9256a36308ab539f49d34
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1762507404-0-0-e2e1ae8105321bcce1891e8a3aecb091
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1762507404-0-0-4d9ade460a16a35e30f309f6070f0bd2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1762507404-0-0-49e689714f1cc3f4a0929d0650522589
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1762507404-0-0-6f99bb671b6f466844f788f854980441
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=f8a7c905c17672677bceacb0235d2f17&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=f8443d9947b4e10605b470f2ef24c2cc&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=f8a7c905c17672677bceacb0235d2f17&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=f8443d9947b4e10605b470f2ef24c2cc&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1762507404-0-0-228b615db40c4b416d1413be6f2f468d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1762507404-0-0-de00c22d7413360dbde094ce07d2db42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1762507404-0-0-ebfbd46564a34854f9f06ea8d4da57c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1762507404-0-0-dbab2ac58bf9f69fb09b1aeb126b0859
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=953b030164c3c459739444c81d41cc84&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=b66244efd5ed3786f53b6467704fa320&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=953b030164c3c459739444c81d41cc84&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b66244efd5ed3786f53b6467704fa320&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1762507404-0-0-2473aa915db609ecee22e6780d0360d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1762507404-0-0-6b1f4f56864ca02a787d74462cd93309
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1762507404-0-0-8af9005fa49c0cdd5f4e97d004f22888
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1762507404-0-0-26e25a0baf938caaca39aca489cde872
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV CRIS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.flv?txSecret=5eb235b80334aeef227803a0b9a90604&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV CRIS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.flv?txSecret=31c2922ad6c08ff0f10f155f3aa7e0d6&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV CRIS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=5eb235b80334aeef227803a0b9a90604&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [BLV CRIS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=31c2922ad6c08ff0f10f155f3aa7e0d6&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV FANTA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912104_lsd.flv?auth_key=1762507404-0-0-bc07a223adebde6cb52d9cf7a4330551
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV FANTA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912104_lhd.flv?auth_key=1762507404-0-0-1fb51db555342cbfd1f964a276b77c5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV FANTA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912104_lsd.m3u8?auth_key=1762507404-0-0-3c31685716c747a832937155d68ad3df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [BLV FANTA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1762507404-0-0-02fb375c40256836b783b76a1216be71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [BLV KINH TẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1762507404-0-0-5181e783de414f4111aac729805d5020
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [BLV KINH TẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1762507404-0-0-8af6057afb838c4482640b88986ee31d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [BLV KINH TẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1762507404-0-0-5af1650d4dd18b177ea5ae84d0a2b291
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/2d8c743934fa1b5e54a08f09a6a7cddd.png",15h35 ngày 07/11 Sydney United 58 FC vs APIA Leichhardt Tigers [BLV KINH TẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1762507404-0-0-8157365cfccf017dfff0089dda45c2b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=b28388759a40fc09154e2fe0f5923c3e&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=a27ee0a95dc6d178bc04739d439fd5d4&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=b28388759a40fc09154e2fe0f5923c3e&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/386903bb8c3db2892d9ee6d50978a5d6.png",15h35 ngày 07/11 Adelaide United vs Western Sydney [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=a27ee0a95dc6d178bc04739d439fd5d4&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV Sao Đỏ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lsd.flv?txSecret=4a3ca8a21e619ad3677123ed7624135b&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV Sao Đỏ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lhd.flv?txSecret=80d7a5bcf49926f33d891059b05ba65b&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV Sao Đỏ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=4a3ca8a21e619ad3677123ed7624135b&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/24a2352999215b8f88eb7cde138e4db1.png",15h00 ngày 07/11 Perth Glory Women vs Brisbane Roar Women [BLV Sao Đỏ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=80d7a5bcf49926f33d891059b05ba65b&txTime=690e00dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b90b8351093d5821b5b4f4682599731a.png",15h30 ngày 07/11 Cairns Taipans vs Illawarra Hawks [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1762507404-0-0-4f0dafbb014181841daec5215d972905
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b90b8351093d5821b5b4f4682599731a.png",15h30 ngày 07/11 Cairns Taipans vs Illawarra Hawks [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1762507404-0-0-10488d4f2de46d754fa46fa30f93137d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b90b8351093d5821b5b4f4682599731a.png",15h30 ngày 07/11 Cairns Taipans vs Illawarra Hawks [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1762507404-0-0-4c4196c4b26bd67ccfc83ef625800ee8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b90b8351093d5821b5b4f4682599731a.png",15h30 ngày 07/11 Cairns Taipans vs Illawarra Hawks [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1762507404-0-0-508b77407ea7a874a5e03c5ae8d13229
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1762507404-0-0-c117275734ccaf346a893e35a62d90b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1762507404-0-0-f0de710e4475fea17b4b9eb59076ce67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1762507404-0-0-76ee792702c8c652f4c832c4c227e7a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251104/4784e8d4873161b3eb68731f80e7cbb9.png",15h30 ngày 07/11 Bhayangkara Presisi Indonesia FC vs Bali United [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1762507404-0-0-5a42086ce22b497752871b5a4b282fa4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1762503444-0-0-bca1c7a571aee3fcc66f5d41ff2826e6
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1762507404-0-0-006bde8f0c3dc6ed1ba0b7ee1798d35d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1762503444-0-0-60f35b65b8dd6f5328e8036838af3fcf
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1762507404-0-0-1425ba3e2b1c65826c31853bd960912e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762503444-0-0-1723c1070052c8e4fe6e51bec2dc08d8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1762507404-0-0-899e3969d5d94fa52adcaf4c62b42ecc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762503444-0-0-188e67cf9660fbd2c401eb0aa43a19b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-356042_lsd.flv?txSecret=50dfb38d052a710051c93155b6d1513d&txTime=690df164
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-356042_lhd.flv?txSecret=907d3b4ed441d02296945464fddf3096&txTime=690df164
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=50dfb38d052a710051c93155b6d1513d&txTime=690df164
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=907d3b4ed441d02296945464fddf3096&txTime=690df164
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1762507404-0-0-02b695ae167eb539a65e468e89633de4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1762503444-0-0-2cd914e47430f413a96f51adec0238c7
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1762507404-0-0-d0d82b9c798880f82b4211a39f3512dc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1762503444-0-0-72c3eaa0db6e226340d0fea4388e7a49
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1762507404-0-0-6abc3c9eee26231f41b39575c2faeb87
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762503444-0-0-d713d7308d8d0e1dee3dec3cb4280809
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1762507404-0-0-ea20153c9328acd6850a564a02242c48
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/8233d9dffe99b367deada123b25d52f9.png",13h30 ngày 07/11 Southern Hoiho W vs Mid-North Whai W [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762503444-0-0-01b9be186cc9d3ac7eb5c2ff2e9862ba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1762503444-0-0-45ebf7dde45b9d92e8c7ff60b90f01c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1762503444-0-0-a1ffbd7f68b960659c56ab1bc42c9583
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1762503444-0-0-9fbd804276a433c18d9ba0bb205f0977
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/a71259f3fcadbf3c654414d45076160f.png",13h30 ngày 07/11 Geelong United W vs Townsville W [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1762503444-0-0-8b2d18243a179ffe78318902a84aeaa7
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1762507404-0-0-7f6b9caafcdaac7364a3c97af356cccc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762503444-0-0-f100ee8fdc22e220ed565b54660e9f33
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762507404-0-0-a84a208c1d8187b601a84b807686997a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762503444-0-0-f1a418d5c5738823a7c2fda4d112b896
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762507404-0-0-32fc3e3a0d9879d2e981b23221f11176
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762503444-0-0-3493051f033ffb7f9323602eaa85269a
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762507404-0-0-72a5e6f36c3160cdadacfca587c118bb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762503444-0-0-7a729525e6a582e0d32ce3323e99bc80
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Manchester City vs Borussia Dortmund [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1762503444-0-0-dba37e2b67bdf42c61b741c3a5f58984
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Manchester City vs Borussia Dortmund [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1762503444-0-0-520a14caa5d2b5bab7c8e3bb7551a2ea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Manchester City vs Borussia Dortmund [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1762503444-0-0-d1bed822aea40c214b051bc4569d98f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Manchester City vs Borussia Dortmund [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1762503444-0-0-87bd491fbf2798320848f93da7946e47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Sturm Graz vs Nottingham Forest [Sóc chó điên] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1762503444-0-0-ae375388ab437d376084d0a866a666ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Sturm Graz vs Nottingham Forest [Sóc chó điên] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1762503444-0-0-e0e640186ea746a0deb39fcffaea0df0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Sturm Graz vs Nottingham Forest [Sóc chó điên] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1762503444-0-0-3e101beebdfaf3eb8909d294c98c6fa8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Sturm Graz vs Nottingham Forest [Sóc chó điên] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1762503444-0-0-1db1a71ffdfb129b55bbcf76ae16b18e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Real Betis vs Lyon [Sóc phụ hồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1762503444-0-0-7029f9b3d087e2dbbc94c84330f05106
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Real Betis vs Lyon [Sóc phụ hồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1762503444-0-0-0ab7f31f8b83df788f4fda9a560b2234
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Real Betis vs Lyon [Sóc phụ hồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1762503444-0-0-d14044a5933d3f9082f8c79ec4edc46e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Real Betis vs Lyon [Sóc phụ hồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1762503444-0-0-55a11bcce94ea32f2e4f391d005fca1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Rangers vs AS Roma [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1762503444-0-0-d75959d0c8d7adf92c050618db3a3bf9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Rangers vs AS Roma [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1762503444-0-0-03abe649797c76fe95a4e1809615e26f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Rangers vs AS Roma [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1762503444-0-0-78824ba744e9763b1bea8f9c16536b36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Rangers vs AS Roma [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1762503444-0-0-637885dfde64d14678a08cd6990c12d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Pafos FC vs Villarreal CF [Sóc xào sả ớt] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1762503444-0-0-37d45d023c6f073dbb579312ed998a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Pafos FC vs Villarreal CF [Sóc xào sả ớt] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1762503444-0-0-9be186654e6e61b9750935d6c24c690d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Pafos FC vs Villarreal CF [Sóc xào sả ớt] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1762503444-0-0-fbe2ad720d0d8e1b99ad8b8f0b22f331
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA CL - Pafos FC vs Villarreal CF [Sóc xào sả ớt] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1762503444-0-0-7b24471da8225949428f8f51f8303e51
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Aston Villa vs Maccabi Tel Aviv [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1762503444-0-0-4a5862aff0688fbbec0e7fdcdb96a963
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Aston Villa vs Maccabi Tel Aviv [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1762503444-0-0-0da474f4f2ab794ff47ccb87b58a73df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Aston Villa vs Maccabi Tel Aviv [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1762503444-0-0-a03953197e9053a5c46c7149a6bd9a11
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251103/dcfcb566f3ed258b70fcebbdfba1a2e3.png",Tường thuật: UEFA EL - Aston Villa vs Maccabi Tel Aviv [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1762503444-0-0-280f85f419535c37c1d434d485c86693
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762507404-0-0-5bb29d65e11f52c2689e8f7f832d34a4
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2BfA1ogU-2Ztou9VS.png",10:00 ngày 07/11 Korea Masters 2025 (1) [Cá Sát Thủ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -814,6 +1158,50 @@ https://hotlivezz179602324.akainu.xyz/RYBDyv71Bmu7HAQNJ88ffg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/-fS4JSYpI4WsLpNzHzeVyQ/adb8de5045254f4388ff92b08aeba831/1762538766/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png",15:30 ngày 07/11 Cairns Taipans vs Illawarra Hawks (1) [Người Cây] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1762546687&sign=faaad5a052d3e03207517337a482a953
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png",15:30 ngày 07/11 Cairns Taipans vs Illawarra Hawks (1) [Người Cây] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/bdlep39iyc8vzusz1VpIMA/Fv2lucGIbhPi2caWYvF5Lg/1762546687509/live/Z2HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png",15:30 ngày 07/11 Cairns Taipans vs Illawarra Hawks (1) [Người Cây] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/UFOf6u-NbpI_wwisRxM0JA/d8575e4f2bb7991d6a11b5e422c908f2/1762546687/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png",15:30 ngày 07/11 Cairns Taipans vs Illawarra Hawks (1) [Người Cây] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/fAMnzamJsb7syLJF2j4goQ/Fv2lucGIbhPi2caWYvF5Lg/1762546687509/live/Z2SD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png",15:30 ngày 07/11 Cairns Taipans vs Illawarra Hawks (1) [Người Cây] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/o15Ncn7cEdzIIEnrKIPHKA/2f5c86e8dcb258706feb1f79081dd77d/1762546687/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Bhayangkara_FC_logo.svg/822px-Bhayangkara_FC_logo.svg.png",15h30 ngày 07.11 Bhayangkara FC vs Bali United (Hội Quán) BLV PHAN CA FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Bhayangkara_FC_logo.svg/822px-Bhayangkara_FC_logo.svg.png",15h30 ngày 07.11 Bhayangkara FC vs Bali United (Hội Quán) BLV PHAN CA HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Bhayangkara_FC_logo.svg/822px-Bhayangkara_FC_logo.svg.png",15h30 ngày 07.11 Bhayangkara FC vs Bali United (Hội Quán) BLV PHAN CA SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Adelaide_United_FC_logo.svg/1024px-Adelaide_United_FC_logo.svg.png",15h35 ngày 07.11  Adelaide United vs Western Sydney Wanderers FC  (Hội Quán) BLV PHAN TÔM FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Adelaide_United_FC_logo.svg/1024px-Adelaide_United_FC_logo.svg.png",15h35 ngày 07.11  Adelaide United vs Western Sydney Wanderers FC  (Hội Quán) BLV PHAN TÔM HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Adelaide_United_FC_logo.svg/1024px-Adelaide_United_FC_logo.svg.png",15h35 ngày 07.11  Adelaide United vs Western Sydney Wanderers FC  (Hội Quán) BLV PHAN TÔM SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Team_Vitality_logo.svg",13h30 ngày 07.11 Vitality vs Astralis (Hội Quán) BLV PHAN CÁO FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -826,12 +1214,62 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",UEFA CL Tottenham Hotspur vs FC Copenhague TƯỜNG THUẬT (Colalive) flv
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162236_small.png",15:00 ngày 11/07 Sydney United 58 và APIA Leichhardt FC (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/57010001.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTJlZmMzNjk1MGQtZjNlYQ/MmMxOWM2M2JkN2ItZGVjNg.png",UEFA CL Tottenham Hotspur vs FC Copenhague TƯỜNG THUẬT (Colalive) m3u8
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/675730_small.png",15:00 ngày 11/07 Perth Glory (W) và Brisbane Roar FC (W) (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/57010001.m3u8
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185749_small.png",15:30 ngày 11/07 Bhayangkara Presisi Indonesia FC và Bali United FC (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x16y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185749_small.png",15:30 ngày 11/07 Bhayangkara Presisi Indonesia FC và Bali United FC (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x16y3-0324/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/185749_small.png",15:30 ngày 11/07 Bhayangkara Presisi Indonesia FC và Bali United FC (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15:35 ngày 11/07 Adelaide United và Western Sydney (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15:35 ngày 11/07 Adelaide United và Western Sydney (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x21y3-8088/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15:35 ngày 11/07 Adelaide United và Western Sydney (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x21y2/playlist.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",AUS D1 Adelaide United vs Western Sydney Wanderers BLV ÔLONG (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/97312754.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",AUS D1 Adelaide United vs Western Sydney Wanderers BLV ÔLONG (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/97312754.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzIzMTk5ZThhZDYtMDM3Nw/NjU3MmU0NTMxNDYtYmYwNg.png",AUS CH Sydney United vs APIA Leichhardt Tigers BLV SPRITE (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/90725470.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzIzMTk5ZThhZDYtMDM3Nw/NjU3MmU0NTMxNDYtYmYwNg.png",AUS CH Sydney United vs APIA Leichhardt Tigers BLV SPRITE (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/90725470.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",AUS D1 Adelaide United vs Western Sydney Wanderers BLV Cozy (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/87379114.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY1NDc1YjAzZjYtMzJhMQ/ZmZmYjg0NTM4ZGQtZDZiYQ.png",AUS D1 Adelaide United vs Western Sydney Wanderers BLV Cozy (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/87379114.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MWJkY2I3MzRkOTUtNGNiYQ/YWE5YTQ0ZjM4NzUtMWY0Zg.png",IDN D1 Bhayangkara FC vs Bali United FC BLV MOUNTAIN DEW (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/87547578.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MWJkY2I3MzRkOTUtNGNiYQ/YWE5YTQ0ZjM4NzUtMWY0Zg.png",IDN D1 Bhayangkara FC vs Bali United FC BLV MOUNTAIN DEW (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/87547578.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",VSBET - THỂ THAO HÀNG ĐẦU ĐỐI TÁC VSBET (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/36669975.flv
@@ -850,12 +1288,12 @@ https://live5.k8v4dh5.app/live/26250293.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",XÓC DĨA XÓC DĨA (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/26250293.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzIzMTk5ZThhZDYtMDM3Nw/NjU3MmU0NTMxNDYtYmYwNg.png",AUS CH Sydney United vs APIA Leichhardt Tigers BLV SPRITE (Colalive) flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",LIVE BACARAT BACARAT (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/90725470.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzIzMTk5ZThhZDYtMDM3Nw/NjU3MmU0NTMxNDYtYmYwNg.png",AUS CH Sydney United vs APIA Leichhardt Tigers BLV SPRITE (Colalive) m3u8
+https://live5.k8v4dh5.app/live/36858215.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",LIVE BACARAT BACARAT (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/90725470.m3u8
+https://live5.k8v4dh5.app/live/36858215.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://sf-static.upanhlaylink.com/img/image_20251106b10594e82b269456f4fd8506e5f56d0c.jpg",09h00 07/11 Phoenix Suns vs L.A Clippers (blvtoptop) Bàng Còi Xương
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
