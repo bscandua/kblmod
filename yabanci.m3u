@@ -444,18 +444,6 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 RC Celta vs FC Barcelona (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/d5368458e6d423e051d4b4cbe4e3e7a1/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/2f1e551d0f4223fd99fc446a41227423.png",03h00 ngày 10/11 Portland Thorns FC (w) vs San Diego Wave (w) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/6a5499c916f0c75eec8002f25f4d1e4d/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png",03h15 ngày 10/11 Alianza Atletico Sullana vs Alianza Universidad de Huánuco (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/27fd5d46b646617411e05a97da003280/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/731ea9512aeffe6fd2896bc1a7a60662.png",03h30 ngày 10/11 Universidad de Chile vs Deportes Limache (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -504,6 +492,14 @@ https://live.alilicloud.com/live/62b41fa8d5e62cdb25401ff002b8483a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/61020cb0fa91eb35c691bce7daf77bd2/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/111c1d905216352b171ba8141bd7b176/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/dbbefe4db6572cecf6677e68ee0633e8/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -544,30 +540,42 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m204nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m502nd/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Cà Khịa) SD 1
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/96413c5ef284eec6c6e0d76c87732471.png",04h30 ngày 10/11 CRB AL vs Operario Ferroviario PR (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lusd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Cà Khịa) HD 1
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/9829676db6c5f615b441eb7b13a8b413.png",04h30 ngày 10/11 Deportivo Tachira vs Metropolitanos FC (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@luhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Cà Khịa) SD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba (Cà Khịa) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Cà Khịa) HD 2
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Cà Khịa) SD  (Nhanh)
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@lusd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Cà Khịa) HD  (Nhanh)
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Cà Khịa) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@luhd1.flv
+https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momhd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",03h30 ngày 10/11 Sporting Braga vs Moreirense (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -600,22 +608,22 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/13ad117ddb310052841244f0d1ed3c1e.png",03h00 ngày 10/11 Cadiz vs Real Valladolid (Cà Khịa) Nhà đài
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/96413c5ef284eec6c6e0d76c87732471.png",04h30 ngày 10/11 CRB AL vs Operario Ferroviario PR (Cà Khịa) Nhà đài
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m504nd/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/9829676db6c5f615b441eb7b13a8b413.png",04h30 ngày 10/11 Deportivo Tachira vs Metropolitanos FC (Cà Khịa) Nhà đài
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cohd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Cà Khịa) SD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba (Cà Khịa) Nhà đài
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cosd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Cà Khịa) HD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -728,68 +736,64 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV LỮ BỐ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV LỮ BỐ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/418_165095600132.png",03h30 ngày 10/11 Sporting Braga vs Moreirense (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/418_165095600132.png",03h30 ngày 10/11 Sporting Braga vs Moreirense (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 10/11 Benfica vs Casa Pia AC (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 10/11 Benfica vs Casa Pia AC (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 10/11 Benfica vs Casa Pia AC (Lương Sơn) BLV TRƯƠNG THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 10/11 Benfica vs Casa Pia AC (Lương Sơn) BLV TRƯƠNG THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV NHỊ KA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 10/11 Benfica vs Casa Pia AC (Lương Sơn) BLV TẦN CA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV NHỊ KA flv
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/422_165095593478.png",03h30 ngày 10/11 Benfica vs Casa Pia AC (Lương Sơn) BLV TẦN CA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV KHỔNG MINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV KHỔNG MINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV THẠCH TÚ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THACHTU/index.m3u8?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV THẠCH TÚ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THACHTU.flv?expire=1788427256&sign=77e6bae02b2c5f48ff9d9c5092df8d47
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV ZORO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ZORO/index.m3u8?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/103_164871275971.png",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Lương Sơn) BLV ZORO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/ZORO.flv?expire=1788427256&sign=8e04682553e334be697e3ef428fa6031
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/13ad117ddb310052841244f0d1ed3c1e.png",03h00 ngày 10/11 Cadiz vs Real Valladolid (Ra Khơi) Nhà đài
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png",03h15 ngày 10/11 Alianza Atletico Sullana vs Alianza Universidad de Huánuco (Ra Khơi) Nhà đài
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m304nd/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cosd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Ra Khơi) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1RK.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/731ea9512aeffe6fd2896bc1a7a60662.png",03h30 ngày 10/11 Universidad de Chile vs Deportes Limache (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -830,30 +834,6 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heosd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heohd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Ra Khơi) Lử SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Ra Khơi) Lử HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Ra Khơi) SD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heosd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (Ra Khơi) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1RK.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",03h30 ngày 10/11 Sporting Braga vs Moreirense (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -886,22 +866,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1RK.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",03:00 ngày 11/10 Celta Vigo và Barcelona (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x7y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",03:00 ngày 11/10 Celta Vigo và Barcelona (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x7y3-3386/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",03:00 ngày 11/10 Celta Vigo và Barcelona (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x7y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",03:00 ngày 11/10 Cadiz và Real Valladolid (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",03:30 ngày 11/10 Braga và Moreirense (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -950,6 +914,10 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/74b719259d541ecec9fc5213969726d9/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/9829676db6c5f615b441eb7b13a8b413.png",04h00 ngày 09/11 Deportivo Tachira vs Metropolitanos FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/62b41fa8d5e62cdb25401ff002b8483a/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/d2f2fbc52f72495bbc0499d7cd646be9.png",00h00 ngày 09/11 Ittihad Riadi Tanger vs Renaissance de Berkane (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -970,10 +938,6 @@ https://live.alilicloud.com/live/44b630f4465d702762cb15d5edfe96a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/23da05fb79ae184bec86f34da82efbab/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/4e9422ab24a8dff2521be20e1c129f20.png",23h00 ngày 08/11 AlvsMuharraq vs Al Hidd (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/103591e53544b18365480014a1051276/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/59e9be1ed056bdc0025f6064316485fe.png",00h30 ngày 09/11 KAA Gent vs Racing Genk (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1018,22 +982,10 @@ https://live.alilicloud.com/live/61020cb0fa91eb35c691bce7daf77bd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/28679cd130ce35f1bb49a5873cccd912/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/448b88beb6cdaf0accf126b280b177d9.png",23h00 ngày 08/11 Brann vs KFUM Oslo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/402e0b82673776eaf930df1663811d1b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/4cc9044aed34f71c4e79bd260ea938fb.png",23h00 ngày 08/11 Sturm Graz vs Red Bull Salzburg (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/62afd41fa274233eca3afeb619cc5c76/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png",03h15 ngày 09/11 Alianza Atletico Sullana vs Alianza Universidad de Huánuco (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/27fd5d46b646617411e05a97da003280/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/0d56685fdcaf6ffc533a4c9bcfb44e91.png",23h15 ngày 08/11 Pescara vs Monza (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/cd4b96cde2a1650f283269e713f34d48/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/8c51d42ce945ed60d1382701cbdcd705.png",23h30 ngày 08/11 Giana vs Albinoleffe (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1082,14 +1034,6 @@ https://live.alilicloud.com/live/1ac0c3f9b663b40e6f03fe5c8c93e68f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/aa6bbfef3715e4e6c57119f86a367790/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/44f50c40747300086bedc24981fb21f2.png",23h00 ngày 08/11 Kristiansund BK vs Stromsgodset (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/19dfefb60dbcae75ebeb01f251ca089f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/16fd214da24aef0bbb775e44fe7e79f2.png",23h15 ngày 08/11 Metz vs OGC Nice (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/85f0efd327b16d4421777fed9011b468/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/3b54543c1a584e2e9948d655142996d3.png",00h30 ngày 09/11 Valencia CF vs Real Betis (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1106,14 +1050,14 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/77953f95a58d45609acfe341ddb0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://stm02bc48435558.stream.hdplaylink.com/live3/77953f95a58d45609acfe341ddb094d5_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/998db478bf7c06d5817bf846987a0d0a.png",23h15 ngày 08/11 RC Strasbourg Alsace vs LOSC Lille (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ffff38c160b01f6b2b4c371155073157/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/b1cac6380900d22bdb0d31763c658434.png",02h00 ngày 09/11 Cruzeiro Esporte Clube vs Fluminense RJ (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d3dc74cd9f33effe9ccedb2707046a27/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/96413c5ef284eec6c6e0d76c87732471.png",04h30 ngày 09/11 CRB AL vs Operario Ferroviario PR (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4830665f2b18caa0ec50358895741ef8/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/c6f03c63a021892d8e0b1ef8b3bcfbbe.png",01h00 ngày 09/11 Hapoel Haifa vs Hapoel Petah Tikva (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1122,78 +1066,62 @@ https://live.alilicloud.com/live/85b2370c543511067a4b204c0ee46227/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9912bcac35b2602687184e0bbbcd772c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d5368458e6d423e051d4b4cbe4e3e7a1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/878d83c4862444b2b3c5e67cc3e35bfb_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/878d83c4862444b2b3c5e67cc3e35bfb_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/878d83c4862444b2b3c5e67cc3e35bfb_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h00 ngày 09/11 Fenerbahce vs Kayserispor (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5725db4125757c111cb28b44aa0267ed/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/6277e37ca37add055bcf859d528147c8.png",23h00 ngày 08/11 Sandefjord vs Tromso IL (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8a221eba049e3523794fd23c377f3da8/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/eed5c3c3c14be4180be2114f1eda1890.png",03h30 ngày 09/11 CD El Nacional vs Club Sport Emelec (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b0e35ec81b158e94b7ec31953acd0714/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/9829676db6c5f615b441eb7b13a8b413.png",04h00 ngày 09/11 Deportivo Tachira vs Metropolitanos FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/62b41fa8d5e62cdb25401ff002b8483a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/96413c5ef284eec6c6e0d76c87732471.png",04h30 ngày 09/11 CRB AL vs Operario Ferroviario PR (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4830665f2b18caa0ec50358895741ef8/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/242d6977e9b86cba5cea704d996edbf8.png",04h10 ngày 09/11 Alianza Fútbol Club vs Boyaca Chico (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/51cd0fe565b108438fd10cae0e112499/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/0f2a369af39d8b5f8de389cca2a217ad.png",23h00 ngày 08/11 Corum Belediyespor vs Iğdır FK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9e1173e7f0f30a64d7019d55e8f9f15d/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/7217d3ac5f9259306e99389e45c40c9a.png",04h15 ngày 09/11 The Strongest vs Bolivar (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ac1e404deec2f9f117791c736917e46f/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (QUAY TAY) SD 1
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/eed5c3c3c14be4180be2114f1eda1890.png",03h30 ngày 09/11 CD El Nacional vs Club Sport Emelec (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heosd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (QUAY TAY) HD 1
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b0e35ec81b158e94b7ec31953acd0714/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/fdef90456d2a2eee09976c558457aec7.png",00h30 ngày 09/11 RCD Mallorca vs Getafe (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heohd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (QUAY TAY) SD 2
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e4a51afc0974e57a346b96bfcccc1085/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/fe636189a2f3db78d0554c34f0bdaae6.png",01h30 ngày 09/11 Eintracht Frankfurt vs 1. FSV Mainz 05 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (QUAY TAY) HD 2
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/677effdecb5b0aa6f847868c91cea6ac/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/c2767b71e70059af4a695f5716e6a2e7.png",01h00 ngày 09/11 UTC Cajamarca vs Sport Huancayo (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (QUAY TAY) SD  (Nhanh)
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/429a8ba7c7a6b28c270a5a3d9cdaf7cf/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",03h30 ngày 09/11 Sporting Braga vs Moreirense (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heosd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 10/11 Celta de Vigo vs FC Barcelona (QUAY TAY) HD  (Nhanh)
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/53169551d30798e0f34a29a6b1fcf9b2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/2d72b0e95b0bfecf732445967080a121.png",04h00 ngày 09/11 Club Sportivo Trinidense vs Cerro Porteno (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@heohd1RK.flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/12eb6ae8819a78db42fdcc1b8fa87559/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/25cde92a237f9418a491eed48437478e.png",00h30 ngày 09/11 Kansas City Current Women vs Gotham FC Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/14bef40ae3abbc04a16dd14624ef766b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/8ad2a2e612382ffd08afd5ab57ebfcf1.png",02h15 ngày 09/11 Arka Gdynia vs Lech Poznan (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/799afce56eb9afa749a1ac718d4090c6/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/a0da10be11be5910b71c5ca79af53350.png",00h00 ngày 09/11 Aarhus AGF vs Sonderjyske (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f4ff2d976727f03085d4a055df732a59/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png",05h20 ngày 09/11 Sarmiento Junin vs Instituto de Córdoba (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/111c1d905216352b171ba8141bd7b176/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 09/11 Banfield vs Aldosivi Mar del Plata (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/dbbefe4db6572cecf6677e68ee0633e8/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",03h30 ngày 10/11 Sporting Braga vs Moreirense (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1234,14 +1162,26 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@ngaohd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/13ad117ddb310052841244f0d1ed3c1e.png",03h00 ngày 10/11 Cadiz vs Real Valladolid (QUAY TAY) Nhà đài
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m301nd/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png",03h15 ngày 10/11 Alianza Atletico Sullana vs Alianza Universidad de Huánuco (QUAY TAY) Nhà đài
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m304nd/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cosd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@cohd1RK.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/731ea9512aeffe6fd2896bc1a7a60662.png",03h30 ngày 10/11 Universidad de Chile vs Deportes Limache (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1282,6 +1222,30 @@ https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m501nd/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@m503nd/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momsd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@momhd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",21h45 ngày 10/11 Zambia U17 vs Brazil U17 (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/momhd2RK/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/732ac055b269060b9864fe152a82c9cf.png",01h30 ngày 09/11 Hermannstadt vs Fotbal Club FCSB (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1290,18 +1254,10 @@ https://live.alilicloud.com/live/74b719259d541ecec9fc5213969726d9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/62b41fa8d5e62cdb25401ff002b8483a/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/aa7e03de62490462a7927ed21e8ce1dc.png",01h15 ngày 09/11 Haugesund vs Molde (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/27248874d78859805695afc07c1acd2c/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/b060f70150fe2b52fba8aa026a930c4e.png",02h00 ngày 09/11 Deportiva Once Caldas vs Deportivo Pasto (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/24f6b161c52336fcc0fcd3ac8a6d93cb/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/a5b0ae972c3c595300e4eea67145a460.png",01h00 ngày 09/11 Maccabi Tel Aviv vs Beitar Jerusalem (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a49d0b3f2bbe8454ab9faeb05c9c9a3d/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/b2ef45e609ac233aa3f9bc6dcac5ca64.png",02h30 ngày 09/11 Defensor Sporting Montevideo vs Nacional Montevideo (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1342,10 +1298,6 @@ https://live.alilicloud.com/live/75d97c0a02a1b1deafd578389a085434/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d547df5a348af12e66c14c683101a62b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/a5c19caa8f0d2c476156ece6470b15a0.png",01h00 ngày 09/11 Tecnico Universitario vs Vinotinto F.C. (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a8752b22369ab98af0d16becc25fd997/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/305c1d59bdbe8bd8e267a58514ead1c5.png",01h30 ngày 09/11 SV Wehen Wiesbaden vs FC Viktoria Köln (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1358,38 +1310,6 @@ https://live.alilicloud.com/live/d3dc74cd9f33effe9ccedb2707046a27/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4830665f2b18caa0ec50358895741ef8/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/c6f03c63a021892d8e0b1ef8b3bcfbbe.png",01h00 ngày 09/11 Hapoel Haifa vs Hapoel Petah Tikva (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/85b2370c543511067a4b204c0ee46227/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d5368458e6d423e051d4b4cbe4e3e7a1/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/8390b9fad8804d04bbea7f94035bc7c2_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/8390b9fad8804d04bbea7f94035bc7c2_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/8390b9fad8804d04bbea7f94035bc7c2_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/8390b9fad8804d04bbea7f94035bc7c2_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/8390b9fad8804d04bbea7f94035bc7c2_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03h00 ngày 09/11 RC Celta vs FC Barcelona (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/8390b9fad8804d04bbea7f94035bc7c2_720/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/242d6977e9b86cba5cea704d996edbf8.png",04h10 ngày 09/11 Alianza Fútbol Club vs Boyaca Chico (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1430,10 +1350,6 @@ https://live7.fastestcdn-global.com/live7/fb5c532021f8464e818a651598325259_480/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live7.fastestcdn-global.com/live7/fb5c532021f8464e818a651598325259_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/c2767b71e70059af4a695f5716e6a2e7.png",01h00 ngày 09/11 UTC Cajamarca vs Sport Huancayo (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/429a8ba7c7a6b28c270a5a3d9cdaf7cf/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",03h30 ngày 09/11 Sporting Braga vs Moreirense (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1470,18 +1386,6 @@ https://live.alilicloud.com/live/8eb855cb96a415cc379ec92f0f6146e3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/85d6106b60ff31246f12c06a612ec262/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/abd59f62f69ef9f59a8121c3baadd882.png",01h00 ngày 09/11 FC Famalicao vs FC Porto (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/95bf8f17aa6db835a13c61e71e404b03/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/251e701387b629039e7d035f2f18e744.png",01h00 ngày 09/11 Huachipato vs Audax Italiano (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/26d92f5b9851ac2a76e7e32f2f1797e7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/709f693365f30926be88929adfeae9f9.png",01h15 ngày 09/11 KV Mechelen vs Union SaintvsGilloise (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0bd90f1494ec07b4b37792346f693c53/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/625f6bad4acc37546d2f2373b89b7c89.png",02h00 ngày 09/11 Brondby IF vs Nordsjaelland (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1502,14 +1406,46 @@ https://live.alilicloud.com/live/03574dfe666a8a1a92cfa0eb557125e1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c53602d842b77d9b39a92046446b2e86/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164871275971.png?win007=sell",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Văn Khánh) M3U
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/164871275971.png?win007=sell",03h00 ngày 10/11 Celta Vigo vs FC Barcelona (Văn Khánh) FLV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f01ecc34c5814c9b486657bc3143b3b0.png",04h00 ngày 09/11 Carabobo vs Caracas FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3e57fcb2a0f3eff225ad11f4171f346f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png",05h20 ngày 09/11 Sarmiento Junin vs Instituto de Córdoba (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/111c1d905216352b171ba8141bd7b176/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h20 ngày 09/11 Banfield vs Aldosivi Mar del Plata (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/dbbefe4db6572cecf6677e68ee0633e8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d76b104fa47ff65f6b897af1fe37279.png",06h00 ngày 09/11 Santos Laguna vs Pachuca (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/09c875684d4a239feb93461fc626c689/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d76b104fa47ff65f6b897af1fe37279.png",06h00 ngày 09/11 Santos Laguna vs Pachuca (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/46e4ec8d66f34feca2d81143b12ac6e4_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d76b104fa47ff65f6b897af1fe37279.png",06h00 ngày 09/11 Santos Laguna vs Pachuca (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/46e4ec8d66f34feca2d81143b12ac6e4_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d76b104fa47ff65f6b897af1fe37279.png",06h00 ngày 09/11 Santos Laguna vs Pachuca (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/46e4ec8d66f34feca2d81143b12ac6e4_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d76b104fa47ff65f6b897af1fe37279.png",06h00 ngày 09/11 Santos Laguna vs Pachuca (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/46e4ec8d66f34feca2d81143b12ac6e4_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d76b104fa47ff65f6b897af1fe37279.png",06h00 ngày 09/11 Santos Laguna vs Pachuca (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/46e4ec8d66f34feca2d81143b12ac6e4_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d76b104fa47ff65f6b897af1fe37279.png",06h00 ngày 09/11 Santos Laguna vs Pachuca (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/46e4ec8d66f34feca2d81143b12ac6e4_720/index.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165095600132.png?win007=sell",03h30 ngày 10/11 Sporting Braga vs Moreirense (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1518,246 +1454,146 @@ https://hls.cdnvankhanh.com/live/VANQUA/index.m3u8?expire=1848232560&sign=1dde72
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANQUA.flv?expire=1848232560&sign=1dde72065670bd44db0f1ee0f575303c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) flv
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/728/1hxqrphfkc1t.png?win007=sell",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1762727724-0-0-0ac672d6c1d52310a862f52bbc7424b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/VANCHUONG/index.m3u8?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/728/1hxqrphfkc1t.png?win007=sell",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1762727724-0-0-f0793263693ba4d20acb1c27651f0b15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1762727724-0-0-a9b96c0ff76a6d8b2b92d425e991a539
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1762727724-0-0-cf03a38eeb8bed80989acfaf0e4a6ba1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lsd.flv?auth_key=1762727725-0-0-59e66f7dbdcd85b5e026222d8ed9562c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lhd.flv?auth_key=1762727725-0-0-70198722dbcca3e1d91d1039c1e94af3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1762727725-0-0-16eb8dd2a330c6bf06381ac20ef93f01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1762727725-0-0-985ca833de61880313d7d6398207d035
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=ef2422294a0f1b28f6af5479eb237043&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=9e4257ab7077b1ef9321bc7559eccc95&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ef2422294a0f1b28f6af5479eb237043&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9e4257ab7077b1ef9321bc7559eccc95&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV COZY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1762728445-0-0-bf390fb336970b42807840fe64ce542a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV COZY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1762728445-0-0-05323b11aebd6006d6a40bd5d121a4d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV COZY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1762728445-0-0-3bca43297b651389c2bb9a570d3d188f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV COZY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1762728445-0-0-7a1bdeaaf5d7058d2a3b741ec5b0553d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1762728445-0-0-35d192559b20be776373076be301850c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1762728445-0-0-2d16d5d47cbf3726a6528c8c254fb672
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1762728445-0-0-75afbaf30128b83df63f078666f1e99f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1762728445-0-0-4da4dbad4fcdb15a62dcba5cc66b4121
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1762728444-0-0-2057f48a5487d6a38d4fdfd3515ffe39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1762728444-0-0-b8163d29d0b8340bd74890c62381b895
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1762728444-0-0-c23ced97eb0aadea9c6aa947927385d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1762728444-0-0-dbe5d1174fa44112f8ef077974809802
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1762728444-0-0-e294a39055ef8221a67da787e9629cae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1762728444-0-0-bc7a3302385c53a60d6279f333316aef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1762728444-0-0-888765a4ab69560cbf36d673b80081f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1762728444-0-0-83d37db7cede5280c3a7ac3273c4ec75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1762728444-0-0-f31b5374d566b17e1b31365983d59449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1762728444-0-0-b4979ef130afb23d8f9b9bcde072a897
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1762728444-0-0-a31187b23607f76dd44005e975364512
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1762728444-0-0-fe89a83b4cd633eb847c850a8b8c6b49
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=8413fb4acbb3618b0d81a455d363ec8f&txTime=6911604c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=045db30d1dfd313f22265571ae528e9b&txTime=6911604c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=8413fb4acbb3618b0d81a455d363ec8f&txTime=6911604c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=045db30d1dfd313f22265571ae528e9b&txTime=6911604c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1762728444-0-0-47d38dfe50a63417a4b3ae093ec4b9e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1762728444-0-0-f4b8b204df0b6a398691939b1ae61957
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1762728444-0-0-a13189a2f55c22c0f33f01bce9a51454
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1762728444-0-0-f0c31665fbda60312df2a9c54e8f921d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1762728444-0-0-f1ac9ac7d5c5c2e7604f5c99891f7ef7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1762728444-0-0-d2d4a46af11601d457e892f34af076ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1762728444-0-0-b35d53aa85f38d2c56b12e099c1cb5ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1762728444-0-0-ebd5c5a5f78951fd73840b8f90a7c0e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1762728444-0-0-c6d09de0c54f8f4ae73a752afce43aa1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1762728444-0-0-43968413369f55f880ebe6157808e784
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1762728444-0-0-d866b8d7de077e9164f3f18dc29eba9f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1762728444-0-0-b5d601c64b9846c24234987be31a784a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1762728444-0-0-e295f3134500c6a8e24e6490857d1c8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1762728444-0-0-13cc34653df9926043b63b4c411dc39e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1762728444-0-0-149d828a94a46a4565bdf4a0c6a00f97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1762728444-0-0-4958498a6eb484cf1aad2ebfb3ee9601
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532257_lsd.flv?txSecret=fddd5f2248d3c1882d18873e2e27f74b&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532257_lhd.flv?txSecret=dcaecacebd14903454ab355d4d1c1d85&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=fddd5f2248d3c1882d18873e2e27f74b&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=dcaecacebd14903454ab355d4d1c1d85&txTime=6911604d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532081_lsd.flv?txSecret=4ba75fe02b2be7c19459eb02d3047d4a&txTime=6911606f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=89a5d6ad031cb2c18a61ca03fb9c72ee&txTime=6911606f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=4ba75fe02b2be7c19459eb02d3047d4a&txTime=6911606f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/edf013c853b0d11c2aafb57c7e591fd2.png",02h45 ngày 10/11 Lyon vs Paris Saint Germain [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=89a5d6ad031cb2c18a61ca03fb9c72ee&txTime=6911606f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-480p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-720p.flv
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1762728444-0-0-1ce4457b96897f69a4eba37f8cbf083b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1762728444-0-0-0d5fff1e1559ffb26a25eb017f512bad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1762728444-0-0-991514fef7f8c96ef16017e5b0bcaa1b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1762728444-0-0-1b5d62d58990b75a913ff8d73e5b93e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=0a040744c050c67a6aa2d3fba956dd3f&txTime=6911604c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=9144608c2e779fc94a93ee195eb30fd0&txTime=6911604c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0a040744c050c67a6aa2d3fba956dd3f&txTime=6911604c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/6448176569bd6fda16fbd54249720e19.png",02h45 ngày 10/11 Inter Milan vs Lazio [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=9144608c2e779fc94a93ee195eb30fd0&txTime=6911604c
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/VANCHUONG.flv?expire=1890806880&sign=d5e33b097684f7c5682301b78b825aaf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV GẤU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1762728444-0-0-c084d9b4533c26c02cd086e8eb4b5dab
+https://pull06.scstream.net/live/stream-9912107_lsd.flv?auth_key=1762729884-0-0-d21aa632f60e50b728942c3e73e57c0a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV GẤU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1762728444-0-0-80261dbefd42efe819c8361242e4bee6
+https://pull06.scstream.net/live/stream-9912107_lhd.flv?auth_key=1762729884-0-0-4057203a416dcf9df33cbb09bd0e724a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV GẤU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1762728444-0-0-01201cd69d8ac608fe64cff74787b793
+https://pull.niues.live/live/stream-9912107_lsd.m3u8?auth_key=1762729884-0-0-8b1cda0303fb381317b3c67111155bdf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV GẤU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1762728444-0-0-347262e4e115d62a208bb6e24b9c0a89
+https://pull.niues.live/live/stream-9912107_lhd.m3u8?auth_key=1762729884-0-0-b00726b2c8f0637b75aea7cae4a6785e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV NOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-537460_lsd.flv?auth_key=1762729884-0-0-9952a8fd479b4c720eeca0e08c4c8f45
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV NOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-537460_lhd.flv?auth_key=1762729884-0-0-db345a592657726a6169a914b8e088cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV NOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1762729884-0-0-f19e6bfa0c9d98572e1527a39635e5d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/57e3fd447860c3b3e032111abc139772.png",05h20 ngày 10/11 Sarmiento Junin vs Instituto de Córdoba [BLV NOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1762729884-0-0-1c7c5d08e32029823d663562e14d770a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1762729884-0-0-2a913c2a6e241846407a84587ba93274
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1762729884-0-0-befc38b170cac1ba48937167561db01e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1762729884-0-0-7f23e09fae4a5a0c2d9025ef6e72c872
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1762729884-0-0-6f94dc89990d386aecbab3bdd6629a7a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532257_lsd.flv?txSecret=7000d02b5184d8c6b5d683e43aa259fe&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532257_lhd.flv?txSecret=84e7e5c91f640ed0d14b3ea117f4a7f4&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532257_lsd.m3u8?txSecret=7000d02b5184d8c6b5d683e43aa259fe&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/e0aa1cd021bdb5ed48625d61873c7e1e.png",03h30 ngày 10/11 Sporting Braga vs Moreirense [CÂY KHẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532257_lhd.m3u8?txSecret=84e7e5c91f640ed0d14b3ea117f4a7f4&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1762729884-0-0-94e503c6ac05b4c02735b4831826ce12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1762729884-0-0-e53dd1843a0e7a7a954d48c591370fac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1762729884-0-0-2a3e66b860cc9ccb34de3857704cc6ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/23618d25dddee929d293cbfcb28a9511.png",03h00 ngày 10/11 RC Celta vs FC Barcelona [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1762729884-0-0-707b9ce9777e95428aa083138d7ba076
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=cf00498fc9eb87d0b6f8bd76fc72f1ca&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=a13e466831fa21daea2ed34cb3d40a2a&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=cf00498fc9eb87d0b6f8bd76fc72f1ca&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/fbfaa18e3a5b39b2a01bbb511b4d9532.png",03h30 ngày 10/11 Benfica vs Casa Pia AC [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a13e466831fa21daea2ed34cb3d40a2a&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lsd.flv?auth_key=1762729884-0-0-87d42c011cf2299e0628a60bec5641cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-239275_lhd.flv?auth_key=1762729884-0-0-f906a95194cefdf0961f6b7a9a437b12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1762729884-0-0-72eca610780588085c3061c9ca81f221
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [BLV QUAN VŨ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1762729884-0-0-c08bb1addbbdb2f9297f07e5184f1ae0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=e50c3160261cecc50f0b7a7501d4b059&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=30e84892540aed251f610069d6369a85&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=e50c3160261cecc50f0b7a7501d4b059&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=30e84892540aed251f610069d6369a85&txTime=691165ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1762729884-0-0-69de7894ddce3bc5fff027eadd999af9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1762729884-0-0-d73a263d7309190437abb037b13ee13b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762729884-0-0-ea3d9d99cdbce6173605096ac983418e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/12bb1cf6b7f331887742029928fb2b64.png",05h20 ngày 10/11 Banfield vs Aldosivi Mar del Plata [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762729884-0-0-25d8da5b06026b2eac2c4bf2a831de4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-538979_lsd.flv?auth_key=1762729884-0-0-8e32b0bb2eed08f2b5962b1fb60ce4d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-538979_lhd.flv?auth_key=1762729884-0-0-1984f5c484b3366b3d5f6ede6f53603f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1762729884-0-0-3575f8a21d12b0acd2acd687a345925e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/97d2cd8edcceb86ecc5dc6a83de56ec9.png",04h30 ngày 10/11 CR Flamengo vs Santos [NGOẠ LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1762729884-0-0-746a19833d6313a00000a7b19b5c370d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b9033b0a55f351117b15d702009ed813.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762728444-0-0-7caa7af025521ff218bd071a94513406
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1762729884-0-0-9802f6dfa77785994fe6fde9a349113a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b9033b0a55f351117b15d702009ed813.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762728444-0-0-d407e1cdf594a1eb3795e77b7cabbc4f
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1762729884-0-0-a23665fa1c3a62c1e6bc2296719d037a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b9033b0a55f351117b15d702009ed813.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762728444-0-0-1a7e240ab943be4218b083f0b5b0d744
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762729884-0-0-d9a9a76a6a5ec7978cb1c43f511763b9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251106/b9033b0a55f351117b15d702009ed813.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762728444-0-0-eb2ef47ca9de780b5118248b23584231
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762729884-0-0-230530599cac6531fcb2518ed784732f
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bucks.png",03:30 ngày 10/11 Bucks vs Rockets (1) [Người Thương] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1801,79 +1637,23 @@ https://live-vipxlvb.nsnd.live/wkakuAXI94GuKoQ6ytzqwQ/2f5c86e8dcb258706feb1f7908
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",04:25 ngày 10/11 Washington Commanders vs Detroit Lions (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1762768448&sign=715d524ae88c7d84280d57a92d9489f7
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1762770248&sign=0ed37f179bb7f76540dc6c06b0ea857b
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",04:25 ngày 10/11 Washington Commanders vs Detroit Lions (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/75kBKkHGcsU5-1t0TEyLeg/Fv2lucGIbhPi2caWYvF5Lg/1762768448566/live/luaHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/tq_eqb6Ut2DAE9MQqyeY0Q/Fv2lucGIbhPi2caWYvF5Lg/1762770248179/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",04:25 ngày 10/11 Washington Commanders vs Detroit Lions (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/rbPLb_bCHnsSzdz8g7mHmg/9f8b38d400ef6d394f2d68b3096e00f1/1762768448/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/sWGQz8gt6Lcg4nJhZUXNEQ/9f8b38d400ef6d394f2d68b3096e00f1/1762770248/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",04:25 ngày 10/11 Washington Commanders vs Detroit Lions (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/eHZoMTC0sMK8vwk4bLezhw/Fv2lucGIbhPi2caWYvF5Lg/1762768448566/live/luaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/-h1ukfxdPuKLXNM4wGyqdw/Fv2lucGIbhPi2caWYvF5Lg/1762770248179/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",04:25 ngày 10/11 Washington Commanders vs Detroit Lions (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/VGVvcoubAlkrdpehBaiyiA/74b8773ecaa9df430432c2bf2b6bd9e0/1762768448/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Người Cồn] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1762744355&sign=f7b5f2977ffd850cde286e698bd9a113
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Người Cồn] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/oULmMRTAm0-c1BeXnrbnEA/Fv2lucGIbhPi2caWYvF5Lg/1762744355187/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Người Cồn] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/Mci-hlw6Syef-xELbfzYMQ/2506a4c9a49d6a20c02208f6ddb30434/1762744355/live/_definst_/stream_1_1bda7@conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Người Cồn] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/6Fn45iv612A5w_VH1Iiktw/Fv2lucGIbhPi2caWYvF5Lg/1762744355187/live/conSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Người Cồn] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/MLUd9unCf1Inofyik7NCrQ/7135f49323c9408d9b4f4a596ce26852/1762744355/live/_definst_/stream_1_1bda7@conFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Người Cồn] Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/-D_2n-vra8MQGfWGR-6vpw/Fv2lucGIbhPi2caWYvF5Lg/1762744355187/live/sd-6MuSsYdoyRS66tySNw/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Người Cồn] Backup 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/o-7i7siyoeozmLMhYWrobw/Fv2lucGIbhPi2caWYvF5Lg/1762744355187/live/hd-en-6MuSsYdoyRS66tySNw/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Thịt Xiên] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1762744355&sign=07a237d4e34beee07f9907ace3b1aebc
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Thịt Xiên] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/CSwum1fobk6OvfEz9ztGnA/Fv2lucGIbhPi2caWYvF5Lg/1762744355188/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Thịt Xiên] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/nhuoLCv_UN2ZPoDGAj9sBA/0aafe7a6d19bfafd5e27cf7084b37d51/1762744355/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Thịt Xiên] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Q_mjm-GnhWLb1dM4zlNHxA/Fv2lucGIbhPi2caWYvF5Lg/1762744355188/live/xienSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Thịt Xiên] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/mJ3w6Rr_tYJp9dL9RiXtmQ/cac03b136a8c356be180b4618c6bfeb5/1762744355/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Thịt Xiên] Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/-D_2n-vra8MQGfWGR-6vpw/Fv2lucGIbhPi2caWYvF5Lg/1762744355187/live/sd-6MuSsYdoyRS66tySNw/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",03:00 ngày 10/11 Celta Vigo vs Barcelona (1) [Thịt Xiên] Backup 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/o-7i7siyoeozmLMhYWrobw/Fv2lucGIbhPi2caWYvF5Lg/1762744355187/live/hd-en-6MuSsYdoyRS66tySNw/playlist.m3u8
+https://live-vipxlvb.nsnd.live/Ja9Ko0D_RLRsXHhglDQwUA/74b8773ecaa9df430432c2bf2b6bd9e0/1762770248/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/78360445c12fa3fdc8b489486fff4eb6.png",03:30 ngày 10/11 Benfica vs Casa Pia AC (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1901,43 +1681,35 @@ https://apisportzz179528093.nsnd.live/lq8-ho6Tt2uptErdJ00weg/Fv2lucGIbhPi2caWYvF
 #EXTINF:0 group-title="10Cam" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-0sifuqu.png",04:30 ngày 10/11 Flamengo vs Santos (1) [Tai Lung] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1762745416&sign=47d60190289a0b8c9b64d37bced88f1a
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1762748650&sign=eea8c62a709a64c79f4890fa88d43041
 #EXTINF:0 group-title="10Cam" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-0sifuqu.png",04:30 ngày 10/11 Flamengo vs Santos (1) [Tai Lung] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/BoJ3jKfyZkwztzQcslMkjQ/Fv2lucGIbhPi2caWYvF5Lg/1762745416003/live/lungHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/7JPprlHYyArrvXEqOm_nqQ/Fv2lucGIbhPi2caWYvF5Lg/1762748650411/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-0sifuqu.png",04:30 ngày 10/11 Flamengo vs Santos (1) [Tai Lung] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/rrBcuLMtUPLMCDRd_xF7vA/2b6f412a8d5f1f173548083dc2d6020e/1762745416/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/wtcVoMJmYtfP4BqESRwwlA/2b6f412a8d5f1f173548083dc2d6020e/1762748650/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-0sifuqu.png",04:30 ngày 10/11 Flamengo vs Santos (1) [Tai Lung] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/bv6_dWJkFNikrSzN_XQRmQ/Fv2lucGIbhPi2caWYvF5Lg/1762745416004/live/lungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Go6ZhupKfZw0qAd1NtwF3g/Fv2lucGIbhPi2caWYvF5Lg/1762748650411/live/lungSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-0sifuqu.png",04:30 ngày 10/11 Flamengo vs Santos (1) [Tai Lung] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/RQMVqSS7Z4_iQVZhWwXM5A/883ca40e5184f080c92fcfdbaf37405d/1762745416/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/dKrcEQ4blZKCYMDeSBH0CQ/883ca40e5184f080c92fcfdbaf37405d/1762748650/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-0sifuqu.png",04:30 ngày 10/11 Flamengo vs Santos (1) [Tai Lung] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/pOB6PX8DRahCAVDRxrCL6Q/Fv2lucGIbhPi2caWYvF5Lg/1762748650410/live/sd-6MtJQoJJBYerE4Xp9Z/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",03:30 ngày 10/11 Sporting Braga vs Moreirense (1) [Nhà đài] Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/AdcFaE85Z5nkdxfQwl26Ag/Fv2lucGIbhPi2caWYvF5Lg/1762746853118/live/may121/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/z3LzSMqRNrr9HRaFAJpQzg/Fv2lucGIbhPi2caWYvF5Lg/1762748651493/live/may121/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",03:30 ngày 10/11 Sporting Braga vs Moreirense (1) [Nhà đài] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/PfvjpiFxcg0j7t9eAen8yw/Fv2lucGIbhPi2caWYvF5Lg/1762746853118/live/sd-6MuTchFPrKc9UcLMJT/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Escudo_RC_Celta_de_Vigo.svg/1507px-Escudo_RC_Celta_de_Vigo.svg.png",03h00 ngày 10.11 Celta de Vigo vs Barcelona (Hội Quán) BLV PHAN MÃ FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Escudo_RC_Celta_de_Vigo.svg/1507px-Escudo_RC_Celta_de_Vigo.svg.png",03h00 ngày 10.11 Celta de Vigo vs Barcelona (Hội Quán) BLV PHAN MÃ HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Escudo_RC_Celta_de_Vigo.svg/1507px-Escudo_RC_Celta_de_Vigo.svg.png",03h00 ngày 10.11 Celta de Vigo vs Barcelona (Hội Quán) BLV PHAN MÃ SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+https://apisportzz179528093.nsnd.live/4fAiF70IesgfGYYrq-_y6g/Fv2lucGIbhPi2caWYvF5Lg/1762748651493/live/sd-6MuTchFPrKc9UcLMJT/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ad/SL_Benfica_logo.png",03h30 ngày 10.11 Benfica vs Casa Pia AC (Hội Quán) BLV PHAN SON FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1962,22 +1734,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",03:00 ngày 11/10 Celta Vigo và Barcelona (Mãn nhãn) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x7y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",03:00 ngày 11/10 Celta Vigo và Barcelona (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x7y3-3386/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",03:00 ngày 11/10 Celta Vigo và Barcelona (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x7y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",03:00 ngày 11/10 Cadiz và Real Valladolid (Mãn nhãn) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",03:30 ngày 11/10 Braga và Moreirense (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -2022,30 +1778,18 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x3/playlist.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",SPA D1 Celta Vigo vs Barcelona BLV ÔLONG (Colalive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/97312754.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",SPA D1 Celta Vigo vs Barcelona BLV ÔLONG (Colalive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/97312754.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWJhY2Y0NWRiZjEtNmE2Mg/M2Y2YzYyYmQ4NjItYWNhZQ.png",SPA D1 Celta Vigo vs Barcelona BLV COCA (Colalive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/24561735.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWJhY2Y0NWRiZjEtNmE2Mg/M2Y2YzYyYmQ4NjItYWNhZQ.png",SPA D1 Celta Vigo vs Barcelona BLV COCA (Colalive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/24561735.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/Yzg4YWU3NjExOGQtYzQxMg/NGE1ZmFkMzExZTMtYjJlNA.png",SPA D1 Celta Vigo vs Barcelona BLV 7UP (Colalive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/78905744.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/Yzg4YWU3NjExOGQtYzQxMg/NGE1ZmFkMzExZTMtYjJlNA.png",SPA D1 Celta Vigo vs Barcelona BLV 7UP (Colalive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/78905744.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODM1NmFiZjkyNzMtODM1OA/OWIxYmY1NzcyOTktMjgwNQ.png",POR D1 SL Benfica vs Casa Pia AC BLV MONSTER (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/75915087.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODM1NmFiZjkyNzMtODM1OA/OWIxYmY1NzcyOTktMjgwNQ.png",POR D1 SL Benfica vs Casa Pia AC BLV MONSTER (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/75915087.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzdlNzdmMjQ5YzMtYzlhMQ/Mzc2N2FjMGMxOTMtZTQwNw.png",MEX D1 Santos Laguna vs Pachuca BLV FANTA (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/71426314.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzdlNzdmMjQ5YzMtYzlhMQ/Mzc2N2FjMGMxOTMtZTQwNw.png",MEX D1 Santos Laguna vs Pachuca BLV FANTA (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/71426314.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",VSBET - THỂ THAO HÀNG ĐẦU ĐỐI TÁC VSBET (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/36669975.flv
@@ -2064,6 +1808,12 @@ https://live5.k8v4dh5.app/live/36858215.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",LIVE BACARAT BACARAT (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/36858215.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",XÓC DĨA XÓC DĨA (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/26250293.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWE4YjdjMzljNGItMjFlYQ/M2NhZTI3MWJkZDAtNjBjNg.jpg",XÓC DĨA XÓC DĨA (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/26250293.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/538.png",03h00 10/11 Celta Vigo vs Barcelona (blvtoptop) Adam
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
