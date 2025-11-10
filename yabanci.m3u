@@ -444,10 +444,6 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/3832487704f837635bc2c9c553675918.png",04h00 ngày 11/11 Realidade Jovem/SP (w) vs Santos (w) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/a07a0c922e92529c05a3e38c9b3dbac5/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/4970b9a9a215c78759a6bb84ecaa3701.png",05h00 ngày 11/11 Chapecoense SC vs America MG (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -612,30 +608,24 @@ https://mrkw1025.edgemaxcdn.org/live/ngaosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/ngaohd1RK.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6403_1grwgc3gyj2p.png",05h00 ngày 11/11 Chapecoense SC vs America MG (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6403_1grwgc3gyj2p.png",05h00 ngày 11/11 Chapecoense SC vs America MG (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8666_1gtda2hsk1s.png",05h00 ngày 11/11 Botafogo SP vs Amazonas FC (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8666_1gtda2hsk1s.png",05h00 ngày 11/11 Botafogo SP vs Amazonas FC (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15916_1hxncgm0x722.png",05h00 ngày 11/11 Deportivo Riestra vs Independiente (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15916_1hxncgm0x722.png",05h00 ngày 11/11 Deportivo Riestra vs Independiente (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/54292_1h0kwse4t91q.png",04h00 ngày 11/11 Realidade Jovem/SP (W) vs Santos (W) (Lương Sơn) NHÀ ÐÀI m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8666_1gtda2hsk1s.png",05h00 ngày 11/11 Botafogo SP vs Amazonas FC (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnvankhanh.com/live/sd-6MuSNGznLhCPRhzDAc/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/54292_1h0kwse4t91q.png",04h00 ngày 11/11 Realidade Jovem/SP (W) vs Santos (W) (Lương Sơn) NHÀ ÐÀI flv
+https://hls.cdnok9.com/live/DIEUTHUYEN/index.m3u8?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8666_1gtda2hsk1s.png",05h00 ngày 11/11 Botafogo SP vs Amazonas FC (Lương Sơn) TRỢ LÝ ĐIÊU THUYỀN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
+https://flv.cdnok9.com/live/DIEUTHUYEN.flv?expire=1788427256&sign=8cebea5448db2f74ea04021d9362ba87
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6403_1grwgc3gyj2p.png",05h00 ngày 11/11 Chapecoense SC vs America MG (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6403_1grwgc3gyj2p.png",05h00 ngày 11/11 Chapecoense SC vs America MG (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/41311_1k44643cqn13.png",05h30 ngày 11/11 Atletico Tembetary vs FC Nacional Asuncion (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnvankhanh.com/live/sd-6MuPtT52Ath5bPmort/playlist.m3u8
@@ -734,10 +724,10 @@ https://live.alilicloud.com/live/26fce3702d446da9f01c6f3034244eff/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/3e85bd5fd53d4f92db64d35e4b9f134d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/30c9a3c424abbef33fd4f1d00eb09b0c.png",23h30 ngày 09/11 Fakel Voronezh vs Spartak Kostroma (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1419c031a0745c43549ed64a196c500e.png",05h30 ngày 10/11 Atlético Tembetary vs FC Nacional Asuncion (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6383be6b44b7817d27d31c82f3cf31cc/playlist.m3u8
+https://live.alilicloud.com/live/bfc26958899fc0c08f5d8eaae38bfd07/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/3832487704f837635bc2c9c553675918.png",04h00 ngày 10/11 Realidade Jovem/SP Women vs Santos Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1278,6 +1268,30 @@ https://live.alilicloud.com/live/b89cff1734338fe074e47c9c11791f91/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/018f1a4db87e257488a957a51ab824d1/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png",06h00 ngày 10/11 Palmeiras SP Women vs SC Corinthians Paulista Women (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/2752eebb2782442cb62b4c974a847572_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png",06h00 ngày 10/11 Palmeiras SP Women vs SC Corinthians Paulista Women (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/2752eebb2782442cb62b4c974a847572_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png",06h00 ngày 10/11 Palmeiras SP Women vs SC Corinthians Paulista Women (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/2752eebb2782442cb62b4c974a847572_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png",06h00 ngày 10/11 Palmeiras SP Women vs SC Corinthians Paulista Women (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/2752eebb2782442cb62b4c974a847572_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png",06h00 ngày 10/11 Palmeiras SP Women vs SC Corinthians Paulista Women (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/2752eebb2782442cb62b4c974a847572_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png",06h00 ngày 10/11 Palmeiras SP Women vs SC Corinthians Paulista Women (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/2752eebb2782442cb62b4c974a847572_720/index.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/7344/1grwgc3gyj2p.png?win007=sell",05h00 ngày 11/11 Chapecoense SC vs America MG (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1394,6 +1408,42 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1762817724-0-0-a675
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251107/ea69482f0c41dff9ef110b1afbdde7f3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1762817724-0-0-89e44fbc36020b953cc2c80dd213c085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1762818084-0-0-f7fd69942fc7a195754336e8c757b1a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1762818084-0-0-0844d227db553c6434926af756e1e877
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1762818084-0-0-6d6d90445882881c1c56330c4d6319d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1762818084-0-0-878125f72eb090fe32cc4d8ffe754fcc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1762818084-0-0-4647f048ac41c38b2e4aa1d2813c406e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1762818084-0-0-ab038ccb9fda0d6bded019b7b29f7e08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1762818084-0-0-96a1f4e69555b21dd9c64648311c59eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/349ddf3c0d7a2c5dd6d1761e301eb691.png",05h00 ngày 11/11 Deportivo Riestra vs CA Independiente [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1762818084-0-0-aa26d1c54d879fb94951e615f115f651
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/5a95e0544dde2b7c7841d7cf4c0bc1c5.png",05h00 ngày 11/11 Chapecoense SC vs America MG [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1762818084-0-0-30b0ec71706694b77eca5131c8628c4d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/5a95e0544dde2b7c7841d7cf4c0bc1c5.png",05h00 ngày 11/11 Chapecoense SC vs America MG [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1762818084-0-0-ecb65bbffb3927679f12fd80b425910b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/5a95e0544dde2b7c7841d7cf4c0bc1c5.png",05h00 ngày 11/11 Chapecoense SC vs America MG [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1762818084-0-0-359d143beec14385fc8d2d1991ef21ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251108/5a95e0544dde2b7c7841d7cf4c0bc1c5.png",05h00 ngày 11/11 Chapecoense SC vs America MG [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1762818084-0-0-96d6a039a6cb172b23e32fceb0c1b40b
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr1x3UWg-rRNfwvij.png",05:00 ngày 11/11 Deportivo Riestra vs Independiente (1) [Người Cast] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
