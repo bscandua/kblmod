@@ -444,6 +444,10 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/9797959a20ca90fb6901b819293bb1bd.png",12h30 ngày 11/11 Parikrma FC vs Student Union FC (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/536d1bef29635b8c20a5bb7b6ad606e1/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -514,6 +518,12 @@ https://hls.cdnok9.com/live/TEST2/index.m3u8?expire=1788427256&sign=1eeee2ecb436
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762837600.png",12h20 ngày 11/11 Manchester City vs Liverpool (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TEST2.flv?expire=1788427256&sign=1eeee2ecb43648dc5ef36b43282e16ae
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",12h30 ngày 11/11 Parikrma FC vs Student Union FC (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnvankhanh.com/live/sd-6MvYLv4cxRXdNCQzg4/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="",12h30 ngày 11/11 Parikrma FC vs Student Union FC (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCklQGXUReEi20Vy08HlJIzdOU06Q_hOaaA&s",12h30 ngày 11/11 Parikrma FC vs Student Union FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -538,6 +548,10 @@ https://live.alilicloud.com/live/439d5138b489ae6b0b7ea8bdc953e9c3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8fa0dcffc6e1b65953d7d5156c591d1f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/9797959a20ca90fb6901b819293bb1bd.png",12h30 ngày 10/11 Parikrma FC vs Student Union FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/536d1bef29635b8c20a5bb7b6ad606e1/playlist.m3u8
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png",10h30 ngày 11/11 Los Angeles Clippers vs Atlanta Hawks (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -558,14 +572,34 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1RK.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png",07h15 ngày 10/11 Argentinos Juniors vs Belgrano (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/9797959a20ca90fb6901b819293bb1bd.png",12h30 ngày 10/11 Parikrma FC vs Student Union FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/63a2509db1e7a880cd8e4cc503848250/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h15 ngày 10/11 Independiente Rivadavia vs Central Cordoba SDE (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/439d5138b489ae6b0b7ea8bdc953e9c3/playlist.m3u8
+https://live.alilicloud.com/live/536d1bef29635b8c20a5bb7b6ad606e1/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762837410.png",12h00 ngày 11/11 Celta Vigo vs FC Barcelona (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/CASTINGBLV/index.m3u8?expire=1890806880&sign=74de8b3d772b2bf487a23deba55942e0
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762837410.png",12h00 ngày 11/11 Celta Vigo vs FC Barcelona (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/CASTINGBLV.flv?expire=1890806880&sign=74de8b3d772b2bf487a23deba55942e0
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762837231.png",12h00 ngày 11/11 Rayo Vallecano vs Real Madrid (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://hls.cdnvankhanh.com/live/luckytest/index.m3u8?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1762837231.png",12h00 ngày 11/11 Rayo Vallecano vs Real Madrid (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://flv.cdnvankhanh.com/live/luckytest.flv?expire=1883742060&sign=ed258748d4d2478c31073b1f8ac0af67
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1761719865.png",12h30 ngày 11/11 Parikrma FC vs Student Union FC (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvYLv4cxRXdNCQzg4/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1761719865.png",12h30 ngày 11/11 Parikrma FC vs Student Union FC (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251109/685bf3ecbd33458b2f05085e323d16dc.png",10h30 ngày 11/11 Los Angeles Clippers vs Atlanta Hawks [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1762840765-0-0-f94fee0367b6ac28d42ae1b47492b1fd
@@ -673,63 +707,63 @@ https://live-vipxlvb.nsnd.live/bTm-EicVY3EFb0Pkl67nIQ/bf44ba621235a4936d4c6ae605
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá‎ Hề] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1762877890&sign=47f89ee08a5a2a0f613dc920b3a894ee
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1762883287&sign=5255f1acc547328b13dc28c033c1849c
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá‎ Hề] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/MPg1Qzzqsg8Qql1XEAlN3w/Fv2lucGIbhPi2caWYvF5Lg/1762877890130/live/heHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/pv84l8jNUvkQ6f0xy1Xizw/Fv2lucGIbhPi2caWYvF5Lg/1762883287986/live/heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá‎ Hề] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/9RAJIcpQlTfvl_002NVpAA/c447692e6da13744a99dfc2b26df7bc6/1762877890/live/_definst_/stream_1_1bda7@heHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/oTqeqw-PO2DDNxCmJoHFIw/c447692e6da13744a99dfc2b26df7bc6/1762883287/live/_definst_/stream_1_1bda7@heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá‎ Hề] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/fn-xtJLZlNCicoKoCwc4oA/Fv2lucGIbhPi2caWYvF5Lg/1762877890130/live/heSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/K2FBk8djRAS4yPFEUtkNyg/Fv2lucGIbhPi2caWYvF5Lg/1762883287986/live/heSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá‎ Hề] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/UqA0dgU9jw2WlUsKwi7AJA/83de23c4424f537b01b08ca40d8e3c83/1762877890/live/_definst_/stream_1_1bda7@heFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/XLAH_znLYlpWL_TWNh7FpQ/83de23c4424f537b01b08ca40d8e3c83/1762883287/live/_definst_/stream_1_1bda7@heFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1762877890&sign=7df5d0162af06267b70d44af779af853
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1762883287&sign=6f32850d5f9c752cb7789fca56b49b5e
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá Cờ] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/L7pQQsgJDvMUv6mLhMxOKw/Fv2lucGIbhPi2caWYvF5Lg/1762877890130/live/coHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ZipFfK7_6dGcBkML5sp0NA/Fv2lucGIbhPi2caWYvF5Lg/1762883287986/live/coHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá Cờ] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/uEYiKOMZfhbVA55EHMgaXw/e106295966a1a26dfddb5b60b193571b/1762877890/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/kE3XQBvjGtqyj-oLEUNXtg/e106295966a1a26dfddb5b60b193571b/1762883287/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá Cờ] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/AxKmJTeyK6c96zY-_wzPdQ/Fv2lucGIbhPi2caWYvF5Lg/1762877890130/live/coSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/GIGi5TR-DiaA720toAsamw/Fv2lucGIbhPi2caWYvF5Lg/1762883287986/live/coSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [Cá Cờ] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/JEy45Rxbjsd7bx7FFJ3JSQ/f7d74fcca7b86aaec98d69192d99ee8f/1762877890/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [A Núi] HD Nhanh
+https://live-vipxlvb.nsnd.live/eUlUBkalG43Wy4FOF6chOg/f7d74fcca7b86aaec98d69192d99ee8f/1762883287/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",12:00 ngày 11/11 Tứ Xuyên vs Thiên Tân (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1762877890&sign=0cd18108a43a625455b6fc7a56726cc0
-#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [A Núi] HD1
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1762883289&sign=d12d5287d6ebb17173cb62eaec1e32d8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",12:00 ngày 11/11 Tứ Xuyên vs Thiên Tân (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/xMLSStHHP6RiNLpuasqDnA/Fv2lucGIbhPi2caWYvF5Lg/1762877890130/live/nuiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [A Núi] HD2
+https://hotlivezz179266008.akainu.xyz/qdWON4vwP2WVPQNruvqffw/Fv2lucGIbhPi2caWYvF5Lg/1762883289111/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",12:00 ngày 11/11 Tứ Xuyên vs Thiên Tân (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/koPlFz2tJe2Spv4cvuF-Lw/43bf1bdbba25fb941e370ed383221c53/1762877890/live/_definst_/stream_1_1bda7@nuiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [A Núi] SD
+https://live-vipxlvb.nsnd.live/dXdx_TWaDRvZBG4xen70jg/61b7c9f6fb3bff2f3c2273378af449b7/1762883289/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",12:00 ngày 11/11 Tứ Xuyên vs Thiên Tân (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/QIrgvnK_F5nqFqnT9UDTCw/Fv2lucGIbhPi2caWYvF5Lg/1762877890130/live/nuiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/KCA4/O1CN01lCy9SD2GdSim8p6Vs_22510590.png",11:30 ngày 11/11 Đại Hội TDTT Trung Quốc (1) [A Núi] FullHD
+https://hotlivezz179602324.akainu.xyz/noVm0anv34GKKFTbKoLJ2A/Fv2lucGIbhPi2caWYvF5Lg/1762883289111/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",12:00 ngày 11/11 Tứ Xuyên vs Thiên Tân (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-vipxlvb.nsnd.live/0JYevKLV-cV1sHmvKTgi6w/adb8de5045254f4388ff92b08aeba831/1762877890/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
+https://live-vipxlvb.nsnd.live/C3-6C6FfLafSDh6CLJychA/e56ce8a755cda33e7f050da0b700d013/1762883289/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",12:00 ngày 11/11 Thượng Hải vs Chiết Giang (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
