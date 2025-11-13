@@ -444,10 +444,6 @@ http://192.168.11.1:61292/udp/232.84.3.66:11656
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/e9626addec90806fa6d8b291155f8d1e.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/bf5df90eca7b0e0b5788cd4503922ea7/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/fab02be525c1579918412f73a5f2c245.png",21h15 ngày 13/11 Hungary U21 vs Faroe Islands U21 (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -460,10 +456,6 @@ https://live.alilicloud.com/live/d2afc6de1596d3b063c04c15ee0b3e03/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/a77adc978a341904a999ab1705d5f9a0/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/0db3b8167d91f65e5d7d08e3fc6de20d.png",23h00 ngày 13/11 United Arab Emirates vs Iraq (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/livehd/eae1c609e4290b4900624e107219dfb7/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -504,6 +496,30 @@ https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Cà Khịa) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Cà Khịa) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png!w100",21h00 ngày 13/11 Bangladesh vs Nepal (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -520,6 +536,90 @@ https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Cà Khịa) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Cà Khịa) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chanhsd2/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chanhhd2/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhsd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhhd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Lấy kinh) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Lấy kinh) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1RK.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png!w100",21h00 ngày 13/11 Bangladesh vs Nepal (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -560,6 +660,30 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Lấy kinh) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1RK.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -576,18 +700,6 @@ https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV LÝ QUỲ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV LÝ QUỲ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV HOA VINH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV HOA VINH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LOELOE6380K.flv?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2800_165018968054.png",21h00 ngày 13/11 Bangladesh vs Nepal (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
@@ -612,18 +724,38 @@ https://hls.cdnok9.com/live/TONTHANG/index.m3u8?expire=1788427256&sign=adb117caa
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1763045526.jpg",21h35 ngày 13/11 Al-Jeel vs Al-Sadd FC(SA) (Lương Sơn) BLV CÔNG TÔN THẮNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONTHANG.flv?expire=1788427256&sign=adb117caabc8cf978ed1bbca0e03c593
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65027_1hswy6yrrv1q.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (Lương Sơn) BLV VI TIỂU BẢO m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VITIEUBAO/index.m3u8?expire=1788427256&sign=8455ad268241104dcfa228cc4d4a76de
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65027_1hswy6yrrv1q.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (Lương Sơn) BLV VI TIỂU BẢO flv
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VITIEUBAO.flv?expire=1788427256&sign=8455ad268241104dcfa228cc4d4a76de
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65027_1hswy6yrrv1q.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (Lương Sơn) BLV KENCHU m3u
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV HOA VINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65027_1hswy6yrrv1q.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (Lương Sơn) BLV KENCHU flv
+https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/36363_1gzq96w3n4b.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 (Lương Sơn) BLV HOA VINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+https://flv.cdnok9.com/live/LOELOE6380K.flv?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (Ra Khơi) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1RK.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -640,6 +772,30 @@ https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Ra Khơi) Chuối SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Ra Khơi) Chuối HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhsd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhhd1RK.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png!w100",21h00 ngày 13/11 Bangladesh vs Nepal (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -672,6 +828,38 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1RK.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1RK.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95797_small.png",21:00 ngày 11/13 Bangladesh và Nepal (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -704,10 +892,58 @@ https://wtyi0525.edgemaxcdn.org/live/x16y3-0340/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",23:00 ngày 11/13 UAE và Iraq (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",23:00 ngày 11/13 UAE và Iraq (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x1y3-2886/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",23:00 ngày 11/13 UAE và Iraq (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",23:00 ngày 11/13 Nigeria và Gabon (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",23:00 ngày 11/13 Nigeria và Gabon (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x11y3-0440/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",23:00 ngày 11/13 Nigeria và Gabon (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x11y2/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",23:00 ngày 11/13 Iran và Cape Verde (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8504_small.png",23:00 ngày 11/13 North Macedonia U21 và Sweden U21 (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x7y1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8504_small.png",23:00 ngày 11/13 North Macedonia U21 và Sweden U21 (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x7y3-3258/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8504_small.png",23:00 ngày 11/13 North Macedonia U21 và Sweden U21 (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x7y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5848_small.png",23:00 ngày 11/13 Croatia U21 và Lithuania U21 (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5848_small.png",23:00 ngày 11/13 Croatia U21 và Lithuania U21 (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x0y3-3458/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5848_small.png",23:00 ngày 11/13 Croatia U21 và Lithuania U21 (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6317_small.png",23:30 ngày 11/13 Algeria và Zimbabwe (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -804,14 +1040,42 @@ https://live.alilicloud.com/live/54ab6978a50d04656ed4fb4c837c194e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a77adc978a341904a999ab1705d5f9a0/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/56de534cf589f6d0ca09630db803ba00.png!w100",23h00 ngày 13/11 Iran vs Cape Verde (QUAY TAY) Nhà đài
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/d0a25191dbba4e59a252b8f15e9aa3a5_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/d0a25191dbba4e59a252b8f15e9aa3a5_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/d0a25191dbba4e59a252b8f15e9aa3a5_720/index.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w100",23h00 ngày 13/11 Spain U17 vs Czech Republic U17 (QUAY TAY) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/chanhsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (QUAY TAY) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/chanhhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chanhsd2/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chanhhd2/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhsd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w60",23h00 ngày 13/11 United Arab Emirates vs Iraq (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chanhhd1RK.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png!w100",21h00 ngày 13/11 Bangladesh vs Nepal (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -852,6 +1116,70 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f06adf060c098f11e76fa2ff1565ba70.png!w100",23h00 ngày 13/11 North Macedonia U21 vs Thụy Điển U21 (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/saysd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w100",23h00 ngày 13/11 Croatia U21 vs Lithuania U21 (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sayhd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (QUAY TAY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/tichhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichsd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",23h00 ngày 13/11 Nigeria vs Gabon (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/tichhd1RK.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://static.flashscore.com/res/image/data/fyBnVcWg-xUKWlpRC.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -860,310 +1188,14 @@ https://mrkw1025.edgemaxcdn.org/live/m403nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132336_69767d8d.png",21h00 ngày 13/11 Dinamo Minsk II vs FC Dnepr Mogilev (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/56de534cf589f6d0ca09630db803ba00.png!w100",23h00 ngày 13/11 Iran vs Cape Verde (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132336_69767d8d.png",21h00 ngày 13/11 Dinamo Minsk II vs FC Dnepr Mogilev (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://mrkw1025.edgemaxcdn.org/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/e5858bd2ddb51631a85b1af22f5a1a6a.png!w100",23h00 ngày 13/11 Spain U17 vs Czech Republic U17 (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134314_49a46639.png",21h00 ngày 13/11 Bangladesh vs Nepal (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134314_49a46639.png",21h00 ngày 13/11 Bangladesh vs Nepal (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134314_49a46639.png",21h00 ngày 13/11 Bangladesh vs Nepal (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134314_49a46639.png",21h00 ngày 13/11 Bangladesh vs Nepal (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134314_49a46639.png",21h00 ngày 13/11 Bangladesh vs Nepal (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134314_49a46639.png",21h00 ngày 13/11 Bangladesh vs Nepal (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142724_34a14d54.png",22h00 ngày 13/11 Benfica U23 vs Lube Civitanova (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142724_34a14d54.png",22h00 ngày 13/11 Benfica U23 vs Lube Civitanova (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133415_27f7a7df.png",23h00 ngày 13/11 United Arab Emirates vs Iraq (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133415_27f7a7df.png",23h00 ngày 13/11 United Arab Emirates vs Iraq (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133415_27f7a7df.png",23h00 ngày 13/11 United Arab Emirates vs Iraq (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133415_27f7a7df.png",23h00 ngày 13/11 United Arab Emirates vs Iraq (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133415_27f7a7df.png",23h00 ngày 13/11 United Arab Emirates vs Iraq (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133415_27f7a7df.png",23h00 ngày 13/11 United Arab Emirates vs Iraq (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132756_2c39a333.png",23h00 ngày 13/11 Nigeria vs Gabon (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132756_2c39a333.png",23h00 ngày 13/11 Nigeria vs Gabon (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132756_2c39a333.png",23h00 ngày 13/11 Nigeria vs Gabon (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132756_2c39a333.png",23h00 ngày 13/11 Nigeria vs Gabon (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132756_2c39a333.png",23h00 ngày 13/11 Nigeria vs Gabon (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132756_2c39a333.png",23h00 ngày 13/11 Nigeria vs Gabon (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134254_e0b3eb39.png",00h00 ngày 14/11 Armenia vs Hungary (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134254_e0b3eb39.png",00h00 ngày 14/11 Armenia vs Hungary (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134254_e0b3eb39.png",00h00 ngày 14/11 Armenia vs Hungary (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134254_e0b3eb39.png",00h00 ngày 14/11 Armenia vs Hungary (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134254_e0b3eb39.png",00h00 ngày 14/11 Armenia vs Hungary (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134254_e0b3eb39.png",00h00 ngày 14/11 Armenia vs Hungary (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilun.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_d9c20909.png",00h00 ngày 14/11 Norway vs Estonia (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_d9c20909.png",00h00 ngày 14/11 Norway vs Estonia (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_d9c20909.png",00h00 ngày 14/11 Norway vs Estonia (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_d9c20909.png",00h00 ngày 14/11 Norway vs Estonia (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_d9c20909.png",00h00 ngày 14/11 Norway vs Estonia (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_d9c20909.png",00h00 ngày 14/11 Norway vs Estonia (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125450_ce424b12.png",02h45 ngày 14/11 England vs Serbia (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125450_ce424b12.png",02h45 ngày 14/11 England vs Serbia (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125450_ce424b12.png",02h45 ngày 14/11 England vs Serbia (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125450_ce424b12.png",02h45 ngày 14/11 England vs Serbia (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125450_ce424b12.png",02h45 ngày 14/11 England vs Serbia (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125450_ce424b12.png",02h45 ngày 14/11 England vs Serbia (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125447_e304fc82.png",02h45 ngày 14/11 France vs Ukraine (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125447_e304fc82.png",02h45 ngày 14/11 France vs Ukraine (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125447_e304fc82.png",02h45 ngày 14/11 France vs Ukraine (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125447_e304fc82.png",02h45 ngày 14/11 France vs Ukraine (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125447_e304fc82.png",02h45 ngày 14/11 France vs Ukraine (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_125447_e304fc82.png",02h45 ngày 14/11 France vs Ukraine (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_78be98da.png",02h45 ngày 14/11 Rep. Of Ireland vs Portugal (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_78be98da.png",02h45 ngày 14/11 Rep. Of Ireland vs Portugal (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_78be98da.png",02h45 ngày 14/11 Rep. Of Ireland vs Portugal (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_78be98da.png",02h45 ngày 14/11 Rep. Of Ireland vs Portugal (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_78be98da.png",02h45 ngày 14/11 Rep. Of Ireland vs Portugal (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134253_78be98da.png",02h45 ngày 14/11 Rep. Of Ireland vs Portugal (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134301_14465ab7.png",02h45 ngày 14/11 Moldova vs Italy (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134301_14465ab7.png",02h45 ngày 14/11 Moldova vs Italy (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134301_14465ab7.png",02h45 ngày 14/11 Moldova vs Italy (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134301_14465ab7.png",02h45 ngày 14/11 Moldova vs Italy (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134301_14465ab7.png",02h45 ngày 14/11 Moldova vs Italy (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134301_14465ab7.png",02h45 ngày 14/11 Moldova vs Italy (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132743_25712a70.png",05h00 ngày 14/11 Suriname vs El Salvador (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132743_25712a70.png",05h00 ngày 14/11 Suriname vs El Salvador (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132743_25712a70.png",05h00 ngày 14/11 Suriname vs El Salvador (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132743_25712a70.png",05h00 ngày 14/11 Suriname vs El Salvador (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132743_25712a70.png",05h00 ngày 14/11 Suriname vs El Salvador (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132743_25712a70.png",05h00 ngày 14/11 Suriname vs El Salvador (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132742_655e51b0.png",07h00 ngày 14/11 Trinidad and Tobago vs Jamaica (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132742_655e51b0.png",07h00 ngày 14/11 Trinidad and Tobago vs Jamaica (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132742_655e51b0.png",07h00 ngày 14/11 Trinidad and Tobago vs Jamaica (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132742_655e51b0.png",07h00 ngày 14/11 Trinidad and Tobago vs Jamaica (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132742_655e51b0.png",07h00 ngày 14/11 Trinidad and Tobago vs Jamaica (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132742_655e51b0.png",07h00 ngày 14/11 Trinidad and Tobago vs Jamaica (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132740_8b094d7f.png",09h00 ngày 14/11 Haiti vs Costa Rica (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132740_8b094d7f.png",09h00 ngày 14/11 Haiti vs Costa Rica (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132740_8b094d7f.png",09h00 ngày 14/11 Haiti vs Costa Rica (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132740_8b094d7f.png",09h00 ngày 14/11 Haiti vs Costa Rica (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132740_8b094d7f.png",09h00 ngày 14/11 Haiti vs Costa Rica (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132740_8b094d7f.png",09h00 ngày 14/11 Haiti vs Costa Rica (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
+https://mrkw1025.edgemaxcdn.org/live/m402nd/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/e9626addec90806fa6d8b291155f8d1e.png",21h00 ngày 12/11 Dinamovs2 Minsk vs Dnepr Mogilev (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1248,6 +1280,54 @@ https://live.alilicloud.com/live/827fc956437442ad088db199b23ad9bd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9c5923f51c8f8d1f246668f593f84adb/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/72bfad429f614f21a62f0b3832b7aced_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/72bfad429f614f21a62f0b3832b7aced_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/72bfad429f614f21a62f0b3832b7aced_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/72bfad429f614f21a62f0b3832b7aced_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/72bfad429f614f21a62f0b3832b7aced_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/1b141c19b8516ff9a26065d66ecd7146.png",23h00 ngày 12/11 United Arab Emirates vs Iraq (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/72bfad429f614f21a62f0b3832b7aced_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/7967d550a306a50276991b19ddb4d72e.png",23h00 ngày 12/11 Nigeria vs Gabon (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/1bf43ff4782a4b49b677f4cfd0cb4b0e_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/7967d550a306a50276991b19ddb4d72e.png",23h00 ngày 12/11 Nigeria vs Gabon (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/1bf43ff4782a4b49b677f4cfd0cb4b0e_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/7967d550a306a50276991b19ddb4d72e.png",23h00 ngày 12/11 Nigeria vs Gabon (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/1bf43ff4782a4b49b677f4cfd0cb4b0e_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/7967d550a306a50276991b19ddb4d72e.png",23h00 ngày 12/11 Nigeria vs Gabon (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/1bf43ff4782a4b49b677f4cfd0cb4b0e_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/7967d550a306a50276991b19ddb4d72e.png",23h00 ngày 12/11 Nigeria vs Gabon (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/1bf43ff4782a4b49b677f4cfd0cb4b0e_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/7967d550a306a50276991b19ddb4d72e.png",23h00 ngày 12/11 Nigeria vs Gabon (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live7.fastestcdn-global.com/live7/1bf43ff4782a4b49b677f4cfd0cb4b0e_720/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/f4cbf56fa033e3995f35a10e4738b127.png",22h00 ngày 12/11 Benfica U23 vs Uniao Leiria U23 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1268,66 +1348,162 @@ https://hls.cdnvankhanh.com/live/VANCO/index.m3u8?expire=1826356200&sign=1cb1846
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANCO.flv?expire=1826356200&sign=1cb184635e81263192025d4eedf6dec8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1763052085-0-0-13a2e293b232bfcb9856af8ffe444a92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1763052085-0-0-b6effd24b68c6cfe49eff93f43d54082
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1763052085-0-0-11bdc752276a75e47718964acc3ca631
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1763052085-0-0-ac6ee4e904357ca88e79b80b6abfd5c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1763052085-0-0-deba607e70a2bcc7bc07bde89926a61f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1763052085-0-0-05cb8bd008bd47ca3663aeab0fc25301
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1763052085-0-0-ad5a3123e1d2d34537844996ddc90e86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1763052085-0-0-287c99edd78739220b3acbd7c212113b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [JACKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1763052085-0-0-50b82c6f8c4dad715841dad6518133be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [JACKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1763052085-0-0-93fbb2d63d1a3fb79bcb6f24c8303de1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [JACKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1763052085-0-0-c772e28dbf1f259c5619bc91ee9e4612
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [JACKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1763052085-0-0-d1599999c66c1da81d26ddcf4e669a04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1763052085-0-0-6e84163dc2d3e73fac70ff96fc8340e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1763052085-0-0-9595334856de3e28d29f6c0aaee7060e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1763052085-0-0-1dfae6edb5e8f4b0aba1cd811dc2026d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1763052085-0-0-f2c54d6eafcae077583bc178ffe9cd8d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV PIRLO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1763049925-0-0-7d7da923335357136b6e16d3da52d9f3
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1763052085-0-0-456db35b710777b48a5d60cc1b17d388
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV PIRLO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1763049925-0-0-198a41e66e2422569773568fe6bc77f5
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1763052085-0-0-31bec8f5f8dda21bec53b41f84d69e11
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV PIRLO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1763049925-0-0-3ea9e399f7e22d947d9aa5c96bfac804
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1763052085-0-0-9799b84be23fd000ff05bb024a0c5d8f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV PIRLO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1763049925-0-0-c6477401cf98d06b8d90f2c97e3aba9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) flv
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1763052085-0-0-90b34eabd3bfef55ea7122579330f521
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912092_lsd.flv?auth_key=1763049925-0-0-d841e476b8b71ca131210396b8879cf2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=67e0fd8b8df51664a675dd4d826733d4&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912092_lhd.flv?auth_key=1763049925-0-0-b8866a1817db69d992f2f97dd4861b52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=9bd2cbb17522a8ddc1fc7c07cee2e659&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1763049925-0-0-bafefbbaba46f7738aa40d8f5b3a1633
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=67e0fd8b8df51664a675dd4d826733d4&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1763049925-0-0-04e9df7d4efe46c72c543c8fceedef36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=9bd2cbb17522a8ddc1fc7c07cee2e659&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1763049925-0-0-e08c808ebc846ff2eef3d715087fe884
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=27e948075a318b8bb32ab3b598f7ee26&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1763049925-0-0-98142737afc22402332c97f588460c62
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=ef76f2147b00b0f541ff3dd9108cc4ae&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763049925-0-0-10f17c92d7a19ec193009a4fabf17409
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=27e948075a318b8bb32ab3b598f7ee26&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763049925-0-0-1c6d11dd0173eaeea700cc424cd34e7e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) flv
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=ef76f2147b00b0f541ff3dd9108cc4ae&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-537460_lsd.flv?auth_key=1763049925-0-0-2b62a3484f3469a89e593ae4e4c92ebe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1763052085-0-0-66a59a9d932f71f8dea38a722d30b3d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-537460_lhd.flv?auth_key=1763049925-0-0-f5cad67e417ba1e1228377ab5c86a219
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1763052085-0-0-b48c8e0f82c09fa813555b536ec56c36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763049925-0-0-5437d0cf4d0e9e450ba7b491fe9f0f7b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1763052085-0-0-1b006c3e38771c039d64281ea27591b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763049925-0-0-32cf483590c4b59eb52762a410eaeb43
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1763052085-0-0-84c8dc0b2e5c0d6903e906400ccd9123
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV Hổ Lùn] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=9d1b34902257fcb2813aada0ceb6af68&txTime=69164815
+https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=c1b4838d9c6305fca9f36cd4137588ea&txTime=69165085
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV Hổ Lùn] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=54a2e476768022fa6b988c611149bfe7&txTime=69164815
+https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=a6fe0c4d36aea1b07f33c6ffdffa47e4&txTime=69165085
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV Hổ Lùn] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=9d1b34902257fcb2813aada0ceb6af68&txTime=69164815
+https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=c1b4838d9c6305fca9f36cd4137588ea&txTime=69165085
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV Hổ Lùn] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=54a2e476768022fa6b988c611149bfe7&txTime=69164815
+https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=a6fe0c4d36aea1b07f33c6ffdffa47e4&txTime=69165085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912092_lsd.flv?auth_key=1763052085-0-0-c42be0c182d54f63446afc82ec3a335a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912092_lhd.flv?auth_key=1763052085-0-0-bfab9d1dcbb5b60de83e1d4df264cfe7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1763052085-0-0-c6202bfb4c7849147693cc91cd8e1d96
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV AK47] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1763052085-0-0-fb1d7e286cc13d07e1c567a99d9abd28
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1763052085-0-0-4359cd2c8e326f62ba2b77a1495b53ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1763052085-0-0-d9b7cc4c39311bec5451cc1113537cc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1763052085-0-0-5112363a0917fefc3fa2815fec6ff189
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/3a60dc58d47a2d8cd31363cc8118d89a.png",22h00 ngày 13/11 Benfica U23 vs Uniao Leiria U23 [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1763052085-0-0-598c4bee20e34092821d2837ba8034ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1763052085-0-0-824dea076d5a5c6f57b88fb27a71424f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1763052085-0-0-29210d796736db9852084b211660342b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1763052085-0-0-099772641627219ebb7b85e6d2364c5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",WCPAF: Nigeria vs Gabon [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1763052085-0-0-3277d1d030765f9b849f50de53913b27
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-537460_lsd.flv?auth_key=1763052085-0-0-1d5009aa146d31a9c1078d21c26ac3f4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-537460_lhd.flv?auth_key=1763052085-0-0-ea51f322ebe5de8b558f93254419a022
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-537460_lsd.m3u8?auth_key=1763052085-0-0-3014e748df950a336e505656cb8e04e4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV NOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-537460_lhd.m3u8?auth_key=1763052085-0-0-451dd198250a05ea288e9e491eb7ba06
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/c945297091faf1d594d44d49f7c0fd1d.png",21h00 ngày 13/11 Dinamo-2 Minsk vs Dnepr Mogilev [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://stream-flv.dfsfe.top/lives/9912114-480p.flv
@@ -1342,28 +1518,112 @@ https://stream-flv.dfsfe.top/lives/9912114-480p.m3u8
 https://stream-flv.dfsfe.top/lives/9912114-720p.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1763049925-0-0-02ef009fae66f9cca7c27d05bb7cfce2
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1763052085-0-0-77c4f175fc90b25f54ad6834e90453e3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1763049925-0-0-72559ccab6498e40996b4e7a38b98490
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1763052085-0-0-7e41c8166559cba75d9961594660741c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1763049925-0-0-edda5a127a2e089449fd888b26af4209
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1763052085-0-0-72751f26334104d62e2e6a86a0f15d38
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1763049925-0-0-0cfa036b2bc77867baf31767c200de31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1763052085-0-0-f4877b73697519c4cac2ac45078fc2e7
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/UAE.png",23:00 ngày 13/11 United Arab Emirates vs Iraq (1) [Người Nện] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=28310505fe8e0cb50b7acdd020aea7fc&txTime=69164ae5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/nenHD.flv?expire=1763069767&sign=3cbfb4e5979e17b24c4ee356b4959fb3
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/UAE.png",23:00 ngày 13/11 United Arab Emirates vs Iraq (1) [Người Nện] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=7121d5e40294a9fd0aae34d02cc858c1&txTime=69164ae5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/jdHdo6iD9lSvdVMoUERfKA/Fv2lucGIbhPi2caWYvF5Lg/1763069767769/live/nenHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/UAE.png",23:00 ngày 13/11 United Arab Emirates vs Iraq (1) [Người Nện] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=28310505fe8e0cb50b7acdd020aea7fc&txTime=69164ae5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251110/d44a4c2b06f5e517e835e48365a35bf1.png",FIFA WCQL: United Arab Emirates vs Iraq [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/_eBpKrHcikHEfRo9Dtq90A/886780a1aa7b0f9bb93a424ecdb45bb8/1763069767/live/_definst_/stream_1_1bda7@nenHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/UAE.png",23:00 ngày 13/11 United Arab Emirates vs Iraq (1) [Người Nện] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=7121d5e40294a9fd0aae34d02cc858c1&txTime=69164ae5
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/cr0Prd7M9u0CR1T2cput1Q/Fv2lucGIbhPi2caWYvF5Lg/1763069767769/live/nenSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/UAE.png",23:00 ngày 13/11 United Arab Emirates vs Iraq (1) [Người Nện] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/zlRQZvkG4x96UzW81A6Sow/2754eb814558eb7917263671678490d6/1763069767/live/_definst_/stream_1_1bda7@nenFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/nigeria.png",23:00 ngày 13/11 Nigeria vs Gabon (1) [Mỳ Tôm] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1763070846&sign=2761e37eb4781adfa45a62740e7e0537
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/nigeria.png",23:00 ngày 13/11 Nigeria vs Gabon (1) [Mỳ Tôm] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/EQYsz6LG1_RrWrd0tnKFCA/Fv2lucGIbhPi2caWYvF5Lg/1763070846393/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/nigeria.png",23:00 ngày 13/11 Nigeria vs Gabon (1) [Mỳ Tôm] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/2Zi8KQPDVg2Bvx84F0iAOA/ad962176acd070100f306c790419005d/1763070846/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/nigeria.png",23:00 ngày 13/11 Nigeria vs Gabon (1) [Mỳ Tôm] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/3PcBH4ToPgCUBJce7ga6wg/Fv2lucGIbhPi2caWYvF5Lg/1763070846393/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/nigeria.png",23:00 ngày 13/11 Nigeria vs Gabon (1) [Mỳ Tôm] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/H9q-yZq8oOxRD06D7B8SYQ/37c56eb4aaf958eda25bed5c53705fc2/1763070846/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iran1.png",23:00 ngày 13/11 Iran vs Cape Verde (1) [Cá Sát Thủ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1763070847&sign=81c2e7ac3db3a764ed68d47e78f8adfc
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iran1.png",23:00 ngày 13/11 Iran vs Cape Verde (1) [Cá Sát Thủ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/O5M4B7BVLhUWwnNmD8djHQ/Fv2lucGIbhPi2caWYvF5Lg/1763070847820/live/thuHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iran1.png",23:00 ngày 13/11 Iran vs Cape Verde (1) [Cá Sát Thủ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/JkHKVLP6UXJJD9i5LqPMmA/19c6df53af2e8e4da3153ccd33338ce9/1763070847/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iran1.png",23:00 ngày 13/11 Iran vs Cape Verde (1) [Cá Sát Thủ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/1xsFnigJtCCw2Y9H5pfXFA/Fv2lucGIbhPi2caWYvF5Lg/1763070847820/live/thuSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/iran1.png",23:00 ngày 13/11 Iran vs Cape Verde (1) [Cá Sát Thủ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/q8kPiwRHcZkKsbaytx4XyQ/23c640f28fcd1bae0920b90a9358ecbd/1763070847/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/330px-Flag_of_the_United_Arab_Emirates.svg.png",23h00 ngày 13.11  UAE vs Iraq (Hội Quán) BLV PHAN HẢI FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/330px-Flag_of_the_United_Arab_Emirates.svg.png",23h00 ngày 13.11  UAE vs Iraq (Hội Quán) BLV PHAN HẢI HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/330px-Flag_of_the_United_Arab_Emirates.svg.png",23h00 ngày 13.11  UAE vs Iraq (Hội Quán) BLV PHAN HẢI SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",23h00 ngày 13.11 Nigeria vs Gabon (Hội Quán) BLV PHAN KHƯƠNG FHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",23h00 ngày 13.11 Nigeria vs Gabon (Hội Quán) BLV PHAN KHƯƠNG HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",23h00 ngày 13.11 Nigeria vs Gabon (Hội Quán) BLV PHAN KHƯƠNG SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phankhuong/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/250px-Flag_of_England.svg.png",02h45 ngày 14.11 Anh vs Serbia (Hội Quán) BLV PHAN TÔM FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/250px-Flag_of_England.svg.png",02h45 ngày 14.11 Anh vs Serbia (Hội Quán) BLV PHAN TÔM HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/250px-Flag_of_England.svg.png",02h45 ngày 14.11 Anh vs Serbia (Hội Quán) BLV PHAN TÔM SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95797_small.png",21:00 ngày 11/13 Bangladesh và Nepal (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1396,10 +1656,58 @@ https://wtyi0525.edgemaxcdn.org/live/x16y3-0340/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",23:00 ngày 11/13 UAE và Iraq (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",23:00 ngày 11/13 UAE và Iraq (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x1y3-2886/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",23:00 ngày 11/13 UAE và Iraq (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",23:00 ngày 11/13 Nigeria và Gabon (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",23:00 ngày 11/13 Nigeria và Gabon (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x11y3-0440/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",23:00 ngày 11/13 Nigeria và Gabon (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x11y2/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",23:00 ngày 11/13 Iran và Cape Verde (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8504_small.png",23:00 ngày 11/13 North Macedonia U21 và Sweden U21 (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x7y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8504_small.png",23:00 ngày 11/13 North Macedonia U21 và Sweden U21 (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x7y3-3258/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8504_small.png",23:00 ngày 11/13 North Macedonia U21 và Sweden U21 (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x7y2/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5848_small.png",23:00 ngày 11/13 Croatia U21 và Lithuania U21 (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5848_small.png",23:00 ngày 11/13 Croatia U21 và Lithuania U21 (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x0y3-3458/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5848_small.png",23:00 ngày 11/13 Croatia U21 và Lithuania U21 (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6317_small.png",23:30 ngày 11/13 Algeria và Zimbabwe (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1434,6 +1742,18 @@ https://live5.k8v4dh5.app/live/14707124.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YWExMWFjNjE3MjUtMGM5Nw/ZmI3ZTVlMjAyN2EtYjhmMg.png",POR LRU23 Benfica U23 vs Leiria U23 BLV STING (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/14707124.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",FIFA WCQL United Arab Emirates vs Iraq BLV ÔLONG (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/97312754.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",FIFA WCQL United Arab Emirates vs Iraq BLV ÔLONG (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/97312754.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWY4ZjMzZGNhNjctMDAxNg/ZGYxZTc3NmM1MTUtMDZhZg.png",WCPAF Nigeria vs Gabon BLV GIÀ LÀNG (Colalive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/14830711.flv
+#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWY4ZjMzZGNhNjctMDAxNg/ZGYxZTc3NmM1MTUtMDZhZg.png",WCPAF Nigeria vs Gabon BLV GIÀ LÀNG (Colalive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.k8v4dh5.app/live/14830711.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MTQ5NzVlNmU0MTAtNjIyMg/MmQxZDdkN2JjY2EtZTc0Mg.png",VSBET - THỂ THAO HÀNG ĐẦU ĐỐI TÁC VSBET (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/36669975.flv
@@ -1452,12 +1772,6 @@ https://live5.k8v4dh5.app/live/36858215.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWZiZGJiNWRiNmEtOTRjNQ/OWZjOGFiN2ZjZDktOTdmNg.jpg",LIVE BACARAT BACARAT (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.k8v4dh5.app/live/36858215.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",FIFA WCQL United Arab Emirates vs Iraq BLV ÔLONG (Colalive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/97312754.flv
-#EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YTJhM2JhMDk4NjktOGM2Mw/NDFkYmU5MjMyZTMtNjAyNg.png",FIFA WCQL United Arab Emirates vs Iraq BLV ÔLONG (Colalive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.k8v4dh5.app/live/97312754.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/15460.png",22h00 13/11 Benfica U23 vs União Leiria U23 (blvtoptop) Bàng Còi Xương
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
