@@ -370,7 +370,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_Tay_Nam_Bo_HD
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
-https://toiyeuvietnam.dpdns.org/Logo/hollywood-classic-hd/KenhCoBan
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg", In The Box
 https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
@@ -1123,10 +1123,6 @@ https://live.alilicloud.com/live/f4c23ba219e1b326174bf6e974e524dd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/fc5c6de01713832b498371415cfc534c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/bd204b38f3037dcd4478b7782e08519c.png",07h00 ngày 02/12 Mount Pleasant FA vs Universidad O&M (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ed272bd3a147eb33286cab331b2b2a14/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://cdn.rapid-api.icu/football/team/403b3d6f45cea2e1ae2060d0dd2f2a01.png",09h00 ngày 02/12 Tianjin Jinmen Tiger U21 vs Shenzhen Peng City U21 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1143,54 +1139,6 @@ https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca5
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1764739047-0-0-2eba405c953a9c6d6affb52b4a205a3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1764739047-0-0-dc2dd18dbf5977cfeac457cb3ce4cd91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1764739047-0-0-17022a3d51afd28e7fb5a8c109fe63dd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1764739047-0-0-c1e76807b5621aefa43dcde7bc96f449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1764739047-0-0-c79f41ea34fc1dcdeceecc582a5e987f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1764739047-0-0-3a8a12a0a3f4250fe0cdd83a02fd7fcb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1764739047-0-0-a1a23c38eb14a469ea15ccdc6286ae81
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1764739047-0-0-ab4acc441fd3a7e04e698286e5118d11
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=58f31f65df21a76fea73d9bc661c0579&txTime=69300e37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=341af787d305efdae72d4d468a5a4d76&txTime=69300e37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=58f31f65df21a76fea73d9bc661c0579&txTime=69300e37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=341af787d305efdae72d4d468a5a4d76&txTime=69300e37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1764739047-0-0-61e67a004cea7e30ecdfd69184dc9ebe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1764739047-0-0-2ead77361517ce94c686f56938d0d13b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1764739047-0-0-a87afc6b2790b3d34a3388e23f72e5c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1764739047-0-0-9d99a5ef391f751e457e497d05be9ccf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1764739407-0-0-48295a8a616e3c4932d170c377c41adb
@@ -1227,6 +1175,54 @@ https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1764739407-0-0-aa35
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1764739407-0-0-d8182993115e76f9d751d7c46cc455d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1764740127-0-0-39f9843a931c299a139da87e2e117927
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1764740127-0-0-81486e5ba76faaf38529248aa9d8dc4a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1764740127-0-0-809b624835ac3c11c9e5514fe92a3fb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1764740127-0-0-e0cc9f73ba1e5cd43408d6d96d70f6b2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=675e8f0aaade1321b96b38a935aaafac&txTime=6930126f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=cad8806a4b169ca9fc6954024e2f0b7f&txTime=6930126f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=675e8f0aaade1321b96b38a935aaafac&txTime=6930126f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=cad8806a4b169ca9fc6954024e2f0b7f&txTime=6930126f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1764740127-0-0-804fda8b1c07c7e43d6dc1bc54516bdf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1764740127-0-0-175696a3e47c41a12b0259da7cf3fd78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1764740127-0-0-b2302d0ee9a7e8924ed96e5eb3fd0a06
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251202/4d7e9b4c6af9d37bfadc9d488abbbfff.png",11h00 ngày 03/12 Golden State Warriors vs Oklahoma City Thunder [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1764740127-0-0-8e583ea6a28711a7acc575127d37c8dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1764740127-0-0-81bd4cfd4f91c9ef0c3d71905393415d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1764740127-0-0-12e0772c76c8c2e4410c69a2f8afa2da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1764740127-0-0-2cc73fb562d277f3f09a595b85caf580
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251129/95c55e9047bb1911070677787cf34599.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1764740127-0-0-91b84642134b5ea7a1438c159eb9f4a5
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",11:00 ngày 03/12 Warriors vs Thunder (1) [Cây + Hói] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1267,6 +1263,54 @@ https://hotlivezz179602324.akainu.xyz/Nm3JDbSsEArUx0AtwxuFkw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-vipxlvb.nsnd.live/wQYd0AixJYyAuxi-dNuznQ/ecdd2fe3d570b8f38d7664bb44af6d73/1764777606/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá Cờ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1764780845&sign=c39cfd00218e2094bd308a812925a5ad
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá Cờ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/rtTQLEeMu13S71N0AgcdEg/Fv2lucGIbhPi2caWYvF5Lg/1764780845483/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá Cờ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/h0qSpxl5EF2FQqUX6cNbRw/e106295966a1a26dfddb5b60b193571b/1764780845/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá Cờ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/iRdgVd3ONUpbSzBzE1KOLg/Fv2lucGIbhPi2caWYvF5Lg/1764780845483/live/coSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá Cờ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/0n1p7EnUdNI3uGp-m6D1vA/f7d74fcca7b86aaec98d69192d99ee8f/1764780845/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá‎ Hề] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1764780845&sign=a3828cea80a6c5b76ef77028d84be210
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá‎ Hề] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/wbUl9OYdRgSLiwlPQsWrJw/Fv2lucGIbhPi2caWYvF5Lg/1764780845483/live/heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá‎ Hề] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/mS9BjMXx0E9jRkn4MIUqlg/c447692e6da13744a99dfc2b26df7bc6/1764780845/live/_definst_/stream_1_1bda7@heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá‎ Hề] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/lPyCZ75kQ9zx2RLvnveGMQ/Fv2lucGIbhPi2caWYvF5Lg/1764780845483/live/heSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Cá‎ Hề] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-vipxlvb.nsnd.live/SEpzZFt5zPHdBpA_2Kxvrw/83de23c4424f537b01b08ca40d8e3c83/1764780845/live/_definst_/stream_1_1bda7@heFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Nhà Đài] Bàn 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/xtj9D7fbvBVre0l0HITK5w/Fv2lucGIbhPi2caWYvF5Lg/1764780845483/live/may24/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xtu4qY7j-nqKgSGUc.png",12:00 ngày 03/12 ITTF Mixed Team World Cup (1) [Nhà Đài] Bàn 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/lDclE9j-YlXFS8uFHAV9DQ/Fv2lucGIbhPi2caWYvF5Lg/1764780845483/live/may241/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png",11h00 ngày 03.12 Golden State Warriors vs Oklahoma City Thunder (Hội Quán) BLV PHAN CÁO FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
