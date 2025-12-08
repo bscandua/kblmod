@@ -525,10 +525,6 @@ https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1RK.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",10:00 ngày 12/08 Thái Lan vs Singapore (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b5ef027b507bb591bdb93bb0d26f273e/image/small",06h30 ngày 07/12 Club Aurora vs Universitario De Vinto (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -932,95 +928,107 @@ https://stm02bc38017100.stream.hdplaylink.com/live8/d9a0566f330943d3b345b9a5dc1a
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
+https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
+https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765176807-0-0-b18faad981e7b963583dc67cb61063d3
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765178247-0-0-b43ff14b3b64d31bad52a18872679e21
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765176807-0-0-654f3d5ec56aaa2c37342a084fed2e19
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765178247-0-0-7fa163621949014793bb2a3250b77fd7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765176807-0-0-c1c183c5dcf5f7514e381b7a198e2f17
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765178247-0-0-a7e778031c5dde47d82c53f3c57564ee
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765176807-0-0-40aa9944eb2c5c683e36617be76b233f
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765178247-0-0-91f21de4e2de323925c9d2e61f375fe7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - Real Madrid vs RC Celta [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1765176807-0-0-f2d3fa61994500d15b4c0deaa13c1a32
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1765178247-0-0-e46141ca881c532cf4ac95149789ebad
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - Real Madrid vs RC Celta [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1765176807-0-0-8faf6e9c569c93011df50be2ffe009e7
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1765178247-0-0-b6b218fc8e04eb42534d84b6d0298c0a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - Real Madrid vs RC Celta [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1765176807-0-0-7575dfbec4366d4d4593ff2c60bafbdd
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1765178247-0-0-769a85aa162ab05e1686b4edb7d8d88c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - Real Madrid vs RC Celta [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1765176807-0-0-a459178c9a0986146ee52d927bfaa711
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1765176807-0-0-2f486c618d5d281ce7a578347160249d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1765176807-0-0-6efee6143197592cd392eed803930714
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1765176807-0-0-affd0ad76b983122a9a0a109db0ace2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1765176807-0-0-a9d03202465ed1b8b125ad9953934119
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1765176807-0-0-e1e7ee946762b231bab7964a4837ef72
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1765176807-0-0-0d6d9b13ee811482a83a482505b27015
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1765176807-0-0-bdfa7662dc207d718cf81a6a91c52638
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1765176807-0-0-51cd5ac052670b37d87124b3423cd2f9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1765176807-0-0-64752393044891f4c263ddc48a9c4abf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1765176807-0-0-e59409079584fc5548d7a3f069a279c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1765176807-0-0-87cb6b9351703109e9f26b39e7e6011a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1765176807-0-0-415a7890fad7b5756db0a1c26e7c4a6d
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1765178247-0-0-e77f17d02719f3e9cce2189862efa9fb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ENG PR - Fulham vs Crystal Palace [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1765176807-0-0-48d9243c0c76b702584333f321461213
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1765178247-0-0-5f7ed4d538e3d7782317163fe17b5bfe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ENG PR - Fulham vs Crystal Palace [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1765176807-0-0-3558cb1727ab1a57c33fc8ff38cbeb04
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1765178247-0-0-726a83e04020553ff4f2a92338cda556
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ENG PR - Fulham vs Crystal Palace [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1765176807-0-0-f96bb72c71634e8cda7b19f185c8c67a
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1765178247-0-0-5950e71deb1cacf1bd82e87fbcdc03f5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ENG PR - Fulham vs Crystal Palace [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1765176807-0-0-af3b9c4c0984f7462ff01c5eebdb738e
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1765178247-0-0-a606fe2dc4fcd36c65594e72bfa08f2c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1765178247-0-0-3d1a7fb6ae78f39cfe30cd4a9c4c468b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1765178247-0-0-8a1d2a6557040db77591ecfc63217d5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1765178247-0-0-efa336ef13855be40f4e63581079c676
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: SPA D1 - RCD Espanyol vs Rayo Vallecano [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1765178247-0-0-6f4ecf58ac0dfa4233e38a6364f9dcaa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1765178247-0-0-14992ce6fbd465bd845fc3f9e4c5e0dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1765178247-0-0-9cdea104a8fcc478218312b78d642f41
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1765178247-0-0-451cde0d3f2629d801c0d1649c71951d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Lazio vs Bologna [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1765178247-0-0-c20e0535987c39e1fe2e8bddce28b77e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1765178247-0-0-e9196c4f1c399e7451216235dd312732
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1765178247-0-0-877f04b5d10716eaf83bc1e681835e97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1765178247-0-0-6cee8913db0e9f6b70b636bb7a583170
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: ITA D1 - Napoli vs Juventus [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1765178247-0-0-a765aea46b189b80c960fb6eb3168b05
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: FRA D1 - Lorient vs Lyon [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1765176807-0-0-b7c0dc8d5c30ba956aaecdad961e8329
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1765178247-0-0-db7e34525c193b3d7a48adf4e5f9a76c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: FRA D1 - Lorient vs Lyon [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1765176807-0-0-cae87ee1ae94863f80b8a2ccf2007f45
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1765178247-0-0-5bf4f0936f4cb6ad8e52a0f825364c07
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: FRA D1 - Lorient vs Lyon [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1765176807-0-0-4576a30b5ca848c8ba1b301550d26c4e
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1765178247-0-0-647fa1ccbf74d83039772345ee17089f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251203/aab50a6461bcd7206236cc0c5df935a5.png",Tường thuật: FRA D1 - Lorient vs Lyon [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1765176807-0-0-b2ed39373dbe9f4e8e10ecde15dff37f
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1765178247-0-0-38a7bf0faaf4b32e537f9495d0601e88
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/597d1de9c1816c52485ad645ce1ea684.png",14h00 ngày 08/12 Shandong vs Qingdao [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765178967-0-0-3cc0e2fe902e7aa657c78e5223f8bf48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/597d1de9c1816c52485ad645ce1ea684.png",14h00 ngày 08/12 Shandong vs Qingdao [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765178967-0-0-9b35646d344be3c53fed9c13a8c88aca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/597d1de9c1816c52485ad645ce1ea684.png",14h00 ngày 08/12 Shandong vs Qingdao [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765178967-0-0-c8a61fa0d8cb42feb6d64042cd57f124
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/597d1de9c1816c52485ad645ce1ea684.png",14h00 ngày 08/12 Shandong vs Qingdao [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765178967-0-0-93f6909d742a0f673ee1b43a097bfe19
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",10:00 ngày 08/12 Bóng chày Việt Nam vs Bóng chày Singapore (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1041,6 +1049,50 @@ https://hotlivezz179602324.akainu.xyz/GipfvC6dHKy3u5H8sXSvaw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1765205290/0f37289ca1f88b8d00b837c37dd72ae2/227897673/live/luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/C1AF/600px-KeSPA_Cup_2025_allmode.png",13:00 ngày 08/12 2025 LoL Kespa Cup (1) [Người Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1765217167&sign=a91545416fdabe7d679902c42c5bf0bd
+#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/C1AF/600px-KeSPA_Cup_2025_allmode.png",13:00 ngày 08/12 2025 LoL Kespa Cup (1) [Người Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/mnaOgNVHwrvJs4_vSh5fNg/Fv2lucGIbhPi2caWYvF5Lg/1765217167453/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/C1AF/600px-KeSPA_Cup_2025_allmode.png",13:00 ngày 08/12 2025 LoL Kespa Cup (1) [Người Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765217167/9170e0a955fa353909cdb95ddd2f1275/114309705/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/C1AF/600px-KeSPA_Cup_2025_allmode.png",13:00 ngày 08/12 2025 LoL Kespa Cup (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/kbuBta9qxoiLanh4cc53Qw/Fv2lucGIbhPi2caWYvF5Lg/1765217167453/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://upnhanh.gkull.com/di/C1AF/600px-KeSPA_Cup_2025_allmode.png",13:00 ngày 08/12 2025 LoL Kespa Cup (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765217167/a9d1dd4520bbf451fb2c8d91b3601a4e/117272808/live/gayFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/vietnam1.png",13:00 ngày 08/12 Bóng ném Việt Nam vs Bóng ném Philippines (1) [Nhà Đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/HUKw3d3A9A2vVEoRS-VL0w/Fv2lucGIbhPi2caWYvF5Lg/1765217525701/live/may21/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/fd94971d5354c254a48249ad402cfb92.png",14:00 ngày 08/12 Shandong Hi-Speed vs Qingdao Eagles (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1765218609&sign=3b8db842febff50c10812629372f5139
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/fd94971d5354c254a48249ad402cfb92.png",14:00 ngày 08/12 Shandong Hi-Speed vs Qingdao Eagles (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/cpKTmpw-yZCcya7FAXrhRA/Fv2lucGIbhPi2caWYvF5Lg/1765218609191/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/fd94971d5354c254a48249ad402cfb92.png",14:00 ngày 08/12 Shandong Hi-Speed vs Qingdao Eagles (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765218609/382dc85f976d35aca579e089097988fa/916712383/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/fd94971d5354c254a48249ad402cfb92.png",14:00 ngày 08/12 Shandong Hi-Speed vs Qingdao Eagles (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/fqI1Fk0iI_nEbWVeGOoE6w/Fv2lucGIbhPi2caWYvF5Lg/1765218609191/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/fd94971d5354c254a48249ad402cfb92.png",14:00 ngày 08/12 Shandong Hi-Speed vs Qingdao Eagles (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765218609/a28ad0add3f65901698d2def49b95433/540449482/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARG D1 Boca Juniors vs Racing Club de Avel BLV RỒNG ĐỎ (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.flv
