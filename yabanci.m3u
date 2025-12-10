@@ -463,10 +463,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/1e292123173e842c7988ee3916e63017/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -499,6 +495,30 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1CK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1CK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1RK.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1RK.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -523,98 +543,12 @@ https://mrkw1025.edgemaxcdn.org/live/caysd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/cayhd1RK.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lấy kinh) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heosd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lấy kinh) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lấy kinh) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lấy kinh) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lấy kinh) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lấy kinh) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d6f540a14a29fded4b35eef61bc1356f.png",06h00 ngày 10/12 America MG (Youth) vs Sao Paulo (Youth) (Lấy kinh) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765317663.png",05h00 ngày 10/12 WOLVES vs MU (Lương Sơn) BLV KAKA REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765317663.png",05h00 ngày 10/12 WOLVES vs MU (Lương Sơn) BLV KAKA REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3774_1gvet9hdqp2k.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lương Sơn) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3774_1gvet9hdqp2k.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lương Sơn) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3774_1gvet9hdqp2k.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lương Sơn) BLV LÝ QUỲ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3774_1gvet9hdqp2k.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lương Sơn) BLV LÝ QUỲ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3774_1gvet9hdqp2k.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3774_1gvet9hdqp2k.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heosd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Ra Khơi) SD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Ra Khơi) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1892_small.png",06:00 ngày 12/10 Jorge Wilstermann và GV San Jose (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x1y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1892_small.png",06:00 ngày 12/10 Jorge Wilstermann và GV San Jose (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x1y3-2952/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1892_small.png",06:00 ngày 12/10 Jorge Wilstermann và GV San Jose (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x1y2/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1ac0df2216bc4d53d92e94b0f6b53f9a/image/small",02h00 ngày 09/12 Manchester United U18 vs Peterborough United U18 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/49b703c792e3ae268ff25072d7d52079/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/77bdad221110a1cfe0254fd6210c6ec8/image/small",03h00 ngày 09/12 Union SaintvsGilloise vs Marseille (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -639,10 +573,6 @@ https://live.alilicloud.com/live/898f8b955d74371f64de27996a71a074/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/aaaeb3585d098ebc0391e5b048e1716c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/eb25dc6db17aca6169a920592e366536/image/small",00h45 ngày 09/12 FC Bayern Munich vs Sporting CP (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ce3ffb8e01e2a9f714ac0a59977f40ee/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cf86669fb5367abed1dfb8ebbac5e899/image/small",02h45 ngày 09/12 Mansfield Town vs Bolton Wanderers (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -655,10 +585,6 @@ https://live.alilicloud.com/live/662c6507b8860581f02753a142e6b84e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a894bea9391f390cd57ab18af9180809/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8e533f4cca36d6f3c6abf7fdf0c841f6/image/small",01h00 ngày 09/12 Pyramids FC vs Bank El Ahly (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e594c205bd1bd80fe7f731a5763d9918/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/20f0ba213d0507d64ae5b472c493d9ad/image/small",02h45 ngày 09/12 Fleetwood Town vs Salford City (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -671,18 +597,14 @@ https://live.alilicloud.com/live/48e6f3c452bed3dea2af445ddf5f6961/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/957aa9582dcf6c45f6faf44bc0e1579f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0567000f41b1433e69f538b2e2414e8d/image/small",00h45 ngày 09/12 St. Polten Women vs Juventus Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f8aaf8643fa18a222580caf8cfd9b63a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fb0951a6682a274f7e7bfc91ca2115bd/image/small",01h00 ngày 09/12 Kahraba Ismailia vs Zamalek SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/56008d7c8f63b78ce9487db8dbbdacc2/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f7fb294852809b64fd91e7899cbf6bb5/image/small",03h00 ngày 09/12 Guatemala U19 vs Costa Rica U19 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2761dd8de3dada17c9dd7d25cfe2ec00/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/39cbbc37ac4c441fe81807d74e47d6b2/image/small",06h00 ngày 09/12 America MG Youth vs Sao Paulo Youth (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/667785f0c36bb3031646f662947d845a/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a8d609f74ca380642e4cb5fbe334c007/image/small",02h45 ngày 09/12 Blackburn Rovers vs Oxford United (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -695,6 +617,10 @@ https://live.alilicloud.com/live/1e1a7a048a6d1e56b5a03355d1307db8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/82d2b9d6619cec0c24f642cce502a336/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1e292123173e842c7988ee3916e63017/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4a23655080b296457422b30eafb036af/image/small",02h45 ngày 09/12 Barrow vs Tranmere Rovers (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -711,10 +637,6 @@ https://live.alilicloud.com/live/81b2fad695349c3cda314c50f1bf1cca/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/196559a80e03891824860fd888228245/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/4b4aa9935ae776a5d8e685803cef2300/image/small",02h30 ngày 09/12 Lube Civitanova vs Montpellier (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b3bf0c0d3c2d9e43825da31db09491fc/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9af3e2ad4eabe9b735f946d133bfb609/image/small",02h45 ngày 09/12 Northampton Town vs Huddersfield Town (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -743,6 +665,30 @@ https://live.alilicloud.com/live/83f2ba935d2ac1c0f7e63b4fc19594dd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ccf18d399b3e89e4b4c9277f04b04bd9/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paohd1RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paosd1RK.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cakhiapro.cdnlive.pro/live/stream_9_f915e9e2@paohd1RK.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -767,58 +713,14 @@ https://mrkw1025.edgemaxcdn.org/live/caysd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/cayhd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heosd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heohd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (QUAY TAY) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/ba65c724a9cf73b9daa7f0788d3df3e4.png",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (QUAY TAY) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d6f540a14a29fded4b35eef61bc1356f.png",06h00 ngày 10/12 America MG (Youth) vs Sao Paulo (Youth) (QUAY TAY) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8 
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134811_3d2d118b.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel SJ (Chuối Chiên) HD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251210_014752_5d03f0d6.jpg",09h00 ngày 10/12 Trực tiếp các môn thi đấu SEA Games 33 vs Trực tiếp các môn thi đấu SEA Games 33 (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134811_3d2d118b.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel SJ (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20251210_014752_5d03f0d6.jpg",09h00 ngày 10/12 Trực tiếp các môn thi đấu SEA Games 33 vs Trực tiếp các môn thi đấu SEA Games 33 (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134811_3d2d118b.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel SJ (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134811_3d2d118b.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel SJ (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134811_3d2d118b.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel SJ (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134811_3d2d118b.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel SJ (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong.flv
+https://gckc0525.edgemaxcdn.org/live/m4x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_143132_a1e384e9.png",12h30 ngày 10/12 Malaysia W vs Indonesia W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1299,34 +1201,10 @@ https://stream.chuoichien.tv/chuoilua/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoilua.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/39cbbc37ac4c441fe81807d74e47d6b2/image/small",06h00 ngày 09/12 America MG Youth vs Sao Paulo Youth (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1e292123173e842c7988ee3916e63017/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/74e4a752ab5847a9834c5b0817cb5321_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/74e4a752ab5847a9834c5b0817cb5321_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/74e4a752ab5847a9834c5b0817cb5321_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/74e4a752ab5847a9834c5b0817cb5321_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/74e4a752ab5847a9834c5b0817cb5321_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0261047b0259587ab7bc5014c7e9e0dd/image/small",06h00 ngày 09/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/74e4a752ab5847a9834c5b0817cb5321_720/playlist.m3u8
+https://live.alilicloud.com/live/667785f0c36bb3031646f662947d845a/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1335,150 +1213,202 @@ https://hls.cdnvankhanh.com/live/VANREN/index.m3u8?expire=1891583400&sign=f4cca5
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 https://flv.cdnvankhanh.com/live/VANREN.flv?expire=1891583400&sign=f4cca58ffdf3217d4ca677039510da17
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/4479/1gvet9hdqp2k.png?win007=sell",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Văn Khánh) M3U
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ67vUbZhpKzHFhn/playlist.m3u8
-#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/4479/1gvet9hdqp2k.png?win007=sell",06h00 ngày 10/12 Jorge Wilstermann vs San Jose de Oruro (Văn Khánh) FLV
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765334488-0-0-731a3f27704588fd4c38e14af3aeadc0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [BLV Sao Đỏ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765334488-0-0-6938b22bffb13ab88a133c8afb98191c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lsd.flv?txSecret=2dc193a5d93b8f563d701f2d34146c8c&txTime=69390ad8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [BLV Sao Đỏ] (Socolive) hdFlv
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765334488-0-0-6455095c9d731108a09093e7ee7252f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lhd.flv?txSecret=baf30b980fbc73e641df02228f11ef2d&txTime=69390ad8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [BLV Sao Đỏ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765334488-0-0-d8293fee8bccf53faac0a3761209b230
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=2dc193a5d93b8f563d701f2d34146c8c&txTime=69390ad8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [BLV Sao Đỏ] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1765334488-0-0-4daab76291a5bfedb3253b1370e9600c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=baf30b980fbc73e641df02228f11ef2d&txTime=69390ad8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1765334488-0-0-2a03b8cb192c870a8e9077dfa64f57fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765328008-0-0-90c160f94c9c8f052e2c39738c5ccf4e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BRIAN] (Socolive) hdFlv
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765334488-0-0-ccc4fc77ce917830e954cbe40c348e39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765328008-0-0-803ddb1f9fe7435b9874263c05545ea1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765334488-0-0-7d77f285305d2920cd691960e6e145fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765328008-0-0-fb1cecfb7d62416a3b9468f2ded23a15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BRIAN] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765334488-0-0-a81b824908bb7bfe565bf3d3527aac4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765328008-0-0-efa4c98e1e44d580d994dbe56768fc74
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765334488-0-0-5ab46d556294560da4b5051672430650
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1765328008-0-0-fc178b24a67dac93025537f0341fe4d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [HUNTER] (Socolive) hdFlv
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765334488-0-0-95df7bea28a0e99d8ecdc2fb8a8f5eeb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1765328008-0-0-3dbb8d40a0127c2209162ce76d3b854e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765334488-0-0-f0f1c0824d10875b1a4c5700ecb08294
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765328008-0-0-9d964f642ae961ed2d3d7681d742f81b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [HUNTER] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1765334488-0-0-6c654a0155dd286a9a8d9a5bd283946f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765328008-0-0-073576498fbbc72cf64a37fad19d5c0c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [KING] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1765334488-0-0-699436de687e2cca7be359675ad27b5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1765328008-0-0-88c55c8e7272b0062d9492569412a756
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [KING] (Socolive) hdFlv
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765334488-0-0-cad377ba70984bc3082ef957772d5d60
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1765328008-0-0-a22aed489af62020057f3b67700e50c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765334488-0-0-762f915c48856dc66437d0d30b6beaeb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765328008-0-0-945566c166302d0f35f6e2b86f7dca72
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [KING] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1765334488-0-0-5d4ad424a38867b14b30c60d295e5c3a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765328008-0-0-03977ff2c76907b4495fb4a0a288ace6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1765334488-0-0-d33e3eb10088b0637f621ade50ad28d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765328008-0-0-71693d2e68753ba50d5ac979b48aed1d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BLV HENRY] (Socolive) hdFlv
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1765334488-0-0-0de5b65682621ba2d068d17de9747248
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/f89640865ace87e1d4744dc787b2032a.png",08h30 ngày 10/12 Toronto Raptors vs New York Knicks [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765328008-0-0-9656fe41c025098d89d08db8198d7d91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1765334488-0-0-e3a4604ca881378bf3052570b66ff40b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",Tường thuật: UEFA CL - Atalanta vs Chelsea [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765328008-0-0-b56503c64113eb19be51c14cef976933
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251209/0b0cac96de602de36e6b1580bce68b2f.png",06h00 ngày 10/12 Orlando Magic vs Miami Heat [BLV HENRY] (Socolive) hdM3u8
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1765334488-0-0-f62f53bbc69951db84a4bc5d154c8e69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",Tường thuật: UEFA CL - Atalanta vs Chelsea [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765328008-0-0-e9a093a747b0dcfa064b0a8702c58134
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [CÔNG LÝ] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1765334488-0-0-60ed82863099b654c093dc0fea3378ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",Tường thuật: UEFA CL - Atalanta vs Chelsea [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1765328008-0-0-58c0ac441392ed7ed3e46d7d6af36eae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [CÔNG LÝ] (Socolive) hdFlv
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1765334488-0-0-bc9c1d6f7e6b9cbc0fa3c2694fc674c5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",Tường thuật: UEFA CL - Atalanta vs Chelsea [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1765328008-0-0-c11ce0af8f0ab2cd0cb2d1b441c8146a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [CÔNG LÝ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1765328008-0-0-090c4cd6996c87a50400cedc76b157f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251208/4be613f3067cfea0583b9564ddcea292.png",06h00 ngày 10/12 Jorge Wilstermann vs Gualberto Villarroel Deportivo San José [CÔNG LÝ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1765328008-0-0-fb56df93cb7d157e6a973e28f74cac44
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1765334488-0-0-995ab94cca7cfc89c490dc21db3db734
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765328008-0-0-1fc337e737723a74cf2a24a48405ebfc
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765334848-0-0-47dbad39e11c03cb4be72ed88ef12a54
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765328008-0-0-a974dde0dcd7c50021ddbdaf627b0dc7
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765334848-0-0-33321fde1de9c0e90e284f1b0506c5db
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765328008-0-0-69e4d4b36afe6679b840aff3f6c553f0
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765334848-0-0-e6aa2f26b0eb16f7e8c2e681c70ca538
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251206/0f9b2a50dd4bad2a6fa87bd24988fff2.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765328008-0-0-b12874f2e624311412cc129731284bdd
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Phép] HD Nhanh
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765334848-0-0-465ad19e2c0e34dae893998ec32beb7d
+#EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 10/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1765363687&sign=ae9334a7a36f9f95b480b1ae49560ad2
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Phép] HD1
+https://hotlivezz179026907.akainu.xyz/cUoiXZC-osXYVwJRl6SK-A/Fv2lucGIbhPi2caWYvF5Lg/1765373045304/live/may21/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 10/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/105FmD3MbLk0_UkuGyW9cg/Fv2lucGIbhPi2caWYvF5Lg/1765363687920/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Phép] HD2
+https://hotlivezz179026907.akainu.xyz/aZRLEnNnbvcriLgabvJrtg/Fv2lucGIbhPi2caWYvF5Lg/1765373045307/live/may211/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 10/12 NXT (1) [Tai Lung] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765363687/e6f7a201f76bd022f20751c11156cf2c/602469287/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Phép] SD
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1765371246&sign=1f69bd76a43fefd7b44ea3c61a1b76bd
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 10/12 NXT (1) [Tai Lung] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/PJOyPc7mrHd7g1-v-KNRww/Fv2lucGIbhPi2caWYvF5Lg/1765363687921/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Phép] FullHD
+https://hotlivezz179266008.akainu.xyz/Dj5fP54QeVJP30IESY8VNg/Fv2lucGIbhPi2caWYvF5Lg/1765371246710/live/lungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 10/12 NXT (1) [Tai Lung] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765363687/0200b243abf9a224c7a32af7e2b24f2a/618543544/live/phepFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Thương] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1765371246/24ddec887278f76b9d107aa34e39789b/978255639/live/lungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 10/12 NXT (1) [Tai Lung] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1765363687&sign=0921cc62210e598fc14a0d653c2027d2
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Thương] HD1
+https://hotlivezz179602324.akainu.xyz/fkPgIayuD6zyNTAtiNTTQw/Fv2lucGIbhPi2caWYvF5Lg/1765371246711/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 10/12 NXT (1) [Tai Lung] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/NbXhcqZQuQ7cGldSe8-KUA/Fv2lucGIbhPi2caWYvF5Lg/1765363687921/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Thương] HD2
+https://9ceg0825.edgemaxcdn.org/1765371246/66eb725dd4361821cdaf583711d7fc60/290849466/live/lungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765363687/f7bf1b4b04a887d0a7133d6c06a6b150/486532329/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Thương] SD
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1765372329&sign=a71c7e948a7b485d3a31eb8111141896
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Gầy] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/HClIe9IB9I_MBCk_gsvdUw/Fv2lucGIbhPi2caWYvF5Lg/1765363687921/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06:00 ngày 10/12 Magic vs Heat (1) [Người Thương] FullHD
+https://hotlivezz179266008.akainu.xyz/ifpgib2RGVwUx_6DUe4Wcg/Fv2lucGIbhPi2caWYvF5Lg/1765372329820/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Gầy] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765363687/f741764744aa5b74f985246bf03041d8/367025034/live/thuongFHD/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png",06h00 ngày 10.12 Orlando Magic vs Miami Heat (Hội Quán) BLV PHAN CÁO FULL HD
+https://9ceg0825.edgemaxcdn.org/1765372329/e07b13dbb85c65dd2c1e8aba66148a85/301448785/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/vY3T5GSEdVTV4JwqRZozrw/Fv2lucGIbhPi2caWYvF5Lg/1765372329822/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765372329/9996d6a69b459ab172d25f7c961a9a2b/507207621/live/gayFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Cast] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z3HD.flv?expire=1765372329&sign=4c51ca54df0fcd7e28b0179e8c51317a
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Cast] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/FNpw5BWTwhVlfuQutDlFvw/Fv2lucGIbhPi2caWYvF5Lg/1765372329822/live/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Cast] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765372329/106d94f4aab4e8565c4d303d64574c20/857860476/live/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Cast] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/NZKzZemA8tRsPlTVXvitJg/Fv2lucGIbhPi2caWYvF5Lg/1765372329822/live/Z3SD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",08:30 ngày 10/12 Raptors vs Knicks (1) [Người Cast] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765372329/6daf585c43a3b7f2b15e932bd1b2f831/143528460/live/Z3FHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",09:30 ngày 10/12 WTT Finals Hong Kong 2025 (1) [Người Sóc] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1765373409&sign=473fbba3c982951b0e7c0012c0e799e4
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",09:30 ngày 10/12 WTT Finals Hong Kong 2025 (1) [Người Sóc] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/nDBsSoo0h49TsKyeXDR_bw/Fv2lucGIbhPi2caWYvF5Lg/1765373409315/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",09:30 ngày 10/12 WTT Finals Hong Kong 2025 (1) [Người Sóc] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765373409/a38cb559635c5b56a94f3754bc6c868e/719783133/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",09:30 ngày 10/12 WTT Finals Hong Kong 2025 (1) [Người Sóc] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/BsFVkCIYEpSYcJ3NIKmSDQ/Fv2lucGIbhPi2caWYvF5Lg/1765373409315/live/socSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/treyZeC7-htZBxqls.png",09:30 ngày 10/12 WTT Finals Hong Kong 2025 (1) [Người Sóc] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765373409/d58b31d3edf8ceb1f1d53dc76478fcb9/973521929/live/socFHD/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4a/Raptors_logo.png",08h30 ngày 10.12 Toronto Raptors vs New York Knicks (Hội Quán) BLV PHAN CÁO FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png",06h00 ngày 10.12 Orlando Magic vs Miami Heat (Hội Quán) BLV PHAN CÁO HD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4a/Raptors_logo.png",08h30 ngày 10.12 Toronto Raptors vs New York Knicks (Hội Quán) BLV PHAN CÁO HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png",06h00 ngày 10.12 Orlando Magic vs Miami Heat (Hội Quán) BLV PHAN CÁO SD
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4a/Raptors_logo.png",08h30 ngày 10.12 Toronto Raptors vs New York Knicks (Hội Quán) BLV PHAN CÁO SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.imgur.com/PiVdW7A.png",09h00 ngày 10.12 Seagame 33 (Hội Quán) BLV PHAN SON FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.imgur.com/PiVdW7A.png",09h00 ngày 10.12 Seagame 33 (Hội Quán) BLV PHAN SON HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://i.imgur.com/PiVdW7A.png",09h00 ngày 10.12 Seagame 33 (Hội Quán) BLV PHAN SON SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanson/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARG D1 Boca Juniors vs Racing Club de Avel BLV RỒNG ĐỎ (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.flv
@@ -1497,9 +1427,6 @@ https://live5.msrktz.app/live/71426314.flv
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzdlNzdmMjQ5YzMtYzlhMQ/Mzc2N2FjMGMxOTMtZTQwNw.png",BOL D1 Club Aurora vs F.C. Universitario de Vinto BLV FANTA (Colalive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/71426314.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/505.png",03h00 10/12 Inter vs Liverpool (blvtoptop) Adam
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/282.png",17h00 10/12 Sanfrecce Hiroshima vs Shanghai Shenhua (blvtoptop) Tôm Mì
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
