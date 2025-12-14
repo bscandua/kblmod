@@ -463,6 +463,10 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/9d9f49c182f05d684f38fbb480eba34b.png",05h00 ngày 15/12 Deportivo Saprissa vs Cartagines Deportiva SA (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/0ac276a35e647b8664161d1580cb572e/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/cc3c44ce57de9132c8dcc5775576fd08.png",05h00 ngày 15/12 ELCO LTD St Peters vs Conaree United (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -479,6 +483,10 @@ https://live.alilicloud.com/live/403c31bfb2a3934a2af845b5d9f8bacd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/ea62c93fb4bb0e4991c1d568c1359357/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/31eec7551cd0e7bf130835e0374e4d97.png",06h45 ngày 15/12 Jong Holland vs CRKSV Jong Colombia (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/56e0548ee96d0385f4dbd91c06d61267/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -487,30 +495,6 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) SD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) SD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -535,34 +519,30 @@ https://mrkw1025.edgemaxcdn.org/live/lulusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/luluhd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",04h00 ngày 15/12 Corinthians Paulista vs Cruzeiro Esporte Clube (Cà Khịa) Nhà đài
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) SD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302qt/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Cà Khịa) SD 1
+https://mrkw1025.edgemaxcdn.org/live/buisd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maosd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Cà Khịa) HD 1
+https://mrkw1025.edgemaxcdn.org/live/buihd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) SD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Cà Khịa) SD 2
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Cà Khịa) HD 2
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) SD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maohd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Cà Khịa) SD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/buisd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) HD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maosd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1.flv
+https://mrkw1025.edgemaxcdn.org/live/buihd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -614,11 +594,11 @@ https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1RK/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1RK/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -630,11 +610,11 @@ https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Lấy kinh) SD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1RK.flv
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Lấy kinh) HD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1RK.flv
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -683,10 +663,6 @@ https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",04h00 ngày 15/12 Corinthians Paulista vs Cruzeiro Esporte Clube (Lấy kinh) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302qt/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/428_1hxqrprbsp13.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
  https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
@@ -729,82 +705,6 @@ https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765726503.png",05h00 ngày 15/12 Metz vs Paris Saint Germain (Lương Sơn) BLV YẾN THANH REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buisd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",04h00 ngày 15/12 Corinthians Paulista vs Cruzeiro Esporte Clube (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302qt/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -829,6 +729,78 @@ https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/maohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maosd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/maohd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6607_small.png",05:00 ngày 12/15 Deportivo Saprissa và C.S. Cartaginés (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -897,6 +869,10 @@ https://live.alilicloud.com/live/0ac276a35e647b8664161d1580cb572e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/99cb1e2fa9b004abe997001e118dac7a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6231a9f56ba71a5003434f08cbfbe741/image/small",06h30 ngày 14/12 Fluminense RJ vs Clube de Regatas Vasco da Gama (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ea62c93fb4bb0e4991c1d568c1359357/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/92b43f90afba5265564310f47bd3db75/image/small",03h00 ngày 14/12 Fafe vs Clube Desportivo Trofense (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -965,10 +941,6 @@ https://live.alilicloud.com/live/342fabcc0ea9f061f92e2d835feb9354/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/feef3e832ff2f2fecb23529ec0a078b1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5db78121a7054731e6124b73d1a2d795/image/small",00h30 ngày 14/12 RC Sporting Charleroi vs Union SaintvsGilloise (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a45f9a298c9d59b736286342c8c338e8/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/9bc348902b726963ec268cf037eb1d25/image/small",02h00 ngày 14/12 Rzeszow Women vs Mielec Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1017,10 +989,6 @@ https://live.alilicloud.com/live/d25cbf6c19b57edaa8585a66ef471f30/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ebca383da9c251bb1da6b11ae7b80cb7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cd235e8c280a08e980207736609c1a03/image/small",00h30 ngày 14/12 Almeria vs Burgos CF (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/74c1c40406ae5b7087781295e67e22a4/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d9c2d339f3ec41ab4fb0db8325062789/image/small",03h30 ngày 14/12 FC Arouca vs Alverca (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1041,10 +1009,6 @@ https://live.alilicloud.com/live/de590b5dc9d37f77fe3803f1dca04106/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c24dd07dc088efb436167be0321318ed/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/07aa4671dcd9d74d0976c397e2bc9a6c/image/small",00h30 ngày 14/12 Sparta Praha vs Slovan Liberec (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/36e572bb1c5cca5b6f334ea582578431/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e93449c1324c0ef6fb87bb093e7ee860/image/small",00h45 ngày 14/12 Kisvárda Master Good FC vs Zalaegerszegi TE (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1692,7 +1656,7 @@ https://live.alilicloud.com/live/1adfb32aa27fac81fdf2d480db64649b/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/36775/1gy6n2dzrp12.png?win007=sell",05h00 ngày 15/12 ELCO LTD St Peters vs Conaree United (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ6QECeRv4Xdkg92/playlist.m3u8
+
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/36775/1gy6n2dzrp12.png?win007=sell",05h00 ngày 15/12 ELCO LTD St Peters vs Conaree United (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1700,7 +1664,7 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6QECeRv4Xdkg92/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/17014/1gragmnk6v21.png?win007=sell",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
-https://auto.cdnvankhanh.com/live/sd-6MvZ64dGtd6fP5gcrg/playlist.m3u8
+
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/17014/1gragmnk6v21.png?win007=sell",06h00 ngày 15/12 Cusco FC vs Sporting Cristal (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1737,18 +1701,6 @@ https://auto.cdnvankhanh.com/live/sd-6MvY76Sx1MPsbw5s7a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1765757848-0-0-e72c223586e1116c3b022a5a378a0ffa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1765757848-0-0-a7ad648540f74f8c16e75a254d469e7b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1765757848-0-0-104fbfaca516d7728eb89a187a21f024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1765757848-0-0-6f5165d28c3e11c0c6414334ee25cbd7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1765758568-0-0-83f6aa78cd68e40775a29b1d27e75b19
@@ -1881,42 +1833,6 @@ https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1765758568-0-0-c680
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/a14553e96fb36eff84ae53f8a12c6066.png",06h00 ngày 15/12 Cusco FC vs Sporting Cristal [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1765758568-0-0-5edbfaddcbe1eb4244d6c49143abb3b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/08fbff67cab8faf4ec8ee5fc034363ab.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=92660231e73f5648d402276ad7e92f58&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/08fbff67cab8faf4ec8ee5fc034363ab.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=bd9c7f73506525b8e1b0d7673f23b7b4&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/08fbff67cab8faf4ec8ee5fc034363ab.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=92660231e73f5648d402276ad7e92f58&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/08fbff67cab8faf4ec8ee5fc034363ab.png",04h30 ngày 15/12 Barcelona SC(ECU) vs Orense SC [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bd9c7f73506525b8e1b0d7673f23b7b4&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=8aebff7f958c66c2a0d8672ab8e6559e&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=c53fcddee879109d8a24bd82fe367cf4&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=8aebff7f958c66c2a0d8672ab8e6559e&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c53fcddee879109d8a24bd82fe367cf4&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [BLV Hổ Lùn] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=1f1a440efeca58a7de3a633d1be9a00c&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [BLV Hổ Lùn] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=4b91963d2e391faff7e4e61cae727226&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [BLV Hổ Lùn] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=1f1a440efeca58a7de3a633d1be9a00c&txTime=693f9cb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [BLV Hổ Lùn] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=4b91963d2e391faff7e4e61cae727226&txTime=693f9cb8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/0b65fc8ee1a82bbc769ed0f0e223b2d9.png",05h00 ngày 15/12 Deportivo Saprissa vs CS Cartagines [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1765758568-0-0-ce2367c68940783d20a42c80f6fe23c3
@@ -1929,30 +1845,6 @@ https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1765758568-0-0-4e37
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/0b65fc8ee1a82bbc769ed0f0e223b2d9.png",05h00 ngày 15/12 Deportivo Saprissa vs CS Cartagines [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1765758568-0-0-efdf68bf9a328111b825af2697c104e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [NGOẠ LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lsd.flv?auth_key=1765758568-0-0-b44962157a608347477a902e691bbf4b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [NGOẠ LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-538979_lhd.flv?auth_key=1765758568-0-0-9c63abdad07f454f6b0575ecef3fd9ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [NGOẠ LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lsd.m3u8?auth_key=1765758568-0-0-bf62adca9729540f44bea9c50144aaa7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/9c37170584577388e05cc3dd9e2fd120.png",04h30 ngày 15/12 Libertad FC vs Liga Dep Universitaria Quito [NGOẠ LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1765758568-0-0-3879a3a235e9147657f2a83c88f3a605
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [QUANG VINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1765758568-0-0-f8b68d2e5a4b2c8436bca60fa9db0c6d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [QUANG VINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1765758568-0-0-6cc0020948e46a4e6aac9d40ecaa1f7e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [QUANG VINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1765758568-0-0-33b7903aa272b9906bfc90f252833afb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/1442075f1ca248774465262d0c825cf3.png",04h30 ngày 15/12 Club Guabira vs Blooming [QUANG VINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1765758568-0-0-493ef3aa71f0ebc42edd8b0cfea9c24e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/0b65fc8ee1a82bbc769ed0f0e223b2d9.png",05h00 ngày 15/12 Deportivo Saprissa vs CS Cartagines [BLV SHIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=e4863842fb003ce655f95a03df40ad73&txTime=693f9cb8
@@ -1977,18 +1869,6 @@ https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765758568-0-0-55e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Atlanta Hawks vs Philadelphia 76ers [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765758568-0-0-a2c3e042aceae63909bfb7f2a5ce537c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/ee10e5bf46ecac432db5de9ed7dd677a.png",04h30 ngày 15/12 CD Universidad Católica vs Independiente del Valle [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1765758593-0-0-31f11034fc5cc0e8bf019567312c6cbb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/ee10e5bf46ecac432db5de9ed7dd677a.png",04h30 ngày 15/12 CD Universidad Católica vs Independiente del Valle [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1765758593-0-0-45716cc9191a989d70cd5a058e42ef85
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/ee10e5bf46ecac432db5de9ed7dd677a.png",04h30 ngày 15/12 CD Universidad Católica vs Independiente del Valle [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1765758593-0-0-e1d50a3fdba98e124f51e24d2fd5aeb5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/ee10e5bf46ecac432db5de9ed7dd677a.png",04h30 ngày 15/12 CD Universidad Católica vs Independiente del Valle [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1765758593-0-0-ebaa5c1e5c2f438f6255b1d2392a8b61
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Brooklyn Nets vs Milwaukee Bucks [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1765758568-0-0-48ec3cd903e104d80c950b10567fcb1a
@@ -2025,6 +1905,18 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765758568-0-0-0854
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765758568-0-0-578747e86a693e6b59e6df92be540530
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1765759288-0-0-74c6917aa49e7d3801b43ac2e092b48b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1765759288-0-0-05abd816d514aec01cb0377960e29bfb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1765759288-0-0-d83a6f1bc4c93bb23c7c50d42da62e38
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BRA Cup: Fluminense RJ vs Clube de Regatas Vasco da Gama [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1765759288-0-0-b242f3131cbdf87f2ae71768bdf1b98b
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xKV01zyS-vNO3Pwqf.png",04:25 ngày 15/12 Los Angeles Rams vs Detroit Lions (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2085,26 +1977,66 @@ https://hotlivezz179602324.akainu.xyz/DcJnNiUFwTZwsR16WsWgVA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1765796767/1bce28e4dbbe07a4b9300f6d169c6447/892979983/live/gayFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1765799290&sign=136237e3058d087a7d88da19bfe9141d
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/1YI3umHfrB9sOJILGMjAkw/Fv2lucGIbhPi2caWYvF5Lg/1765799290175/live/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765799290/577dae580d7fbf589d1a7e1027a36c24/437972139/live/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/GirwxsauPxEWsblAucmnxw/Fv2lucGIbhPi2caWYvF5Lg/1765799290175/live/hoiSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765799290/d746e981e57544593363581365c37524/832156985/live/hoiFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1765799291&sign=0cca77fc046f4d053c5ba60dee58f314
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/Mv9GagftuzZP-88XSIO7hA/Fv2lucGIbhPi2caWYvF5Lg/1765799291367/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765799291/1918237058732a01225ad5de211652de/931253856/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/KynRTL7v0PmICVaG70x-1w/Fv2lucGIbhPi2caWYvF5Lg/1765799291367/live/thuongSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1765799291/d32d8cc65a134f80ba53be9b1fc2534f/907698530/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1765798210&sign=b1381b6cdc24273bd6b7b93b2048fbfb
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1765799292&sign=5d0f7856fb2574c6aed5d34ad498fcc2
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/0F5S3OvGfOw_KAAWh2eafw/Fv2lucGIbhPi2caWYvF5Lg/1765798210155/live/luaHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/BgVxpvYqEBjeIdRWd_EXsQ/Fv2lucGIbhPi2caWYvF5Lg/1765799292710/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765798210/45acdd686782909bf6f883e8d4aca2e7/802690262/live/luaHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1765799292/53e5d63c4ea156e0c16690a33aa73548/493752264/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/e_COkBbDDZyF5PLy-gdS7A/Fv2lucGIbhPi2caWYvF5Lg/1765798210155/live/luaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/1pVHt2QiA-OwMZvshg9aDA/Fv2lucGIbhPi2caWYvF5Lg/1765799292711/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765798210/b5d2d218ca84f08d640335c918137bfc/811750307/live/luaFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1765799292/7cc0a597449dc75e6743c78b038d4cd1/962496073/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png",06:00 ngày 15/12 Cusco FC vs Sporting Cristal (1) [Cá Sát Thủ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2149,46 +2081,6 @@ https://hotlivezz179602324.akainu.xyz/PMPQHUqTbJHezn3FFeNAQQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1765776613/fb5c40a9e3ca3be77215b20bf22accdd/586429552/live/lungFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1765798214&sign=74b058d41d43cf6e97a2344d3dc247e2
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/rD_heWg9wOwNp3-V1PMC9g/Fv2lucGIbhPi2caWYvF5Lg/1765798214610/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765798214/57a0a9707b10f72baf6a84762ecbf5a7/840752915/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/FppQHSbLVw2x4LsYoLJrxQ/Fv2lucGIbhPi2caWYvF5Lg/1765798214610/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765798214/7e6c8077516fd909256193fc2afe92f8/251124246/live/hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1765798215&sign=da2ae55b991af905eb63543271da705d
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/VKKrEX5P_ADIBjUAYMlU3A/Fv2lucGIbhPi2caWYvF5Lg/1765798215747/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765798215/e4ab65204e8464e64c1a08f63d42d8dc/568171228/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/7PWO1Yyd4-bhv8yiejZ8mQ/Fv2lucGIbhPi2caWYvF5Lg/1765798215747/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765798215/cec24d14be6239ae6ca0c4cbf48ad25e/265987671/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
