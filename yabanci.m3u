@@ -463,10 +463,18 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/e2df637597a2aa35f201a7ca93392c24.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Bún Chả)
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/b12027b5d0101f87c750a1e422360b9e.png",09h00 ngày 15/12 Konan University vs Toin University Of Yokohama (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/804c62a63a92d1f86db2b6536032cdc3/playlist.m3u8
+https://live.alilicloud.com/live/034a5976a3eaf9804e2f61dca7ce38a8/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/7a10126f9f4b9aa1a4e477ab7d60afe1.png",09h00 ngày 15/12 Osaka University HSS vs Sendai University (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/93708f389d72d60b5f8d6e2357259d3f/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/f6969b6c40e90eb9876e7f1f7dd0f8bb.png",09h00 ngày 15/12 International Pacific University vs Kyoto Sangyo University (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/fe1e8675a34a56f053a1e9a9ce1533b4/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -475,6 +483,30 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungshd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Cà Khịa) SD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -571,54 +603,6 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Lấy kinh) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Lấy kinh) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Lấy kinh) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Lấy kinh) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Lấy kinh) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a6bce9adfac7903426bed2b253991a18.png",06h30 ngày 15/12 Fluminense RJ vs Vasco da Gama (Lấy kinh) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/e2df637597a2aa35f201a7ca93392c24.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -691,30 +675,82 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765721676.png",07h00 ngày 15/12 Chicago Bulls vs New Orleans Pelicans (Lương Sơn) BLV NHỊ KA m3u
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765721676.png",07h00 ngày 15/12 Chicago Bulls vs New Orleans Pelicans (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",08h00 ngày 15/12 Phoenix Suns vs Los Angeles Lakers (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/364c1c7ca4572cd8fb2591915ed48db1.png",11h30 ngày 15/12 Philippines vs Vietnam (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765721738.png",09h00 ngày 15/12 Porland Trail Blazers vs Golden State Warriors (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765721738.png",09h00 ngày 15/12 Porland Trail Blazers vs Golden State Warriors (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png",08h10 ngày 15/12 Toluca vs Tigres UANL (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765749246.png",05h00 ngày 15/12 CHELSEA vs EVERTON (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -733,6 +769,30 @@ https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765726503.png",05h00 ngày 15/12 Metz vs Paris Saint Germain (Lương Sơn) BLV YẾN THANH REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",06h00 ngày 15/12 Atlanta Hawks vs Philadelphia 76ers (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -849,6 +909,10 @@ https://wtyi0525.edgemaxcdn.org/live/saoke3x4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke3x5/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/75/2025_SEA_Games.svg/1200px-2025_SEA_Games.svg.png",08:00 ngày 12/15 Trực tiếp thi đấu các môn SEA Games 33 vs Trực tiếp thi đấu các môn SEA Games 33 (Sao kê) Kênh 6
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x6/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6618_small.png",08:00 ngày 12/15 Toluca và Tigres (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -861,6 +925,10 @@ https://wtyi0525.edgemaxcdn.org/live/x17y3-0305/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x17y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",10:00 ngày 12/15 Indonesia vs Myanmar (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x7/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9f506e6400d7c22fdb1c4ff56d7efc37/image/small",05h00 ngày 14/12 SV Britannia vs Bubali SC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -897,10 +965,6 @@ https://stm02bc48435558.stream.hdplaylink.com/live3/5071692e3d504a54becea6a3e7a9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a381d2a2c4b6a28a80596dd1ccd96f60/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/12873437ddd1d37f52833348831d28d2/image/small",04h00 ngày 14/12 River Plate vs UPCN (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7a9dc338e194887f652d043f23f88255/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a564c35d374dd885dec9094469d98743/image/small",05h00 ngày 14/12 ELCO LTD St Peters vs Conaree United (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -913,26 +977,18 @@ https://live.alilicloud.com/live/56e0548ee96d0385f4dbd91c06d61267/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/403c31bfb2a3934a2af845b5d9f8bacd/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d9c2d339f3ec41ab4fb0db8325062789/image/small",03h30 ngày 14/12 FC Arouca vs Alverca (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dfda78442e9131799fafb4c72f994d98/image/small",09h00 ngày 14/12 International Pacific University vs Kyoto Sangyo University (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/37b1f11afe2d82a31079c70f6ba648a1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small",04h00 ngày 14/12 Barcelona SC(ECU) vs Orense SC (Khán Đài A) source
+https://live.alilicloud.com/live/fe1e8675a34a56f053a1e9a9ce1533b4/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0cc1e1bef3f03c780889b52cc12174ee/image/small",09h00 ngày 14/12 Konan University vs Toin University Of Yokohama (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/56090754e9e67cde6eb2dde50ac9eb85/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cc1cbbaa2f054bdb15afff836aaf42bd/image/small",04h00 ngày 14/12 Libertad FC vs Liga Dep Universitaria Quito (Khán Đài A) source
+https://live.alilicloud.com/live/034a5976a3eaf9804e2f61dca7ce38a8/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/11263372939d5b5fc3d909bede230ec9/image/small",09h00 ngày 14/12  vs Sendai University (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c24dd07dc088efb436167be0321318ed/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/939e96b6c15c986a9545f7963ca8792d/image/small",04h00 ngày 14/12 CD Universidad Católica vs Independiente del Valle (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/eae5e1b03056057f8de8c033ebdb5eea/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/88dbc2f85f9235d546bc601d54f29490/image/small",04h00 ngày 14/12 Corinthians Paulista (SP) vs Cruzeiro Esporte Clube (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c73691fa113bd44ab7b25879b2cbc5b0/playlist.m3u8
+https://live.alilicloud.com/live/93708f389d72d60b5f8d6e2357259d3f/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3dd240a70ee6e11b66ac7e5323d4dff7/image/small",04h30 ngày 14/12 Club Guabira vs Blooming (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1033,6 +1089,34 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/volleyball/team/f2413ce638c27cc34d13f8c961ba694f.png",10h00 ngày 15/12 Indonesia vs Myanmar (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/364c1c7ca4572cd8fb2591915ed48db1.png",11h30 ngày 15/12 Philippines vs Vietnam (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m101qt/playlist.m3u8 
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/20250921_010707_d23dff4c.png",08h00 ngày 15/12 Toluca vs Tigres UANL (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1137,6 +1221,30 @@ https://stream.chuoichien.tv/chuoinuong/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142852_6270222c.png",17h00 ngày 15/12 Vietnam vs Thailand (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142852_6270222c.png",17h00 ngày 15/12 Vietnam vs Thailand (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142852_6270222c.png",17h00 ngày 15/12 Vietnam vs Thailand (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142852_6270222c.png",17h00 ngày 15/12 Vietnam vs Thailand (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142852_6270222c.png",17h00 ngày 15/12 Vietnam vs Thailand (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142852_6270222c.png",17h00 ngày 15/12 Vietnam vs Thailand (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_132913_6f0e1206.png",19h30 ngày 15/12 Malavan vs Fajr Sepasi (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1185,30 +1293,6 @@ https://stream.chuoichien.tv/chuoito/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133914_f1cf778e.png",22h30 ngày 15/12 Farul Constanta vs Uta Arad (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133914_f1cf778e.png",22h30 ngày 15/12 Farul Constanta vs Uta Arad (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133914_f1cf778e.png",22h30 ngày 15/12 Farul Constanta vs Uta Arad (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133914_f1cf778e.png",22h30 ngày 15/12 Farul Constanta vs Uta Arad (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/manze.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133914_f1cf778e.png",22h30 ngày 15/12 Farul Constanta vs Uta Arad (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133914_f1cf778e.png",22h30 ngày 15/12 Farul Constanta vs Uta Arad (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/manze.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_134218_f10a5445.png",22h30 ngày 15/12 Septemvri Sofia vs Ludogorets (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1509,10 +1593,42 @@ https://live.alilicloud.com/live/a381d2a2c4b6a28a80596dd1ccd96f60/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/56e0548ee96d0385f4dbd91c06d61267/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small",06h00 ngày 14/12 Cusco FC vs Sporting Cristal (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/bTeXZAxS-xSweajqr.png",10h00 ngày 14/12 Indonesia vs Myanmar (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/403c31bfb2a3934a2af845b5d9f8bacd/playlist.m3u8
+https://stm02bc43163716.stream.hdplaylink.com/live7/c76ce892b64c4cf196c9a3ca77f2a75e_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/bTeXZAxS-xSweajqr.png",10h00 ngày 14/12 Indonesia vs Myanmar (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc43163716.stream.hdplaylink.com/live7/c76ce892b64c4cf196c9a3ca77f2a75e_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/bTeXZAxS-xSweajqr.png",10h00 ngày 14/12 Indonesia vs Myanmar (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/c76ce892b64c4cf196c9a3ca77f2a75e_480/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/bTeXZAxS-xSweajqr.png",10h00 ngày 14/12 Indonesia vs Myanmar (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live8.fastestcdn-global.com/live8/c76ce892b64c4cf196c9a3ca77f2a75e_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/bTeXZAxS-xSweajqr.png",10h00 ngày 14/12 Indonesia vs Myanmar (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/c76ce892b64c4cf196c9a3ca77f2a75e_480/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/bTeXZAxS-xSweajqr.png",10h00 ngày 14/12 Indonesia vs Myanmar (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc38017100.stream.hdplaylink.com/live8/c76ce892b64c4cf196c9a3ca77f2a75e_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dfda78442e9131799fafb4c72f994d98/image/small",09h00 ngày 14/12 International Pacific University vs Kyoto Sangyo University (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/fe1e8675a34a56f053a1e9a9ce1533b4/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0cc1e1bef3f03c780889b52cc12174ee/image/small",09h00 ngày 14/12 Konan University vs Toin University Of Yokohama (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/034a5976a3eaf9804e2f61dca7ce38a8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/11263372939d5b5fc3d909bede230ec9/image/small",09h00 ngày 14/12  vs Sendai University (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/93708f389d72d60b5f8d6e2357259d3f/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1529,190 +1645,162 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ67xhDiP5UF76yr/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) flv
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/52442/1k7aznc1we1g.png?win007=sell",09h00 ngày 15/12 Konan University vs Toin Yokohama University (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1765768288-0-0-38abcee840799384f435155ff6da3059
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEw8HPEUGFi28/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/52442/1k7aznc1we1g.png?win007=sell",09h00 ngày 15/12 Konan University vs Toin Yokohama University (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1765768288-0-0-3a3e41d32800c2db5c9bb5836b875c66
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
+#EXTINF:0 group-title="Văn khánh" tvg-logo="",09h00 ngày 15/12 Osaka University HSS vs Sendai University (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1765768288-0-0-9a3343d1a1af631390e26d15322c19c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEw8FBkbnRnsE/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="",09h00 ngày 15/12 Osaka University HSS vs Sendai University (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1765768288-0-0-717338fd4b238412e9a0df6e2ddeff1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165407125986.png?win007=sell",09h00 ngày 15/12 International Pacific University vs Kyoto Sangyo University (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1765768288-0-0-e4401db65dc6a11906d17e35f046f8d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6QEvxr6akoYWpt/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/165407125986.png?win007=sell",09h00 ngày 15/12 International Pacific University vs Kyoto Sangyo University (Văn Khánh) FLV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1765768288-0-0-004ed873d6d44a138027edd35bee6ee4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1765768288-0-0-37ff01e687bc0248cb6bdb9b084133a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1765768288-0-0-8b4190056111a200287b9645edf1015b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1765768288-0-0-479a2d4c533d08c180a1ed0ae9ca1572
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1765768288-0-0-a903ae67ca4b2155a066b747e6229444
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1765768288-0-0-6697131a3770c681f211f4acf40aa3c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1765768288-0-0-2f0a774232c7a300301ee5c4b0692cdd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1765768288-0-0-dccf4eaf4473edc41350b94fef5cbea1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1765768288-0-0-fc91760307c75b1ad2970f673a75663f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1765768288-0-0-3388dc8e55c4ed0e5ece581eddbf939d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1765768288-0-0-b63ef4fa3c79378a03ff3285401d090a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=3eb752644fb86c79bf605a6dd198ef72&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=7b9f0d10b74d7fc99b1d33741c9be89e&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=3eb752644fb86c79bf605a6dd198ef72&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=7b9f0d10b74d7fc99b1d33741c9be89e&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=2bdc6bc6e1e9c2b2ac6c2f0612edb128&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=6a4b935acf02c4704470d50b3c501e5e&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=2bdc6bc6e1e9c2b2ac6c2f0612edb128&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=6a4b935acf02c4704470d50b3c501e5e&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1765768288-0-0-e0e070bbf73d148fb9c1ba03efffc5de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1765768288-0-0-5331c2dccfa991efd670c7f31058bd5e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765768288-0-0-9c882457d428a52a619df41465f85ded
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGW: Singapore W vs Malaysia W [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765768288-0-0-469d6e938eca7fb252a647327d9047ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=d5c04e6e060836e09245bf836b9d5a5e&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=1a44072dbcfa93e441589287964777ed&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=d5c04e6e060836e09245bf836b9d5a5e&txTime=693fc2b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=1a44072dbcfa93e441589287964777ed&txTime=693fc2b0
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765768288-0-0-ed2412a408e1686eb751526886e0d29d
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765773688-0-0-72aa625e4100bf427bc9700cfba5401e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765768288-0-0-32bbd3564f66c9c6fe21666c549ebabb
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765773688-0-0-3c3e5b097ff8d5951ac152d72db7222a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765768288-0-0-4e9014bf98b072bb06dd5aff87c9d88b
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765773688-0-0-25503ecb0656074be7683d900f0c55a5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765768288-0-0-7c0e4840b0a1efd017d53a225b2d2d4e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) flv
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765773688-0-0-a2d5987653a24da5c751085120899792
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1765768288-0-0-de2582e50ee98e98990e0dd28a259aa8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1765773688-0-0-f22245153c8de4c64594fc964ea65f86
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1765768288-0-0-edcd76bfe7085f4bc638b2cf8e2cda1c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1765773688-0-0-70bba79634900c01b025258ae4691039
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1765768288-0-0-02cfd975df9531f81dec1829fc832321
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1765773688-0-0-52dce41534a8422ec79050ad845819a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV  TYPN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1765768288-0-0-fbecba55b2e42fac4b051e9a972f8d84
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1765773688-0-0-5ec5f5d5fe1f27a0679c0de1e2a2b27b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1765773688-0-0-ab6e81cd0238fd10f5f25ffc55408a2b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1765773688-0-0-40197c2c976df88ce95179da2e69df32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1765773688-0-0-8f64478a86feb96bfcc3fd8e04ec485c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1765773688-0-0-db5c5b6e6700c3c2199d53784e696d78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1765773688-0-0-ed2140681f6e230f088503b54af4d824
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1765773688-0-0-7a6fcf0d68e80ba7279182df31bfd5b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1765773688-0-0-dd75c748d46034641f9b504af05cfbfd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1765773688-0-0-4cae5bd6084607b1d87d8c01fbd8d48b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765768288-0-0-9d8cb9f65e1300538ce482b104c6864e
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765773688-0-0-d68b640c417ce4132d2fd7655d09348e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765768288-0-0-1631171431475f10b55743828e7b81bc
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765773688-0-0-4613da2d94abf5a07e302720c7b6d271
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765768288-0-0-c2e77d50fe660b61b492a0f0d35b4d43
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765773688-0-0-940839bd5b45b47f09de882381b0e4f8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Portland Trail Blazers vs Golden State Warriors [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765768288-0-0-fb4b5e652e72b7ee603bc7605544d4b2
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765773688-0-0-18459df6b93eed905bb15245fd07589e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=3c4dfb86d670090c066660b6a0a0e396&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=6f929cd1c5da4d1c5ea9ccdf0e146448&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=3c4dfb86d670090c066660b6a0a0e396&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=6f929cd1c5da4d1c5ea9ccdf0e146448&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1765773688-0-0-9042a3aaa60a2f02a1e67ee12f59a340
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1765773688-0-0-61de3085fd07a89aafa4ca210bf00df6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1765773688-0-0-7d19dece3cd3ecd74583f0cb23518d4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1765773688-0-0-234f10a7fd348d7c33a6a4d23fa156f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=585ef3dbdcc8b2f0fcca115ed13931f3&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=66e30d664f980d0ab6b36c011cd2d932&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=585ef3dbdcc8b2f0fcca115ed13931f3&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251212/186b42c0385c31f6383976507e3abd4f.png",08h00 ngày 15/12 Toluca vs Tigres UANL [BLV KINH TẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=66e30d664f980d0ab6b36c011cd2d932&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=20d516d793f33cbb020c3052f7a57682&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=20e272c6847a04a5447ef83401a481d3&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=20d516d793f33cbb020c3052f7a57682&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",NBA: Phoenix Suns vs Los Angeles Lakers [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=20e272c6847a04a5447ef83401a481d3&txTime=693fd7c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Philippines vs Vietnam [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1765773688-0-0-5abf69707493324d1d28160683f5854e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Philippines vs Vietnam [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1765773688-0-0-5403f387883f39a0866a848b8d649959
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Philippines vs Vietnam [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1765773688-0-0-05eed56b0d7ac0c2c352e8ef5c9bb732
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",SEAGM: Philippines vs Vietnam [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1765773688-0-0-244d6f66818c6645f9c7b3952803bbbf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765768288-0-0-7e178a1eca1dca37a9fd541f39615285
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765773688-0-0-f3f9f9e07a0dbe460a092cc13e3a0b3e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765768288-0-0-c5ecb02988a13b9e0547eb9f9fd02584
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765773688-0-0-f4dd4442f54215f7d0183115ba69a0f9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765768288-0-0-8bc58cd6dbeb64bfd49510271e735b6e
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765773688-0-0-4f782777034e558e23f51d2f1ce4b150
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251211/e271eb8ab39d7f22da724368c94d096a.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765768288-0-0-ba2e613a4240fee8739f501dba24f7a8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1765799290&sign=136237e3058d087a7d88da19bfe9141d
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/1YI3umHfrB9sOJILGMjAkw/Fv2lucGIbhPi2caWYvF5Lg/1765799290175/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765799290/577dae580d7fbf589d1a7e1027a36c24/437972139/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/GirwxsauPxEWsblAucmnxw/Fv2lucGIbhPi2caWYvF5Lg/1765799290175/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07:00 ngày 15/12 Bulls vs Pelicans (1) [Người Hói] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765799290/d746e981e57544593363581365c37524/832156985/live/hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1765799291&sign=0cca77fc046f4d053c5ba60dee58f314
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Mv9GagftuzZP-88XSIO7hA/Fv2lucGIbhPi2caWYvF5Lg/1765799291367/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765799291/1918237058732a01225ad5de211652de/931253856/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/KynRTL7v0PmICVaG70x-1w/Fv2lucGIbhPi2caWYvF5Lg/1765799291367/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",07:00 ngày 15/12 Timberwolves vs Kings (1) [Người Thương] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765799291/d32d8cc65a134f80ba53be9b1fc2534f/907698530/live/thuongFHD/playlist.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765773688-0-0-8424139ec67e2e0fbad2e01686b0d3d4
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/suns.png",08:00 ngày 15/12 Suns vs Lakers (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1736,23 +1824,23 @@ https://9ceg0825.edgemaxcdn.org/1765803612/bdec2beade9c612a249857e4fbb517cb/1536
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1765805769&sign=f4b29257161ee8acb729cc122a7b0d52
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1765810807&sign=aa98fe3498906fadcbc5b97ea60dd77e
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/47kU7O9e8aEGV9YkMplTBQ/Fv2lucGIbhPi2caWYvF5Lg/1765805769943/live/luaHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/SPPIWNU4gZGbd59TgVk5mQ/Fv2lucGIbhPi2caWYvF5Lg/1765810807487/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765805769/0518805d4144fe0e12a1dfd481dfaf63/181740806/live/luaHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1765810807/9544d72048bb5eb0d1d03f37e9482c3e/372324724/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/tAFJE4hCMP37_zk4yHnhUQ/Fv2lucGIbhPi2caWYvF5Lg/1765805769944/live/luaSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/U5hQmJTI01-1IJ17Vi-4Dg/Fv2lucGIbhPi2caWYvF5Lg/1765810807487/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/2DROi6Wg-INS6Eqwe.png",08:15 ngày 15/12 Dallas Cowboys vs Minnesota Vikings (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765805769/6d146b2298fcb94d4751f4dd9a8814d9/828888181/live/luaFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1765810807/b9ed029c88de6d7c136ea2a3ac891bb6/189741039/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/blazers.png",09:00 ngày 15/12 Blazers vs Warriors (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1796,19 +1884,23 @@ https://9ceg0825.edgemaxcdn.org/1765782016/1ca744577b829c2a5c902e1ad30c4600/7161
 #EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 15/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/SN_uC2VlJu3PUk2z3PRlFw/Fv2lucGIbhPi2caWYvF5Lg/1765803965964/live/may20/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/v0MyOmWXd1L8r_wiLzkJXA/Fv2lucGIbhPi2caWYvF5Lg/1765812975851/live/may20/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 15/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/arPn_5BaJnQpOTojn13ZSg/Fv2lucGIbhPi2caWYvF5Lg/1765803965965/live/may201/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/cW62N_vFJSeg1nK7-7xlPQ/Fv2lucGIbhPi2caWYvF5Lg/1765812975851/live/may201/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 15/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/jFsftF2xkjQDqmXMS7x-gw/Fv2lucGIbhPi2caWYvF5Lg/1765803965965/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/W2Sm8du-Sr3vp0L3wV9EuQ/Fv2lucGIbhPi2caWYvF5Lg/1765812975851/live/may21/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 15/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/p2m0jDm39rJ8_rGFFU6_TA/Fv2lucGIbhPi2caWYvF5Lg/1765803965965/live/may211/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/t6HMHwCEtAZSH8xPx2yVqA/Fv2lucGIbhPi2caWYvF5Lg/1765812975851/live/may211/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 15/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 5
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/ZH009-X3ROO17yHGo3OmVA/Fv2lucGIbhPi2caWYvF5Lg/1765812975851/live/may24/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
