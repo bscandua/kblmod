@@ -463,14 +463,26 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/52f31b913aa4b9e70d7dc52e8cee01ff.png",12h00 ngày 17/12 Tsukuba University vs Hannan University (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/ce6acc75a3dc9bb0631d52c3bf878dff/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/3a98e5dc5bf4c89f90a20fc5b225803f.png",12h00 ngày 17/12 Kwansei Gakuin University vs Osaka University HSS (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/20b463426542d27fe364f0983b446210/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/1fc7af8b88e30620856cc1b0c2f6f0ff.png",12h00 ngày 17/12 Niigata University of Health and Welfare vs International Pacific University (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/af4c5a0565647159077d516ed717bf03/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/c36c1d5ef6f09d5434a6a56c1f6c14b1.png",12h00 ngày 17/12 Momoyama Gakuin University vs Konan University (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/a4a5648b87d2e403f14cf1c7320f860e/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/197e7b0b042ca24c069441f831d81e45.png",12h00 ngày 17/12 Kokushikan University FC vs Nihon University (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/85abb77c65792055699164a9ed2ea5f5/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/abaa9711b293f95eb73ece1918a44c5c.png",12h00 ngày 17/12 Toyo University vs Meiji University (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/d11dd8db4a038cd0ac6b75881fe35c3e/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -479,36 +491,68 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Cà Khịa) SD 1
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Cà Khịa) HD 1
+https://mrkw1025.edgemaxcdn.org/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Cà Khịa) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Cà Khịa) SD 2
+https://mrkw1025.edgemaxcdn.org/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Cà Khịa) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Cà Khịa) HD 2
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Cà Khịa) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Cà Khịa) SD  (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Cà Khịa) SD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Cà Khịa) HD  (Nhanh)
+https://mrkw1025.edgemaxcdn.org/live/lulusd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Cà Khịa) HD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765906715.png",11h30 ngày 17/12 Malaysia vs Singapore (Lương Sơn) BLV SHIN m3u
+https://mrkw1025.edgemaxcdn.org/live/luluhd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765906715.png",11h30 ngày 17/12 Malaysia vs Singapore (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d2a4a9093fdc551a303073cb5af2bf03.png",15h00 ngày 17/12 Persitara Jakarta Utara vs Pekanbaru FC (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f0d090a7424e6095685029d494d4276c.png",15h00 ngày 17/12 Persekabpas Pasuruan vs Persiba Bantul (Lấy kinh) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765952765.jpg",13h30 ngày 17/12 Bologna vs Juventus (Lương Sơn) BLV SHIN REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765952765.jpg",13h30 ngày 17/12 Bologna vs Juventus (Lương Sơn) BLV SHIN REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765899884.png",05h00 ngày 16/12 MU vs AFC Bournemouth (Lương Sơn) BLV URA REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -521,12 +565,12 @@ https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765899390.jfif",05h00 ngày 17/12 VIỆT NAM vs PHILIPPINES (Lương Sơn) BLV VƯƠNG LUÂN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765834653.jpg",05h00 ngày 16/12 Manchester United vs AFC Bournemouth (Lương Sơn) BLV LƯU BỊ REPLAY m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765952423.jpg",13h20 ngày 17/12 Manchester United vs AFC Bournemouth (Lương Sơn) BLV LỮ BỐ REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765834653.jpg",05h00 ngày 16/12 Manchester United vs AFC Bournemouth (Lương Sơn) BLV LƯU BỊ REPLAY flv
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765952423.jpg",13h20 ngày 17/12 Manchester United vs AFC Bournemouth (Lương Sơn) BLV LỮ BỐ REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1765884737.png",06h30 ngày 16/12 Crystal Palace vs Manchester City (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -545,6 +589,12 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6LvF8944nzBtjN/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="",12h00 ngày 17/12 Niigata University of Health and Welfare vs International Pacific University (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33697_1hgz4jv2d94.png",12h00 ngày 17/12 Toyo University vs Meiji University (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnvankhanh.com/live/sd-6MvZ6LvExFPedmZhhN/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33697_1hgz4jv2d94.png",12h00 ngày 17/12 Toyo University vs Meiji University (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16296_1hyse0h1kfa.png",12h00 ngày 17/12 Tsukuba University vs Hannan University (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnvankhanh.com/live/sd-6MvZ6LuW8mPZrd7xMr/playlist.m3u8
@@ -557,30 +607,30 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6LuW8ob3j6wsWk/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/10345_167132860439.png",12h00 ngày 17/12 Kwansei Gakuin University vs Osaka University HSS (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Ra Khơi) SD 1
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Ra Khơi) HD 1
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Ra Khơi) SD 2
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Ra Khơi) HD 2
+https://ckhot-179939170.cdnfree.pro/live/lulusd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/tichhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Ra Khơi) SD  (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/luluhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Ra Khơi) SD  (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6d2cab607ba1b908c2c71225581b06ee.png",13h30 ngày 17/12 Melbourne City (w) vs Adelaide United (w) (Ra Khơi) HD  (Nhanh)
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (Ra Khơi) HD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/tichhd1Rk.flv
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/75/2025_SEA_Games.svg/1200px-2025_SEA_Games.svg.png",08:00 ngày 12/17 Trực tiếp thi đấu các môn SEA Games 33 vs Trực tiếp thi đấu các môn SEA Games 33 (Sao kê) Bắn súng
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -621,14 +671,6 @@ https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0d9ccc73fdac92ea8045874150de72e4/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d5acc438a6b3151468ce69fbef3ce1d3/image/small",07h30 ngày 16/12 Deportes Tolima vs Atletico Junior Barranquilla (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3144ceb214cba3f5198fd218ec37efc6/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/04acd311c7d6a0a513d7178e9bbcd61d/image/small",07h00 ngày 16/12 Ciudad Voley vs Monteros (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b4ec29b4e59294c4c0e02516e0c50cd3/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9979d30d89d4ce9ac40d82f5bced6687/image/small",09h00 ngày 16/12 AD Cofutpa vs AD Cariari Pococi (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -641,6 +683,14 @@ https://live.alilicloud.com/live/c44979ff77d8701a9c953ff78dc8adad/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/20b463426542d27fe364f0983b446210/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/223158b47a28dd8e3af606143beb5b87/image/small",12h00 ngày 16/12 Tsukuba University vs Hannan University (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ce6acc75a3dc9bb0631d52c3bf878dff/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b7d491280588e02d9bc2e6578b812b2b/image/small",12h00 ngày 16/12 Toyo University vs Meiji University (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d11dd8db4a038cd0ac6b75881fe35c3e/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8429694cc45641466eaadbb38ec84f81/image/small",12h00 ngày 16/12 Niigata University of Health and Welfare vs International Pacific University (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -653,6 +703,66 @@ https://live.alilicloud.com/live/a4a5648b87d2e403f14cf1c7320f860e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/31f3c86bafa6cee24ab3379afd3d0c18/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/51188b0e9d6f0a454b58f6124d4b6c7e/image/small",12h00 ngày 16/12 Kokushikan University FC vs Nihon University (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/85abb77c65792055699164a9ed2ea5f5/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/lulusd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/2c4bcee196a29d3a49fdbfbe49d2669b.png",15h00 ngày 17/12 Lopburi City FC vs Songkhla FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/luluhd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/d2a4a9093fdc551a303073cb5af2bf03.png",15h00 ngày 17/12 Persitara Jakarta Utara vs Pekanbaru FC (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/f0d090a7424e6095685029d494d4276c.png",15h00 ngày 17/12 Persekabpas Pasuruan vs Persiba Bantul (QUAY TAY) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8 
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133802_858d0eac.png",13h30 ngày 17/12 Melbourne City W vs Adelaide United W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/khoind/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133802_858d0eac.png",13h30 ngày 17/12 Melbourne City W vs Adelaide United W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/khoind/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133802_858d0eac.png",13h30 ngày 17/12 Melbourne City W vs Adelaide United W (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/khoind.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133802_858d0eac.png",13h30 ngày 17/12 Melbourne City W vs Adelaide United W (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/khoind.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133802_858d0eac.png",13h30 ngày 17/12 Melbourne City W vs Adelaide United W (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/khoind/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_133802_858d0eac.png",13h30 ngày 17/12 Melbourne City W vs Adelaide United W (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/khoind.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://cdn-media.chuoichien.tv/media/uploads/20250623_142849_cf293075.png",15h30 ngày 17/12 Indonesia W vs Thailand W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1085,18 +1195,6 @@ https://stream.chuoichien.tv/chuoitay/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoitay.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4e1eab992414792c3ec99d0bbde0cda8/image/small",09h00 ngày 16/12 Kyoto Sangyo University vs Fuji University (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0d9ccc73fdac92ea8045874150de72e4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9979d30d89d4ce9ac40d82f5bced6687/image/small",09h00 ngày 16/12 AD Cofutpa vs AD Cariari Pococi (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0871a7a5856209eca25d2c38e957e0b4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/03c88c469a5b4f2e88c3702089a2d167/image/small",09h00 ngày 16/12 Toin University Of Yokohama vs Hiroshima University of Economics (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c44979ff77d8701a9c953ff78dc8adad/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3d7db9ad5a7be6b7f8d26254cc7bc1aa/image/small",12h00 ngày 16/12 Kwansei Gakuin University vs  (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1105,6 +1203,10 @@ https://live.alilicloud.com/live/20b463426542d27fe364f0983b446210/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ce6acc75a3dc9bb0631d52c3bf878dff/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b7d491280588e02d9bc2e6578b812b2b/image/small",12h00 ngày 16/12 Toyo University vs Meiji University (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d11dd8db4a038cd0ac6b75881fe35c3e/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8429694cc45641466eaadbb38ec84f81/image/small",12h00 ngày 16/12 Niigata University of Health and Welfare vs International Pacific University (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1113,10 +1215,14 @@ https://live.alilicloud.com/live/af4c5a0565647159077d516ed717bf03/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a4a5648b87d2e403f14cf1c7320f860e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/33cf011be74baf64e84fdfe22311e610/image/small",09h00 ngày 16/12 Tokai University vs Tokoha University SC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/31f3c86bafa6cee24ab3379afd3d0c18/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/37014/1hgz4jv2d94.png?win007=sell",12h00 ngày 17/12 Toyo University vs Meiji University (Văn Khánh) M3U
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+https://auto.cdnvankhanh.com/live/sd-6MvZ6LvExFPedmZhhN/playlist.m3u8
+#EXTINF:0 group-title="Văn khánh" tvg-logo="https://static.cdnvankhanh.com/Image/team/images/37014/1hgz4jv2d94.png?win007=sell",12h00 ngày 17/12 Toyo University vs Meiji University (Văn Khánh) FLV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://vankhanhtv.com/
+
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1157,170 +1263,122 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6LvF8944nzBtjN/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765954048-0-0-21b2d8ef8e890b5d00c42837e4765db6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765954048-0-0-1ba34d46a19d0f5e7f3c24eb457f3bd5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765954048-0-0-3cceba23bb9ac5920aee423bea2eca60
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765954048-0-0-b5ffd2f56ce868df8a1fd62fe4861f9c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765954048-0-0-99ff9ee917b508f56b55a8c433dd035c
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1765955128-0-0-71e99f32fb8c17982c6a5e4f0fe3c8c9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765954048-0-0-2f1652e4bbbe30dfbccef372960eb67b
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1765955128-0-0-78cec51c3bf7fc94fbd6a187fc66ec65
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765954048-0-0-0ddb94e61c2aff69f40b4ff9b4687702
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1765955128-0-0-97f2b7aa228ecbcc3d4385c10fbd396b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765954048-0-0-7b24cb1be30a3ab55475faae1b395628
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1765955128-0-0-4c20cf1f0ca2c373b75271fa92df9e6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1765955128-0-0-3022a4c13576ccc6661aedf46ae7caeb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1765955128-0-0-1097c5276ab815c742d765f7420b66ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1765955128-0-0-d7c43bfed59519301ac0f1e3d66bdb1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251216/bbe33ad89b56a9fb38bfe186e7fb1677.png",11h30 ngày 17/12 Indonesia W vs Singapore W [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1765955128-0-0-f4fdd6965e8961c0714ee4bcf00e08e8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765954048-0-0-9cb2e40f3654406132b805df9b43e87b
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1765955128-0-0-dddff06b357d056ff64fc262e1ca0cd3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765954048-0-0-d66bccd44f10438a2090433eb2ae7bba
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1765955128-0-0-08aa415e697269b8cb54cd4171d10052
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765954048-0-0-a3e4cb95c5c7d7d0f50c236e64b3ab31
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1765955128-0-0-e319c94a93431ed908d020a1fccffee6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765954048-0-0-207c2d5539a592fff0372dbaf9c8d568
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1765955128-0-0-b5666a530fedb69e82c514a922ec537d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA Cup: CD Guadalajara vs FC Barcelona [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1765954048-0-0-20175f4ac41dcfbc6855689d4ce57e54
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1765955128-0-0-f5cdbf0cfdedb4e8650ea15e6f76dce0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA Cup: CD Guadalajara vs FC Barcelona [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1765954048-0-0-009293f46503e0ae79c4d344c7b92537
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1765955128-0-0-f20b9feafdaaa738ecfe9964fc8a2f44
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA Cup: CD Guadalajara vs FC Barcelona [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1765954048-0-0-408f7160c12d95e79ad30909abc031ce
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1765955128-0-0-ad3c2e672f032d0f36e87fba724c7fc1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA Cup: CD Guadalajara vs FC Barcelona [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1765954048-0-0-ca82764e9a532300e5b32d3b96f02899
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1765955128-0-0-49d1b40349d67f4315c5f1b974dc1ed3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ITA D1: AS Roma vs Como [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1765954048-0-0-193fb74f8b6c51c9b01117c37832785f
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1765955128-0-0-c584342ed1c74c4ba3ef4dbbfad921c2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ITA D1: AS Roma vs Como [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1765954048-0-0-3130d58fffdf1572532a0b0459bae056
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1765955128-0-0-685899007e8dbdffb5ec3f5ccd5647a4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ITA D1: AS Roma vs Como [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1765954048-0-0-b0a265f17352e708194276fba8798c8c
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1765955128-0-0-a2837902c684375f1418189a189ac7d0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ITA D1: AS Roma vs Como [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1765954048-0-0-8c5343202496ccad4e252f8c7d0357ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1765954048-0-0-e87ca7fc6bdf7e94a71e3e1891efa736
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1765954048-0-0-6bb1f4bf2fe4b452f2a2e04428e53160
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1765954048-0-0-9e42bc1333216436026a721438a01fda
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1765954048-0-0-7cf1a19a2fdc5c7ac0de39bea8b70462
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1765955128-0-0-0a008f661ed9898dbd5b332bfcc7ae10
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SEA Games: Vietnam U22 vs Philippines U22 [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1765954048-0-0-8891b7bcca1d7c2e9c7058cfcbd2e84f
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1765955128-0-0-89c05d23f39cfe408672182358e77798
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SEA Games: Vietnam U22 vs Philippines U22 [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1765954048-0-0-7099dd2f24202e1cb5a1619f567e01cc
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1765955128-0-0-79e56245331c7597fc4b631387b90606
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SEA Games: Vietnam U22 vs Philippines U22 [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1765954048-0-0-7a5f8e92fe523c9f49051713b4849c8c
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1765955128-0-0-bf0c4b87f9828e5f46b31184e6f2b0b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SEA Games: Vietnam U22 vs Philippines U22 [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1765954048-0-0-dc7e068fe5b58aaaa07304e861bd8fc8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1765955128-0-0-53d8f7058aeab32857ea8ee4fe85a107
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA D1: Deportivo Alavés vs Real Madrid [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1765954048-0-0-7639017cfca8d49413a6ff82495dbcbc
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1765955128-0-0-45fb9a531b0815c46e20e0d653fc5dfa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA D1: Deportivo Alavés vs Real Madrid [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1765954048-0-0-d93d4aa2f510dd1693e8a30bf88db86c
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1765955128-0-0-52eb3f57fddbb3efcbe6b908ab1bb60e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA D1: Deportivo Alavés vs Real Madrid [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1765954048-0-0-f04c4dde5f51d460c19fecbd5bc85b7a
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1765955128-0-0-bd1afa920a562c2946589e2343d9442a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: SPA D1: Deportivo Alavés vs Real Madrid [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1765954048-0-0-f8a0d2054258cc8e0d34b45da36d94a0
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1765955128-0-0-b24061fb6ff81ba76cba7da5cb9276d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG PR: Manchester United vs Bournemouth AFC [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1765954048-0-0-ea61d459fabbfd2d805b5e690b718867
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1765955128-0-0-eb184f49432b621defba041cc92e5807
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG PR: Manchester United vs Bournemouth AFC [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1765954048-0-0-7aef5e8d2211ecf25b7fd3502ad7313f
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1765955128-0-0-14f280875326f1da0effd1ae8aa04e4b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG PR: Manchester United vs Bournemouth AFC [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1765954048-0-0-0d33befb4328a5df69a50fc651f75fb7
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1765955128-0-0-211ba9a7b729b246836f9c266cf08090
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG PR: Manchester United vs Bournemouth AFC [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1765954048-0-0-3f30a599da4809fb56f7c1beb11712ff
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Cá Sát Thủ] HD Nhanh
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1765955128-0-0-dca212c7ce39d9a4e48cb0b470c99444
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1765955128-0-0-92f311abedab0124fb211d47cfddad9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1765955128-0-0-fd06382dc8cc95ddcb6735f3030b39c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1765955128-0-0-1dc1dd09e428fc56bf2b0c35b84b086b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251215/e12710ba97edcfb77f855476fd60b0ce.png",Tường thuật: ENG LC: Cardiff City vs Chelsea [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1765955128-0-0-0f312108d58cb2967080c85457ae6cbc
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",16:00 ngày 17/12 World Tour Finals (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1765989006&sign=02178ed8e923e4137bf7cda5e70779b5
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Cá Sát Thủ] HD1
+https://hotlivezz179026907.akainu.xyz/qUHiPDSalVtrsyHbMm1zQQ/Fv2lucGIbhPi2caWYvF5Lg/1765996565582/live/may27/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",16:00 ngày 17/12 World Tour Finals (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/EFXSWWloG1ayEREUQ_OJ7w/Fv2lucGIbhPi2caWYvF5Lg/1765989006197/live/thuHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Cá Sát Thủ] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765989006/0e565f0928f5a35ac73841a4a8c9a433/616933995/live/thuHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Cá Sát Thủ] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/cwcPkq1u3qseGssXtOU_Vw/Fv2lucGIbhPi2caWYvF5Lg/1765989006197/live/thuSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Cá Sát Thủ] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765989006/37d661539c6b9bca6502d57179999a00/171337895/live/thuFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Cá Sát Thủ] Sân 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/JZKk3RX7LnaUs2oa3g5D2A/Fv2lucGIbhPi2caWYvF5Lg/1765989006197/live/may27/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Cá Sát Thủ] Sân 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/8CYJUSxnxcoFNSDx7KEKPQ/Fv2lucGIbhPi2caWYvF5Lg/1765989006197/live/may271/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Thịt Xiên] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1765989006&sign=804a99f7453c34dabe5fbe6d9d437b64
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Thịt Xiên] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/IfX5TCcDZyGTqUHef9ftgQ/Fv2lucGIbhPi2caWYvF5Lg/1765989006197/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Thịt Xiên] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765989006/c2e11c7b26cbb2d036545b8067090ebb/246758641/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Thịt Xiên] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/IPZOCztJsZSxy0gcehLk5Q/Fv2lucGIbhPi2caWYvF5Lg/1765989006198/live/xienSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Thịt Xiên] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1765989006/a82b30af07212ccc14661e0587ce619e/165275975/live/xienFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Thịt Xiên] Sân 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ie-lRjx_8268uXsv-gg7GA/Fv2lucGIbhPi2caWYvF5Lg/1765989006198/live/may27/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4pxD14Sp-ADTT8p1d.png",08:30 ngày 17/12 World Tour Finals (1) [Thịt Xiên] Sân 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/mjPwJzGBlFraXvJgazMg8Q/Fv2lucGIbhPi2caWYvF5Lg/1765989006198/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/mlPcEPjHuzA6XPEEFxVc-Q/Fv2lucGIbhPi2caWYvF5Lg/1765996565583/live/may271/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://www.nazrin.com.my/wp-content/uploads/2025/05/2025_SEA_Games.svg_.png",09:00 ngày 17/12 Trực tiếp các môn thi đấu SEA Games 33 (1) [Nhà Đài] Kênh 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2937,93 +2995,6 @@ http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/6602
 http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/6603
 #EXTINF:-1 tvg-id="" tvg-name="AR: AL KASS 5" tvg-logo="https://docdog.top/logo/countries/arab/alkass5.png" group-title="|SHAREEXT SPORT|",AR: AL KASS 5
 http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/6604
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB PREMIER 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB PREMIER 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB PREMIER 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier3.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB PREMIER 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier4.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-5-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB PREMIER 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-premier5.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB SPORT 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-1-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB SPORT 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-2-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB SPORT 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-3-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB SPORT 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-4-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="|SHAREEXT SPORT|",HUB SPORT 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/hub-sport-5-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="|SHAREEXT SPORT|",V SPORT EXTRA
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-extra.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="|SHAREEXT SPORT|",V SPORT PREMIUM
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1-premium.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="|SHAREEXT SPORT|",V SPORT
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="|SHAREEXT SPORT|",V SPORT FOOTBALL
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-football.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/vsport_logo.png?raw=true" group-title="|SHAREEXT SPORT|",V SPORT MOTOR
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/v-sport-motor.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="|SHAREEXT SPORT|",TRUE SPORT 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="|SHAREEXT SPORT|",TRUE SPORT 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport2hd-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="|SHAREEXT SPORT|",TRUE SPORT 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport3hd.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="|SHAREEXT SPORT|",TRUE SPORT 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport5-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="|SHAREEXT SPORT|",TRUE SPORT 7
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport7-1.m3u8?raw=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="|SHAREEXT SPORT|", DubaiSports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="|SHAREEXT SPORT|", DubaiSports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="|SHAREEXT SPORT|", DubaiSports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1 tvg-id="abudhabisp1.mv" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://8upload.com/image/680e48f7bf58c/abudhabisp1hilay.png" group-title="|SHAREEXT SPORT|",Abu Dhabi Sports 1
-https://maldivesn.net/hilaytv/abudhabi1
-#EXTINF:-1 tvg-id="abudhabisp2.mv" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://8upload.com/image/680e48f7b2f51/abudhabisp2hilay.png" group-title="|SHAREEXT SPORT|",Abu Dhabi Sports 2
-https://maldivesn.net/hilaytv/abudhabi2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA SPORTS 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA SPORTS 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA SPORTS 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-3.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA SPORTS 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-4.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA SPORTS 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-5.m3u8?raw=true
-#EXTINF:-1 tvg-name="SPORTS : ARENA SPORT 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="|SHAREEXT SPORT|",SPORTS : ARENA SPORT 6
-http://mains.services/live/bshorty/Zv5le07a0J/17ace0c2-ee4e-495c-9eb2-afafdaa40dcd.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA PREMIUM 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA PREMIUM 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-rs.png?raw=true" group-title="|SHAREEXT SPORT|",ARENA PREMIUM 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium3.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-1.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-2.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-3.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-4.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-5.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 6
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-6.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 7
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-7.m3u8?raw=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="|SHAREEXT SPORT|",COSMOTE SPORTS 8
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-8.m3u8?raw=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="|SHAREEXT SPORT|",UK: MUTV
 http://tvmate.icu:8080/69NpyV/884735/53717
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="|SHAREEXT SPORT|",UK: RACING 
@@ -3215,38 +3186,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7245&deviceMac=00:1A:79:B0:A9
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="|SHAREEXT SPORT|",TEN_SPORTS_HD(cloud)
 http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", Astro Cricket
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186386&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", Astro PremierLeague
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", Astro PremierLeague 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", Astro Grandstand
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", Astro Football
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", SPOTV
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186479&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", SPOTV 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186481&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", BEINSPORTS 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186614&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", BEINSPORTS 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186615&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", True Sports 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186604&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", True Sports 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186601&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", True Sports 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186606&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", True Sports 5
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186605&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", True Sports 7
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186599&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", TruePremier 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186574&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", PPTV 36
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", ••Adu Ayam (HI Sport)_ TH HD
 http://49.0.64.96:8007/HiSports
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="|SHAREEXT SPORT|", ••HI Fight HD
@@ -3316,110 +3255,6 @@ https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/NBT2.png" group-title="|SHAREEXT SPORT|",NBTHD
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT GRANDSTAND FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190002
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT PSL FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190003
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT PREMIER LEAGUE FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190004
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT LA LIGA FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190005
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT FOOTBALL HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190006
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT VARIETY 1 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190007
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT VARIETY 2 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190008
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT VARIETY 3 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190009
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT VARIETY 4 FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190010
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT ACTION FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190015
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT TENNIS FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191770
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT RUGBY FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191771
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT MOTORSPORT HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191772
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT MAXIMO 1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191773
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT GOLF FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191775
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="|SHAREEXT SPORT|",SUPERSPORT CRICKET FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191776
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| TNT SPORT 1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13780
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| TNT SPORT 2 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13779
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| TNT SPORT 3 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/13778
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| TNT SPORT 4 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153713
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| TNT SPORT 5 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/62800
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS MAIN EVENTS HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191674
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS PREMIER LEAGUE HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191686
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS NFL/ACTION SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153704
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS MIX HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/189987
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS GOLF HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191685
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS FOOTBALL HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191691
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS NEWS HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191687
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS CRICKET HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191690
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS F1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153701
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS ARENA HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153705
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| PREMIER SPORTS 1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191694
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| PREMIER SPORTS 2 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/189891
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| RACING UK HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153722
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| BOX NATION HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153733
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| LFC TV HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153731
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", SPAIN| LALIGA TV SD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153728
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| WWE NETWORK HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153736
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| FIGHT BOX FHD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153949
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| RACING.COM
-http://line.extraott-iptv.com:88/2755789541/1300714776/189936
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| LALIGA TV HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191145
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| SKY SPORTS TENNIS HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/391269
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", AUS| FOX SPORTS 504 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/190999
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", AUS| FOX SPORTS 505 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191000
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", AUS| FOX SPORTS 506 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191001
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", AUS| FOX SPORTS 507 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/191002
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", MLY| ASTRO PREMIER LEAGUE 1 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153953
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", MLY| ASTRO PREMIER LEAGUE 2 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153952
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", MLY| ASTRO PREMIER LEAGUE 3 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153951
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", MLY| ASTRO PREMIER LEAGUE 4 HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153950
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| MUTV HD
-http://line.extraott-iptv.com:88/2755789541/1300714776/153729
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", UK| HORSE AND COUNTRY
-http://line.extraott-iptv.com:88/2755789541/1300714776/153738
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", TVRI Sport(ID)	
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="|SHAREEXT SPORT|", Bahrain Sports 1	
