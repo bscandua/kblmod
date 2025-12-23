@@ -463,10 +463,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/dea986d20115216c05d1a45ba9a6162e.png",01h15 ngày 24/12 Al-Ittihad Club vs Nasaf Qarshi (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/bd584af90c8035edaa5628145946b752/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/f55eb77651bd9277dcddc08eea2bae18.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -479,6 +475,14 @@ https://live.alilicloud.com/live/edf4d01202714641c3c56de5c72a9086/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/43fadcd54158ffd484dd3d3141cde019/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/91538d9668c3fb0e8bc57d1c093d0304.png",03h00 ngày 24/12 Tunisia vs Uganda (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/797801f89af6ca62fbf722fcf8c84740/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/d6f5debc456da1119256ab66462ab510.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/a21383960e32edeb111c2da6c6d8738f/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -559,54 +563,6 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1CK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1CK.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",00h30 ngày 24/12 Nigeria vs Tanzania (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phangsd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",00h30 ngày 24/12 Nigeria vs Tanzania (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phanghd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",00h30 ngày 24/12 Nigeria vs Tanzania (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phangsd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",00h30 ngày 24/12 Nigeria vs Tanzania (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phanghd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",00h30 ngày 24/12 Nigeria vs Tanzania (Cà Khịa) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phangsd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7967d550a306a50276991b19ddb4d72e.png!w100",00h30 ngày 24/12 Nigeria vs Tanzania (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phanghd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Cà Khịa) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Cà Khịa) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -727,36 +683,6 @@ https://mrkw1025.edgemaxcdn.org/live/duongtiensd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/duongtienhd1Rk.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14041_1j3sptr00p32.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga (Lương Sơn) BLV TRƯƠNG THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14041_1j3sptr00p32.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga (Lương Sơn) BLV TRƯƠNG THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14041_1j3sptr00p32.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga (Lương Sơn) BLV PEP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/PEP/index.m3u8?expire=1788427256&sign=045fe0fdaccb38fbf0e27a786cbbd38f
@@ -769,24 +695,18 @@ https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14041_1j3sptr00p32.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV VĂN VỸ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14041_1j3sptr00p32.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga (Lương Sơn) BLV TRƯƠNG THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV VĂN VỸ flv
+https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14041_1j3sptr00p32.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga (Lương Sơn) BLV TRƯƠNG THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV MÃ SIÊU m3u
+https://flv.cdnok9.com/live/TRUONGTHANH.flv?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV MÃ SIÊU flv
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1603_1gq6k5acwa2a.png",01h15 ngày 24/12 Al-Ittihad vs Nasaf Qarshi (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766466363.webp",12h00 ngày 23/12 Tottenham Hotspur vs Liverpool (Lương Sơn) BLV VƯƠNG LUÂN REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -823,6 +743,54 @@ https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b296
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766471786.jpg",23h59 ngày 23/12 ASTON VILLA vs MANCHESTER UNITED (Lương Sơn) BLV LƯU BỊ REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1696_1k6pfq4hrt20.png",01h30 ngày 24/12 MC Alger vs ES Ben Aknoun (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png",03h00 ngày 24/12 Tunisia vs Uganda (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png",03h00 ngày 24/12 Tunisia vs Uganda (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png",03h00 ngày 24/12 Tunisia vs Uganda (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png",03h00 ngày 24/12 Tunisia vs Uganda (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png",03h00 ngày 24/12 Tunisia vs Uganda (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/712_165018860211.png",03h00 ngày 24/12 Tunisia vs Uganda (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h00 ngày 24/12 Arsenal vs Crystal Palace (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -847,54 +815,6 @@ https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/phanghd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",00h30 ngày 24/12 Fenerbahce vs Besiktas JK (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtiensd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/duongtienhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/duongtiensd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/duongtienhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/duongtiensd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/duongtienhd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/dea986d20115216c05d1a45ba9a6162e.png",01h15 ngày 24/12 Al-Ittihad Club vs Nasaf Qarshi (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -943,18 +863,30 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png",00:30 ngày 12/24 Fenerbahçe và Beşiktaş (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png",00:30 ngày 12/24 Fenerbahçe và Beşiktaş (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x10y3-1526/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png",00:30 ngày 12/24 Fenerbahçe và Beşiktaş (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtiensd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/duongtienhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/duongtiensd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/duongtienhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/duongtiensd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w100",03h00 ngày 24/12 Tunisia vs Uganda (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/duongtienhd1Rk.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8577_small.png",01:15 ngày 12/24 Al Ittihad và Nasaf Qarshi (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1067,14 +999,26 @@ https://live.alilicloud.com/live/891ff1356258368f4acea6a76f529d6f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f5bc24379cfb691e5e41f06994624154/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7c485bed7e6a88cabc991409a4e8f4c9/image/small",20h45 ngày 22/12 Al Hussein Irbid vs Ahal FK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/17b19f614c55db768e12f5ecf5c79d83/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dc944c850103def9078e09976d10ff07/image/small",21h30 ngày 22/12 Konyaspor vs Antalyaspor (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/1a047b922ef0a8e3d6433f6a1fbf1f5a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/42b8a7886e54d35cf818dd6c497a8b2f/image/small",03h00 ngày 23/12 Arsenal vs Crystal Palace (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a21383960e32edeb111c2da6c6d8738f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/42b8a7886e54d35cf818dd6c497a8b2f/image/small",03h00 ngày 23/12 Arsenal vs Crystal Palace (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/748af37598614ea5a3ce847045e9a5ce_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/42b8a7886e54d35cf818dd6c497a8b2f/image/small",03h00 ngày 23/12 Arsenal vs Crystal Palace (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live4.fastestcdn-global.com/live4/748af37598614ea5a3ce847045e9a5ce_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/42b8a7886e54d35cf818dd6c497a8b2f/image/small",03h00 ngày 23/12 Arsenal vs Crystal Palace (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/748af37598614ea5a3ce847045e9a5ce_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6c3d487e9fc3e9a3d7c5385381a6cbe3/image/small",23h00 ngày 22/12 Banjul Hawks FC vs Brikama United (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1103,22 +1047,10 @@ https://stm02bc48435558.stream.hdplaylink.com/live3/0c5828bfa31d4291abd1a9450bb7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9798a1b8a2e42f887aa3aacf48a688dc/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cb617a41854ec8320d60f7b3b225021b/image/small",00h30 ngày 23/12 Fenerbahce vs Besiktas JK (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e29af82ceeed5eef271b6d694ed96384/image/small",03h00 ngày 23/12 Tunisia vs Uganda (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/26a76e23eb15668b628791e8dc82b9c3/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cb617a41854ec8320d60f7b3b225021b/image/small",00h30 ngày 23/12 Fenerbahce vs Besiktas JK (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/78e1564c6cd24672872db0efadddf0ea_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cb617a41854ec8320d60f7b3b225021b/image/small",00h30 ngày 23/12 Fenerbahce vs Besiktas JK (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/78e1564c6cd24672872db0efadddf0ea_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cb617a41854ec8320d60f7b3b225021b/image/small",00h30 ngày 23/12 Fenerbahce vs Besiktas JK (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/78e1564c6cd24672872db0efadddf0ea_720/playlist.m3u8
+https://live.alilicloud.com/live/797801f89af6ca62fbf722fcf8c84740/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/6441fe3f90a5e766d7d0d77c256bb8c4/image/small",22h30 ngày 22/12 Duhok SC vs AlvsNajaf (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1219,30 +1151,6 @@ https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_7d88a6fc.png",01h15 ngày 24/12 Al-Ittihad FC vs Nasaf (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_7d88a6fc.png",01h15 ngày 24/12 Al-Ittihad FC vs Nasaf (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_7d88a6fc.png",01h15 ngày 24/12 Al-Ittihad FC vs Nasaf (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_7d88a6fc.png",01h15 ngày 24/12 Al-Ittihad FC vs Nasaf (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoinuong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_7d88a6fc.png",01h15 ngày 24/12 Al-Ittihad FC vs Nasaf (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134004_7d88a6fc.png",01h15 ngày 24/12 Al-Ittihad FC vs Nasaf (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoinuong.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251223_182912_e06c5d69.png",01h45 ngày 24/12 Caldas vs SC Braga (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1703,18 +1611,6 @@ https://stream.chuoichien.tv/chuoinuong.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/4be0ea8c8b2b9956f0dfa118879efa1c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/55836ee36a986a6bed31c12ab0a1f9f1/image/small",23h00 ngày 22/12 TMT FA vs Medina United FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8a508511204db09093fd514b08edb2ee/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d569e951a568df3cd7bc26a36eca6529/image/small",23h00 ngày 22/12 Gambian Dutch Lions vs BST Galaxy (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/afc66396882210258630cdda725c9247/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6136118ab316ab0be0fb33b42436eaf2/image/small",23h00 ngày 22/12 Real Banjul vs Harts (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f82ad073c1342d6ee547823e34ef7a0c/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fd63fd067ca4167c1c25ba7509aec15e/image/small",00h00 ngày 23/12 Teuta Durres vs Egnatia (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1755,6 +1651,10 @@ https://live.alilicloud.com/live/aa04475ad5aa78364de3a572e1768a45/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/43fadcd54158ffd484dd3d3141cde019/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/42b8a7886e54d35cf818dd6c497a8b2f/image/small",03h00 ngày 23/12 Arsenal vs Crystal Palace (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a21383960e32edeb111c2da6c6d8738f/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/42b8a7886e54d35cf818dd6c497a8b2f/image/small",03h00 ngày 23/12 Arsenal vs Crystal Palace (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1779,10 +1679,6 @@ https://stm02bc38017100.stream.hdplaylink.com/live8/e455914ddeb5468487e44edeaf97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc38017100.stream.hdplaylink.com/live8/e455914ddeb5468487e44edeaf97cfec_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6c3d487e9fc3e9a3d7c5385381a6cbe3/image/small",23h00 ngày 22/12 Banjul Hawks FC vs Brikama United (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f62c8471d5276603423c3921bb19a774/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5563d50c9e966971a2ddf272b754214f/image/small",02h00 ngày 23/12 Aldershot Town vs West Ham United U21 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1791,30 +1687,10 @@ https://live.alilicloud.com/live/edf4d01202714641c3c56de5c72a9086/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/bd584af90c8035edaa5628145946b752/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small",01h15 ngày 23/12 Al Ittihad Club vs Nasaf Qarshi (Gà Vàng) sd_1
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e29af82ceeed5eef271b6d694ed96384/image/small",03h00 ngày 23/12 Tunisia vs Uganda (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/82b0f143f36546a3b43228d65373e277_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small",01h15 ngày 23/12 Al Ittihad Club vs Nasaf Qarshi (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/82b0f143f36546a3b43228d65373e277_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small",01h15 ngày 23/12 Al Ittihad Club vs Nasaf Qarshi (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/82b0f143f36546a3b43228d65373e277_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small",01h15 ngày 23/12 Al Ittihad Club vs Nasaf Qarshi (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/82b0f143f36546a3b43228d65373e277_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small",01h15 ngày 23/12 Al Ittihad Club vs Nasaf Qarshi (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/82b0f143f36546a3b43228d65373e277_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small",01h15 ngày 23/12 Al Ittihad Club vs Nasaf Qarshi (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/82b0f143f36546a3b43228d65373e277_720/playlist.m3u8
+https://live.alilicloud.com/live/797801f89af6ca62fbf722fcf8c84740/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1927,354 +1803,334 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvkoBa95VSQwe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1766523209-0-0-c8cc00a65cea09ea2c5b0ee5ee10278e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1766523209-0-0-3e314a2444e02e7531e02e4a47c0c21e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1766523209-0-0-aab0b6f6256321075e57fa9ae486e4a3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766523209-0-0-17325a488d089b499adaaafad9f9da59
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1766523209-0-0-9cf45f0e3da98cba87cdbb21fec6119c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1766523209-0-0-1f0c637b6bd6d465414f2d1a6f1c9a9b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1766523209-0-0-77fbcd287be7a87a7cf8ed7cd69995b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766523209-0-0-bb0a6c27d9ba354dca1950bb4fd8bd96
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV KINH TẾ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1766523209-0-0-92f30b3bc02956ea7132f7e7a41ac22d
+https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1766524289-0-0-e6cf384c3dddeffd6460aabf3d491eae
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV KINH TẾ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1766523209-0-0-c8f59e3e9f8a150243ab311c0caa3844
+https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1766524289-0-0-4b71253adb5558bf181f03e967f54697
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV KINH TẾ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1766523209-0-0-071f3a2afc2ca1b8895e89a6296a0a71
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1766524289-0-0-0044137a626f99b0fdb3eaf334a4bf8d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV KINH TẾ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1766523209-0-0-613bb019a7e1f7115dca9996ee6edc66
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1766523209-0-0-5af8bdb0048f3e1023eb9345737e6188
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1766523209-0-0-41db372eeb98c6e120b7e1eaf073b0b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1766523209-0-0-e5522cffdfcde757f9609ca79421c77b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1766523209-0-0-ad2804aa6e1e993f1ed8a7b51858f4a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1766523209-0-0-cdae820222b6b6d1ba91f190dc946036
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1766523209-0-0-8b501b1fe782f3efa6fe67daf6f1c46a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1766523209-0-0-4d0d90f0485f1860e10616029f91e835
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1766523209-0-0-3c2a9cc7561f41396d337bf353a385b3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1766523209-0-0-f9f7015fb838a50ded30acd3218fa933
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1766523209-0-0-fe60ce482035acdd3b13978afcd8358b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1766523209-0-0-2413c4924414e12ee8b20e09e90f1d8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1766523209-0-0-845cb736403512068c9bc5a675498373
+https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1766524289-0-0-f26b05a18f117d1bee8f4fde2064eb6b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1766523209-0-0-0a89607d953fb24e50532bde60572b62
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1766524289-0-0-0078788324f36c1a5953843c1f2f03b7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1766523209-0-0-1d736553abc85b5349afd9e9f4056aaa
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1766524289-0-0-2185c7b306a52d2121981605fc40de1c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1766523209-0-0-8ab010eee449af4936601c67a3892c83
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1766524289-0-0-186cb25e6a5850f578e5dac8fd4fbf85
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1766523209-0-0-d1cabc4effb56a93a72407382fe39b26
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=ce9cc6608c84c8cd314507485bec5e7e&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=3d8d0c43d9ddb6f5a3315b0b5240ed86&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=ce9cc6608c84c8cd314507485bec5e7e&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=3d8d0c43d9ddb6f5a3315b0b5240ed86&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1766523209-0-0-a0e8c3cf60178ab7ce6e980bbd8754ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1766523209-0-0-669c819dbb913fe5380d4c37cdba5910
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1766523209-0-0-210481e39a17337e2470c5553b71d02a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1766523209-0-0-9af84204f23fe8a25cd6e1f83d2c6caf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1766523209-0-0-ac123707a9d594f45fcdfa1836733b7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1766523209-0-0-860093a68bef03f9cc8872c20241b85e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1766523209-0-0-eb02005d78f454aadf6083f84571373b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1766523209-0-0-35914ba2769d585886aceba88ef23387
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1766524289-0-0-10c649b7ab0f1d3aaf5dc2759f1dce3d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1766523209-0-0-f83d17785b71382bd7ee4570e5f165c5
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1766524289-0-0-2367279136801a0255e17d0db2414855
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1766523209-0-0-7be4a20268c9063c20318984a3446dac
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1766524289-0-0-112c062902360216118b728456d0dafb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1766523209-0-0-6f3685a651fcecf412a9edf1db88a032
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1766524289-0-0-049f9ef9c8927e2a20719a941f6d544e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1766523209-0-0-7ba817fb44eb89fd87ca85851bc638cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV COZY] (Socolive) flv
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1766524289-0-0-5b6101ab5d0876cec4a3b12575101b96
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=edc1aac5d61924c50cdb586272d4e4f2&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1766524289-0-0-5e376d5716fdba5521eb21190684e62d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=a2ba9abcc5b95cfbccc6930fda8b1856&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV COZY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1766524289-0-0-a3f447c7a845183cdb9576bc38660e93
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=edc1aac5d61924c50cdb586272d4e4f2&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1766524289-0-0-220e89b159e755f35d0eaa7d1f32b262
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=a2ba9abcc5b95cfbccc6930fda8b1856&txTime=694b4799
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1766524289-0-0-4d0d8e3cc006b920ac386f8ed6eea34e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1766524289-0-0-dfa437f949b544b67648b46b8c6db10d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1766524289-0-0-b72fa64f30c48c72ba913a46be5b99c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1766524289-0-0-051efe3c28d012f4f15c7464d03e0930
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766524289-0-0-d5b55598b31bb0c93569bc2e3cb2fcf2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1766524289-0-0-d99263a78d9d35f7541f06553a2100f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1766524289-0-0-83702134ac1b1bcbd7f32df184b61342
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1766524289-0-0-c24d22dd7e93fa0368402ce2ad6c1015
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766524289-0-0-9a03509a974b0345c5d9b31e75446f90
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1766523209-0-0-de472c7681964bdbc353d0bdfbd77725
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1766524289-0-0-bf944322cd0eedbaae989cd6aa121405
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1766523209-0-0-8fd4d5d6cc1738803c3ab311b7c978ad
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1766524289-0-0-42e29147aa2a0e921485313b5a6a89b2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1766523209-0-0-2aa5db1e1fa8b79b496fccc35c9a30cf
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1766524289-0-0-173bc03634450353baeb85b30f8912b5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1766523209-0-0-a61ae690980c6e785c065d381c6769b2
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1766524289-0-0-46df0f73d6fa628af54d94b21798c95f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1766524289-0-0-14620dfe6201b73b0112a358a6949bf3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1766524289-0-0-6a9d59b6bd60c0015d203be566776e62
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1766524289-0-0-820e5e4587ce9efe1379342d7682eeca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1766524289-0-0-49b18ff55bdfd401236e334c5989dabd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1766524289-0-0-df998bd38e82666717915b58392e1a4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1766524289-0-0-b415e6a502574a1b409d6551be33665e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1766524289-0-0-834d8fd42fdbf1cc8712536116a79e7f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [RED BULL] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1766524289-0-0-e433d9968b0e1a9e615b9f6ec54de7ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=8b3bb1d4132455f4cb38c83a75ab265f&txTime=694b4bd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=befd1a9cf8895dd634c6f8068454b2c7&txTime=694b4bd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=8b3bb1d4132455f4cb38c83a75ab265f&txTime=694b4bd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=befd1a9cf8895dd634c6f8068454b2c7&txTime=694b4bd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1766524289-0-0-9386363996623f5722a187c557383fee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1766524289-0-0-879d7d89b28092a826bc852feafe8d10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1766524289-0-0-748970b1462007352025430d3f3a8ea8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/ef0897d416f5d79db357e27c839830a8.png",03h00 ngày 24/12 Arsenal vs Crystal Palace [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1766524289-0-0-52e8704ea52323c6b19e1438ae70395b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1766524300-0-0-0ec17a17d534c69ef0d78f0a23194150
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1766524300-0-0-86670942ba8bb10989e8d6efc259a65f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1766524300-0-0-c51032bb10f63c9880f3a7be7f541a00
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1766524300-0-0-5b5d33068f3fa1a6cc6423533fb59fec
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=0504d370164a3d917ee93c05ae14d71c&txTime=694b4799
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=d8b7bf268a6aeb2d0952a9bbd3440d85&txTime=694b4bd1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=cda1610b050a6c21303900807d04ec75&txTime=694b4799
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=3dda7aceca8af8155bfee3422debcf03&txTime=694b4bd1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=0504d370164a3d917ee93c05ae14d71c&txTime=694b4799
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=d8b7bf268a6aeb2d0952a9bbd3440d85&txTime=694b4bd1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=cda1610b050a6c21303900807d04ec75&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1766523209-0-0-bcfbb29825e3fb96715e8bb002eaf12f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1766523209-0-0-4a2fd5808f3cb4d26b4f1d0bb7f28dd3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1766523209-0-0-0ac512d4cc38d5de542d6ee90278b409
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1766523209-0-0-2a155387c10b46a63c6e5c34fc32cd4f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=6c5533eb5a4162b744891f13a3d4ad4c&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=7a1741ea44c57709b2b9913a2225c95e&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=6c5533eb5a4162b744891f13a3d4ad4c&txTime=694b4799
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=7a1741ea44c57709b2b9913a2225c95e&txTime=694b4799
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=3dda7aceca8af8155bfee3422debcf03&txTime=694b4bd1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1766523209-0-0-d5cb38928e1b5eef4a60cf69ef1f05f2
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1766524289-0-0-aa5b3a795fee497fbb940cb4ca589b68
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1766523209-0-0-fcfb072c52b299026a72f8de1f138ed5
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1766524289-0-0-1fedd2a6c446a7512e46d95006e08131
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1766523209-0-0-188812b50ec5baddd81d68425431a57d
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1766524289-0-0-fc91a87562560e27c4afe82bf3676296
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766523209-0-0-817a20268d4c48f4a8e97b1b751ecf90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) flv
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766524289-0-0-feaa020bde0536cb11d39038b82fa513
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1766523209-0-0-da5c7f25b608929180076f4cf15d1395
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1766524289-0-0-a415c60c32379b8f5fd0f562b394c12b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1766523209-0-0-6478ac10f67b85763f6718702a8b0123
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1766524289-0-0-3c52be398d2a4aef5325c19b132d59e7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1766523209-0-0-89466e857637d041e53ff75802a2e787
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1766524289-0-0-e4fec81b3802d4f2561ebc48ec95f0ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766523209-0-0-9c1d2540ac4079f942db9a0bf36829a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) flv
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1766524289-0-0-074789e3e16b3fccf64327e9927b6b53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1766523209-0-0-f8ad38c21eaea53fb9d2542da1e18c55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) hdFlv
+https://pull.niur.live/live/stream-336303_lsd.flv?txSecret=f6300f5a3f0a8c056ec4bfc85d0b7e5e&txTime=694b4bd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1766523209-0-0-15094ed49d9ad32b3a4485735636f5cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) m3u8
+https://pull.niur.live/live/stream-336303_lhd.flv?txSecret=cf128649ec39f9f7ebbcca28c825a8b9&txTime=694b4bd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1766523209-0-0-eef595fd2c9005753901e14378729231
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-336303_lsd.m3u8?txSecret=f6300f5a3f0a8c056ec4bfc85d0b7e5e&txTime=694b4bd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/c49da6af8f7cebcf936cb8df0faff21a.png",01h15 ngày 24/12 Al Ittihad Club vs Nasaf Qarshi [BLV ADAM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1766523209-0-0-d71c9228dcb639233a7f22e6e3a2649a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1766523209-0-0-546d71615cea7064d6a1cf4940d92d13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1766523209-0-0-cee4bb09b55aea6db96d1c35d007a9bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1766523209-0-0-7237ed30a503397f3a4045abaff89cfa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1766523209-0-0-8ac51eece9e853e5f84192a1ff51abe7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",EGY LC: Modern Sport FC vs Wadi Degla SC [QUANG VINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1766523209-0-0-64208205cefe426b2444ffd7027e965b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",EGY LC: Modern Sport FC vs Wadi Degla SC [QUANG VINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1766523209-0-0-e0ff7d7b53bb7787c8c3961aaa318a60
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",EGY LC: Modern Sport FC vs Wadi Degla SC [QUANG VINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1766523209-0-0-6210eca08dbe0831176675ccfe42f3ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",EGY LC: Modern Sport FC vs Wadi Degla SC [QUANG VINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1766523209-0-0-95185853ca260995d53a526fc1c0e08d
+https://pull.niur.live/live/stream-336303_lhd.m3u8?txSecret=cf128649ec39f9f7ebbcca28c825a8b9&txTime=694b4bd1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV EDRIC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1766523209-0-0-96ab7730af9472d794964d15f46a2ed5
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1766524289-0-0-c4e26b3f5e054a1031a8bb7bdb81ca5c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV EDRIC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1766523209-0-0-3788cd7f0be66a9279ff445bf812de12
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1766524289-0-0-9af421cc9374ac6f70f3a4bad849f959
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV EDRIC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1766523209-0-0-66ca94e80b37d4806e38b00362420111
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1766524289-0-0-8f18afba8586ddc06ea9fea679ee67b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV EDRIC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1766523209-0-0-e49886083c59601336e144e606b651cf
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1766524289-0-0-987af87f571eec36280fcc75c632f52e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV TORRES] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1766523209-0-0-4250e018f6d2f448738d4acffa2d1451
+https://pull06.scstream.net/live/stream-560224_lsd.flv?auth_key=1766524289-0-0-b38927097ec5d795a6024ab91433e717
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV TORRES] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1766523209-0-0-f218e62ceb0372531a82c904a51b57c5
+https://pull06.scstream.net/live/stream-560224_lhd.flv?auth_key=1766524289-0-0-f909b036378019acdf6f4af870490068
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV TORRES] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1766523209-0-0-a8d204c77ed0407b47dedc62a74a665e
+https://pull.niues.live/live/stream-560224_lsd.m3u8?auth_key=1766524289-0-0-27e12cd6574e9674768b50ff1f45d227
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [BLV TORRES] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1766523209-0-0-c4488b60288a53a063f5d97af299668a
+https://pull.niues.live/live/stream-560224_lhd.m3u8?auth_key=1766524289-0-0-2a6d9ee357546e8c149b201c6f823e5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-542758_lsd.flv?auth_key=1766524289-0-0-4060c64b2b1f038d9c7f034d56a3bc44
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-542758_lhd.flv?auth_key=1766524289-0-0-1ea5d1c638aef7162ebd0f2b32507785
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-542758_lsd.m3u8?auth_key=1766524289-0-0-5c1ec1cdfa83eaffc16df74f93a29dd0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [JACKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766524289-0-0-9317abf3a9337448e46988d719d35b38
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1766524289-0-0-8db9f3171becea691546c42ff6874327
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1766524289-0-0-d08a720ddf1c255b4ee2f9bf76889dc3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1766524289-0-0-99baebe6cc921993d4ad0bc47777d6e4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/b39fc3b8a38cb069ed87176bcc28c16f.png",02h00 ngày 24/12 FC Caldas vs Sporting Braga [BLV ALEX] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1766524289-0-0-7f3fb9381af875d59f2501fcc7619ef4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1766524289-0-0-9832ba967a14512db4f67b306959e12c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1766524289-0-0-3fb3f0818d05ccccfa1f5de8f13ed38d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1766524289-0-0-4c86394fe4ba868afdae3be5cc7262cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251222/29cc4e7e72730771bdf341283b196975.png",01h30 ngày 24/12 Bayern vs Hapoel Tel-Aviv [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1766524289-0-0-33c7e6b047d9c64fbd303f5d31a9548d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [QUANG VINH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1766524289-0-0-83669420d6c4377a1200c62cde24d464
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [QUANG VINH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1766524289-0-0-8eb4c8dad1e12ba9a294a48a6367f601
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [QUANG VINH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1766524289-0-0-48aaccee1cfbc9425740f3e881ef656e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/17daaf7b392e0eb15fb70e7c10ebf37b.png",03h00 ngày 24/12 Tunisia vs Uganda [QUANG VINH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1766524289-0-0-c6bf571d1b80b77cc39c22861bee1918
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/4cf2bfedc2e19a2f872870c664f2941c.png",03h45 ngày 24/12 Vitoria Guimaraes vs Sporting CP [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1766524289-0-0-e103bf8e5e47a79ccb788da74b918689
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/4cf2bfedc2e19a2f872870c664f2941c.png",03h45 ngày 24/12 Vitoria Guimaraes vs Sporting CP [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1766524289-0-0-84ba33789c63f89533b8cc2d147a0b1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/4cf2bfedc2e19a2f872870c664f2941c.png",03h45 ngày 24/12 Vitoria Guimaraes vs Sporting CP [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1766524289-0-0-b923c4e40a2a43d887a568be711779fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/4cf2bfedc2e19a2f872870c664f2941c.png",03h45 ngày 24/12 Vitoria Guimaraes vs Sporting CP [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1766524289-0-0-44824264d73de0bfd088c9d39f6f1be0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766523209-0-0-40b374fa030106a702c1ea02115c5254
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766524289-0-0-15d90d486fccef7ccc7c03aed7bc6c65
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766523209-0-0-42d8c6637cd9cc78ac87ada2546c1ec6
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766524289-0-0-91da8ebe19d52d5c848428445517f014
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766523209-0-0-5b5864b074738cbffe39c0cb5f7ba5fd
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766524289-0-0-bfcdc1c50ebc2f0b91ad91a3026d3238
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766523209-0-0-83af7d62b59655f2ea58d48cb9eb08c6
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/655492e1ba219d2268565b21769661a7.png",01:30 ngày 24/12 Chieri '76 W vs Novara W (1) [Lơ Đao] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1766559247&sign=b2fec9482c083751602642e70328b7d8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/655492e1ba219d2268565b21769661a7.png",01:30 ngày 24/12 Chieri '76 W vs Novara W (1) [Lơ Đao] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/o9Bne57qO60LYMwURmjO5A/Fv2lucGIbhPi2caWYvF5Lg/1766559247173/live/daoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/655492e1ba219d2268565b21769661a7.png",01:30 ngày 24/12 Chieri '76 W vs Novara W (1) [Lơ Đao] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766559247/f061862da00bf7f433f69c2454cb72f7/100702518/live/daoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/655492e1ba219d2268565b21769661a7.png",01:30 ngày 24/12 Chieri '76 W vs Novara W (1) [Lơ Đao] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/206cN2IRlZGIrenMUmiPYg/Fv2lucGIbhPi2caWYvF5Lg/1766559247173/live/daoSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/655492e1ba219d2268565b21769661a7.png",01:30 ngày 24/12 Chieri '76 W vs Novara W (1) [Lơ Đao] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766559247/28bf4657c9e31b72b91f416e75ae69d8/840432287/live/daoFHD/playlist.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766524289-0-0-fe9b2537ba1d2383e29e6d035748dd16
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/d57a92a24495b086c4dd5fd03438b870.png",02:00 ngày 24/12 Lublin vs Projekt Warszawa (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1766561765&sign=1f9ebb091a4bda41ac0898076dc973c9
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1766564286&sign=f6628a2b41f5e98a385786d7adaed9dc
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/d57a92a24495b086c4dd5fd03438b870.png",02:00 ngày 24/12 Lublin vs Projekt Warszawa (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/NpJPSlwDONwgylqZJwY-MA/Fv2lucGIbhPi2caWYvF5Lg/1766561765258/live/bangHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/5t6T0sF4KnbIVuN2xIFG8g/Fv2lucGIbhPi2caWYvF5Lg/1766564286189/live/bangHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/d57a92a24495b086c4dd5fd03438b870.png",02:00 ngày 24/12 Lublin vs Projekt Warszawa (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766561765/900f425dd57d5af5b55e26e58e6b73dc/843680435/live/bangHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766564286/5876bf38c6456436df51addbe9851659/206810952/live/bangHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/d57a92a24495b086c4dd5fd03438b870.png",02:00 ngày 24/12 Lublin vs Projekt Warszawa (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/-joHx1MtFatHSD9HLtP3-w/Fv2lucGIbhPi2caWYvF5Lg/1766561765258/live/bangSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/273iVsaQlRvGUnI-R9TYNg/Fv2lucGIbhPi2caWYvF5Lg/1766564286189/live/bangSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/d57a92a24495b086c4dd5fd03438b870.png",02:00 ngày 24/12 Lublin vs Projekt Warszawa (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766561765/64eb402741ff7e43f7b843e827affc99/512369490/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766564286/c19fdbd5adeacc570ec4d49580f8187c/637826644/live/bangFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/46b044a626cad454fc271fbf250b5fbf.png",02:00 ngày 24/12 Vallefoglia W vs Milano W (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1766562848&sign=24a192cac439922dc9b93125e6cd7ee6
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1766564287&sign=b09905723342dd41a83fe78c28742abb
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/46b044a626cad454fc271fbf250b5fbf.png",02:00 ngày 24/12 Vallefoglia W vs Milano W (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/mUYeZ86UXTwGsnszqWuT1Q/Fv2lucGIbhPi2caWYvF5Lg/1766562848441/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/TtMpAYpT-B-9iy_SRxyPqQ/Fv2lucGIbhPi2caWYvF5Lg/1766564287354/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/46b044a626cad454fc271fbf250b5fbf.png",02:00 ngày 24/12 Vallefoglia W vs Milano W (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766562848/7af692ddef58187c209542b0a707fbe1/752334910/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766564287/d948d9575e11705c8f4a5bc8e2137f22/891647093/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/46b044a626cad454fc271fbf250b5fbf.png",02:00 ngày 24/12 Vallefoglia W vs Milano W (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/iYAWlbwt7oGu-rPX2bAT5Q/Fv2lucGIbhPi2caWYvF5Lg/1766562848441/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/H41WcEJLel9Ikv6nxHpeoA/Fv2lucGIbhPi2caWYvF5Lg/1766564287354/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/46b044a626cad454fc271fbf250b5fbf.png",02:00 ngày 24/12 Vallefoglia W vs Milano W (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766562848/5ba05e51e55ab124bda3b7c48a0564e3/315694005/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766564287/5f5dcdcefbcbe65292640fe289286a1f/466122470/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/b3bcdb0236b8f0a249ad08f13f717dbc.png",02:30 ngày 24/12 Conegliano W vs San Giovanni W (1) [Người Kiến] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2295,62 +2151,30 @@ https://hotlivezz179602324.akainu.xyz/U7wunF6Qq1exXmckmUZnNw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766561053/8240b08e2707c992e605a2650fbac955/177004147/live/kienFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6be476440b7346126a36784bb68d5d89.png",01:15 ngày 24/12 Al Ittihad vs Nasaf Qarshi (1) [Người Cast] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/catHD.flv?expire=1766535487&sign=43844664cfa03426187da78eba8776af
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6be476440b7346126a36784bb68d5d89.png",01:15 ngày 24/12 Al Ittihad vs Nasaf Qarshi (1) [Người Cast] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/DTJdhFn-YZIs5f-pPiWfbw/Fv2lucGIbhPi2caWYvF5Lg/1766535487944/live/catHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6be476440b7346126a36784bb68d5d89.png",01:15 ngày 24/12 Al Ittihad vs Nasaf Qarshi (1) [Người Cast] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766535487/a8c7e8e23f8df2fb05a41e02af7e600b/981028848/live/catHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6be476440b7346126a36784bb68d5d89.png",01:15 ngày 24/12 Al Ittihad vs Nasaf Qarshi (1) [Người Cast] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/NE9pkQyU_vb9YGbn8AyJYQ/Fv2lucGIbhPi2caWYvF5Lg/1766535487944/live/catSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6be476440b7346126a36784bb68d5d89.png",01:15 ngày 24/12 Al Ittihad vs Nasaf Qarshi (1) [Người Cast] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766535487/81a8b415f44fd93fe72e61b5e271b899/668040788/live/catFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f55eb77651bd9277dcddc08eea2bae18.png",02:00 ngày 24/12 FC Caldas vs Sporting Braga (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1766537652&sign=cf85dbd8a717807d4284950c8438dc7d
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1766542690&sign=72ece91ed390614280e6fbd1784a58b5
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f55eb77651bd9277dcddc08eea2bae18.png",02:00 ngày 24/12 FC Caldas vs Sporting Braga (1) [Cá Cờ] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/oVFbA98iK7qTsDtX0psqoQ/Fv2lucGIbhPi2caWYvF5Lg/1766537652932/live/coHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/vaxmpxlzyD0na6SvACuheQ/Fv2lucGIbhPi2caWYvF5Lg/1766542690368/live/coHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f55eb77651bd9277dcddc08eea2bae18.png",02:00 ngày 24/12 FC Caldas vs Sporting Braga (1) [Cá Cờ] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766537652/926ed57b2bd22c074ec90fa9e6e5817c/140569225/live/coHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766542690/6d1a0b807cd097087e2fb808bf5361e9/659149297/live/coHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f55eb77651bd9277dcddc08eea2bae18.png",02:00 ngày 24/12 FC Caldas vs Sporting Braga (1) [Cá Cờ] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/YY_VlrmicWyipF7cfbiwNg/Fv2lucGIbhPi2caWYvF5Lg/1766537652932/live/coSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ax5AtlCb5XntYWD_4XVn7g/Fv2lucGIbhPi2caWYvF5Lg/1766542690369/live/coSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f55eb77651bd9277dcddc08eea2bae18.png",02:00 ngày 24/12 FC Caldas vs Sporting Braga (1) [Cá Cờ] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766537652/ed12db9099b829baa5b0de8048fffa7b/150137905/live/coFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/416fc7986dfb5e8a444b86704c1406b0.png",02:30 ngày 24/12 Bergamo W vs UYBA Busto Arsizio W (1) [Nhà đài] HD
+https://9ceg0825.edgemaxcdn.org/1766542690/7286267e3b214de97f54e31439d8610b/665976658/live/coFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/f55eb77651bd9277dcddc08eea2bae18.png",02:00 ngày 24/12 FC Caldas vs Sporting Braga (1) [Cá Cờ] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/LZ7nb0mGPrNmcH8eksuMeg/Fv2lucGIbhPi2caWYvF5Lg/1766562853207/live/may61/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/544b5fbf5c36b6472537370cd820ed05.png",02:30 ngày 24/12 Pinerolo W vs Perugia W (1) [Nhà đài] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Db-w4naZ46oy4gikv14Wxw/Fv2lucGIbhPi2caWYvF5Lg/1766562854330/live/may62/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/08b2d665136ff745c393fcbc40c512ae.png",02:30 ngày 24/12 Macerata W vs Firenze W (1) [Nhà đài] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/YUh_KdzhkLy25eWvqt5zlw/Fv2lucGIbhPi2caWYvF5Lg/1766562855513/live/may63/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",02:30 ngày 24/12 Scandicci W vs Cuneo W (1) [Nhà đài] HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/tENnKCrx5JD32hfKOTONtg/Fv2lucGIbhPi2caWYvF5Lg/1766562856665/live/may6/playlist.m3u8
+https://apisportzz179528093.nsnd.live/CL9YTtvDa3lYReFZswXWtQ/Fv2lucGIbhPi2caWYvF5Lg/1766542690368/live/sd-6MvYM5v2751K9PAebV/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/tunisia.png",03:00 ngày 24/12 Tunisia vs Uganda (1) [A Núi] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2411,6 +2235,22 @@ https://hotlivezz179602324.akainu.xyz/k03PLideqZ3l8w-b3rMm_Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766541259/e01d7c8558806cad949592e8edd4c747/985071626/live/may3FHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/416fc7986dfb5e8a444b86704c1406b0.png",02:30 ngày 24/12 Bergamo W vs UYBA Busto Arsizio W (1) [Nhà đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/Ojof3Ja5n8lObxYt2V0rjw/Fv2lucGIbhPi2caWYvF5Lg/1766564293782/live/may61/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/544b5fbf5c36b6472537370cd820ed05.png",02:30 ngày 24/12 Pinerolo W vs Perugia W (1) [Nhà đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/fZZKewap4NmERVepJ4-w_w/Fv2lucGIbhPi2caWYvF5Lg/1766564294898/live/may62/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/08b2d665136ff745c393fcbc40c512ae.png",02:30 ngày 24/12 Macerata W vs Firenze W (1) [Nhà đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/2N34M78pcBShkvPXrtmv9Q/Fv2lucGIbhPi2caWYvF5Lg/1766564296033/live/may63/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/0cb7230910d0dc0c48c9ca8c0bc4128d.png",02:30 ngày 24/12 Scandicci W vs Cuneo W (1) [Nhà đài] HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/7IBBV90CZ86snFueRrE3VA/Fv2lucGIbhPi2caWYvF5Lg/1766564297158/live/may6/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2447,18 +2287,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d3/Ittihad_logo_2019.png",01h15 ngày 24.12 Al Ittihad vs Nasaf Qarshi (Hội Quán) BLV Phan Chè Full HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d3/Ittihad_logo_2019.png",01h15 ngày 24.12 Al Ittihad vs Nasaf Qarshi (Hội Quán) BLV Phan Chè HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanche/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d3/Ittihad_logo_2019.png",01h15 ngày 24.12 Al Ittihad vs Nasaf Qarshi (Hội Quán) BLV Phan Chè SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanche/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg",03h00 ngày 24.12 Arsenal        -        Crystal Palace (Hội Quán) BLV PHAN BÁO FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
