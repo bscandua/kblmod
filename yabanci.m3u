@@ -463,10 +463,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 ngày 24/12 Yangon United vs Ayeyawady united (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/723f02bb7ab7f733ef492776cfc6b6bf/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -475,6 +471,54 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaosd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaohd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/ngaosd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/ngaohd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaosd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/ngaohd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungshd1.flv
 #EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/545790121cf7b80b0f02caec40a31ea6.png",16h00 ngày 24/12 Yangon United vs Ayeyawady united (Cà Khịa) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -547,54 +591,6 @@ https://mrkw1025.edgemaxcdn.org/live/dosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/dohd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nungsd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nunghd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nungsd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United (Cà Khịa) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nungshd1.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18h00 ngày 24/12 Sukhothai vs Buriram United (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1019,18 +1015,18 @@ https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2103b5bf678103d3b818f186ece6c495/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://static.flashscore.com/res/image/data/x00zIWh5-Q1sXdNBU.png",15h30 ngày 23/12 Hoàng Anh Gia Lai vs Thể Công Viettel (Khán Đài A) hd_1
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/54b4e5c9e7b13a0ae336b8f4e7e97572/image/small",18h00 ngày 23/12 Sukhothai vs Buriram United (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc67274262.stream.hdplaylink.com/live4/dbb59880e20c4744aed83cd00757a711_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://static.flashscore.com/res/image/data/x00zIWh5-Q1sXdNBU.png",15h30 ngày 23/12 Hoàng Anh Gia Lai vs Thể Công Viettel (Khán Đài A) hd_3
+https://stm02bc67274262.stream.hdplaylink.com/live4/fedf893691894da69a8b31cb72725761_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/54b4e5c9e7b13a0ae336b8f4e7e97572/image/small",18h00 ngày 23/12 Sukhothai vs Buriram United (Khán Đài A) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/dbb59880e20c4744aed83cd00757a711_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://static.flashscore.com/res/image/data/x00zIWh5-Q1sXdNBU.png",15h30 ngày 23/12 Hoàng Anh Gia Lai vs Thể Công Viettel (Khán Đài A) hd_2
+https://live4.fastestcdn-global.com/live4/fedf893691894da69a8b31cb72725761_720/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/54b4e5c9e7b13a0ae336b8f4e7e97572/image/small",18h00 ngày 23/12 Sukhothai vs Buriram United (Khán Đài A) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/dbb59880e20c4744aed83cd00757a711_720/playlist.m3u8
+https://stm02bc48435558.stream.hdplaylink.com/live3/fedf893691894da69a8b31cb72725761_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5f54b329f5990d4dfaaa481b16464bad/image/small",15h00 ngày 23/12  vs Dong Thap U19 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -2127,6 +2123,18 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766576489-0-0-a373
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/cb3c06b3199d528958a0605e73d64445.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766576489-0-0-b04ab330986bd7795cca6413d66cb3dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/6e2c48b8b2fe62f17d2ab2362a774eb0.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United [BLV A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1766577209-0-0-539123246e389d7293f50845c83bd4a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/6e2c48b8b2fe62f17d2ab2362a774eb0.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United [BLV A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1766577209-0-0-a2f95d8525961cf5c68dfc003990012d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/6e2c48b8b2fe62f17d2ab2362a774eb0.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United [BLV A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1766577209-0-0-58b6a09a70aed80b58d83e54be8b48a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251220/6e2c48b8b2fe62f17d2ab2362a774eb0.png",18h00 ngày 24/12 Ratchaburi FC vs Chiangrai United [BLV A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766577209-0-0-3fcddd84699dab2f2a81f04073ca13d1
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",17:00 ngày 24/12 KCC Egis vs Seoul Thunders (1) [Người Gầy] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2214,63 +2222,63 @@ https://9ceg0825.edgemaxcdn.org/1766610008/0660af9b57166522bd627b9a7a178c19/2244
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",18:00 ngày 24/12 JD Gaming vs Bilibili Gaming (1) [Tai Lung] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1766614332&sign=e7c4bdcaf4590bd5d78409551bfb34f4
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1766616491&sign=a312f9722dc2c0811775829c7abd1f8e
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",18:00 ngày 24/12 JD Gaming vs Bilibili Gaming (1) [Tai Lung] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/4ul7ig8miLQv9CkVJxvkWQ/Fv2lucGIbhPi2caWYvF5Lg/1766614332921/live/lungHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/myyGI4scrMW6OL0hxhQsIw/Fv2lucGIbhPi2caWYvF5Lg/1766616491077/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",18:00 ngày 24/12 JD Gaming vs Bilibili Gaming (1) [Tai Lung] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766614332/2e7a8dbbd9d59a7a4f8100df83dde2e6/949032605/live/lungHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766616491/50110e1427adf41e016ba17b0833e46e/751061553/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",18:00 ngày 24/12 JD Gaming vs Bilibili Gaming (1) [Tai Lung] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/rHkKtAT5UU20HMlrFroaWg/Fv2lucGIbhPi2caWYvF5Lg/1766614332921/live/lungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/J3hY3Ih9Sbhnt4xvKt5wEA/Fv2lucGIbhPi2caWYvF5Lg/1766616491077/live/lungSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",18:00 ngày 24/12 JD Gaming vs Bilibili Gaming (1) [Tai Lung] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766614332/213cf3733a4c4ea0425a77686eac2955/942348670/live/lungFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766616491/fd2ce475911c4c49fbc53bfbc9c866ea/297200651/live/lungFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18:00 ngày 24/12 Sukhothai vs Buriram United (1) [Cá‎ Hề] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1766593811&sign=6a0b827f2a7e2f4c143470e2a90dc791
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1766594892&sign=0d87cd93d091efbd8c716b55559e94e7
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18:00 ngày 24/12 Sukhothai vs Buriram United (1) [Cá‎ Hề] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/6TOZmJX1WkjxTB_mxhWpdA/Fv2lucGIbhPi2caWYvF5Lg/1766593811503/live/heHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/bAs07wDjZ5y0D2u5ZcXEoA/Fv2lucGIbhPi2caWYvF5Lg/1766594892213/live/heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18:00 ngày 24/12 Sukhothai vs Buriram United (1) [Cá‎ Hề] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766593811/7e40ebf995ac875a28384dee946c5be8/211007074/live/heHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766594892/ab8b16ab53df6ad30df3b967fbb25827/878381524/live/heHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18:00 ngày 24/12 Sukhothai vs Buriram United (1) [Cá‎ Hề] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/TmuoniypoQCjhzHWGytuNw/Fv2lucGIbhPi2caWYvF5Lg/1766593811503/live/heSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/9flhvwgR3n-tmuhnlDl3AQ/Fv2lucGIbhPi2caWYvF5Lg/1766594892213/live/heSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/92fad199d241f1b19cc80aa749693711.png",18:00 ngày 24/12 Sukhothai vs Buriram United (1) [Cá‎ Hề] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766593811/47171ce9c07fad479a0a51781767befe/406912954/live/heFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766594892/4ddaddb56990442424d021254874caa9/910368237/live/heFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b0f71a1bf0cf3531dcfccbf48227835a.png",18:00 ngày 24/12 Ratchaburi FC vs Chiangrai United (1) [Cá Cờ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1766593812&sign=224c790d0ce4c515245bfd02c5b4b401
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1766594893&sign=a5eeb37bc4ccac9676d7a82afd4a7021
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b0f71a1bf0cf3531dcfccbf48227835a.png",18:00 ngày 24/12 Ratchaburi FC vs Chiangrai United (1) [Cá Cờ] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/mUHyzyUdoR6JRsAXod9t3g/Fv2lucGIbhPi2caWYvF5Lg/1766593812682/live/coHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/ZZa1XLj7cIn0i6boQgU8Ew/Fv2lucGIbhPi2caWYvF5Lg/1766594893334/live/coHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b0f71a1bf0cf3531dcfccbf48227835a.png",18:00 ngày 24/12 Ratchaburi FC vs Chiangrai United (1) [Cá Cờ] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766593812/70a21571c2bcc3f532c2fa42767bef27/652128186/live/coHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766594893/3f9080898cb3ef2150e76d95c9eb92b2/695575148/live/coHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b0f71a1bf0cf3531dcfccbf48227835a.png",18:00 ngày 24/12 Ratchaburi FC vs Chiangrai United (1) [Cá Cờ] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/eh-giJtXCvv96HF_brNIaA/Fv2lucGIbhPi2caWYvF5Lg/1766593812683/live/coSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/JBrEpLJHYwisXsAA6doxkQ/Fv2lucGIbhPi2caWYvF5Lg/1766594893334/live/coSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/b0f71a1bf0cf3531dcfccbf48227835a.png",18:00 ngày 24/12 Ratchaburi FC vs Chiangrai United (1) [Cá Cờ] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766593812/566a6b936ff436566f91c4c8c9848740/335974091/live/coFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766594893/f66efc54f644b0ae4da0f976b9d5e6a7/319419317/live/coFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
