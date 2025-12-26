@@ -463,6 +463,14 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/6418ddeef1dc344519c5aeb14ed18430.png",09h00 ngày 26/12 Waseda University AFC Women vs Osaka Taiiku University (W) (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/4add0a0baf28d70bb9c983a83563bf20/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/2f0bac2ba54cfcac4db2ed273fced28e.png",09h00 ngày 26/12 Toyo University Women vs Kibi International University (w) (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/8bcd8f6d24e11030e76e863aece066f9/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -567,24 +575,18 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27853_1hg2kw7kjy18.png",09h00 ngày 26/12 Toyo University (W) vs Kibi International University (W) (Lương Sơn) BLV TỐNG GIANG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27853_1hg2kw7kjy18.png",09h00 ngày 26/12 Toyo University (W) vs Kibi International University (W) (Lương Sơn) BLV TỐNG GIANG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8278_1hjhwgnq85y.png",09h00 ngày 26/12 Waseda University AFC (W) vs Osaka Taiiku University (W) (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8278_1hjhwgnq85y.png",09h00 ngày 26/12 Waseda University AFC (W) vs Osaka Taiiku University (W) (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766709471.jfif",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (Lương Sơn) BLV SHIN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27853_1hg2kw7kjy18.png",09h00 ngày 26/12 Toyo University (W) vs Kibi International University (W) (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766709471.jfif",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (Lương Sơn) BLV SHIN flv
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/27853_1hg2kw7kjy18.png",09h00 ngày 26/12 Toyo University (W) vs Kibi International University (W) (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766466390.svg",12h00 ngày 25/12 VILLARREAL vs BARCELONA (Lương Sơn) BLV URA REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
@@ -657,10 +659,6 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w60",08:00 ngày 12/26 Los Angeles Lakers vs Houston Rockets (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/football/team/6418ddeef1dc344519c5aeb14ed18430.png!w60",09:00 ngày 12/26 Waseda University vs Osaka Taiiku University (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -669,6 +667,10 @@ https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x3/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w60",10:30 ngày 12/26 Denver Nuggets vs Minnesota Timberwolves (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/32871c5b9619783f80384beca25cfc6c/image/small",08h00 ngày 25/12 Olancho FC vs Platense (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -685,30 +687,6 @@ https://live4.fastestcdn-global.com/live4/01eab7cb90984c2caaf4ec8c874282ef_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://stm02bc48435558.stream.hdplaylink.com/live3/01eab7cb90984c2caaf4ec8c874282ef_720/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buisd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
-#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",10h30 ngày 26/12 Denver Nuggets vs Minnesota Timberwolves (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -733,6 +711,342 @@ https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets (QUAY TAY) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 26/12 Newcastle Jets vs Macarthur (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 26/12 Newcastle Jets vs Macarthur (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 26/12 Newcastle Jets vs Macarthur (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 26/12 Newcastle Jets vs Macarthur (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 26/12 Newcastle Jets vs Macarthur (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 26/12 Newcastle Jets vs Macarthur (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132804_5c9e4e30.png",19h30 ngày 26/12 Angola vs Zimbabwe (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132804_5c9e4e30.png",19h30 ngày 26/12 Angola vs Zimbabwe (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132804_5c9e4e30.png",19h30 ngày 26/12 Angola vs Zimbabwe (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132804_5c9e4e30.png",19h30 ngày 26/12 Angola vs Zimbabwe (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132804_5c9e4e30.png",19h30 ngày 26/12 Angola vs Zimbabwe (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132804_5c9e4e30.png",19h30 ngày 26/12 Angola vs Zimbabwe (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130900_cc818833.png",19h30 ngày 26/12 Birmingham vs Derby (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130900_cc818833.png",19h30 ngày 26/12 Birmingham vs Derby (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130900_cc818833.png",19h30 ngày 26/12 Birmingham vs Derby (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130900_cc818833.png",19h30 ngày 26/12 Birmingham vs Derby (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130900_cc818833.png",19h30 ngày 26/12 Birmingham vs Derby (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130900_cc818833.png",19h30 ngày 26/12 Birmingham vs Derby (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",20h05 ngày 26/12 Al-Fateh vs Al-Ahli Jeddah (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",20h05 ngày 26/12 Al-Fateh vs Al-Ahli Jeddah (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",20h05 ngày 26/12 Al-Fateh vs Al-Ahli Jeddah (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",20h05 ngày 26/12 Al-Fateh vs Al-Ahli Jeddah (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",20h05 ngày 26/12 Al-Fateh vs Al-Ahli Jeddah (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",20h05 ngày 26/12 Al-Fateh vs Al-Ahli Jeddah (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_e32b0860.png",22h00 ngày 26/12 Leicester vs Watford (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_e32b0860.png",22h00 ngày 26/12 Leicester vs Watford (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_e32b0860.png",22h00 ngày 26/12 Leicester vs Watford (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_e32b0860.png",22h00 ngày 26/12 Leicester vs Watford (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_e32b0860.png",22h00 ngày 26/12 Leicester vs Watford (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125548_e32b0860.png",22h00 ngày 26/12 Leicester vs Watford (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130853_0c4fd534.png",22h00 ngày 26/12 Middlesbrough vs Blackburn (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130853_0c4fd534.png",22h00 ngày 26/12 Middlesbrough vs Blackburn (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilua/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130853_0c4fd534.png",22h00 ngày 26/12 Middlesbrough vs Blackburn (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130853_0c4fd534.png",22h00 ngày 26/12 Middlesbrough vs Blackburn (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130853_0c4fd534.png",22h00 ngày 26/12 Middlesbrough vs Blackburn (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilua/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130853_0c4fd534.png",22h00 ngày 26/12 Middlesbrough vs Blackburn (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilua.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_c7a4bc71.png",22h00 ngày 26/12 Al Kholood vs Al Taawon (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_c7a4bc71.png",22h00 ngày 26/12 Al Kholood vs Al Taawon (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_c7a4bc71.png",22h00 ngày 26/12 Al Kholood vs Al Taawon (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_c7a4bc71.png",22h00 ngày 26/12 Al Kholood vs Al Taawon (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_c7a4bc71.png",22h00 ngày 26/12 Al Kholood vs Al Taawon (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134007_c7a4bc71.png",22h00 ngày 26/12 Al Kholood vs Al Taawon (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133431_062fd7e0.png",23h15 ngày 26/12 Modena vs Monza (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133431_062fd7e0.png",23h15 ngày 26/12 Modena vs Monza (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133431_062fd7e0.png",23h15 ngày 26/12 Modena vs Monza (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133431_062fd7e0.png",23h15 ngày 26/12 Modena vs Monza (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133431_062fd7e0.png",23h15 ngày 26/12 Modena vs Monza (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133431_062fd7e0.png",23h15 ngày 26/12 Modena vs Monza (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132800_79a84dd1.png",00h30 ngày 27/12 Zambia vs Comoros (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132800_79a84dd1.png",00h30 ngày 27/12 Zambia vs Comoros (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132800_79a84dd1.png",00h30 ngày 27/12 Zambia vs Comoros (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132800_79a84dd1.png",00h30 ngày 27/12 Zambia vs Comoros (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132800_79a84dd1.png",00h30 ngày 27/12 Zambia vs Comoros (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132800_79a84dd1.png",00h30 ngày 27/12 Zambia vs Comoros (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png",00h30 ngày 27/12 Al-Hilal Saudi FC vs Al Khaleej Saihat (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png",00h30 ngày 27/12 Al-Hilal Saudi FC vs Al Khaleej Saihat (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png",00h30 ngày 27/12 Al-Hilal Saudi FC vs Al Khaleej Saihat (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png",00h30 ngày 27/12 Al-Hilal Saudi FC vs Al Khaleej Saihat (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png",00h30 ngày 27/12 Al-Hilal Saudi FC vs Al Khaleej Saihat (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png",00h30 ngày 27/12 Al-Hilal Saudi FC vs Al Khaleej Saihat (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125523_f1b99b5e.png",02h45 ngày 27/12 Anderlecht vs Charleroi (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125523_f1b99b5e.png",02h45 ngày 27/12 Anderlecht vs Charleroi (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125523_f1b99b5e.png",02h45 ngày 27/12 Anderlecht vs Charleroi (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125523_f1b99b5e.png",02h45 ngày 27/12 Anderlecht vs Charleroi (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125523_f1b99b5e.png",02h45 ngày 27/12 Anderlecht vs Charleroi (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125523_f1b99b5e.png",02h45 ngày 27/12 Anderlecht vs Charleroi (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png",03h00 ngày 27/12 Morocco vs Mali (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png",03h00 ngày 27/12 Morocco vs Mali (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png",03h00 ngày 27/12 Morocco vs Mali (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png",03h00 ngày 27/12 Morocco vs Mali (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png",03h00 ngày 27/12 Morocco vs Mali (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132757_56274e6a.png",03h00 ngày 27/12 Morocco vs Mali (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoilun.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png",03h00 ngày 27/12 Manchester United vs Newcastle (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/neymar/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png",03h00 ngày 27/12 Manchester United vs Newcastle (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/neymar/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png",03h00 ngày 27/12 Manchester United vs Newcastle (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/neymar.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png",03h00 ngày 27/12 Manchester United vs Newcastle (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/neymar.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png",03h00 ngày 27/12 Manchester United vs Newcastle (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/neymar/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png",03h00 ngày 27/12 Manchester United vs Newcastle (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/neymar.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/32871c5b9619783f80384beca25cfc6c/image/small",06h00 ngày 25/12 Olancho FC vs Platense (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -849,110 +1163,90 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvkoBa95VSQwe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1766716529-0-0-c2218f90cfd9fb70cc44ca03f046f279
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1766716529-0-0-ff47ba7a9956877d7cff245b2d6836a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766716529-0-0-014b9aecfeeef94b984a4501a3a73692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766716529-0-0-86513779b5a6f5ebc1beff4d314297c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1766716529-0-0-41e52e73c907bd42e7a7aa0994541b9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1766716529-0-0-8e885c0e9cce607766610b9bedb42bdb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766716529-0-0-a020c1261975071d382afb9c622be2fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766716529-0-0-a2effb8dfcaab640b7c022dc8d8189c4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1766716529-0-0-db5ef8ed344c4f459d48f7fd8181533b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1766716529-0-0-3cd62da7da5285a1b647ca4b8185ff20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1766716529-0-0-4aca986e98ca59c0d87c095bfca7169f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1766716529-0-0-83033549c33c0aba541915d7632562a4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1766716529-0-0-026978b4dc023adc5836050e5b3efac5
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1766722289-0-0-58d9cd88bf056b242bd04984ac9cd9b9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1766716529-0-0-6eb40fb710be5025183aaea15f678b17
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1766722289-0-0-9fc010a302bc5292406eabfe1ec9eee4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766716529-0-0-5f658c1b4bd0d0b75e171a43f0bbe260
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766722289-0-0-2adb8a342c4619868378c1c7f8a2953b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766716529-0-0-e775d890c5d6945d5d0a73c54ec12923
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1766722289-0-0-56ca76347a01704e4274b6645c617985
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1766722289-0-0-c7da1f0720247999486d5cc207826db2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1766722289-0-0-af57565b4923cac4c9f75cb3857ad33d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1766722289-0-0-c7a294035dbddba5f56a26b7a37ae2e7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766722289-0-0-32704b3eb3815bb4f37df9d0e1798f7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1766722289-0-0-b06413f12351b4b3fd920e8cce5ac6d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1766722289-0-0-19553a1a6f754ab72a164ebdbfd88e83
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1766722289-0-0-b9dd50c04cc8ee8cd5a5b67fd1e09579
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1766722289-0-0-7d007309efacf4f7efc296dfd931c39f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1766722289-0-0-29d17f94885b88df31d11f554903a28a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1766722289-0-0-941527bcd83404a2e2adfad74853ebbd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1766722289-0-0-3f2b5612265797559d0d6fae5a124c78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/f1740c23aef598b5f11d1d72edfbd0f5.png",08h00 ngày 26/12 Los Angeles Lakers vs Houston Rockets [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1766722289-0-0-7cba86530d215eb1172976f387c6673d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766716529-0-0-2e7b16ddd013ccd428e0f5f36df3067d
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1766722289-0-0-9b1318c47ad9915220d31a4167e95353
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766716529-0-0-7824239659b4cca82c1289cbdee947d2
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1766722289-0-0-304ff6129b24b58db25542674e4f1237
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766716529-0-0-dee0344a547edf17bdc7c9470ecfb9de
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766722289-0-0-9835ffd146eb929d5e86ee0f0d18f026
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766716529-0-0-8d5fc4b91f9b9e414d83ed8920072e98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: CAF NC - Cote d'Ivoire vs Mozambique [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1766716529-0-0-859022464186421b7bc7689331644a79
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: CAF NC - Cote d'Ivoire vs Mozambique [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1766716529-0-0-00ef34158ba20ea4696870d79491bb8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: CAF NC - Cote d'Ivoire vs Mozambique [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1766716529-0-0-f991161a4b2e007a20e95e2a5f8afd93
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: CAF NC - Cote d'Ivoire vs Mozambique [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1766716529-0-0-9acd5974b751b43c2cdc391ffe344a97
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766722289-0-0-bc216e6a0f663f461444fa203b89fb9f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: TUR Cup - Samsunspor vs Eyupspor [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1766716529-0-0-cc546a2c2557c8f657387e323444908d
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1766722289-0-0-8b8b5d224237f64877866e87cb12a4f7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: TUR Cup - Samsunspor vs Eyupspor [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1766716529-0-0-7a5221fb86ab1767bd828dc7f470c050
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1766722289-0-0-484bf83f461ecff52ef3463c592bdaf1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: TUR Cup - Samsunspor vs Eyupspor [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1766716529-0-0-fcf807b7578e82e3eee5179d263dde44
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1766722289-0-0-c50a7f7880ac436b0682ea14d8c34e75
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251221/6feb7f3b0c24a4219a0c7dc1aacd0442.png",Tường thuật: TUR Cup - Samsunspor vs Eyupspor [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1766716529-0-0-5454f2537a8e25d79270ad3a4cfade72
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/lakers.png",08:00 ngày 26/12 Lakers vs Rockets (1) [Cây + Hói] HD Nhanh
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1766722289-0-0-e157328b1acd97cee80b7318feac3f23
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/32acf7868738eaac4228b74ff6b9087e.png",10h30 ngày 26/12 Denver Nuggets vs Minnesota Timberwolves [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1766754364&sign=861e171b444570a863b64ea5f8f6bbca
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/lakers.png",08:00 ngày 26/12 Lakers vs Rockets (1) [Cây + Hói] HD1
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1766722649-0-0-0a5f55b5e8d68c4f43ca2be6a5a1afa8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/32acf7868738eaac4228b74ff6b9087e.png",10h30 ngày 26/12 Denver Nuggets vs Minnesota Timberwolves [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/P4euIlMTVwVP--hEVDirXw/Fv2lucGIbhPi2caWYvF5Lg/1766754364983/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/lakers.png",08:00 ngày 26/12 Lakers vs Rockets (1) [Cây + Hói] HD2
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1766722649-0-0-3854f67535f4ec11344325a771700a67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/32acf7868738eaac4228b74ff6b9087e.png",10h30 ngày 26/12 Denver Nuggets vs Minnesota Timberwolves [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766754364/3613887840302464f91915f38ec6ed82/378401499/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/lakers.png",08:00 ngày 26/12 Lakers vs Rockets (1) [Cây + Hói] SD
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1766722649-0-0-3ce859b14cb8befc9d68e76938590b3a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251224/32acf7868738eaac4228b74ff6b9087e.png",10h30 ngày 26/12 Denver Nuggets vs Minnesota Timberwolves [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/UkYFKgmm7h7rCoMD3q4w-Q/Fv2lucGIbhPi2caWYvF5Lg/1766754364983/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/lakers.png",08:00 ngày 26/12 Lakers vs Rockets (1) [Cây + Hói] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766754364/ac506eaa3a0bb56caeb278fbb9edacd1/654537145/live/hoiFHD/playlist.m3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1766722649-0-0-5eef322eb099e79896ad0f822e26a34e
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/0ly3wzFG-8KiTm088.png",08:15 ngày 26/12 Kansas City Chiefs vs Denver Broncos (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -973,6 +1267,46 @@ https://hotlivezz179602324.akainu.xyz/eRKpitWjmiMG_WSkKqcq8A/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766754366/37f1604e79d1100ffd7590bb1ac3938c/195302540/live/luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",10:00 ngày 26/12 Đại học Thâm Quyến vs Thượng Hải Long Đằng (1) [Cá‎ Hề] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1766760124&sign=c6699febca37da105f382bb0fe0fede7
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",10:00 ngày 26/12 Đại học Thâm Quyến vs Thượng Hải Long Đằng (1) [Cá‎ Hề] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/4PKnFiZo4NMT1rcYsNFSOw/Fv2lucGIbhPi2caWYvF5Lg/1766760124590/live/heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",10:00 ngày 26/12 Đại học Thâm Quyến vs Thượng Hải Long Đằng (1) [Cá‎ Hề] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766760124/b3cd41732f9ec080d8e1992ab4f7cdd0/846297549/live/heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",10:00 ngày 26/12 Đại học Thâm Quyến vs Thượng Hải Long Đằng (1) [Cá‎ Hề] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/452MT-mfacuBow-Gd6M-7Q/Fv2lucGIbhPi2caWYvF5Lg/1766760124590/live/heSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",10:00 ngày 26/12 Đại học Thâm Quyến vs Thượng Hải Long Đằng (1) [Cá‎ Hề] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766760124/6f572c2d63fb2f2e2837efd52dac3b76/150488301/live/heFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:30 ngày 26/12 Nuggets vs Timberwolves (1) [Hói + Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1766763367&sign=316a422adf1ed00ec726b844ceb17552
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:30 ngày 26/12 Nuggets vs Timberwolves (1) [Hói + Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/AsmvL4dS596ewU6Qn3C1XA/Fv2lucGIbhPi2caWYvF5Lg/1766763367933/live/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:30 ngày 26/12 Nuggets vs Timberwolves (1) [Hói + Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766763367/eaa2fad3198d77c90f8b933a034f1b7c/724719941/live/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:30 ngày 26/12 Nuggets vs Timberwolves (1) [Hói + Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/isI3MZd3ThbyBB55P8pLPA/Fv2lucGIbhPi2caWYvF5Lg/1766763367933/live/hoiSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:30 ngày 26/12 Nuggets vs Timberwolves (1) [Hói + Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1766763367/dc055f6ef407f8414b49ecc77fd68827/875296680/live/hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -985,18 +1319,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png",08h00 ngày 26.12 Los Angeles Lakers vs Houston Rockets (Hội Quán) PHAN MÃO Full HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png",08h00 ngày 26.12 Los Angeles Lakers vs Houston Rockets (Hội Quán) PHAN MÃO HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png",08h00 ngày 26.12 Los Angeles Lakers vs Houston Rockets (Hội Quán) PHAN MÃO SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARG D1 Boca Juniors vs Racing Club de Avel BLV RỒNG ĐỎ (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.flv
@@ -1066,12 +1388,6 @@ https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/65.png",19h30 27/12 Nottingham Forest vs Manchester City (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/48.png",22h00 27/12 West Ham vs Fulham (blvtoptop) CHAIEN
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/44.png",22h00 27/12 Burnley vs Everton (blvtoptop) Tôm Mì
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/40.png",22h00 27/12 Liverpool vs Wolves (blvtoptop) Bàng Còi Xương
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
@@ -1084,6 +1400,12 @@ https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/42.png",22h00 27/12 Arsenal vs Brighton (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/44.png",22h00 27/12 Burnley vs Everton (blvtoptop) Tôm Mì
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/48.png",22h00 27/12 West Ham vs Fulham (blvtoptop) CHAIEN
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎", Беларусь 5 Интернет HD
