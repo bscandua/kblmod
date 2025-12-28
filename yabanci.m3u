@@ -463,10 +463,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/45c9647899b8bf2fb6f988c6c33b964c.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/b5fe0bfaf9164d3a3a2256078c66685c/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/db5f54482ae28e132611f4c928b6f672.png",03h00 ngày 29/12 Cote d'Ivoire vs Cameroon (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -683,48 +679,12 @@ https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV DƯƠNG QUÁ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV DƯƠNG QUÁ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV NGŨ CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV NGŨ CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV PHONG VÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV PHONG VÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV NHỊ KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/142_164868998143.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Lương Sơn) BLV NHỊ KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",03h00 ngày 29/12 Ivory Coast vs Cameroon (Lương Sơn) BLV A TỦA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
@@ -737,6 +697,18 @@ https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png",03h00 ngày 29/12 Ivory Coast vs Cameroon (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV PHONG VÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV PHONG VÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",03h30 ngày 29/12 Sporting CP vs Rio Ave (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02h45 ngày 29/12 Atalanta vs Inter Milan (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -837,18 +809,6 @@ https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",02:45 ngày 12/29 Atalanta và Inter (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x16y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",02:45 ngày 12/29 Atalanta và Inter (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x16y3-0459/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",02:45 ngày 12/29 Atalanta và Inter (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x16y2/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6709_small.png",03:00 ngày 12/29 Ivory Coast và Cameroon (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -885,10 +845,6 @@ https://wtyi0525.edgemaxcdn.org/live/x2y3-4933/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x2y2/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5f1e81d00cdc6bf2d704630d8fa930ce/image/small",22h45 ngày 27/12 AlvsNasr Dubai vs Al Ain FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ec0de3cfbea5b7d323a7b1a58eed913c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e150c420708f5fbc574ea420a8b8010e/image/small",00h00 ngày 28/12 Lagonegro vs Macerata (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -897,10 +853,6 @@ https://live.alilicloud.com/live/e31bc1080730b259dfb6b3d7845d0fb7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/3e2141699d6d9e2693bae7d513499370/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/089febd8eb89c4a43b30779475907f64/image/small",22h45 ngày 27/12 Al Kuwait SC vs Al Fahaheel SC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9ab355ba4cd765c16fc5ded605c4d05b/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0c9a07f2716aa04b019b5f905b3ab46f/image/small",23h00 ngày 27/12 Siena vs Brescia (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -933,10 +885,6 @@ https://live.alilicloud.com/live/930bf766082c850b08d8dc005f4e59ab/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e4bc22754e49956eaef5da4ad138145b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c559cb494dcc1f2cc238508167cf88a2/image/small",22h50 ngày 27/12 AlvsShabab SC (Seeb) vs Dhofar SCSC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6b8aa1271ca624710b710db9d2681ec3/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0f10f19aea36cdde20e80901bf38a27d/image/small",23h00 ngày 27/12 AlvsAhli(Manama) vs Sitra (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -957,18 +905,6 @@ https://live.alilicloud.com/live/cca6e663ba3c32647a1395a099b477e3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b5fe0bfaf9164d3a3a2256078c66685c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/6b090a02c0b345f4b17bffa9102ff679_720/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live4.fastestcdn-global.com/live4/6b090a02c0b345f4b17bffa9102ff679_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/6b090a02c0b345f4b17bffa9102ff679_720/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1c3de22d6efadb2d5d3d2124452a5515/image/small",23h00 ngày 27/12 Shabab Al Ordon vs AL Salt (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1621,30 +1557,6 @@ https://stream.chuoichien.tv/neymar.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b5fe0bfaf9164d3a3a2256078c66685c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/1a726b4631af44689f54c3472c520e11_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc43163716.stream.hdplaylink.com/live7/1a726b4631af44689f54c3472c520e11_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/1a726b4631af44689f54c3472c520e11_480/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live8.fastestcdn-global.com/live8/1a726b4631af44689f54c3472c520e11_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/1a726b4631af44689f54c3472c520e11_480/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small",02h45 ngày 28/12 Atalanta vs Inter Milan (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/1a726b4631af44689f54c3472c520e11_720/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/SQgULDCr-zTSy144G.png",03h00 ngày 28/12 Cote d'Ivoire vs Cameroon (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1805,18 +1717,6 @@ https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1766960970-0-0-81a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251225/b600a3dc4397de15556fa10235232159.png",03h00 ngày 29/12 Cote d'Ivoire vs Cameroon [BLV EDRIC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1766960970-0-0-94c314b8127c7b260c5f9bd62935980a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251225/caeef54a7030f79ca3707f82ea18ca29.png",02h45 ngày 29/12 Atalanta vs Inter Milan [VƯƠNG ANH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=46eee8b2b9b7ca29135cc6ccb4f583f4&txTime=6951f59a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251225/caeef54a7030f79ca3707f82ea18ca29.png",02h45 ngày 29/12 Atalanta vs Inter Milan [VƯƠNG ANH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=c8f75eb206ca9f494b7426fa15d84505&txTime=6951f59a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251225/caeef54a7030f79ca3707f82ea18ca29.png",02h45 ngày 29/12 Atalanta vs Inter Milan [VƯƠNG ANH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=46eee8b2b9b7ca29135cc6ccb4f583f4&txTime=6951f59a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251225/caeef54a7030f79ca3707f82ea18ca29.png",02h45 ngày 29/12 Atalanta vs Inter Milan [VƯƠNG ANH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c8f75eb206ca9f494b7426fa15d84505&txTime=6951f59a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251225/caeef54a7030f79ca3707f82ea18ca29.png",02h45 ngày 29/12 Atalanta vs Inter Milan [BLV VODKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1766960970-0-0-0d5a4f5a63cf9f66725753aa2e657631
@@ -2021,26 +1921,6 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1766960970-0-0-5612
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251225/5a6f088ed62ae10133f45b2cb88ec779.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1766960970-0-0-377358e90b6dae8d9847e5e89f4f336e
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1766999166&sign=c6ce3bf982ce2b1f3d029d22c24e1d4d
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/LVS09OcYTUoAkmVYC-VAQg/Fv2lucGIbhPi2caWYvF5Lg/1766999166742/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766999166/cfb652287e3af94e877d107f7072abd3/821551329/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/TGDweAp4dE4QNHvojESavw/Fv2lucGIbhPi2caWYvF5Lg/1766999166743/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766999166/df67dbf025e5f66ec67dbdedf4725755/484774179/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Raptors.png",03:30 ngày 29/12 Raptors vs Warriors (1) [Bánh Cuốn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2081,54 +1961,26 @@ https://hotlivezz179602324.akainu.xyz/LwAYEU-nbI6TDFgmDULYgw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://9ceg0825.edgemaxcdn.org/1766996647/f32c54a6385ed85fc3372c3e4ef9bb16/966690183/live/gayFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Người Cast] HD Nhanh
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/catHD.flv?expire=1766971451&sign=abd27adc09d543e46e935200b42c0949
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Người Cast] HD1
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1767001687&sign=45de982a7ae0747b56488ca7cea3e8cf
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/sAQEf-Bd1sc72sstK3-L2Q/Fv2lucGIbhPi2caWYvF5Lg/1766971451377/live/catHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Người Cast] HD2
+https://hotlivezz179266008.akainu.xyz/C-8CF5JjhQgrg9R95MewQg/Fv2lucGIbhPi2caWYvF5Lg/1767001687290/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766971451/1874eca4bc1f660af154cfdc901dd67a/923489805/live/catHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Người Cast] SD
+https://9ceg0825.edgemaxcdn.org/1767001687/f6090683e0eff42cf86abc48c0952767/924768915/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/RvNN93TWFCkDmiHJ5hUNWw/Fv2lucGIbhPi2caWYvF5Lg/1766971451382/live/catSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Người Cast] FullHD
+https://hotlivezz179602324.akainu.xyz/ZU9B02n4TuCfoPE0XFnpZg/Fv2lucGIbhPi2caWYvF5Lg/1767001687290/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/WxLvPwFa-INS6Eqwe.png",04:25 ngày 29/12 Buffalo Bills vs Philadelphia Eagles (1) [Người Lửa] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766971451/f7ed0d17a76d52c1da877065659d00d2/433693233/live/catFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Người Cast] Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/TIBlO_HBEH03GL75hGRWJg/Fv2lucGIbhPi2caWYvF5Lg/1766971451382/live/may28/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Mèo Ú] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1766971451&sign=9537117a8ba375036aff8e4ff14338f7
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Mèo Ú] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/lMuTee0IfAMWx9cABpYUug/Fv2lucGIbhPi2caWYvF5Lg/1766971451382/live/meoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Mèo Ú] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766971451/611ad1b0fff0ad78d5a2f9731187eaa2/932285417/live/meoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Mèo Ú] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/drEXIDXJEPl4eMI6cI99vw/Fv2lucGIbhPi2caWYvF5Lg/1766971451382/live/meoSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Mèo Ú] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766971451/42054a4424823578e28ad03bac0de7ba/736308815/live/meoFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",02:45 ngày 29/12 Atalanta vs Inter Milan (1) [Mèo Ú] Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/TIBlO_HBEH03GL75hGRWJg/Fv2lucGIbhPi2caWYvF5Lg/1766971451382/live/may28/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1767001687/60a8f646be53ebbb32b0b93e7b431aac/213397123/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Ivory%20Coast.png",03:00 ngày 29/12 Ivory Coast vs Cameroon (1) [Người Thỏ] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -2172,23 +2024,27 @@ https://9ceg0825.edgemaxcdn.org/1766973245/9aa23126469f42513b46b076fe7bf71a/2785
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:30 ngày 29/12 Sporting CP vs Rio Ave (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1766975050&sign=c1a247d9d72b92bb433b71790bf316b6
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1766980089&sign=8dc5d52129059fe0b61b232849939a91
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:30 ngày 29/12 Sporting CP vs Rio Ave (1) [Mỳ Tôm] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/UC1P9ZA-sfLVnhxujq_U4A/Fv2lucGIbhPi2caWYvF5Lg/1766975050064/live/myHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/xMj1dIwEDtWbmFaRHGl5Dw/Fv2lucGIbhPi2caWYvF5Lg/1766980089551/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:30 ngày 29/12 Sporting CP vs Rio Ave (1) [Mỳ Tôm] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766975050/11028ff2fd0c39e4f530f87f6bba9e07/273705904/live/myHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766980089/a31ca07229b05f9d1988a52be9b12438/638663197/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:30 ngày 29/12 Sporting CP vs Rio Ave (1) [Mỳ Tôm] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/afCuUFQxSCJiQhhBPuHhGQ/Fv2lucGIbhPi2caWYvF5Lg/1766975050064/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/5oet32h9zAApCvRhEd3bBA/Fv2lucGIbhPi2caWYvF5Lg/1766980089551/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:30 ngày 29/12 Sporting CP vs Rio Ave (1) [Mỳ Tôm] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1766975050/21378fa6dee66d910eab9e9a3469e9a5/836720821/live/myFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1766980089/ffbbbf118423f89e5c5866e552e8f0b8/202505778/live/myFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/6a5153c73922a32013b9bc6cfbc20b26.png",03:30 ngày 29/12 Sporting CP vs Rio Ave (1) [Mỳ Tôm] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/v-bvagyqBpbl9F_zU0qUrg/Fv2lucGIbhPi2caWYvF5Lg/1766980089550/live/sd-6MuTchGAB9rqPc3VCX/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2198,18 +2054,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",02h45 ngày 29.12 Atalanta vs Inter Milan (Hội Quán) BLV PHAN TÔM FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",02h45 ngày 29.12 Atalanta vs Inter Milan (Hội Quán) BLV PHAN TÔM HD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png",02h45 ngày 29.12 Atalanta vs Inter Milan (Hội Quán) BLV PHAN TÔM SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
