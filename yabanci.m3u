@@ -463,6 +463,10 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/024e4aac02f3052361eaa07b8638eaf5.png",09h00 ngày 31/12 Zhejiang Professional FC U17 vs Beijing Guoan U17 (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/98309379f78ba47b3ec5779bc9539524/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -471,124 +475,176 @@ https://apisportzz179528093.nsnd.live/9sJTFlNxnjCCtRJ4t7SxvA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/W2byQOtTHarBFcAiIoBdXA/Fv2lucGIbhPi2caWYvF5Lg/1760625731368/live/sd-6MvYbdmFjBuT41GrpB/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Cà Khịa) SD 1
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Cà Khịa) SD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lusd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Cà Khịa) HD 1
+https://mrkw1025.edgemaxcdn.org/live/buisd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Cà Khịa) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/luhd1/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Cà Khịa) SD 2
+https://mrkw1025.edgemaxcdn.org/live/buihd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Cà Khịa) SD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Cà Khịa) HD 2
+https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Cà Khịa) HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Cà Khịa) SD  (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/buihd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Cà Khịa) SD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/lusd1.flv
-#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Cà Khịa) HD  (Nhanh)
+https://mrkw1025.edgemaxcdn.org/live/buisd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Cà Khịa) HD (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/luhd1.flv
+https://mrkw1025.edgemaxcdn.org/live/buihd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Cà Khịa) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Cà Khịa) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lấy kinh) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lấy kinh) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767117624.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767117624.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767117673.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767117673.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766989175.webp",13h20 ngày 30/12 Crystal Palace vs Tottenham Hotspur (Lương Sơn) BLV KHỔNG MINH REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1766989175.webp",13h20 ngày 30/12 Crystal Palace vs Tottenham Hotspur (Lương Sơn) BLV KHỔNG MINH REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3555977b288a6b8b02f876b0e5a1da53.png",03h15 ngày 31/12 SCU Torreense vs Lusitania (Ra Khơi) Nhà đài
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m105nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h15 ngày 31/12 Manchester United vs Wolves (Ra Khơi) SD 1
+https://ckhot-179939170.cdnfree.pro/live/buisd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/momsd2QT/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h15 ngày 31/12 Manchester United vs Wolves (Ra Khơi) HD 1
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/momhd1QT/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h15 ngày 31/12 Manchester United vs Wolves (Ra Khơi) A Phò SD 2
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cakhiasd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h15 ngày 31/12 Manchester United vs Wolves (Ra Khơi) A Phò HD 2
+https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Ra Khơi) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cakhiahd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h15 ngày 31/12 Manchester United vs Wolves (Ra Khơi) SD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (Ra Khơi) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/momsd1QT.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h15 ngày 31/12 Manchester United vs Wolves (Ra Khơi) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/momhd1QT.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Ra Khơi) SD 1
+https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Ra Khơi) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Ra Khơi) HD 1
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Ra Khơi) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Ra Khơi) A Lử SD 2
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Ra Khơi) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Ra Khơi) A Lử HD 2
+https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Ra Khơi) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Ra Khơi) SD  (Nhanh)
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (Ra Khơi) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heosd1RK.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",03h15 ngày 31/12 Arsenal vs Aston Villa (Ra Khơi) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/heohd1RK.flv
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/329289bca8bd5d05f72deb7685c4ea62/image/small",02h30 ngày 30/12 Nottingham Forest vs Everton (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b088dcd68f242713bb62880d0a00c54f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c3a714807804639fd213fa3806154578/image/small",02h00 ngày 30/12 Botswana vs Democratic Republic of the Congo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/946ca56281aa2cf4b0177fb1de8c98ff/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/546db0bbb7d0fea00c5b83b89b9f56d1/image/small",00h30 ngày 30/12 Al Okhdood vs Damac (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/887086a316fd6590896fee6fe1521cb1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/a29ef20ca15509b94b8ad0a3b3daae84/image/small",02h30 ngày 30/12 Perugia vs Lube Civitanova (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2f54eddd66e71250f40e5096333ba7c9/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0dad10612185a2e8b832eb0b1c5dd35b/image/small",02h30 ngày 30/12 West Ham United vs Brighton Hove Albion (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b7f97a41817e8ed773db24d98752ee8c/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/acfc0b9c9b58b9a7caf485f63bcc749d/image/small",01h00 ngày 30/12 Maccabi Tel Aviv vs Ironi Tiberias (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f74b98917ef41858380eed67d0470e56/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/73bc0b4f869f525eb9991d81cea9e63a/image/small",02h00 ngày 30/12 Benin vs Senegal (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7fc0ade6e6a18125ccb5c9843a8661b3/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w60",08:00 ngày 12/31 Memphis Grizzlies vs Philadelphia 76ers (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/82c276c62ec4879885c89c1aea8c64bb/image/small",03h00 ngày 30/12 Motherwell vs Celtic FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/578fbbdfc71c81d0a6c8f658ca5bbca3/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cecfb0124f67b3b954783c52b786778f/image/small",01h00 ngày 30/12 Smouha SC vs Kahraba Ismailia (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/fadb684d38975334749b837a4d1f8213/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f781564ff44d84d99ed460e6cfa57817/image/small",02h45 ngày 30/12 Dundee vs Kilmarnock (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -597,10 +653,54 @@ https://live.alilicloud.com/live/465585304bb276c9d915904a0e896e02/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d95611e0a0ac47efaf900e06f40d29ad/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/517ae079037b795b40bd127f6d7d135f/image/small",00h30 ngày 30/12 Hapoel Haifa vs Hapoel Bnei Sakhnin FC (Khán Đài A) source
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (QUAY TAY) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c40ddffd83060b72723700710481d417/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buisd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/buihd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (QUAY TAY) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buisd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers (QUAY TAY) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/buihd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133807_541a3f6d.png",12h15 ngày 31/12 Central Coast Mariners W vs Brisbane Roar FC W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -937,18 +1037,10 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/82c276c62ec4879885c89c1aea8c64bb/image/small",03h00 ngày 30/12 Motherwell vs Celtic FC (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5065f34a543001c1f3070ead3d5311f8/image/small",09h00 ngày 30/12 Zhejiang Professional FC U17 vs Beijing Guoan U17 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/578fbbdfc71c81d0a6c8f658ca5bbca3/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f781564ff44d84d99ed460e6cfa57817/image/small",02h45 ngày 30/12 Dundee vs Kilmarnock (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/465585304bb276c9d915904a0e896e02/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ff5cd79fb96cb9e2134649f7e014d13e/image/small",03h15 ngày 30/12 SCU Torreense vs Lusitania FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d95611e0a0ac47efaf900e06f40d29ad/playlist.m3u8
+https://live.alilicloud.com/live/98309379f78ba47b3ec5779bc9539524/playlist.m3u8
 #EXTINF:0 group-title="Văn khánh" tvg-logo="https://cdn-upload.cdnvankhanh.com/uploads/team_logo/1764482469.png",13h00 ngày 30/11 FC Barcelona vs Alaves (Văn Khánh) M3U
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
@@ -1061,90 +1153,222 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvkoBa95VSQwe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1767150330-0-0-1b430d63baca182526b42cae7020ad4a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1767150330-0-0-881eaca70ede24a3a284b98afe76661f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767150330-0-0-ae25003695372862b043d2f69a52e187
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767150330-0-0-53e1d88bc2591de65c30286694465c93
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/d08fb37d2171dcd9b39b2b8ca1a3bd1c.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1767150330-0-0-978d9e0f235e5e963480f49d7d914edb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/d08fb37d2171dcd9b39b2b8ca1a3bd1c.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1767150330-0-0-963551265a5bae66485ba042c51f65a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/d08fb37d2171dcd9b39b2b8ca1a3bd1c.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767150330-0-0-98ab46454721bd536869689e25477c6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/d08fb37d2171dcd9b39b2b8ca1a3bd1c.png",09h00 ngày 31/12 Utah Jazz vs Boston Celtics [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767150330-0-0-fd9402f9a1461595dd8bbbd446971d88
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1767150330-0-0-9f08d854af9636825e4e0a120c3c5ef0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1767150330-0-0-49352643c81a411198723dd93330db34
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767150330-0-0-08c90a659a5d49a08bd8ce45e66236b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767150330-0-0-3af6ae1f8a6fd501ede91ee838aea2b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1767150330-0-0-7d559b9e3253d1968d41f8ec23bd8304
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1767150330-0-0-c2e2e5b14763fdf38559720da6a3930f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767150330-0-0-3c3158c0196d76e3d20dbd2493e96182
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767150330-0-0-aed494714e85b49844a2f89431306e5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1767150330-0-0-14c5b8b1bdba39fedb4d99bca4791103
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1767150330-0-0-d3b305369cb0338eb2c76e882e76a76b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767150330-0-0-ed10436bd397b1a73f719b9b0436cbc8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1767150330-0-0-d3b09dced3d565bfbf4be6d6c4233dcd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV DUSTIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=dcb4a6e62f21ddd7d1f1abd5e31f9fb1&txTime=6954d94a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV DUSTIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=c931a4ab1bd116808606b64a73a876b6&txTime=6954d94a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV DUSTIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=dcb4a6e62f21ddd7d1f1abd5e31f9fb1&txTime=6954d94a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251230/6d687c0ae4c8b39c7c01bc5f8feb72db.png",08h00 ngày 31/12 Memphis Grizzlies vs Philadelphia 76ers [BLV DUSTIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=c931a4ab1bd116808606b64a73a876b6&txTime=6954d94a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1767141690-0-0-8da799e232b7c335966494bf4313ad5b
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1767150330-0-0-f026f137ef6c293629ea996a5f36cdd4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1767141690-0-0-cf12538ca07381749a528a49806bb2ba
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1767150330-0-0-e910345707ac5891cc5b45d21aa54fee
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1767141690-0-0-53537795068f5d3ba415ec75e41777a5
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1767150330-0-0-089a4bd6870ad37aaa474e1aae3e4f92
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1767141690-0-0-b0ab183734d883cd452081b187510385
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1767150330-0-0-4ee6895bd5f9aea7cf458c5b3c433175
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Atalanta vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1767141690-0-0-8e9bc18c553aa9164ea603490ed2697e
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1767150330-0-0-2c8af822d31dccb2750c4f65cd0321ad
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Atalanta vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1767141690-0-0-ceb313e00b2ca1f3b5fc3cce1bcc4c99
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1767150330-0-0-f4b4f0e1d5680e29646ea36c3ba4369f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Atalanta vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1767141690-0-0-d8814126cbc407de94d6cdc64c54aff4
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1767150330-0-0-a8f3e420ebc10e9afd5a380160b33eb3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Atalanta vs Inter Milan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1767141690-0-0-3dbcff25f7668b472e52c903b5652728
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1767141690-0-0-155c0810b866a6fab78d90a2e9128b8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1767141690-0-0-6a82dda9b5c83df8b445be61760c0bac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1767141690-0-0-2702e1ff5c9dd174ec89285fc9b41a00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1767141690-0-0-084a07f6430018ec9c9421e9c4a619be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1767141690-0-0-97befa3bbb763efe7184ab568b1e2d13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1767141690-0-0-01b21836ffb5c3672a8978ce819729da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1767141690-0-0-99d274c492d21c03636db6d69103e05e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1767141690-0-0-0f1e4c6d9143b211256680ecbf2364fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1767141690-0-0-b890711e2e33c834c976ec7f5ba73345
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1767141690-0-0-1ff3cbfae75bf2e85c7d8be45d52487e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1767141690-0-0-445f0bb44e37b6e4e6397a29c2723f10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1767141690-0-0-ee94d70a967a49638d71909d6f7c088f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1767141690-0-0-be81e60b543855ac2ddbcae50a393d1c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1767141690-0-0-d7ab8f72fa088670838b0462edea98b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1767141690-0-0-4b0f3020996511f0dc280dc5c2e88222
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1767141690-0-0-9d6bf9b08b55435ba7d0eba4149b649e
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1767150330-0-0-f03a900dc773ce555f1357d69219994f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Crystal Palace vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1767141690-0-0-3580f9900bbb0d8dabfb2834fa19c31b
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1767150330-0-0-1f3d2df9ac54c8e8b1178b4fe07e1911
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Crystal Palace vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1767141690-0-0-090ae9ea0f0588165212e098a8e9836b
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1767150330-0-0-bcd3fcbf3609d08d66c74b6b63f03f07
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Crystal Palace vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1767141690-0-0-e779b392b7cc0875274b2ab528cdcb65
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1767150330-0-0-6c756576c3759b757bd7284ba827ea34
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Crystal Palace vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1767141690-0-0-ff060b42f47e4bd8ad283404c75345f7
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1767150330-0-0-65843f3bd8af1b4bcc5e08ca77f72a13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1767150330-0-0-d014b1aa833ffa7eca7844818d899e7c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1767150330-0-0-1f8d65329b70f1d62e07f1a72bfc05b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1767150330-0-0-8d2b38df786c26029104537614b4980c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ITA D1 - Cremonese vs Napoli [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1767150330-0-0-25085ef9b8195ce07b47b8d17355d95f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1767150330-0-0-9ddd00471215c11db5c0b62a98920bf4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1767150330-0-0-d5f9789c7ce48c15ae2ebd27d5cf9e8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1767150330-0-0-f40c8ed88775ff351b43c0c07baf06de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Chelsea vs Aston Villa [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1767150330-0-0-f358e9bf4436feec6b550d9cbd1f2e12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1767150330-0-0-29b0132861ce3593559ed3cd4d3ff085
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1767150330-0-0-56e714725f65d09c92dccc74ec4723b0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1767150330-0-0-97110b60479d2e47e5d00d32447f43e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: ENG PR - Sunderland vs Leeds United [Sóc trong rừng xà nu] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1767150330-0-0-b0ecc003d0e88efba58012aeb678bcbf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1767150330-0-0-d2b61a3590751e5898eceef308215fd6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1767150330-0-0-415ed5c6e6ae1374415ae470b09f1115
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1767150330-0-0-edcbd8dd8e6e5f143defaa0e87281901
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251227/003a5195baf275a74cf632f0a6f55068.png",Tường thuật: CAF NC - Angola vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1767150330-0-0-ba9b98d8f4009d2b1903782c0a00733a
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",08:00 ngày 31/12 Grizzlies vs 76ers (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1767184204&sign=9d6ad18cb1b4c4037d13359f68675ddc
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",08:00 ngày 31/12 Grizzlies vs 76ers (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/S08__DBSBOLplbxu4M1e6Q/Fv2lucGIbhPi2caWYvF5Lg/1767184204926/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",08:00 ngày 31/12 Grizzlies vs 76ers (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767184204/746fd8bdc8f1b9642426c8eb344ba660/259244173/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",08:00 ngày 31/12 Grizzlies vs 76ers (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/NEZMAd062iiKGWHW9pB16w/Fv2lucGIbhPi2caWYvF5Lg/1767184204926/live/phepSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",08:00 ngày 31/12 Grizzlies vs 76ers (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767184204/0e18b8f3b54963e50dd2dcee2678e7ec/337397706/live/phepFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 31/12 NXT (1) [Tai Lung] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1767188166&sign=5d332ba6fc2cbefbe173586b0b2021b6
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 31/12 NXT (1) [Tai Lung] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/Rn4XECGz-cKE5lxmxgjCVg/Fv2lucGIbhPi2caWYvF5Lg/1767188166834/live/lungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 31/12 NXT (1) [Tai Lung] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767188166/8a66b2f705b726327e4e34e3e7c37557/146711853/live/lungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 31/12 NXT (1) [Tai Lung] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/gxm-gYkN4KLU04JbSkABRA/Fv2lucGIbhPi2caWYvF5Lg/1767188166834/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 31/12 NXT (1) [Tai Lung] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767188166/774fca75b2d8ea4a6673c95e6dbad6ac/803826247/live/lungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 31/12 Jazz vs Celtics (1) [Người Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1767190687&sign=708d56defe69e74ac446417df1775ebb
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 31/12 Jazz vs Celtics (1) [Người Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/PYOPMZSy7qr_7szkrktNkA/Fv2lucGIbhPi2caWYvF5Lg/1767190687741/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 31/12 Jazz vs Celtics (1) [Người Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767190687/a4f3338fbb0c13a7035030a6b9f42f0b/988662701/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 31/12 Jazz vs Celtics (1) [Người Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/1pyVLR4oaS53hpDwGAFikQ/Fv2lucGIbhPi2caWYvF5Lg/1767190687741/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 31/12 Jazz vs Celtics (1) [Người Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1767190687/b941b462270a551de2fea7f4fa6bc5e2/328527299/live/gayFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",21h00 ngày 14.12 Nottingham Forest vs Tottenham Hotspur (Hội Quán) BLV PHAN TÔM FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1157,6 +1381,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phantom/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s",08h00 ngày 31.12 Memphis Grizzlies vs Philadelphia 76ers (Hội Quán) BLV PHAN CÁO FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s",08h00 ngày 31.12 Memphis Grizzlies vs Philadelphia 76ers (Hội Quán) BLV PHAN CÁO HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlL_9dDgMuBeYiaw2I5eFhvvNa7eUvr7Z8A&s",08h00 ngày 31.12 Memphis Grizzlies vs Philadelphia 76ers (Hội Quán) BLV PHAN CÁO SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NmYwMmMwNTg0MDktNGUyYQ/ZDNhOTVkMDU0YzgtNDQ1NQ.png",ARG D1 Boca Juniors vs Racing Club de Avel BLV RỒNG ĐỎ (Colalive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.flv
@@ -1217,12 +1453,12 @@ https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/2961.png",19h35 01/01 Al Orubah vs Al Jandal (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8
-#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/1335.png",22h00 01/01 Charlton vs Coventry (blvtoptop) Adam
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/69.png",22h00 01/01 Derby vs Middlesbrough (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8
+#EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/1335.png",22h00 01/01 Charlton vs Coventry (blvtoptop) Adam
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/64.png",22h00 01/01 Hull City vs Stoke City (blvtoptop) Lil Shady
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
