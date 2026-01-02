@@ -463,14 +463,6 @@ http://khaitv.giize.com:1979/mytv/new/get.php?id=642
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/9029a28d9818dcc28a7921e9f265bb6a.jfif",10h30 ngày 02/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/3c9bb2a3772eeff2d9b34e48a4cc1f44/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/91fe3eccd833195c9fdb3eac7c675c5d.png",10h30 ngày 02/01 Kerala Women vs Garhwal (w) (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/6d8698ddafcb4bff99f9215674245abd/playlist.m3u8
 #EXTINF:0 group-title="Cá kèo" tvg-logo="",15h00 ngày 16/10 Shanxi U18 VS shandongU18 (Cá Kèo) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -531,6 +523,30 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 ngày 02/01 Dyes FC vs Snipers FC (Cà Khịa) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 ngày 02/01 Dyes FC vs Snipers FC (Cà Khịa) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 ngày 02/01 Dyes FC vs Snipers FC (Cà Khịa) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 ngày 02/01 Dyes FC vs Snipers FC (Cà Khịa) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2/playlist.m3u8
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 ngày 02/01 Dyes FC vs Snipers FC (Cà Khịa) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1.flv
+#EXTINF:0 group-title="Cà khịa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfh7dNkRD8qKy32l3Yyioft8niIe-f6UIOg&s",13h00 ngày 02/01 Dyes FC vs Snipers FC (Cà Khịa) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungshd1.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -579,6 +595,30 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Lấy kinh) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Lấy kinh) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Lấy kinh) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/9029a28d9818dcc28a7921e9f265bb6a.jfif",10h30 ngày 02/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (Lấy kinh) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -587,6 +627,12 @@ https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767290160.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767290160.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767159234.png",12h00 ngày 31/12 Arsenal vs Aston Villa (Lương Sơn) BLV DƯƠNG QUÁ REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
@@ -611,12 +657,16 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767281046.png",22h30 ngày 01/01 Chelsea vs Bournemouth (Lương Sơn) BLV THỜI THIÊN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767290160.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz (Lương Sơn) BLV YẾN THANH m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767304370.png",12h00 ngày 02/01 Chelsea FC vs AFC Bournemouth (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767290160.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz (Lương Sơn) BLV YẾN THANH flv
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767304370.png",12h00 ngày 02/01 Chelsea FC vs AFC Bournemouth (Lương Sơn) BLV KEVILL REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9029a28d9818dcc28a7921e9f265bb6a.jfif",10h30 ngày 02/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -665,10 +715,30 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/9029a28d9818dcc28a7921e9f265bb6a.jfif",10h30 ngày 02/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (Ra Khơi) Nhà đài
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m301nd/playlist.m3u8
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ba1f4303d485d33bb48268abf09dc99e/image/small",10h30 ngày 01/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -725,6 +795,30 @@ https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (QUAY TAY) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
+#EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/3bb808a38d6a7a297ef838fabc7be07e.png",12h30 ngày 02/01 Jaguar FC vs M2M FC (QUAY TAY) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
 #EXTINF:0 group-title="Quay tay" tvg-logo="https://img.thesports.com/football/team/9029a28d9818dcc28a7921e9f265bb6a.jfif",10h30 ngày 02/01 Kickstart Karnataka FC (w) vs Sribhumi FC (W) (QUAY TAY) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1141,170 +1235,114 @@ https://auto.cdnvankhanh.com/live/sd-6MvZ6ZvkoBa95VSQwe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://vankhanhtv.com/
 
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BLV DUSTIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.flv?txSecret=8a3ae713a69c4421c857425737468da5&txTime=6957a3aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BLV DUSTIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.flv?txSecret=74bcafcb20bf9a54f4fb6aaaab4c9894&txTime=6957a3aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BLV DUSTIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=8a3ae713a69c4421c857425737468da5&txTime=6957a3aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BLV DUSTIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=74bcafcb20bf9a54f4fb6aaaab4c9894&txTime=6957a3aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1767333210-0-0-3d76003457b49826f97f46006d4b742c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1767333210-0-0-d11848966be24bdccad879cbdc95250f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767333210-0-0-ae3dd2691951d1e4f70ee8e597fb3254
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767333210-0-0-7356c8fefabed9bf46b3d7569ed1e3d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1767333210-0-0-7a25c409aee6d5cd8112273000202511
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1767333210-0-0-50034d141ef7caa4b59d02a5b51c3ce9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1767333210-0-0-b858f86cf6d29c1b364578e6da0729e1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1767333210-0-0-99d5dde847644cf9267022ca6dcf6a13
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/b296136dcf1904a4af8d0379012af7a1.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1767333210-0-0-8bb43925227fe4583acb50541104ee73
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1767335730-0-0-1db8d4d75f44cf12b86d280c87c4d45b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/b296136dcf1904a4af8d0379012af7a1.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1767333210-0-0-c3693893bd3f9ae9280ac6a5191ab656
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1767335730-0-0-b74be33fb876d680e7582cac51a5717e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/b296136dcf1904a4af8d0379012af7a1.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767333210-0-0-0ed070c3577191feb3cebcdabbb39cb4
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1767335730-0-0-ac0b76464e0d34a03301b9b782fcb59e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/b296136dcf1904a4af8d0379012af7a1.png",10h30 ngày 02/01 Los Angeles Clippers vs Utah Jazz [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767333210-0-0-944edfa8c6ba58336493359ae7700843
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [CHAN SENA] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767335730-0-0-aaad20de17ed6fbb174716c6104a0c5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1767333210-0-0-b4d7383dc46cc92a49bc95d455556616
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1767335730-0-0-1828117d61c772d8dce4201ac187e103
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1767333210-0-0-5f6f1a1b2249c32ca1cfd4b3c384749c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [CHAN SENA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1767335730-0-0-2f496258a794b3daf15d22dcaa4c933f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1767333210-0-0-656065d1507584f13cc4203b7dffc6d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/e426ee1b504876d3e2f0dfc64aedc464.png",10h00 ngày 02/01 Sacramento Kings vs Boston Celtics [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1767335730-0-0-f1e0e0530454b03c33f4331f990e61c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251231/0c14fd49ec220bf78b9417ad025c383b.png",12h00 ngày 02/01 Taiyuan W vs Taipower W [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1767333210-0-0-fb11ec4ee2761fdd74ef3f389271c14f
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767335730-0-0-bfbebe00f4db0612e4b223cc50f40348
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1767333210-0-0-664d4b31f5e824fb4ace4053d1c0e6bb
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1767335730-0-0-793dcd73112ffe4a54fad0e11843211f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1767333210-0-0-269219e6e554cdc280186b5d122b0ba2
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1767335730-0-0-a00e6993b22fb6d0212035168141757f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1767333210-0-0-9128bec53c0307dfd71169555a621d33
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1767335730-0-0-81933977daa180159f86e696d61a40f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1767333210-0-0-4c158363f9ee322053c28437ed1437f4
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1767335730-0-0-0a65fd43447b92001584b9a79bc3f32d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Crystal Palace vs Fulham [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1767333210-0-0-d2f8f0fb8c37f96788d8ec376a6694a8
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1767335730-0-0-cf88fe1929b8edd7984504cc718b2f11
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Crystal Palace vs Fulham [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1767333210-0-0-84541e91a07b83aba23f8e82da8bebe2
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1767335730-0-0-a6cf875601ca165a2a930a90fb130c63
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Crystal Palace vs Fulham [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1767333210-0-0-65b561eba0e832642c3306ed5928ab42
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1767335730-0-0-d0e8178b5da255222ada6b448f65c670
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Crystal Palace vs Fulham [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1767333210-0-0-55bb9e95a619fd9c10a7ade764eb3165
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1767335730-0-0-8f7bdc48766c853dbf788a45ee8b416e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Charlton Athletic vs Coventry City [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1767333210-0-0-2e83b875ff18018d3e883ea57f5acd22
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1767335730-0-0-33d5f3fc9600b1f423e08092fd0f2ad9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Charlton Athletic vs Coventry City [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1767333210-0-0-c1dbd6d400b0cdd400c17184aa52fcb2
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1767335730-0-0-91e07a0ac7820fc0ffa950b06bdc03fe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Charlton Athletic vs Coventry City [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1767333210-0-0-fd9b3823638f33b06a73948138f9c976
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1767335730-0-0-7c31519af81be8351866e05feeefb61a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Charlton Athletic vs Coventry City [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1767333210-0-0-8535099dde60525d8400ac454224cdf8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1767333210-0-0-f423e1bdbb4dd23d0f868894fa9166fa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1767333210-0-0-8a3e145af23e3b84109ef177ca484b5b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1767333210-0-0-7377c1914f9748009d2091f806f26bd6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1767333210-0-0-f7c9c7c135e215cbb723bae9766fe6d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1767333210-0-0-a451c343e906ebde8120769c36280616
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1767333210-0-0-d60aff751e0f8ea0ef2c786be01fe86e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1767333210-0-0-3ac3b9e28afa4529e853fa68f1fa4fa1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1767333210-0-0-46f166d3faed13586effbd8cba7cb7e4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1767333210-0-0-57381d43cc04b08accce0e4850c9407f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1767333210-0-0-4462660230fc58defdf1ca23c92642d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1767333210-0-0-c0d260da85a8efbb97dbe3f8d8c7bfe2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1767333210-0-0-37ccc9514e7136677cfead76975d2d81
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1767335730-0-0-7228531887d645e29c2279a95a6ba947
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Liverpool vs Leeds United [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1767333210-0-0-e5950151e70ab46e5b9c517aa56c44c6
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1767335730-0-0-2f3efafc867a92a8dac629032b06dbe9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Liverpool vs Leeds United [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1767333210-0-0-5832c334623f49c1e006cd8328e9f12a
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1767335730-0-0-6e3de10b06b9f8f63f8b4107c6d46f30
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Liverpool vs Leeds United [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1767333210-0-0-96f2b54b4dcaca6235b164c8b7d824d0
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1767335730-0-0-882b8dc532975859c184f9c1f6ed59e4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Liverpool vs Leeds United [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1767333210-0-0-7ef1d93033a40b5226d26cbba9669eca
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 02/01 Kings vs Celtics (1) [Bánh Cuốn] HD Nhanh
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1767335730-0-0-f91ad6dcd16a6a96aba351714659b6d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/cuonHD.flv?expire=1767366728&sign=acdc92e3c7c23edf2ecf1d2cab436135
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 02/01 Kings vs Celtics (1) [Bánh Cuốn] HD1
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1767335730-0-0-28a626530dc51e47f19b31e173387809
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/AGDHZ-Gj3WZ30ejdKE1q7Q/Fv2lucGIbhPi2caWYvF5Lg/1767366728463/live/cuonHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 02/01 Kings vs Celtics (1) [Bánh Cuốn] HD2
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1767335730-0-0-43a37f8547f7b1ca9af3fcd35801b739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767366728/0d267334868f46841d0b5ba3fb26d853/781253342/live/cuonHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 02/01 Kings vs Celtics (1) [Bánh Cuốn] SD
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1767335730-0-0-f884d42936606acb31210fcd526e1482
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Sunderland vs Manchester City [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/zM54qVOLZGu67KOSOwmC6g/Fv2lucGIbhPi2caWYvF5Lg/1767366728463/live/cuonSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 02/01 Kings vs Celtics (1) [Bánh Cuốn] FullHD
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1767335730-0-0-f8e426c45bce208952ddb98d4fb5c66a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1767366728/422de46eb8959d9e8a575a3b97a7e623/397145478/live/cuonFHD/playlist.m3u8
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1767335730-0-0-f38888be49587a11c7c4fcf736c3bc3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1767335730-0-0-1410e4ba043c38fea6c256eec825efdb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1767335730-0-0-0ddeff942ea6411e91bb9d7071f3bc43
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG PR - Brentford vs Tottenham Hotspur [Sóc mèo méo meo] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1767335730-0-0-0f8830da91d483119da1a6e5aff34b5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1767335730-0-0-76d406a7f565be2a4542841572f2b22a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1767335730-0-0-1b9055f277289558e0c156683eebbb74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1767335730-0-0-78056f5b443f471659d3d84b3ab7bbaa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20251228/e3a95769c84287bef723000b3737cfe3.png",Tường thuật: ENG LCH - Southampton vs Millwall [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1767335730-0-0-bf3bd888e5005c4e6d49526810c6b786
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Clippers.png",10:30 ngày 02/01 Clippers vs Jazz (1) [Người Cây] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
