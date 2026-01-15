@@ -463,14 +463,10 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/1a02b3bb5ec75b6ca8430c57915ac922.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Bún Chả)
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/1a02b3bb5ec75b6ca8430c57915ac922.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/f1806c863874f540a6f001fcf6a91444/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/b966ea6b6184429edfadc0d8b18781e6.png",17h00 ngày 15/01 Pardubice vs Vysocina jihlava (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/f06a676113676851f8441f9cc48afa84/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -914,6 +910,12 @@ https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15868_1gpysz5qxyn.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15868_1gpysz5qxyn.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15868_1gpysz5qxyn.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15868_1gpysz5qxyn.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -926,12 +928,6 @@ https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15868_1gpysz5qxyn.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15868_1gpysz5qxyn.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/15868_1gpysz5qxyn.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768404654.png",22h30 ngày 14/01 Barcelona vs Real Madrid (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -944,12 +940,6 @@ https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768468663.png",16h20 ngày 15/01 Chelsea vs Arsenal (Lương Sơn) BLV SHIN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2544_1hbcqm6gbp18.png",17h00 ngày 15/01 Pardubice vs Vysocina jihlava (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvYqrBsjQaqfA7cRi/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2544_1hbcqm6gbp18.png",17h00 ngày 15/01 Pardubice vs Vysocina jihlava (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768455744.jpg",12h45 ngày 15/01 Barcelona vs Real Madrid (Lương Sơn) BLV LƯU BỊ REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TO2A/index.m3u8?expire=1891408380&sign=b4fcc4558b2967d54c04070f325ecb14
@@ -960,10 +950,6 @@ https://flv.cdnok9.com/live/TO2A.flv?expire=1891408380&sign=b4fcc4558b2967d54c04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c85ca8444aa7dd9fb45f21ef494183ba.png",16h30 ngày 15/01 Chrudim vs Hradec Kralove B (Ra Khơi) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m503nd.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1a02b3bb5ec75b6ca8430c57915ac922.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2068,126 +2054,138 @@ https://stm02bc43163716.stream.hdplaylink.com/live7/1ee2146a98e64a149dfb0fc84ddc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/09fde34d63a44f09026f87c57caaa4b2/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ae28aa41846fc6be8dc86c61c287a780.png",19h30 ngày 15/01 Eyupspor vs Iğdır FK [BLV KINH TẾ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1768480171-0-0-b11d5a43bc58f28f9200785c6a21e93a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532999_lsd.flv?auth_key=1768481612-0-0-e4bc731f5a976ffc2aefe011b141a448
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ae28aa41846fc6be8dc86c61c287a780.png",19h30 ngày 15/01 Eyupspor vs Iğdır FK [BLV KINH TẾ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1768480171-0-0-9665710431bfc81100f2927438d88363
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-532999_lhd.flv?auth_key=1768481612-0-0-5af20e42e99013a9bb3b1135667fc813
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ae28aa41846fc6be8dc86c61c287a780.png",19h30 ngày 15/01 Eyupspor vs Iğdır FK [BLV KINH TẾ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1768480171-0-0-e7c49e33eb64dc06e7cd1fe9b9369a9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1768481612-0-0-0095e9aae83429d8565b33d37bdefdcd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ae28aa41846fc6be8dc86c61c287a780.png",19h30 ngày 15/01 Eyupspor vs Iğdır FK [BLV KINH TẾ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1768480171-0-0-e833208879ef81b6e8c259782515c6f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1768480171-0-0-d8d2a21b10e72b5540b1864f2d60ac6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1768480171-0-0-6917aae98c5cce9fde95a6e59947fed6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768480171-0-0-11bc77376dbe1792ec2b4207eb9f952b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768480171-0-0-2010621e0a487c1cb05023f160d90447
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1768480171-0-0-406d6a4f6561dff4f9f2bceced0c6f24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1768480171-0-0-ebc7762470bf3191d611ce37e69ea5d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1768480171-0-0-43b7df050964674f7e1cfca28ad63267
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1768480171-0-0-275f7f6d1c6bd2aaab695f33e9e01c42
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=ed5a0e59f65f3ef36ebd5bc6d2034769&txTime=696923fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=e7cfa5dcb1fd327f658e8a03ab829fc4&txTime=696923fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=ed5a0e59f65f3ef36ebd5bc6d2034769&txTime=696923fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=e7cfa5dcb1fd327f658e8a03ab829fc4&txTime=696923fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768480171-0-0-86ef777b2f4c8d02fa5fcf8ad6fffb5e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768480171-0-0-b0bec3680cca7d0b071627facb473aab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768480171-0-0-999678fcc35cd297d2310e6d765412ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768480171-0-0-78fe78ad8f6f0f8d4ed95ebf8746116e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1768480171-0-0-3514af9571675a93756f74c8829d1c20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1768480171-0-0-26ccbf89f3cf97b19cc5ea1342e078da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1768480171-0-0-df056ab9f3bb81fe89c28f4eacf11608
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1768480171-0-0-d96cb6428e26b76ddbd955e008c97b68
+https://pull.niues.live/live/stream-532999_lhd.m3u8?auth_key=1768481612-0-0-fbb36b733e5cd0b764ec01ba2d5715a6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1768480172-0-0-bbabb32c25d3ea6edea78adbdcef1c17
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1768481612-0-0-301f9ac0b91d36009522dbb3fbe2ef7f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1768480172-0-0-3ec0ea016e12fbaa67f0545b68955c6a
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1768481612-0-0-1b39db908e3dc7a463bfc50384efc3ce
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1768480172-0-0-1491562de6f7cd212303212d902659c9
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1768481612-0-0-2494f27179e4f10f811875699cbdfb7c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1768480172-0-0-308b476a0daf65a89a60883939c2b863
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1768481612-0-0-3e10f049f238f8dfb100cc656476093c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1768481611-0-0-be20855354485220051da920320e8e8b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1768481611-0-0-0b2d5372842130605bfe2a4acbb6ed75
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768481611-0-0-d1d44e41b428a189708e5e1095f4eff8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768481611-0-0-02483defb69d9e76acdde80d31cd84b4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1768481612-0-0-38dd487f000d8f0ce3fbadada6e019be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1768481612-0-0-39b194433248c7f31e3a58ae995288fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1768481612-0-0-a9b6cc4fb021b19d2178f7d43ea2565c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1768481612-0-0-6877d4015cc3ee930525f571ce5b53e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/9ed01dd22c89428d62044761127daf4e.png",17h30 ngày 15/01 Sydney vs Brisbane Bullets [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768480172-0-0-06038217f1a1390eb5c8def186e228f9
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768481612-0-0-bfd860dc9cd7c5b09221d6fda8bd5566
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/9ed01dd22c89428d62044761127daf4e.png",17h30 ngày 15/01 Sydney vs Brisbane Bullets [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768480172-0-0-21a47a896b4914109a55fedf7aee9072
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768481612-0-0-8b79af49370dcf6a7dd2097f232b438a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/9ed01dd22c89428d62044761127daf4e.png",17h30 ngày 15/01 Sydney vs Brisbane Bullets [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768480172-0-0-3410bee2992ffd19f4b9ccb798a91661
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768481612-0-0-21d82c423b0a0c16d1b0b421a23a3bf3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/9ed01dd22c89428d62044761127daf4e.png",17h30 ngày 15/01 Sydney vs Brisbane Bullets [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768480172-0-0-e0efd5ca47f0369e6615c033cb05940c
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768481612-0-0-1f39bfe74ba3bf4ad4f2e3947489a849
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1768481611-0-0-5263d227c00f62da57f3f991ff3eeaca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1768481611-0-0-a5c02b1df271baa3ba7937ad8479034a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1768481611-0-0-251692939539487c432957ec0b43bee1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1768481611-0-0-38b0ae8ea1eb2103834b34e601da004f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",KBL: Goyang Sono vs Wonju DB [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768480172-0-0-e43acaad732b6537212ac031a329bdbd
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768481612-0-0-43f73f9fb1f56da171122c329cb7c8cf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",KBL: Goyang Sono vs Wonju DB [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768480172-0-0-c00066e5f3b30b81e19ce1d05282b88f
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768481612-0-0-520ef5f97fcd122989dbaca47a4ac7f1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",KBL: Goyang Sono vs Wonju DB [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768480172-0-0-d5b9e937e766f95ec072c3930e08b5c7
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768481612-0-0-a13855808adf9c2a9ea6ad56d1032c1f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",KBL: Goyang Sono vs Wonju DB [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768480172-0-0-06257ac4390d71960e09caab6f45951a
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768481612-0-0-a2f2c5a44573d8d4b3a49d02df4eeb52
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1768481611-0-0-e3537886a1dcab04df09e80fa67a325c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1768481611-0-0-cab523f296358addbe3de281abd352e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1768481611-0-0-363e8a705765143d48fdd7b33e30329a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1768481611-0-0-d43a5a71ecebc9c6ba3159c739197543
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768481611-0-0-bca94717c2246c20cfa8adb78988a38b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768481611-0-0-ee446be74ca617588b0431b61a4e3486
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768481611-0-0-382f871b0d53c1eb3cca6eb80cf320f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260114/fc1eea53e90b4dcdc6f4bc04439f13d1.png",17h00 ngày 15/01 Seoul Knights vs LG Sakers [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768481611-0-0-9d646f6fc5749a7187f64e81f54618e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=b89f280459814451016d0ab73d4671f4&txTime=6969299c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=baacb0e6766915bfa3f3704b931a21b7&txTime=6969299c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=b89f280459814451016d0ab73d4671f4&txTime=6969299c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/847d8730cea664656f3446be97582946.png",17h00 ngày 15/01 Erzurum BB vs Caykur Rizespor [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=baacb0e6766915bfa3f3704b931a21b7&txTime=6969299c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768480171-0-0-56330c7c1b64b9d9c16113a0bd29cf01
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768481611-0-0-cc916d60c9b323c94bba8da668d6531e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768480171-0-0-bb132ee196b5dbed3ec0b111edf67db5
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768481611-0-0-0a1b62e3fa27caed0e130ad9ba813c11
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768480171-0-0-779f3335410453425ec85314caad4247
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768481611-0-0-3774674383bd3cd142a6636ea60af756
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260111/ac4e732224176d526bac5b1c4a21d874.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768480171-0-0-b4494679bc0c23738ac661ce8efba952
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768481611-0-0-0b181807d796ea495c4f9d562e80a8ee
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/xpBYua9j-zNPSp5c2.png",11:30 ngày 15/01 India Open (1) [Thịt Xiên] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
