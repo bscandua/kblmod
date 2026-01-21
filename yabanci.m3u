@@ -541,10 +541,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/4a446e4449b8e771594d99d8043c5c42.png",08h00 ngày 21/01 Kickstart Barbados FC vs Ellerton FC (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/8ca8dbfe761b8c8906c0b91ed5a5ab1d/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -553,6 +549,10 @@ https://live.alilicloud.com/live/076461a7c71226a01d3d01b1616ff6fe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/dd9db37e0d067044e5cb1ecbe4bde267/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/85154028a299c30dace53ce1d277ef34/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Cá heo",20h30 ngày 11/01 SC Telstar vs AFC Ajax - SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -958,192 +958,162 @@ https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m505nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 ngày 20/01 Nhật Bản U23 vs Hàn Quốc U23 (Lấy kinh) SD 1
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phangsd2Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 ngày 20/01 Nhật Bản U23 vs Hàn Quốc U23 (Lấy kinh) HD 1
+https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phanghd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 ngày 20/01 Nhật Bản U23 vs Hàn Quốc U23 (Lấy kinh) SD 2
+https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 ngày 20/01 Nhật Bản U23 vs Hàn Quốc U23 (Lấy kinh) HD 2
+https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Lấy kinh) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phanghd2Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 ngày 20/01 Nhật Bản U23 vs Hàn Quốc U23 (Lấy kinh) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w100",18h30 ngày 20/01 Nhật Bản U23 vs Hàn Quốc U23 (Lấy kinh) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phanghd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",18h00 ngày 20/01 Gil Vicente U23 vs Rio Ave U23 (Lấy kinh) SD 1
+https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nungsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",18h00 ngày 20/01 Gil Vicente U23 vs Rio Ave U23 (Lấy kinh) HD 1
+https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",18h00 ngày 20/01 Gil Vicente U23 vs Rio Ave U23 (Lấy kinh) SD 2
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",18h00 ngày 20/01 Gil Vicente U23 vs Rio Ave U23 (Lấy kinh) HD 2
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lấy kinh) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nunghd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",18h00 ngày 20/01 Gil Vicente U23 vs Rio Ave U23 (Lấy kinh) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/cafffa2ecdd4dcd266fd406ef8491265.png",18h00 ngày 20/01 Gil Vicente U23 vs Rio Ave U23 (Lấy kinh) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/56d3aeaa2fd038791adb4364e9543b82.png",19h00 ngày 20/01 LKS Lodz vs Csakvari TK (Lấy kinh) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",09h00 ngày 21/01 Saint Louis Athletica (w) vs Club America (w) (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/b3cb1dab4929d327b7ee42553a2fef58.png",19h00 ngày 20/01 Lechia Gdansk vs Hradec Kralove (Lấy kinh) Nhà đài
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",09h00 ngày 21/01 Saint Louis Athletica (w) vs Club America (w) (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/ead0df366555ff01fd987a0f46634179.png",19h00 ngày 20/01 Budapest Honved FC vs Synot Slovacko (Lấy kinh) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",09h00 ngày 21/01 Saint Louis Athletica (w) vs Club America (w) (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/25f6229c7eaa1f317bc8171ff1f6ee31.png",19h00 ngày 20/01 Kudrivka vs Arda (Lấy kinh) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",09h00 ngày 21/01 Saint Louis Athletica (w) vs Club America (w) (Lấy kinh) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m205nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/6479b9261f2e5177540d5d6ad452cc7e.png",19h30 ngày 20/01 Petrojet vs Future FC (Lấy kinh) Nhà đài
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",09h00 ngày 21/01 Saint Louis Athletica (w) vs Club America (w) (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m202qt/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/35e665fa4086e183fda582249d625c2b.png",19h30 ngày 20/01 El Gounah vs Pyramids FC (Lấy kinh) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png",09h00 ngày 21/01 Saint Louis Athletica (w) vs Club America (w) (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m203qt/playlist.m3u8 
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/a25acb82e4b584881a60b6f98ffd39a0.png",19h30 ngày 20/01 FC Blau Weiss Linz vs FK Čukarički (Lấy kinh) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/958847e6fef63efb5913d460746ba5b7.png",19h30 ngày 20/01 KS Wieczysta Krakow vs FK Sloga Doboj (Lấy kinh) Nhà đài
+https://ckhot-179939170.cdnfree.pro/live/paosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/c6e337431c399ed26431b7634742aea1.png",20h00 ngày 20/01 Oman Club vs Al-Nasr(OMA) (Lấy kinh) Nhà đài
+https://mrkw1025.edgemaxcdn.org/live/paohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/m302nd/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/86dbcc07171bdf7cc9f39337db4d545a.png",20h30 ngày 20/01 Al Markhiya vs Al-Wakra (Lấy kinh) SD 1
+https://mrkw1025.edgemaxcdn.org/live/paosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lấy kinh) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/86dbcc07171bdf7cc9f39337db4d545a.png",20h30 ngày 20/01 Al Markhiya vs Al-Wakra (Lấy kinh) HD 1
+https://ckhot-179939170.cdnfree.pro/live/paohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lấy kinh) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/86dbcc07171bdf7cc9f39337db4d545a.png",20h30 ngày 20/01 Al Markhiya vs Al-Wakra (Lấy kinh) SD 2
+https://mrkw1025.edgemaxcdn.org/live/paosd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lấy kinh) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/86dbcc07171bdf7cc9f39337db4d545a.png",20h30 ngày 20/01 Al Markhiya vs Al-Wakra (Lấy kinh) HD 2
+https://mrkw1025.edgemaxcdn.org/live/paohd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/86dbcc07171bdf7cc9f39337db4d545a.png",20h30 ngày 20/01 Al Markhiya vs Al-Wakra (Lấy kinh) SD Nhanh
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Lấy kinh) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/86dbcc07171bdf7cc9f39337db4d545a.png",20h30 ngày 20/01 Al Markhiya vs Al-Wakra (Lấy kinh) HD Nhanh
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Lấy kinh) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31143_1gpyw71xd0g.png",08h00 ngày 21/01 Pachuca (W) vs Puebla (W) (Lương Sơn) BLV SHIN m3u
+https://mrkw1025.edgemaxcdn.org/live/dosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Lấy kinh) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Lấy kinh) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dosd1Rk.flv
+#EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Lấy kinh) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768932388.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31143_1gpyw71xd0g.png",08h00 ngày 21/01 Pachuca (W) vs Puebla (W) (Lương Sơn) BLV SHIN flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768932388.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768932346.png",10h00 ngày 21/01 Golden State Warrior vs Toronto Raptors (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1768932346.png",10h00 ngày 21/01 Golden State Warrior vs Toronto Raptors (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31144_1gqc389a3j1y.png",10h00 ngày 21/01 Tijuana (W) vs Juarez FC (W) (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31144_1gqc389a3j1y.png",10h00 ngày 21/01 Tijuana (W) vs Juarez FC (W) (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31144_1gqc389a3j1y.png",10h00 ngày 21/01 Tijuana (W) vs Juarez FC (W) (Lương Sơn) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31144_1gqc389a3j1y.png",10h00 ngày 21/01 Tijuana (W) vs Juarez FC (W) (Lương Sơn) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5236_1h6wfek5q11g.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5236_1h6wfek5q11g.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9233_1gq952h3ccw.png",09h00 ngày 21/01 Saint Louis Athletica (W) vs Club America (W) (Lương Sơn) BLV URA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9233_1gq952h3ccw.png",09h00 ngày 21/01 Saint Louis Athletica (W) vs Club America (W) (Lương Sơn) BLV URA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",08h00 ngày 21/01 Kickstart Barbados FC vs Ellerton FC (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MvVcpZ7kLKHwm1kSG/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="",08h00 ngày 21/01 Kickstart Barbados FC vs Ellerton FC (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6217_1h71msx3mgj.png",09h00 ngày 21/01 Xelaju MC vs Club Aurora (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvYrF63MvyFQwkxep/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6217_1h71msx3mgj.png",09h00 ngày 21/01 Xelaju MC vs Club Aurora (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaosd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/ngaohd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaosd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/3e3b6ee56da87fbd59df8e6847ad4d19.png",08h00 ngày 21/01 Pachuca (w) vs Puebla (w) (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/ngaohd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/caysd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns (Ra Khơi) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/caysd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns (Ra Khơi) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/cayhd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/a507b1509e1f640108395b0580b46976.png",09h00 ngày 21/01 Herediano vs Guadalupe FC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1192,54 +1162,34 @@ https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://static.flashscore.com/res/image/data/GCXCT0Xg-IXFXtCoA.png",07:30 ngày 01/21 Jaime Faria vs Andrey Rublev (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08:00 ngày 01/21 Pachuca (W) và Puebla (W) (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08:00 ngày 01/21 Pachuca (W) và Puebla (W) (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x8y3-9776/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08:00 ngày 01/21 Pachuca (W) và Puebla (W) (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/148967_small.png",08:15 ngày 01/21 Cerro Largo vs Deportes Concepcion (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/148967_small.png",08:15 ngày 01/21 Cerro Largo vs Deportes Concepcion (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x0y3-3633/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/148967_small.png",08:15 ngày 01/21 Cerro Largo vs Deportes Concepcion (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/148967_small.png",08:15 ngày 01/21 Cerro Largo vs Deportes Concepcion (Sao kê) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke1x2/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/dosd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dosd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/dohd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dosd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d69f7b4e5781756f141810f0716bcbe6.png",10h00 ngày 21/01 Tijuana (w) vs Juarez FC (w) (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/dohd1Rk.flv
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/v2/team/d4f05c8edf79b17f1fc9d3f369cd08b0.png!w60",08:30 ngày 01/21 Daniil Medvedev vs Quentin Halys (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke4x1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066915_small.png",09:00 ngày 01/21 Atletico de San Luis (W) và CF America (W) (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066915_small.png",09:00 ngày 01/21 Atletico de San Luis (W) và CF America (W) (Sao kê) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x21y3-1170/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1066915_small.png",09:00 ngày 01/21 Atletico de San Luis (W) và CF America (W) (Sao kê) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x21y2/playlist.m3u8
 #EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/49726_small.png",09:00 ngày 01/21 Club Sport Herediano và Guadalupe FC (Sao kê) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1264,10 +1214,30 @@ https://wtyi0525.edgemaxcdn.org/live/x2y3-4998/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x2y2/playlist.m3u8
-#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png!w60",09:30 ngày 01/21 Coco Gauff vs Olga Danilovic (Sao kê) Nhà đài
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://static.flashscore.com/res/image/data/OfjQEPjl-EZcCkAic.png",10:00 ngày 01/21 Carlos Alcaraz Garfia vs Yannick Hanfmann (Sao kê) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980699_small.png",10:06 ngày 01/21 Club Tijuana (W) và FC Juarez (W) (Sao kê) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980699_small.png",10:06 ngày 01/21 Club Tijuana (W) và FC Juarez (W) (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10y3-1620/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980699_small.png",10:06 ngày 01/21 Club Tijuana (W) và FC Juarez (W) (Sao kê) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://static.flashscore.com/res/image/data/vVMPN8HG-jwKmdl7a.png",10:30 ngày 01/21 Anastasia Potapova vs Emma Raducanu (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
+#EXTINF:0 group-title="Sao kê" tvg-logo="https://img0.aiscore.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png!w60",10:50 ngày 01/21 Coco Gauff vs Olga Danilovic (Sao kê) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ec8b586efed47ce8d6c476fff36854c7/image/small?v=1768601124",09h00 ngày 21/01 CS Herediano vs Guadalupe FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1288,10 +1258,22 @@ https://live.alilicloud.com/live/c23bada9fbabec32d02bbc6feb711658/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/09f41a156ad659b9ef5520d4f94017bc/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/85154028a299c30dace53ce1d277ef34/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4709357c274fe8465e2113334ddb1708/image/small?v=1768601124",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/dd9db37e0d067044e5cb1ecbe4bde267/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/11343fb88d34748781eacfff29f338ad/image/small?v=1768601124",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/cc54185920235305e1e020bf8976324d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1df01772faa3858fef62b82cfd96e27b/image/small?v=1768601124",08h00 ngày 21/01 Kickstart Barbados FC vs Ellerton FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8ca8dbfe761b8c8906c0b91ed5a5ab1d/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3c2c836fb198cd378fa72771ce7b3c74/image/small?v=1768601124",06h00 ngày 21/01 Gremio Novorizontino vs Palmeiras (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1300,22 +1282,6 @@ https://live.alilicloud.com/live/db0c5fd18cccea1f8270789a6245f70f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/52820f667520436b07ecf02ac7bf3e29/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/4709357c274fe8465e2113334ddb1708/image/small?v=1768601124",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dd9db37e0d067044e5cb1ecbe4bde267/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1df01772faa3858fef62b82cfd96e27b/image/small?v=1768601124",08h00 ngày 21/01 Kickstart Barbados FC vs Ellerton FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8ca8dbfe761b8c8906c0b91ed5a5ab1d/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_181103_1c996e64.png",08h00 ngày 21/01 Pachuca W vs Puebla W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_181103_1c996e64.png",08h00 ngày 21/01 Pachuca W vs Puebla W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133405_44f4a701.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1324,6 +1290,14 @@ https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143653_72f0bbb2.png",10h06 ngày 21/01 Tijuana W vs Juárez W (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143653_72f0bbb2.png",10h06 ngày 21/01 Tijuana W vs Juárez W (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133805_9ad6742b.png",15h00 ngày 21/01 Newcastle Jets FC W vs Adelaide United W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1616,694 +1590,754 @@ https://stream.chuoichien.tv/chuoi99.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/076461a7c71226a01d3d01b1616ff6fe/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8b842a8c4d073f9bd68bec786d13c5b6/image/small?v=1768601124",06h00 ngày 21/01 Desportiva Ferroviaria ES vs Vilavelhense (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/eac94d2bb7833ab0ed01078c9a2a5983/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small?v=1768601124",08h00 ngày 21/01 Pachuca Women vs Puebla Women (Gà Vàng) source
+https://live.alilicloud.com/live/85154028a299c30dace53ce1d277ef34/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Gà Vàng) sd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c23bada9fbabec32d02bbc6feb711658/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small?v=1768601124",08h00 ngày 21/01 Pachuca Women vs Puebla Women (Gà Vàng) sd_1
+https://stm02bc43163716.stream.hdplaylink.com/live7/2d37688d37aa4d6ab8de475b995675ec_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Gà Vàng) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/485563e9a33444ccba31697dd6737c5e_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small?v=1768601124",08h00 ngày 21/01 Pachuca Women vs Puebla Women (Gà Vàng) hd_1
+https://stm02bc43163716.stream.hdplaylink.com/live7/2d37688d37aa4d6ab8de475b995675ec_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Gà Vàng) sd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/485563e9a33444ccba31697dd6737c5e_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small?v=1768601124",08h00 ngày 21/01 Pachuca Women vs Puebla Women (Gà Vàng) sd_2
+https://live7.fastestcdn-global.com/live7/2d37688d37aa4d6ab8de475b995675ec_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Gà Vàng) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/485563e9a33444ccba31697dd6737c5e_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small?v=1768601124",08h00 ngày 21/01 Pachuca Women vs Puebla Women (Gà Vàng) hd_2
+https://live7.fastestcdn-global.com/live7/2d37688d37aa4d6ab8de475b995675ec_720/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Gà Vàng) sd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live7.fastestcdn-global.com/live7/485563e9a33444ccba31697dd6737c5e_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small?v=1768601124",08h00 ngày 21/01 Pachuca Women vs Puebla Women (Gà Vàng) sd_3
+https://stm02bc38017100.stream.hdplaylink.com/live8/2d37688d37aa4d6ab8de475b995675ec_720/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/44e3c29bbce6c22ddaff1ae3cdda0b81/image/small?v=1768601124",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women (Gà Vàng) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/485563e9a33444ccba31697dd6737c5e_720/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f28104ca4974d6796f1da29a751ed375/image/small?v=1768601124",08h00 ngày 21/01 Pachuca Women vs Puebla Women (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc38017100.stream.hdplaylink.com/live8/485563e9a33444ccba31697dd6737c5e_720/playlist.m3u8
+https://stm02bc38017100.stream.hdplaylink.com/live8/2d37688d37aa4d6ab8de475b995675ec_720/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4709357c274fe8465e2113334ddb1708/image/small?v=1768601124",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/dd9db37e0d067044e5cb1ecbe4bde267/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/11343fb88d34748781eacfff29f338ad/image/small?v=1768601124",06h00 ngày 21/01 Azuriz FC vs Athletico Paranaense (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/cc54185920235305e1e020bf8976324d/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1df01772faa3858fef62b82cfd96e27b/image/small?v=1768601124",08h00 ngày 21/01 Kickstart Barbados FC vs Ellerton FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8ca8dbfe761b8c8906c0b91ed5a5ab1d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/eb12898243e66afcc2a5d69f072f3287/image/small?v=1768601124",06h30 ngày 21/01 Galo Maringa vs Maringa FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/52820f667520436b07ecf02ac7bf3e29/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV  TYPN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1768964732-0-0-f54912d4649bad4ddd73a29498e1d0c8
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1768970492-0-0-6c37af4922b8f52631be5f546b174b67
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV  TYPN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1768964732-0-0-f5f468541aa98d57a6215e78c08d09e5
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1768970492-0-0-4a7d09f8a42ba46e78267038a648ed9e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV  TYPN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1768964732-0-0-013743fdfaad133b029cf5d5f5ed7f56
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1768970492-0-0-b997778dc2cbc02f3682130f882a7693
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV  TYPN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1768964732-0-0-0b022c7c7110f2accb97ee9b41f9b0b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1768964732-0-0-c82fe2c62e71b055ba5b664718d7e057
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1768964732-0-0-fa1716b71523333fa6376dd5303e0f9b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768964732-0-0-7c1aeecab524831a6cab79ea78d1b8a6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768964732-0-0-ede5d8023a275bdf289db55a264b72d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1768964732-0-0-167c749534fd648e4761e0ec52db5989
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1768964732-0-0-14dc1ae6095834cb9b2c155e75ed78db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1768964732-0-0-95afacf5bd0854a89933fdce03a6e4b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1768964732-0-0-e29443dd359c093c9cd70f3c196c05ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1768965092-0-0-2f22d1c97fec50ac4eb6817958c36c38
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1768965092-0-0-542b831cd14726692b4b26847d7ce5d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1768965092-0-0-06d47f201d71c3c96fd18323fc90a502
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1768965092-0-0-35627208136e6455d9909d149046af98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=33328f4f05813c20109bcf3bc3c5d5b4&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=a15a70f908660bd1d638841a519cc8f3&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=33328f4f05813c20109bcf3bc3c5d5b4&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=a15a70f908660bd1d638841a519cc8f3&txTime=69708a34
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1768970492-0-0-bd8b7304b2040a1c8e9bd7e769e68d29
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV PIRLO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=98100c3cc7b3cdd0a98caca960b13b35&txTime=69708a34
+https://pull.niur.live/live/stream-351530_lsd.flv?txSecret=832d61179705796bdbc69689ee4da074&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV PIRLO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=d797a0e4aa82019113481aabd6227570&txTime=69708a34
+https://pull.niur.live/live/stream-351530_lhd.flv?txSecret=aeab89c5ea34374826bddcd2ede6e168&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV PIRLO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=98100c3cc7b3cdd0a98caca960b13b35&txTime=69708a34
+https://pull.niur.live/live/stream-351530_lsd.m3u8?txSecret=832d61179705796bdbc69689ee4da074&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV PIRLO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=d797a0e4aa82019113481aabd6227570&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) flv
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=aeab89c5ea34374826bddcd2ede6e168&txTime=69709f4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1768965092-0-0-b982d545daa03eacf2a8d0a1b96fe38b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1768970492-0-0-3e2179be01484bc3ce21ecae24fdbd51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1768965092-0-0-303340ee379995f7532a6fe5f5a9ac65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1768970492-0-0-142744df0233d85db7d5bb5242d1de87
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1768965092-0-0-1e7c351c66c5f56e2f73b043f2791aad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1768970492-0-0-e8e492f4208282a70be678f60e760c51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1768965092-0-0-ef66f4ebdb18462c748a6e378dd47dde
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1768970492-0-0-9d7b97def45febf3eb71eb78f3bd3b5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=988b64ca75d66416036409da17904b51&txTime=69709f4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=5a2b17a5619a5196c13211f7e919f04b&txTime=69709f4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=988b64ca75d66416036409da17904b51&txTime=69709f4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=5a2b17a5619a5196c13211f7e919f04b&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SHIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=ae32cffd5a226010fa372a5bdf8d9bce&txTime=69708a34
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=dc13af38f87673180cfc54dfa6f6eab3&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SHIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=a6d2987c696d68fa621ff4d3caf052db&txTime=69708a34
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=aaad3228afbf633ed65cf17cd55e7917&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SHIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=ae32cffd5a226010fa372a5bdf8d9bce&txTime=69708a34
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=dc13af38f87673180cfc54dfa6f6eab3&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SHIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=a6d2987c696d68fa621ff4d3caf052db&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=04a79b469ae4d35f54c46156b9de0d36&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=4e7d874eaf615af1f8614d72b2b56ae4&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=04a79b469ae4d35f54c46156b9de0d36&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4e7d874eaf615af1f8614d72b2b56ae4&txTime=69708a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1768965092-0-0-e47560937632b15bf41872136bff06c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1768965092-0-0-fd32b31275867f8fde9f726ec203b73b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768965092-0-0-5fca4e8202c416cbe05d76a7c78fddad
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768965092-0-0-4f1ca3d191925796ef4bb589030ab670
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [VỊT BẠC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1768965092-0-0-6399a6134bfe016fc2d9e61075ba3fc3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [VỊT BẠC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1768965092-0-0-05b34ed760d350fbf3676e5aebcabdd0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [VỊT BẠC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1768965092-0-0-473cca02d312ff83211242803a7aba46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [VỊT BẠC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1768965092-0-0-828f280e6b5c1a3c2d99464f1a276a32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1768965092-0-0-cf7fd1fdbd6dd011112621f642463737
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1768965092-0-0-26714bc43b888d30d20fa24bc26d0c06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768965092-0-0-faff93d527f9012e1e73a5716758dc7e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768965092-0-0-2de42da2bbe5252e1d94c3555039ed58
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=aaad3228afbf633ed65cf17cd55e7917&txTime=69709f4c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1768965092-0-0-d8e2cdec9291ca49c222326a16268583
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1768970492-0-0-938bf6a1401936054a28096f913fba96
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1768965092-0-0-849547125acbd59c331a1818fec82f00
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1768970492-0-0-f368167ab0995b920a325c47c0165db6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1768965092-0-0-e96e681bdb8f36d4542cce23ee667a9f
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1768970492-0-0-fdcb2b76b46914138bac5e4069235487
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1768965092-0-0-ad7d902aa6ea0901ec17d51176978155
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1768970492-0-0-b403a085fecacb5a3b0407a9552e8855
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1768970492-0-0-9c39693579293941d30df082951d190b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1768970492-0-0-c47d7f8db5ce25d5595e104fe22a2d03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1768970492-0-0-f70838f2a2a837b0f2fa39d7cd8f772c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1768970492-0-0-992b52add18d895c066b707cdcf8c833
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1768970492-0-0-1d2b5d428c59c09cc2a888914763cf90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1768970492-0-0-67c041ef936b78d0a51fd9d30e8458d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1768970492-0-0-5f36885587e7818f5d8b9abc6dff0321
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/eb2b3aa1cadc375819ba4cb064538c59.png",08h00 ngày 21/01 Houston Rockets vs San Antonio Spurs [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1768970492-0-0-788c5dcfa03d783e4d998be7f7251c28
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1768970492-0-0-d6b05964ddf9633702824b4e22671785
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1768970492-0-0-2aa79a32eba6816aa1557eb30a6b35d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1768970492-0-0-ca55b82d8616867fc93feee109bed705
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1768970492-0-0-3d1eebb2612ed5711c9c95bfdb813c4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/4cdbd10c6b316d0af4bbfc7ffdf104d9.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768970492-0-0-10a67fca4408d795714f136b86902d88
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/4cdbd10c6b316d0af4bbfc7ffdf104d9.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768970492-0-0-9ca5855f667a429afbe05cd126d9b328
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/4cdbd10c6b316d0af4bbfc7ffdf104d9.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768970492-0-0-ccfd4f479c8488bd1fc47cb65d45d74c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/4cdbd10c6b316d0af4bbfc7ffdf104d9.png",10h00 ngày 21/01 Denver Nuggets vs Los Angeles Lakers [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768970492-0-0-d30c3fc2452afed0f3deb143dbea8882
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1768970492-0-0-055f75b86a9209d6c0f351abac9fd4ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1768970492-0-0-392ff4533f7ab10f91abd8d903aad1d5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1768970492-0-0-84f70efb7c371b7db6f52a95411ddd13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV KAI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1768970492-0-0-42f80f8b3c57c7c77e2a7d7381ca3eae
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [CÔNG LÝ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1768965092-0-0-a42871e1669bb79044df94db3ebbd706
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1768970492-0-0-563299afbaf75bea08b0495a8b3b30d9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [CÔNG LÝ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1768965092-0-0-c5256d49edbe2ddfaf18ce4890b45692
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1768970492-0-0-9d258966e141677dbffd8cc97c745618
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [CÔNG LÝ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1768965092-0-0-56dfc4a07a8d35cb04f55e48f8acba60
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1768970492-0-0-d5a135d1a7b8e6d50794698a04eb7cbf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [CÔNG LÝ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1768965092-0-0-c8717b3096697c30b305ac440fc829fd
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1768970492-0-0-8370c0fede53955f453f7c674ad82595
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1768970492-0-0-2bd42582215de0e4a719b47b11f7e4db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1768970492-0-0-68c46a0487f5545eb3f745a519a50039
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1768970492-0-0-372d703f9a2484c335d4c316b157a8ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/a8eadfb71e814cf76daec7e0f1045562.png",10h00 ngày 21/01 Golden State Warriors vs Toronto Raptors [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1768970492-0-0-a13106e827cc1938b0c6a31438b4e88e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/0c46e26d21ec16933a59d76924914525.png",10h00 ngày 21/01 Sacramento Kings vs Miami Heat [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1768970492-0-0-eb82a4686dd629fb9aab989b53bc4c9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/0c46e26d21ec16933a59d76924914525.png",10h00 ngày 21/01 Sacramento Kings vs Miami Heat [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1768970492-0-0-fa81d5707c4b8af0e9067f967400be8b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/0c46e26d21ec16933a59d76924914525.png",10h00 ngày 21/01 Sacramento Kings vs Miami Heat [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1768970492-0-0-c5062e1d991bd5220f6771df6e9880d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/0c46e26d21ec16933a59d76924914525.png",10h00 ngày 21/01 Sacramento Kings vs Miami Heat [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1768970492-0-0-50dc4d99bc604fd6c1ed07320c3c6846
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768965092-0-0-9607ccb394d28a41d5e98dfd6c957e0d
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1768970492-0-0-9ea52847c9795e516a7636ff50c63f1e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768965092-0-0-395181444b5c63746cf6cfdbfeab08b8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1768970492-0-0-36a15e02928207e0245cbebbc15f69b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768965092-0-0-f655854b7123c0f6bdac17cefe75bdac
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1768970492-0-0-a97fd6f397247d558816805afb606607
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260117/ef6650be1c2df601b85064f951a1283d.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768965092-0-0-ff57eb0b820e78594fc47adf4b760b0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1768970492-0-0-a120803c94934957b7114c41711ca458
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1768965452-0-0-20c0a761b522885825a12ddb9e8cb347
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1768970852-0-0-fd93fadbfa1db1f9d6d0a9a892ad8f44
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1768965452-0-0-26fc25cc8840aceb68a4306ed6f1ae12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1768970852-0-0-d1301a14f040ad7b263595db3909544a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1768965452-0-0-a48ac597ea421933d5893e97ebf46c3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1768970852-0-0-2f5c74edac19dc176ffe7deed05a968b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1768965452-0-0-93065e1df10778876d9e7b5ff8070ecc
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1768970852-0-0-d561423e1f4079f6457c8b40c4f59fd6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1768965452-0-0-ce1b3304ea5786a28428d848084e9c27
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1768970852-0-0-4d1075110d6dd50dfe3e07016b082462
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1768965452-0-0-ebb7a72b4813e01747b0a224a0c16787
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1768970852-0-0-e09813964bfb092137a0f429dab431e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1768965452-0-0-d11581649ee963e2fbc8fc161e8c78b1
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1768970852-0-0-e2e205fa6c013924ead55926fcedc98e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/5efda9573eb86293d0e97e608fddbfb4.png",09h00 ngày 21/01 CS Herediano vs Guadalupe FC [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1768965452-0-0-6868fac34d74ebdcba1e378d84aaf5ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [XUÂN SON] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1768970852-0-0-07310b029a408806cb71a540427b49e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=b55ade89b33298e061ec7df4ebc48f8c&txTime=69708b9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [XUÂN SON] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1768970852-0-0-52fda580af236dd07f1fbbbc05e47dbd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=8fb9e0678c03cd0e6671b75fe62fc42f&txTime=69708b9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [XUÂN SON] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1768970852-0-0-3a99dd0a8fdfbde0ab34e7274023b2f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=b55ade89b33298e061ec7df4ebc48f8c&txTime=69708b9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/10524374f1cc4b64956ed3cb1d5eff45.png",08h00 ngày 21/01 Pachuca Women vs Puebla Women [XUÂN SON] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1768970852-0-0-7e6254ca80c6c3ada2f5dc9198549d9f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8fb9e0678c03cd0e6671b75fe62fc42f&txTime=69708b9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) flv
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1768970852-0-0-a5baed8cade10ccccf5d126d41630a19
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1768965452-0-0-6bf7b43509f18a992aa65bd31dea093a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1768970852-0-0-f4486e676bdde9ad9b12906ec35a8978
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1768965452-0-0-f2813cde2ad87995b32dd1046c47735f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1768970852-0-0-bf3c57ef129cf28e0db2d4b875f79b21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1768965452-0-0-7b30574324e4500ff57fa03560e09b6c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/590740d1110007e08ea43fa16ca3c2a0.png",07h00 ngày 21/01 Philadelphia 76ers vs Phoenix Suns [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1768970852-0-0-05caf79999097919a05bb6d6daa64adc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1768965452-0-0-05b179f776c486d7e7490c8155ee6a7b
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1768970852-0-0-51bb350b724dd3ffa089375b0f14a24a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1768970852-0-0-d585e4c70892ad28524701edeac9f9ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1768970852-0-0-43fc3dfdca28c263e2a1b66f0b1c4aa5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1768970852-0-0-9a026c025726e12707847ceb8bb4a7b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1768970852-0-0-021caad29e6fd374c046e5356029e489
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV SINGER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1768970852-0-0-4fb3839ac9f7ebfc352746be08277a9b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV SINGER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1768970852-0-0-2119361f1371cb4b5e953c0b120a3747
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV SINGER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1768970852-0-0-7613ee6e8a584320107a0e5e75634138
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [BLV SINGER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1768970852-0-0-71c2b266b70e2c0491ccda04c398f039
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1768970852-0-0-ad522e6f6865ca290f2f7fd67a998f9c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1768970852-0-0-6284e4434201b903cf1ae615e5d16136
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1768970852-0-0-b28925dc62c28d44a39637044e9fb966
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/480e23a16226b22ae73cba025208f0f5.png",09h00 ngày 21/01 Xelaju MC vs Aurora F.C. [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1768970852-0-0-08613b577cb4d93290d092f64e282f99
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1768970852-0-0-f71245d6f3ca69cad31fe13ead0530e4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1768970852-0-0-3bab13e069bb60c2a8c500a31e58e0ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1768970852-0-0-b24b6ae7c5cd874cb84d9a938514062a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/52d82a37d581498fa195e3997323b154.png",10h00 ngày 21/01 Tijuana Women vs Juarez FC Women [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1768970852-0-0-d1f97184cb72914b7379a00c4186642b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV Hổ Lùn] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=3b0e0e5e3421b7e99fcbeb34860ee269&txTime=69708b9c
+https://pull.niur.live/live/stream-308080_lsd.flv?txSecret=96be2df01d70d19c8f664d5e6a4d6ccd&txTime=6970a0b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV Hổ Lùn] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=5f1c7758b665384d95bdd3d11a3718ea&txTime=69708b9c
+https://pull.niur.live/live/stream-308080_lhd.flv?txSecret=7fa829869c4cae6215b196ba3a805e64&txTime=6970a0b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV Hổ Lùn] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=3b0e0e5e3421b7e99fcbeb34860ee269&txTime=69708b9c
+https://pull.niur.live/live/stream-308080_lsd.m3u8?txSecret=96be2df01d70d19c8f664d5e6a4d6ccd&txTime=6970a0b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260118/0a03e1b80d6bc3c9b1ca231879afbe13.png",09h00 ngày 21/01 Saint Louis Athletica Women vs Club America Women [BLV Hổ Lùn] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=5f1c7758b665384d95bdd3d11a3718ea&txTime=69708b9c
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 ngày 21/01 76ers vs Suns (1) [Người Lửa] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1768979165&sign=83e35af17702cd00e9eb361f947e5ad4
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 ngày 21/01 76ers vs Suns (1) [Người Lửa] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979165/590d96b51b11cce88b8d71277cdcef3f/860684062/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 ngày 21/01 76ers vs Suns (1) [Người Lửa] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/R0LqYPbnSyS69lN4kZGwgw/Fv2lucGIbhPi2caWYvF5Lg/1768979165686/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 ngày 21/01 76ers vs Suns (1) [Người Lửa] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/ZmkGlNQiI4lifRIVXWs06A/Fv2lucGIbhPi2caWYvF5Lg/1768979165686/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/76ers.png",07:00 ngày 21/01 76ers vs Suns (1) [Người Lửa] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979165/c678da9846239d651db60f2aa8b43de2/147883076/live/luaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/datHD.flv?expire=1769004366&sign=0ba9107ce725d75bbc9fb088e266e05b
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004366/2af9824b56d0f060efe589dbdf652618/956197275/live/datHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/vgUgWexgwnQAGf3_TVMibg/Fv2lucGIbhPi2caWYvF5Lg/1769004366818/live/datHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/B4nGKySY74E9m6D5FAB6BA/Fv2lucGIbhPi2caWYvF5Lg/1769004366818/live/datSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004366/bcb66291828893991232515adb4f4214/574661555/live/datFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/1PmhsWiWP2-B3Xdsj4vGvA/Fv2lucGIbhPi2caWYvF5Lg/1769004366818/live/may21/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ZO1VSQEj1WgnLLCssXlzAg/Fv2lucGIbhPi2caWYvF5Lg/1769004366818/live/may211/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/v3McvNQ4kAVEfqWh7-KfFg/Fv2lucGIbhPi2caWYvF5Lg/1769004366818/live/may212/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38100bef9fd1b618f4fea50ec667775a.png",07:00 ngày 21/01 Talia Gibson vs Diana Shnaider (1) [Mỳ Tôm] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769004726&sign=0b7c11b0728d8abf75e4fb9515c1fca8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38100bef9fd1b618f4fea50ec667775a.png",07:00 ngày 21/01 Talia Gibson vs Diana Shnaider (1) [Mỳ Tôm] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004726/c3a97161ccbb3a4ff490e3bb851c65f1/833801763/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38100bef9fd1b618f4fea50ec667775a.png",07:00 ngày 21/01 Talia Gibson vs Diana Shnaider (1) [Mỳ Tôm] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/TeES7GiYxdOmKxpZDXDPSw/Fv2lucGIbhPi2caWYvF5Lg/1769004726761/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38100bef9fd1b618f4fea50ec667775a.png",07:00 ngày 21/01 Talia Gibson vs Diana Shnaider (1) [Mỳ Tôm] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/SRjuqKNpBYcg2T6vHiMkZQ/Fv2lucGIbhPi2caWYvF5Lg/1769004726761/live/mySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38100bef9fd1b618f4fea50ec667775a.png",07:00 ngày 21/01 Talia Gibson vs Diana Shnaider (1) [Mỳ Tôm] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004726/d96033f92f18e2751ed62284559a02d6/565178647/live/myFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/559f1584ea96366d06ecb7c91dfc2d15.png",07:30 ngày 21/01 Jaime Faria vs Andrey Rublev (1) [Người Cồn] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769004727&sign=38103c41273fdf7dc5ee9e85be53c4a6
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/559f1584ea96366d06ecb7c91dfc2d15.png",07:30 ngày 21/01 Jaime Faria vs Andrey Rublev (1) [Người Cồn] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004727/e9deecea65f60847499a82fd58677da2/460896274/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/559f1584ea96366d06ecb7c91dfc2d15.png",07:30 ngày 21/01 Jaime Faria vs Andrey Rublev (1) [Người Cồn] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/KA1kii1bCzfmCjSctT6hBA/Fv2lucGIbhPi2caWYvF5Lg/1769004727862/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/559f1584ea96366d06ecb7c91dfc2d15.png",07:30 ngày 21/01 Jaime Faria vs Andrey Rublev (1) [Người Cồn] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/6msNRGvi4ijgNKY9a089Sw/Fv2lucGIbhPi2caWYvF5Lg/1769004727862/live/conSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/559f1584ea96366d06ecb7c91dfc2d15.png",07:30 ngày 21/01 Jaime Faria vs Andrey Rublev (1) [Người Cồn] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004727/04b2c12963d1c29eb3d06084493c257d/569238839/live/conFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",08:00 ngày 21/01 Bulls vs Clippers (1) [Người Hói] HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1768979529&sign=141eeb6d0edef4cdf918e1e29cfec816
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",08:00 ngày 21/01 Bulls vs Clippers (1) [Người Hói] HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979529/7862f49dcb84b5132a8afb06470b7505/520040199/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",08:00 ngày 21/01 Bulls vs Clippers (1) [Người Hói] HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/u0PBlG94of5ahNYDgyyn6Q/Fv2lucGIbhPi2caWYvF5Lg/1768979529001/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",08:00 ngày 21/01 Bulls vs Clippers (1) [Người Hói] SD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/id-zFFFmEGvYK-wxCfRIkQ/Fv2lucGIbhPi2caWYvF5Lg/1768979529001/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",08:00 ngày 21/01 Bulls vs Clippers (1) [Người Hói] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979529/006e90840ebd2fa4c5fbf0f875569358/981380858/live/hoiFHD/playlist.m3u8
+https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=7fa829869c4cae6215b196ba3a805e64&txTime=6970a0b4
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 21/01 NXT (1) [Tai Lung] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1769004730&sign=ccf21fe2e2c287e026d896db628ab8bf
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1769010125&sign=ca7835647675ed4797cb59bb7ca10a4c
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 21/01 NXT (1) [Tai Lung] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004730/f1e020a183433145e1685c18b3566bcf/688459459/live/lungHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769010125/162b0c8323ff4ea8ffae5617ef877eb8/162560327/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 21/01 NXT (1) [Tai Lung] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ChCmcsvCfZIgelDApumuSQ/Fv2lucGIbhPi2caWYvF5Lg/1769004730194/live/lungHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/hlDpSJhGqpHbysYglDQ9Gg/Fv2lucGIbhPi2caWYvF5Lg/1769010125868/live/lungHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 21/01 NXT (1) [Tai Lung] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/xy9kFrUPTmJ3dka9BLoTkA/Fv2lucGIbhPi2caWYvF5Lg/1769004730195/live/lungSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6i5rjv7gwuiVJE7TZnYQqA/Fv2lucGIbhPi2caWYvF5Lg/1769010125868/live/lungSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/NXT_Live_Logo--70afe99ec1d821960e291397ba0ea91e.png",08:00 ngày 21/01 NXT (1) [Tai Lung] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004730/7106a3de3b4597355d0011c1f335c051/328705196/live/lungFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769010125/736207644e894c8df4eda9d3f3b07459/572278977/live/lungFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/tpfZ3yeM-bDEp9UHs.png",08:20 ngày 21/01 Rockets vs Spurs (1) [Người Cast] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/catHD.flv?expire=1768979531&sign=d89b4d045fd9fedefcf5d331eb303751
+https://hotlivezz179536519.akainu.xyz/live/catHD.flv?expire=1768984927&sign=8d6ad2ea0cdb19c7aa51ca5ecdd05f8d
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/tpfZ3yeM-bDEp9UHs.png",08:20 ngày 21/01 Rockets vs Spurs (1) [Người Cast] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979531/e4f00be08e244f820f467e9b8ada77e1/698244353/live/catHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768984927/6fff0bf3c0c31722e3b00f806157e1b0/415559770/live/catHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/tpfZ3yeM-bDEp9UHs.png",08:20 ngày 21/01 Rockets vs Spurs (1) [Người Cast] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/XqdNx6SdJieWVreXtjWPEA/Fv2lucGIbhPi2caWYvF5Lg/1768979531335/live/catHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/_io5tWONtlkNNv8WHpMJww/Fv2lucGIbhPi2caWYvF5Lg/1768984927009/live/catHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/tpfZ3yeM-bDEp9UHs.png",08:20 ngày 21/01 Rockets vs Spurs (1) [Người Cast] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/0yz7biA040w3-prk49EzPw/Fv2lucGIbhPi2caWYvF5Lg/1768979531335/live/catSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/A3iu0UwwtPhA0OEWq-0E4Q/Fv2lucGIbhPi2caWYvF5Lg/1768984927009/live/catSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/tpfZ3yeM-bDEp9UHs.png",08:20 ngày 21/01 Rockets vs Spurs (1) [Người Cast] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979531/dc390a43032f8ae4f121f764fc755941/193695759/live/catFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768984927/8634a36b98aa33dce64fa1c7a8ccbb30/345402727/live/catFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38ff5f900772fc6de71f7cd43767f45a.png",08:50 ngày 21/01 Daniil Medvedev vs Quentin Halys (1) [Mèo Ú] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769004732&sign=4d79477f630b6383a028d1ff4f67b294
+https://hotlivezz179536519.akainu.xyz/live/meoHD.flv?expire=1769010128&sign=a627e16308c3316b894c4833ab1b898f
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38ff5f900772fc6de71f7cd43767f45a.png",08:50 ngày 21/01 Daniil Medvedev vs Quentin Halys (1) [Mèo Ú] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004732/15688cc014864da670c0d9112b3784d4/786653797/live/meoHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769010128/44ec3fe864439145a3aee01c3f1dfb11/955362145/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38ff5f900772fc6de71f7cd43767f45a.png",08:50 ngày 21/01 Daniil Medvedev vs Quentin Halys (1) [Mèo Ú] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/_7KWsgwDE8vAnEFGspF3vw/Fv2lucGIbhPi2caWYvF5Lg/1769004732442/live/meoHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/MrHUWbMA2HUT8SkedQ9qBw/Fv2lucGIbhPi2caWYvF5Lg/1769010128152/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38ff5f900772fc6de71f7cd43767f45a.png",08:50 ngày 21/01 Daniil Medvedev vs Quentin Halys (1) [Mèo Ú] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/s12CzmP1dq8SO9hyjuj57A/Fv2lucGIbhPi2caWYvF5Lg/1769004732442/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/GTXUFfocmPTUDxgfRjEXgg/Fv2lucGIbhPi2caWYvF5Lg/1769010128153/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/38ff5f900772fc6de71f7cd43767f45a.png",08:50 ngày 21/01 Daniil Medvedev vs Quentin Halys (1) [Mèo Ú] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769004732/8327c5d8291a6dc5d8d36db2779ed3a5/609117845/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769010128/8998eb555e9ec10ceb1841c55c1bb88f/380591268/live/meoFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://matchroompool.com/wp-content/uploads/WNT-Legends-Gold-scaled.png",09:00 ngày 21/01 WNT Legends (1) [Cá‎ Hề] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1769010129&sign=2d0957dd145a819f3d735572e80dadcc
+#EXTINF:0 group-title="10Cam" tvg-logo="https://matchroompool.com/wp-content/uploads/WNT-Legends-Gold-scaled.png",09:00 ngày 21/01 WNT Legends (1) [Cá‎ Hề] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010129/f95cc63091f8dade8c0d5622659e4d7c/510213237/live/heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://matchroompool.com/wp-content/uploads/WNT-Legends-Gold-scaled.png",09:00 ngày 21/01 WNT Legends (1) [Cá‎ Hề] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/kskUF_Iz_3oqea8JCY2Olg/Fv2lucGIbhPi2caWYvF5Lg/1769010129246/live/heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://matchroompool.com/wp-content/uploads/WNT-Legends-Gold-scaled.png",09:00 ngày 21/01 WNT Legends (1) [Cá‎ Hề] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/87lJRk8KiyXsnR9PqvHISg/Fv2lucGIbhPi2caWYvF5Lg/1769010129246/live/heSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://matchroompool.com/wp-content/uploads/WNT-Legends-Gold-scaled.png",09:00 ngày 21/01 WNT Legends (1) [Cá‎ Hề] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010129/ee019b5cde40adfebce8987e469c8548/502148502/live/heFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:00 ngày 21/01 Nuggets vs Lakers (1) [Cây + Gầy] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1768984930&sign=767f758d4dd11d1f79d9b268bbb1dc1b
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:00 ngày 21/01 Nuggets vs Lakers (1) [Cây + Gầy] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768984930/2c6c5c8257584909cc2ed6e6915890b3/836042756/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:00 ngày 21/01 Nuggets vs Lakers (1) [Cây + Gầy] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/Qy9aihv7DVgPFngHlqscVg/Fv2lucGIbhPi2caWYvF5Lg/1768984930359/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:00 ngày 21/01 Nuggets vs Lakers (1) [Cây + Gầy] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/c5sndDmcEcvfEh1wC5PYHQ/Fv2lucGIbhPi2caWYvF5Lg/1768984930359/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/nuggets.png",10:00 ngày 21/01 Nuggets vs Lakers (1) [Cây + Gầy] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768984930/0954eecf097112e767a68c24d358362b/362814428/live/gayFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 21/01 Kings vs Heat (1) [Người Thương] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1768984931&sign=950c1b4b4fa50ed05afd69be791b1563
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 21/01 Kings vs Heat (1) [Người Thương] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768984931/0ce6ca5c3e93fb17530257d058776e05/856509184/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 21/01 Kings vs Heat (1) [Người Thương] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/CuOY_bH3alAgARVVCOPipA/Fv2lucGIbhPi2caWYvF5Lg/1768984931464/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 21/01 Kings vs Heat (1) [Người Thương] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/I-DiRNdabm2n1SIkYipcjw/Fv2lucGIbhPi2caWYvF5Lg/1768984931464/live/thuongSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",10:00 ngày 21/01 Kings vs Heat (1) [Người Thương] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768984931/b229f58a5d7faea17778bd52e90d5648/375284507/live/thuongFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 21/01 Warriors vs Raptors (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1768984932&sign=acd75a395dad283a1c0b37cee7f1c4ad
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 21/01 Warriors vs Raptors (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768984932/dc8b35cadba8e83d573744cea965b5ab/905250867/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 21/01 Warriors vs Raptors (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/SI3vyw6EuLYbTe2LYLm9qw/Fv2lucGIbhPi2caWYvF5Lg/1768984932621/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 21/01 Warriors vs Raptors (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/YSXf59VDMiTzRP4S_DcwqA/Fv2lucGIbhPi2caWYvF5Lg/1768984932621/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/warriors.png",10:00 ngày 21/01 Warriors vs Raptors (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1768984932/5fb25e608e988addf1c4d99ab33558dc/533438770/live/luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/9b864f2e2a5f3bdec7b5374c080498d6.png",10:10 ngày 21/01 Carlos Alcaraz vs Yannick Hanfmann (1) [Người Già] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769010133&sign=505a758acf8b9ba0c59949dcb01d9f1f
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/9b864f2e2a5f3bdec7b5374c080498d6.png",10:10 ngày 21/01 Carlos Alcaraz vs Yannick Hanfmann (1) [Người Già] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010133/8d4300e669491c65d429cfa539d81974/849417220/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/9b864f2e2a5f3bdec7b5374c080498d6.png",10:10 ngày 21/01 Carlos Alcaraz vs Yannick Hanfmann (1) [Người Già] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/nr_QTX4Hv1hyyrAGd0su5w/Fv2lucGIbhPi2caWYvF5Lg/1769010133737/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/9b864f2e2a5f3bdec7b5374c080498d6.png",10:10 ngày 21/01 Carlos Alcaraz vs Yannick Hanfmann (1) [Người Già] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/xYAm9loKYQHXGr6eRAm3Ug/Fv2lucGIbhPi2caWYvF5Lg/1769010133737/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/9b864f2e2a5f3bdec7b5374c080498d6.png",10:10 ngày 21/01 Carlos Alcaraz vs Yannick Hanfmann (1) [Người Già] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010133/8db97c86c12d941ab63c6d2ee56bc12e/854666520/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/cHg_8lcww0zkjdDhhJ-fgg/Fv2lucGIbhPi2caWYvF5Lg/1769004733494/live/may4/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/g5XLp5wdqBAhf1_5mAVBHw/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may4/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Margaret Court Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/wDtdHUZg1Enm5QcBJ93bHQ/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may41/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/ouqWDPRilplUrjfcb-jntQ/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may41/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] KIA Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/l74tUFBDOpo97Krsyth2ig/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may12/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gxI1LyuTntpuI86tInWIqA/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may12/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] John Cain Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/RpkiOsGFJWuQACwC5XrBDQ/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may121/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/g_h-w-6PUZymJJQziSELYQ/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may121/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] 1573 Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/QXYh69_fCo6EVf8cHuxkhg/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/uaUS7jqXVlTUrkdKSN7jSg/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may25/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] ANZ Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/QJMeg3564S7UyuTPKeJCmg/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/lf7n3ezlPL0a9Jvan2Rong/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may251/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 5
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/RVqn7qyZWlfcjE1mjCUURQ/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/QR85NdkAgbptmWVA8Sy_mw/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may24/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 6
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/7Pc7s-FwwXt45iKTP4ZhJA/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/qiZUKTzM489coemF4D8FyA/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 7
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/u5nwb7U8Ijyj1Ea4ScqojQ/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may261/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/OQPACE6UG0mrd5RylgU8PA/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may261/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/Kl339p6rB-J4K3gHQntzQg/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/8h2qIDER87-Sp30JCIf-zA/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may27/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 12
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/JJdDoP_nFdaVAMGR-fhEpQ/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/bFlzQbGsO71pOJdj4OGmiw/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may271/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 13
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/uIElag0CIJvIHszW-4rK9w/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may241/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Dbvw1oiQQPH4s5eC9lSd6w/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may241/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 14
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/MgSHY4mIcWPR1Cinqexc8Q/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may28/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/hk6OABFF9dm3WdOfKDRhlA/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may28/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 21/01 Australian Open (1) [Nhà Đài] Court 15
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/F4XhkPJtJDY9b_VpbqHFFQ/Fv2lucGIbhPi2caWYvF5Lg/1769004733495/live/may281/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/bUd3UhzqCOunuxrlgzol2Q/Fv2lucGIbhPi2caWYvF5Lg/1769010134872/live/may281/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/datHD.flv?expire=1769010135&sign=103c691c96d81f4f217644c40cf1f1b3
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010135/9d513c7797df66868f38f59f08e4d9a1/186562076/live/datHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/Diz2ei1BiTvH1con_9HFbA/Fv2lucGIbhPi2caWYvF5Lg/1769010135950/live/datHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Bdat66o4V_XIh8aTsxCc8g/Fv2lucGIbhPi2caWYvF5Lg/1769010135950/live/datSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Người Đất] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010135/62f6e84b0138306902a98beba090cf79/356787555/live/datFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/CqyGiXXG-5amkacEzbptxg/Fv2lucGIbhPi2caWYvF5Lg/1769010135951/live/may21/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/vqg8QUVoeL9BmQ4_7EC96w/Fv2lucGIbhPi2caWYvF5Lg/1769010135951/live/may211/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png",08:00 ngày 21/01 Indonesia Masters 2026 (1) [Nhà Đài] Sân 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/1uYNcwkG0P6mxn7aha5HXg/Fv2lucGIbhPi2caWYvF5Lg/1769010135951/live/may212/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 21/01 Jazz vs Timberwolves (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1768979885&sign=55c2013f2103534487c260d021afd12a
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1768985286&sign=5ad22a4d607af841c843cf901df153f7
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 21/01 Jazz vs Timberwolves (1) [Người Phép] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979885/a0b37adb88ce7f05fc77f9ab3a8e13bc/674780989/live/phepHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1768985286/1b41b5d7f0b10f4aaea02b98db8ff895/578768314/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 21/01 Jazz vs Timberwolves (1) [Người Phép] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/cRuDseFisroW9vRxhJep1A/Fv2lucGIbhPi2caWYvF5Lg/1768979885326/live/phepHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/DzYBz_8DztTqQSjghBMMGg/Fv2lucGIbhPi2caWYvF5Lg/1768985286220/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 21/01 Jazz vs Timberwolves (1) [Người Phép] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/6PVB6iEzM59MxFdvXIPVmQ/Fv2lucGIbhPi2caWYvF5Lg/1768979885326/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/wtWH3Zr6Xf8yu8L0iySG4w/Fv2lucGIbhPi2caWYvF5Lg/1768985286220/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",09:00 ngày 21/01 Jazz vs Timberwolves (1) [Người Phép] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1768979885/5fcafc5f2236ec8cec56ce9023764644/144697892/live/phepFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:00 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1768985286/df4c6d34eb11a011d3a0ab11f76e7057/245125551/live/phepFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:25 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1769005086&sign=3a8af500e0bd6b51bfe1e2c46b25e297
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:00 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] HD1
+https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1769010487&sign=8fa626440b29ef08a4f3b5136ef7fab1
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:25 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005086/c52fddb369fa9c9530277bfecb722bf1/178863265/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:00 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] HD2
+https://9ceg0825.edgemaxcdn.org/1769010487/c65861f7d1fd29de68a1dc804313a0fe/648300192/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:25 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/SqXScZwakv6s7-7ojPrIGw/Fv2lucGIbhPi2caWYvF5Lg/1769005086449/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:00 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] SD
+https://hotlivezz179266008.akainu.xyz/J_PfL-fWBwqSF4lfwnt9YA/Fv2lucGIbhPi2caWYvF5Lg/1769010487371/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:25 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/vg2uV4OM8P69P6h-oMrytw/Fv2lucGIbhPi2caWYvF5Lg/1769005086450/live/xienSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:00 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] FullHD
+https://hotlivezz179602324.akainu.xyz/RRrFmg7IXqf-8TH20D5BAw/Fv2lucGIbhPi2caWYvF5Lg/1769010487371/live/daoSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:25 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005086/f7e61cf3c8c9c58cf9cc43c49188ee5b/116395729/live/xienFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/df60dbb0bdb733809fc0690beb02473c.png",10:10 ngày 21/01 Michael Zheng vs Corentin Moutet (1) [Thịt Xiên] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1769010487/fbe050622ce2fdd688899364f6577967/158433122/live/daoFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:40 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1769005087&sign=67eaf730f4fb3236f878d14497fedae2
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/df60dbb0bdb733809fc0690beb02473c.png",10:10 ngày 21/01 Michael Zheng vs Corentin Moutet (1) [Thịt Xiên] HD1
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1769010488&sign=494e973c9fb673caf41dd03dd9ee12c6
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:40 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005087/ddd299c1637d0d6df670c396fb3e8af9/105942633/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/df60dbb0bdb733809fc0690beb02473c.png",10:10 ngày 21/01 Michael Zheng vs Corentin Moutet (1) [Thịt Xiên] HD2
+https://9ceg0825.edgemaxcdn.org/1769010488/23ec06e11449b8b7e9a73d738df924b7/286087225/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:40 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/76EdEMcli6dcwm3Ni3FrNw/Fv2lucGIbhPi2caWYvF5Lg/1769005087566/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/df60dbb0bdb733809fc0690beb02473c.png",10:10 ngày 21/01 Michael Zheng vs Corentin Moutet (1) [Thịt Xiên] SD
+https://hotlivezz179266008.akainu.xyz/DTXL8LEzR5TCAOLZht6T5w/Fv2lucGIbhPi2caWYvF5Lg/1769010488519/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:40 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/0O4Kq_Nv39J5SkBNShrdEg/Fv2lucGIbhPi2caWYvF5Lg/1769005087566/live/xienSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/df60dbb0bdb733809fc0690beb02473c.png",10:10 ngày 21/01 Michael Zheng vs Corentin Moutet (1) [Thịt Xiên] FullHD
+https://hotlivezz179602324.akainu.xyz/lImDenKlBL0hAmqKbL5SdA/Fv2lucGIbhPi2caWYvF5Lg/1769010488520/live/socSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:40 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005087/cc601fc0c482743d4b65efceb4a0d3b4/321090457/live/xienFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:30 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1769010488/1fe103d380dd8a21997515d5245a8dba/366937033/live/socFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:45 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1769005088&sign=c86e9fde9e370b95e51491597f1e19d2
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:30 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] HD1
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1769010489&sign=3c285f2d4525d91691f55a24723d5d32
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:45 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005088/d1e90b08011db40844161bb30cdfbc45/415159648/live/socHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:30 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] HD2
+https://9ceg0825.edgemaxcdn.org/1769010489/960fdb734a77c4aabd10bd32b84fc620/924857649/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:45 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Hgk07PShRHkkFE27sPHB-Q/Fv2lucGIbhPi2caWYvF5Lg/1769005088674/live/socHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:30 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] SD
+https://hotlivezz179266008.akainu.xyz/v622WcfMK1L5VM8m-LICeA/Fv2lucGIbhPi2caWYvF5Lg/1769010489696/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:45 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/g6Vy-kSqKcKd8fJYJ6E52Q/Fv2lucGIbhPi2caWYvF5Lg/1769005088674/live/socSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/4cb308d65dae9c8f01d21824c802cb6c.png",09:30 ngày 21/01 Reilly Opelka vs Alejandro Davidovich Fokina (1) [Người Sóc] FullHD
+https://hotlivezz179602324.akainu.xyz/a4QmbZQUOI2cq9s7JSkznw/Fv2lucGIbhPi2caWYvF5Lg/1769010489696/live/xienSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cd13482bdf3abe630f340ab8fea74c3f.png",09:45 ngày 21/01 Polina Kudermetova vs Clara Tauson (1) [Thịt Xiên] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005088/0bc4b0b015ddd8e75471e180b02c8f47/281189968/live/socFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:30 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1769010489/d7e6a3ce9f9cda1019ca35cbacb38d11/980817596/live/xienFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",10:50 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1769005089&sign=fbaf79c62c7ee1fb37fd9e8a4d9b071a
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:30 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] HD1
+https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769010490&sign=08ec73b153a727d29595a08ffaeda87c
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",10:50 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005089/58672765002e9856a2f9ba7fc1c98ef7/921960883/live/daoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:30 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] HD2
+https://9ceg0825.edgemaxcdn.org/1769010490/c5624b88f78eac7e46e97de8a65bce5f/519305054/live/conHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",10:50 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/A2GmbWP2E6RQLUYtLAl1Yw/Fv2lucGIbhPi2caWYvF5Lg/1769005089754/live/daoHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:30 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] SD
+https://hotlivezz179266008.akainu.xyz/1hDwJ_YR_QaFtbdG_fPY7Q/Fv2lucGIbhPi2caWYvF5Lg/1769010490793/live/conHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",10:50 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/-qx9IEgegLaNgH58ssyVvA/Fv2lucGIbhPi2caWYvF5Lg/1769005089754/live/daoSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/cb68b4c55ce299db1461d8a0bfc1f160.png",09:30 ngày 21/01 Victoria Mboko vs Caty Mcnally (1) [Lơ Đao] FullHD
+https://hotlivezz179602324.akainu.xyz/yNesudAZgpi7bBGrkWm9MA/Fv2lucGIbhPi2caWYvF5Lg/1769010490793/live/conSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",10:50 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005089/063aa211054b2a51a9c27f13f836b4ea/118680329/live/daoFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",09:30 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] HD Nhanh
+https://9ceg0825.edgemaxcdn.org/1769010490/e188d0737adbf0542f3501c1dbbc2b43/303511731/live/conFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",10:20 ngày 21/01 Anastasia Potapova vs Emma Raducanu (1) [Mỳ Tôm] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/conHD.flv?expire=1769005090&sign=7edb4deec320030b1dc1cd7aa4d7ae2f
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",09:30 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] HD1
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769010845&sign=ee42e69036a6c59bcdc06ed247fcbfa9
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",10:20 ngày 21/01 Anastasia Potapova vs Emma Raducanu (1) [Mỳ Tôm] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005090/d748ad0db639e0e617bde389671bae3b/259614090/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",09:30 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] HD2
+https://9ceg0825.edgemaxcdn.org/1769010845/604f0caf8698efd828c9339b82e69c9c/468723771/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",10:20 ngày 21/01 Anastasia Potapova vs Emma Raducanu (1) [Mỳ Tôm] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/YxvnNtfwtlSVBR5QfcwK3g/Fv2lucGIbhPi2caWYvF5Lg/1769005090859/live/conHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",09:30 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] SD
+https://hotlivezz179266008.akainu.xyz/sBTWIjB86pulZYNtsk6KEg/Fv2lucGIbhPi2caWYvF5Lg/1769010845495/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",10:20 ngày 21/01 Anastasia Potapova vs Emma Raducanu (1) [Mỳ Tôm] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/plIvemZ3AIgWEENQFt8Zgw/Fv2lucGIbhPi2caWYvF5Lg/1769005090859/live/conSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",09:30 ngày 21/01 Coco Gauff vs Olga Danilovic (1) [Người Cồn] FullHD
+https://hotlivezz179602324.akainu.xyz/YMbXuzODOpXnhuCBjO35kA/Fv2lucGIbhPi2caWYvF5Lg/1769010845496/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/3145531b797a9337f8d16557fbf9a6bc.png",10:20 ngày 21/01 Anastasia Potapova vs Emma Raducanu (1) [Mỳ Tôm] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769005090/036cc9df5a139a8cc3965b94338fc994/356815863/live/conFHD/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg",07h00 21/01 Philadelphia 76ers vs Phoenix Suns (Hội Quán) Full HD 
+https://9ceg0825.edgemaxcdn.org/1769010845/f4cb7ef9ed5c9b27f2d0fae32e28ce89/429387807/live/myFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/48b5ceec7c7af6986d4b60420aeaf160.png",11:20 ngày 21/01 Alexander Bublik vs Marton Fucsovics (1) [Người Sóc] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg",07h00 21/01 Philadelphia 76ers vs Phoenix Suns (Hội Quán) HD 
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/socHD.flv?expire=1769010846&sign=6869e065cf13d5da956f0bc369a5dbed
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/48b5ceec7c7af6986d4b60420aeaf160.png",11:20 ngày 21/01 Alexander Bublik vs Marton Fucsovics (1) [Người Sóc] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg",07h00 21/01 Philadelphia 76ers vs Phoenix Suns (Hội Quán) SD 
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010846/d85c76179b41b0ef91f32773add65d16/999117021/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/48b5ceec7c7af6986d4b60420aeaf160.png",11:20 ngày 21/01 Alexander Bublik vs Marton Fucsovics (1) [Người Sóc] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/14881.png",08h00 21/01 Pachuca W vs Puebla W (Hội Quán) FULL HD 
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/QcW4-34qnWANe-8_b2BOFQ/Fv2lucGIbhPi2caWYvF5Lg/1769010846610/live/socHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/48b5ceec7c7af6986d4b60420aeaf160.png",11:20 ngày 21/01 Alexander Bublik vs Marton Fucsovics (1) [Người Sóc] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/PJwYGvhEjChIGsUWO8i2FA/Fv2lucGIbhPi2caWYvF5Lg/1769010846610/live/socSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/48b5ceec7c7af6986d4b60420aeaf160.png",11:20 ngày 21/01 Alexander Bublik vs Marton Fucsovics (1) [Người Sóc] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769010846/82aecc75da67a999a8f3a618a113be84/539122640/live/socFHD/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/14872.png",10h06 21/01 Tijuana W vs Juárez W (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/14881.png",08h00 21/01 Pachuca W vs Puebla W (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/14872.png",10h06 21/01 Tijuana W vs Juárez W (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/14881.png",08h00 21/01 Pachuca W vs Puebla W (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/14872.png",10h06 21/01 Tijuana W vs Juárez W (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://static.flashscore.com/res/image/data/GCXCT0Xg-IXFXtCoA.png",07:30 ngày 21/01 Jaime Faria vs Andrey Rublev (Mãn nhãn) Nhà đài
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png",10h00 21/01 Denver Nuggets vs Los Angeles Lakers (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08:00 ngày 21/01 Pachuca (W) vs Puebla (W) (Mãn nhãn) SD 2
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png",10h00 21/01 Denver Nuggets vs Los Angeles Lakers (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08:00 ngày 21/01 Pachuca (W) vs Puebla (W) (Mãn nhãn) SD 1
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png",10h00 21/01 Denver Nuggets vs Los Angeles Lakers (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x8y3-9776/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980692_small.png",08:00 ngày 21/01 Pachuca (W) vs Puebla (W) (Mãn nhãn) HD 3
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png",10h00 21/01 Golden State Warriors vs Toronto Raptors (Hội Quán) Full HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x8y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/148967_small.png",08:15 ngày 21/01 Cerro Largo vs Deportes Concepcion (Mãn nhãn) SD 2
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png",10h00 21/01 Golden State Warriors vs Toronto Raptors (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://saoke.cdn.khmer-hd.com/x0y1/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/148967_small.png",08:15 ngày 21/01 Cerro Largo vs Deportes Concepcion (Mãn nhãn) SD 1
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png",10h00 21/01 Golden State Warriors vs Toronto Raptors (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x0y3-3633/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/148967_small.png",08:15 ngày 21/01 Cerro Largo vs Deportes Concepcion (Mãn nhãn) HD 3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad71710204.stream.hdplaylink.com/sklive/x0y2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tldm0825.edgemaxcdn.org/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://img0.aiscore.com/v2/team/d4f05c8edf79b17f1fc9d3f369cd08b0.png!w60",08:30 ngày 21/01 Daniil Medvedev vs Quentin Halys (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -2344,22 +2378,45 @@ https://wtyi0525.edgemaxcdn.org/live/x2y3-4998/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x2y2/playlist.m3u8
-#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://img0.aiscore.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png!w60",09:30 ngày 21/01 Coco Gauff vs Olga Danilovic (Mãn nhãn) Nhà đài
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://static.flashscore.com/res/image/data/OfjQEPjl-EZcCkAic.png",10:00 ngày 21/01 Carlos Alcaraz Garfia vs Yannick Hanfmann (Mãn nhãn) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/saoke1x1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980699_small.png",10:06 ngày 21/01 Club Tijuana (W) vs FC Juarez (W) (Mãn nhãn) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980699_small.png",10:06 ngày 21/01 Club Tijuana (W) vs FC Juarez (W) (Mãn nhãn) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10y3-1620/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/980699_small.png",10:06 ngày 21/01 Club Tijuana (W) vs FC Juarez (W) (Mãn nhãn) HD 3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://static.flashscore.com/res/image/data/vVMPN8HG-jwKmdl7a.png",10:30 ngày 21/01 Anastasia Potapova vs Emma Raducanu  (Mãn nhãn) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x2/playlist.m3u8
+#EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://img0.aiscore.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png!w60",10:50 ngày 21/01 Coco Gauff vs Olga Danilovic (Mãn nhãn) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/saoke3x1/playlist.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",10h00 21/01 Golden State Warriors vs Toronto Raptors
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",10h00 21/01 Denver Nuggets vs Los Angeles Lakers
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/b0ec985cd57cba37048de614c46660e5.png!w80",09h00 21/01 Xelaju vs CLB Aurora
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/71426314.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/ee73086a8ee207b907819c6b7a15fd53.png!w80",08h00 21/01 Pachuca Nữ vs Puebla Nữ
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/a507b1509e1f640108395b0580b46976.png!w80",09h00 21/01 Herediano vs CLB Guadalupe 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/75915087.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f4cea9ea6b13a776e6b560ad2bf0bbe4.png!w80",09h00 21/01 CLB nữ Saint Louis Athletica  vs Club America Nữ
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80",10h00 21/01 Club Tijuana Nữ vs Juarez Nữ
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/14707124.m3u8
+https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/10176.png",18h30 20/01 Japan U23 vs Korea Republic U23 (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://cdn.xembanh.live/live/0dq4pt7si9/playlist.m3u8
