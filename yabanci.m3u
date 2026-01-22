@@ -541,10 +541,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/181ee8709b75f543a1cf4c943ae3304b.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/9e40a9a85347a7a4893b4c1a1ea986f0/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/b1cac6380900d22bdb0d31763c658434.png",04h30 ngày 23/01 Cruzeiro Esporte Clube vs Democrata (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -553,6 +549,10 @@ https://live.alilicloud.com/live/1465f213484a695c220e18441a97c207/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/f4f698f8079998725a5c1dbb8f618f7f/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/0840bace9b911b3f0dbadb710ea20316.png",05h30 ngày 23/01 Santos vs Corinthians Paulista (SP) (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/c4fe47ae216ec90e926a9a3001f6cb61/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn-live.bunchatv.net/live-dev/football/team/logo/b6303fe60c0094702179e08d6d27a798.png",22h00 ngày 23/01 Vietnam U23 vs South Korea U23 (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -1062,18 +1062,12 @@ https://mrkw1025.edgemaxcdn.org/live/duongtienhd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",03h50 ngày 23/01 FC Utrecht vs Racing Genk (Lương Sơn) BLV NGŨ CA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/303_1gv1yhgq3n2e.png",05h30 ngày 23/01 Santos vs Corinthians Paulista (SP) (Lương Sơn) BLV DƯƠNG QUÁ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",03h50 ngày 23/01 FC Utrecht vs Racing Genk (Lương Sơn) BLV NGŨ CA flv
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/303_1gv1yhgq3n2e.png",05h30 ngày 23/01 Santos vs Corinthians Paulista (SP) (Lương Sơn) BLV DƯƠNG QUÁ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",03h50 ngày 23/01 FC Utrecht vs Racing Genk (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/213_165095716992.png",03h50 ngày 23/01 FC Utrecht vs Racing Genk (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/ec1f55760a3fe7991d3553bcf7891ae1.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1126,18 +1120,10 @@ https://wtyi0525.edgemaxcdn.org/live/x10y3-1626/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/18d3e9cc960b80b02540dd316c23794b/image/small?v=1768601124",03h00 ngày 23/01 Lincoln City vs Burton (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/59f18aeeb0ce4f595799b8957faff536/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2515bd0dea340206a279aa61455f4b52/image/small?v=1768601124",05h00 ngày 23/01 Juventude vs Caxias RS (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f4f698f8079998725a5c1dbb8f618f7f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/7c228aaa03741d8e3cfc943f8233eda3/image/small",23h30 ngày 22/01 Akaa vs Jastrzebski (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/392fc78f61e9cda0c5d271036e345f71/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b674ff580e3ec40967c6437bef98e0af/image/small?v=1768601124",03h00 ngày 23/01 RC Celta vs LOSC Lille (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1242,6 +1228,466 @@ https://live.alilicloud.com/live/5551db8614e0069f006e2f90c8509ca8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ad0b6709d5e98190196ff6aa5434357b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a5b4b79be70fd8fe74995309aaa0f2ae/image/small?v=1768601124",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c4fe47ae216ec90e926a9a3001f6cb61/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/18d3e9cc960b80b02540dd316c23794b/image/small?v=1768601124",03h00 ngày 23/01 Lincoln City vs Burton (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/59f18aeeb0ce4f595799b8957faff536/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125611_149f6c11.png",03h00 ngày 23/01 Utrecht vs Genk (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125611_149f6c11.png",03h00 ngày 23/01 Utrecht vs Genk (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_1dcc44b0.png",06h00 ngày 23/01 Banfield vs Huracan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_1dcc44b0.png",06h00 ngày 23/01 Banfield vs Huracan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_1dcc44b0.png",06h00 ngày 23/01 Banfield vs Huracan (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_1dcc44b0.png",06h00 ngày 23/01 Banfield vs Huracan (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_1dcc44b0.png",06h00 ngày 23/01 Banfield vs Huracan (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132721_1dcc44b0.png",06h00 ngày 23/01 Banfield vs Huracan (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132720_f05360cf.png",06h00 ngày 23/01 Union Santa Fe vs Platense (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132720_f05360cf.png",06h00 ngày 23/01 Union Santa Fe vs Platense (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132727_d0107e55.png",08h15 ngày 23/01 Instituto Cordoba vs Velez Sarsfield (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132727_d0107e55.png",08h15 ngày 23/01 Instituto Cordoba vs Velez Sarsfield (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132727_d0107e55.png",08h15 ngày 23/01 Instituto Cordoba vs Velez Sarsfield (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132727_d0107e55.png",08h15 ngày 23/01 Instituto Cordoba vs Velez Sarsfield (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132727_d0107e55.png",08h15 ngày 23/01 Instituto Cordoba vs Velez Sarsfield (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132727_d0107e55.png",08h15 ngày 23/01 Instituto Cordoba vs Velez Sarsfield (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 23/01 Newcastle Jets vs Wellington Phoenix (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 23/01 Newcastle Jets vs Wellington Phoenix (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 23/01 Newcastle Jets vs Wellington Phoenix (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 23/01 Newcastle Jets vs Wellington Phoenix (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 23/01 Newcastle Jets vs Wellington Phoenix (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130441_f1a2632a.png",15h35 ngày 23/01 Newcastle Jets vs Wellington Phoenix (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_314babbc.png",16h30 ngày 23/01 Dagon vs Shan United (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_314babbc.png",16h30 ngày 23/01 Dagon vs Shan United (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_314babbc.png",16h30 ngày 23/01 Dagon vs Shan United (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_314babbc.png",16h30 ngày 23/01 Dagon vs Shan United (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_314babbc.png",16h30 ngày 23/01 Dagon vs Shan United (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125742_314babbc.png",16h30 ngày 23/01 Dagon vs Shan United (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_7ed44b9b.png",19h00 ngày 23/01 Persija vs Persepam Madura Utd (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_7ed44b9b.png",19h00 ngày 23/01 Persija vs Persepam Madura Utd (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_7ed44b9b.png",19h00 ngày 23/01 Persija vs Persepam Madura Utd (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_7ed44b9b.png",19h00 ngày 23/01 Persija vs Persepam Madura Utd (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_7ed44b9b.png",19h00 ngày 23/01 Persija vs Persepam Madura Utd (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_7ed44b9b.png",19h00 ngày 23/01 Persija vs Persepam Madura Utd (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133854_27b88b55.png",20h00 ngày 23/01 Terengganu vs Kedzierzyn-Kozle (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133854_27b88b55.png",20h00 ngày 23/01 Terengganu vs Kedzierzyn-Kozle (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133854_27b88b55.png",20h00 ngày 23/01 Terengganu vs Kedzierzyn-Kozle (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133854_27b88b55.png",20h00 ngày 23/01 Terengganu vs Kedzierzyn-Kozle (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133854_27b88b55.png",20h00 ngày 23/01 Terengganu vs Kedzierzyn-Kozle (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133854_27b88b55.png",20h00 ngày 23/01 Terengganu vs Kedzierzyn-Kozle (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250902_190503_cfcedb98.png",22h00 ngày 23/01 U23 Vietnam  vs U23 Hàn Quốc  (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250902_190503_cfcedb98.png",22h00 ngày 23/01 U23 Vietnam  vs U23 Hàn Quốc  (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250902_190503_cfcedb98.png",22h00 ngày 23/01 U23 Vietnam  vs U23 Hàn Quốc  (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250902_190503_cfcedb98.png",22h00 ngày 23/01 U23 Vietnam  vs U23 Hàn Quốc  (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250902_190503_cfcedb98.png",22h00 ngày 23/01 U23 Vietnam  vs U23 Hàn Quốc  (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250902_190503_cfcedb98.png",22h00 ngày 23/01 U23 Vietnam  vs U23 Hàn Quốc  (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125842_bd6c3c7e.png",00h00 ngày 24/01 Trabzonspor vs Kasimpasa (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125842_bd6c3c7e.png",00h00 ngày 24/01 Trabzonspor vs Kasimpasa (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125842_bd6c3c7e.png",00h00 ngày 24/01 Trabzonspor vs Kasimpasa (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125842_bd6c3c7e.png",00h00 ngày 24/01 Trabzonspor vs Kasimpasa (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125842_bd6c3c7e.png",00h00 ngày 24/01 Trabzonspor vs Kasimpasa (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125842_bd6c3c7e.png",00h00 ngày 24/01 Trabzonspor vs Kasimpasa (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125517_22b14825.png",02h00 ngày 24/01 Auxerre vs Paris Saint Germain (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125517_22b14825.png",02h00 ngày 24/01 Auxerre vs Paris Saint Germain (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125517_22b14825.png",02h00 ngày 24/01 Auxerre vs Paris Saint Germain (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125517_22b14825.png",02h00 ngày 24/01 Auxerre vs Paris Saint Germain (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125517_22b14825.png",02h00 ngày 24/01 Auxerre vs Paris Saint Germain (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125517_22b14825.png",02h00 ngày 24/01 Auxerre vs Paris Saint Germain (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125558_c60faffd.png",02h30 ngày 24/01 FC St. Pauli vs Hamburger SV (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125558_c60faffd.png",02h30 ngày 24/01 FC St. Pauli vs Hamburger SV (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125558_c60faffd.png",02h30 ngày 24/01 FC St. Pauli vs Hamburger SV (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125558_c60faffd.png",02h30 ngày 24/01 FC St. Pauli vs Hamburger SV (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125558_c60faffd.png",02h30 ngày 24/01 FC St. Pauli vs Hamburger SV (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125558_c60faffd.png",02h30 ngày 24/01 FC St. Pauli vs Hamburger SV (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 24/01 Inter vs Pisa (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 24/01 Inter vs Pisa (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 24/01 Inter vs Pisa (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 24/01 Inter vs Pisa (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 24/01 Inter vs Pisa (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 24/01 Inter vs Pisa (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/manze.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133417_3fac6cfd.png",03h00 ngày 24/01 Levante vs Elche (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133417_3fac6cfd.png",03h00 ngày 24/01 Levante vs Elche (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133417_3fac6cfd.png",03h00 ngày 24/01 Levante vs Elche (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133417_3fac6cfd.png",03h00 ngày 24/01 Levante vs Elche (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133417_3fac6cfd.png",03h00 ngày 24/01 Levante vs Elche (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133417_3fac6cfd.png",03h00 ngày 24/01 Levante vs Elche (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132725_6c64f520.png",05h00 ngày 24/01 San Lorenzo vs Lanus (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132725_6c64f520.png",05h00 ngày 24/01 San Lorenzo vs Lanus (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132725_6c64f520.png",05h00 ngày 24/01 San Lorenzo vs Lanus (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132725_6c64f520.png",05h00 ngày 24/01 San Lorenzo vs Lanus (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132725_6c64f520.png",05h00 ngày 24/01 San Lorenzo vs Lanus (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoinuong/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132725_6c64f520.png",05h00 ngày 24/01 San Lorenzo vs Lanus (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoinuong.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132723_a63db91d.png",06h00 ngày 24/01 Independiente vs Estudiantes L.P. (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132723_a63db91d.png",06h00 ngày 24/01 Independiente vs Estudiantes L.P. (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132723_a63db91d.png",06h00 ngày 24/01 Independiente vs Estudiantes L.P. (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132723_a63db91d.png",06h00 ngày 24/01 Independiente vs Estudiantes L.P. (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132723_a63db91d.png",06h00 ngày 24/01 Independiente vs Estudiantes L.P. (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132723_a63db91d.png",06h00 ngày 24/01 Independiente vs Estudiantes L.P. (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_efcbb625.png",08h15 ngày 24/01 Talleres Cordoba vs Newells Old Boys (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_efcbb625.png",08h15 ngày 24/01 Talleres Cordoba vs Newells Old Boys (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_efcbb625.png",08h15 ngày 24/01 Talleres Cordoba vs Newells Old Boys (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_efcbb625.png",08h15 ngày 24/01 Talleres Cordoba vs Newells Old Boys (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_efcbb625.png",08h15 ngày 24/01 Talleres Cordoba vs Newells Old Boys (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132724_efcbb625.png",08h15 ngày 24/01 Talleres Cordoba vs Newells Old Boys (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_a516ed27.png",11h00 ngày 24/01 Auckland vs Central Coast Mariners (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_a516ed27.png",11h00 ngày 24/01 Auckland vs Central Coast Mariners (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_a516ed27.png",11h00 ngày 24/01 Auckland vs Central Coast Mariners (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_a516ed27.png",11h00 ngày 24/01 Auckland vs Central Coast Mariners (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_a516ed27.png",11h00 ngày 24/01 Auckland vs Central Coast Mariners (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130443_a516ed27.png",11h00 ngày 24/01 Auckland vs Central Coast Mariners (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130442_411732ef.png",13h00 ngày 24/01 Brisbane Roar vs Adelaide United (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130442_411732ef.png",13h00 ngày 24/01 Brisbane Roar vs Adelaide United (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130442_411732ef.png",13h00 ngày 24/01 Brisbane Roar vs Adelaide United (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130442_411732ef.png",13h00 ngày 24/01 Brisbane Roar vs Adelaide United (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130442_411732ef.png",13h00 ngày 24/01 Brisbane Roar vs Adelaide United (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130442_411732ef.png",13h00 ngày 24/01 Brisbane Roar vs Adelaide United (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 ngày 24/01 Persita vs Bhayangkara FC (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 ngày 24/01 Persita vs Bhayangkara FC (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 ngày 24/01 Persita vs Bhayangkara FC (Chuối Chiên) HD3
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 ngày 24/01 Persita vs Bhayangkara FC (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 ngày 24/01 Persita vs Bhayangkara FC (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung/index.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134621_fc3edb17.png",15h30 ngày 24/01 Persita vs Bhayangkara FC (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/duyhung.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a5b4b79be70fd8fe74995309aaa0f2ae/image/small?v=1768601124",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c4fe47ae216ec90e926a9a3001f6cb61/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2515bd0dea340206a279aa61455f4b52/image/small?v=1768601124",05h00 ngày 23/01 Juventude vs Caxias RS (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1314,114 +1760,246 @@ https://live.alilicloud.com/live/ad0b6709d5e98190196ff6aa5434357b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/1465f213484a695c220e18441a97c207/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1769123492-0-0-2a1df447f9b32e36e83170ec85b6d70f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1769123492-0-0-64ab22d0d48b68f989d63d3e6bd32584
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1769123492-0-0-e17e3847812b31586405593c5379a171
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1769123492-0-0-96225a617c57e8c1bfdf20bdc69510ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769123492-0-0-ae0c9bb9542c9ded275a28aefeebc2bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769123492-0-0-38f9ed42eb1d9307e86fd0f38f00776c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769123492-0-0-40b4bdbc0636b3933a94fbd6129fe3b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769123492-0-0-d4de014f0150efb37a3ef307243c7921
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1769123852-0-0-7da085c519eca03090c61435205dec3f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1769123852-0-0-5a979c69d56994c34009c779cdf847c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1769123852-0-0-8c30eb4fb5f8bb04cf1970fc4e6f410e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1769123852-0-0-da1bf74ad5d99de1ac35b11dd4d6b11a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1769123852-0-0-a3f4db01f4e802f6b200bd571f03156d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1769123852-0-0-1c5a46e77cf2fa1f7af0c8232751e407
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1769123852-0-0-e83df5c95732f6ba06522e01625eec1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1769123852-0-0-120c2ba4e6942c0e4bf0aa51f2ec33df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1769124212-0-0-60ee847bad5bee4f75d29fb896fe4063
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1769124212-0-0-6c48331b18b4adf71ccad3dcb4e33a93
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1769124212-0-0-11049409434bd4083ebe90b2faab8aa1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1769124212-0-0-d0ddd34d024a3f27cb7558b5db211a47
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [NGƯỜI THÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1769124212-0-0-a97fddbac7c1afff1ffd5960f6c98131
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1769125292-0-0-487b6656866c8d873ce488cc687c96f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [NGƯỜI THÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1769124212-0-0-dba6d7e6921b422ccd35500753a97662
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1769125292-0-0-629807d5df68de0140d8d232afb130e2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [NGƯỜI THÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769124212-0-0-106f182677766fa1145b1eb59ac71e0e
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1769125292-0-0-b4443bcb314227f9bbbf7babe62cd98c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [NGƯỜI THÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769124212-0-0-ff39e30909f917dc8cde08902719d9ad
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1769125292-0-0-b5f80a44f6d315b0e8a24b1ca93ad8f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV Sao Đỏ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lsd.flv?txSecret=2d6d564e7aea1492e404eb7655e0b160&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV Sao Đỏ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lhd.flv?txSecret=8318307b36cc87ecbb87c8658d5ac13f&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV Sao Đỏ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lsd.m3u8?txSecret=2d6d564e7aea1492e404eb7655e0b160&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV Sao Đỏ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=8318307b36cc87ecbb87c8658d5ac13f&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV NIBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1769125292-0-0-05ab829ad2761d41119573c35a7c21b4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV NIBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1769125292-0-0-e741149bad146a1f117a404bdaf94efc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV NIBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1769125292-0-0-a3ae62e41a3570a4a625533592dbed10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV NIBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1769125292-0-0-92b918a1e6f6587830f6f9c14f5a9231
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e96d8e181d97b6f0295f646f1b3fa070.png",06h00 ngày 23/01 Botafogo SP vs Primavera [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1769125292-0-0-22ccb414fc801ea8b654ed85bf38a3b4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e96d8e181d97b6f0295f646f1b3fa070.png",06h00 ngày 23/01 Botafogo SP vs Primavera [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1769125292-0-0-3193cdd47bdeb8c801e3fda66fb078bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e96d8e181d97b6f0295f646f1b3fa070.png",06h00 ngày 23/01 Botafogo SP vs Primavera [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1769125292-0-0-5f6664e4446b2308e9769bf80f388a26
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/e96d8e181d97b6f0295f646f1b3fa070.png",06h00 ngày 23/01 Botafogo SP vs Primavera [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1769125292-0-0-d15e8aa89d84b82d115365e322aa2285
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1769125292-0-0-741e9f72fe103fdb24456ba1abcf6cee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1769125292-0-0-ad4e2342707b19c8df994fb0c83144c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1769125292-0-0-d2191bf076ab88417fd635a2787564b2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV SÓI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1769125292-0-0-199e18c5c20e3a2a59682b0c0dba5991
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1769125292-0-0-1e7ff71dfaa260cf6cfc39d18b8ed5c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1769125292-0-0-a071c1d351898f083bd25726bd2ca3f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1769125292-0-0-ec5d63e4307bf2c798567fdea45869b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1769125292-0-0-bbe0e8fef4c1e64fc58601343068fe5f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV SHIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.flv?txSecret=80c0296edfcc621017dcdb9213f9d027&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV SHIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.flv?txSecret=7da76ce6cbc1149aed0968fd53af1230&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV SHIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lsd.m3u8?txSecret=80c0296edfcc621017dcdb9213f9d027&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [BLV SHIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-522086_lhd.m3u8?txSecret=7da76ce6cbc1149aed0968fd53af1230&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1769125292-0-0-2c2f74f4af4229d08790b4a7532c78e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1769125292-0-0-94d526b489170dedcaac4c068e64d1d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1769125292-0-0-2b53330c8e335b4bf8b4b4b89240ce52
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1769125292-0-0-a72f618174a0b9d1214f374d2f9fefb3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1769124212-0-0-4ebdb93c6a0411e291f40697aaabbee9
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1769125292-0-0-b5619e9ef6fcf3bd42f868f637882b4f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [VỊT BẠC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1769124212-0-0-4746610d98dd3588629018810008ee88
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1769125292-0-0-b3762eb76c0f5bb522ac9d822f935104
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [VỊT BẠC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1769124212-0-0-142f676666a7c30445f17e2d093a1699
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1769125292-0-0-a185dbd9af1f7ee5479f7cfc4ee6773d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1769124212-0-0-fdf13ddf1ea88d0b65a8acff670f9534
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/ec1f55760a3fe7991d3553bcf7891ae1.png",03:00 ngày 23/01 Utrecht vs Racing Genk (1) [A Núi] HD Nhanh
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1769125292-0-0-12aaff1ba0be884e923fb41bc03f99ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lsd.flv?auth_key=1769125292-0-0-6680487682450011dbf78da210d9a0ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-313971_lhd.flv?auth_key=1769125292-0-0-6393b7a0318041b877261e1a7f24b27c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1769125292-0-0-4cbc0b8ba0ec03a76f3600c42e791803
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV KAI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1769125292-0-0-cbea8a1c8a5bc5c8007cdcedc258c3fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=a1aa1b2e21421ca606eab9efb0cd7cf7&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=cbb2d630d250dc46d141e840c337ac85&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=a1aa1b2e21421ca606eab9efb0cd7cf7&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/c754cc28d06ddd99f9bcdbe3df32a8b1.png",06h00 ngày 23/01 Club Atlético Unión vs CA Platense [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=cbb2d630d250dc46d141e840c337ac85&txTime=6972fbfc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1769125652-0-0-e78920c4be01b5b1cacca331ad77892d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1769125652-0-0-50397e731915acf1f2a83b21301ae32e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1769125652-0-0-76b8eb9c4c339ad1c1ef9627a8a4f78a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f1f36f056cb20d32bddbf6fbe0d8e020.png",03h00 ngày 23/01 FC Utrecht vs Racing Genk [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1769125652-0-0-72507f89dc4c19ccb9d95f0edbaa639f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV FAKER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564597_lsd.flv?auth_key=1769125652-0-0-d14563ce2c9682aa7f33be345e413734
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV FAKER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564597_lhd.flv?auth_key=1769125652-0-0-d023c5c03776e5334fbafe325c470173
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV FAKER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564597_lsd.m3u8?auth_key=1769125652-0-0-f1cfbb9c8c369719b074c07693db5899
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/af99f96803985c6f4aa2739274495560.png",05h30 ngày 23/01 Santos vs Sport Club Corinthians Paulista [BLV FAKER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564597_lhd.m3u8?auth_key=1769125652-0-0-920b151973958d9661ad4c4e750f1213
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [CÔNG LÝ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lsd.flv?auth_key=1769125652-0-0-7d52408686d400b64a011a5a0d068600
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [CÔNG LÝ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912035_lhd.flv?auth_key=1769125652-0-0-115b8bfc201c864060122a7c7b897489
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [CÔNG LÝ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1769125652-0-0-b994635d3314b86b7c422af48ce9a80f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/45fc22dc6852dcf7191c4367c4a4b1ba.png",06h00 ngày 23/01 Banfield vs CA Huracan [CÔNG LÝ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1769125652-0-0-aa230b4fe6724099d6470f863612e3b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769125652-0-0-04bad809471f5d18b23ce3496da008a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769125652-0-0-48ef1699d0d2cabf96e835e123c6a5f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769125652-0-0-5adf100e987f492d3bb1bea9137c8759
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260119/f4a7f11bea5a1b4c3feda61ffe41952b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769125652-0-0-a90b203ce79df73c2aec94f3aa82da12
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png",06:00 ngày 23/01 Union Santa Fe vs CA Platense (1) [Người Lông] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1769138285&sign=f9594a30b02798ac525191eb96187abe
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/ec1f55760a3fe7991d3553bcf7891ae1.png",03:00 ngày 23/01 Utrecht vs Racing Genk (1) [A Núi] HD1
+https://hotlivezz179536519.akainu.xyz/live/longHD.flv?expire=1769139725&sign=f270735da3f096adfa2c77688238fdca
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png",06:00 ngày 23/01 Union Santa Fe vs CA Platense (1) [Người Lông] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769138285/3a1e3eefde1227fce6c3a5712012e846/939758246/live/nuiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/ec1f55760a3fe7991d3553bcf7891ae1.png",03:00 ngày 23/01 Utrecht vs Racing Genk (1) [A Núi] HD2
+https://9ceg0825.edgemaxcdn.org/1769139725/7d515f9d5c66ae0e2b466b25bbf5b168/409775008/live/longHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png",06:00 ngày 23/01 Union Santa Fe vs CA Platense (1) [Người Lông] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/wWYIWuyS2D_xpZn0gVR0Rw/Fv2lucGIbhPi2caWYvF5Lg/1769138285636/live/nuiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/ec1f55760a3fe7991d3553bcf7891ae1.png",03:00 ngày 23/01 Utrecht vs Racing Genk (1) [A Núi] SD
+https://hotlivezz179266008.akainu.xyz/thHlgJsXSAC7sLKK7-3NqQ/Fv2lucGIbhPi2caWYvF5Lg/1769139725919/live/longHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png",06:00 ngày 23/01 Union Santa Fe vs CA Platense (1) [Người Lông] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/iabWDrvpzNNSZ-v8Vu5mLw/Fv2lucGIbhPi2caWYvF5Lg/1769138285636/live/nuiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/ec1f55760a3fe7991d3553bcf7891ae1.png",03:00 ngày 23/01 Utrecht vs Racing Genk (1) [A Núi] FullHD
+https://hotlivezz179602324.akainu.xyz/fp3LAiTBXiHeIYdP-rDgdQ/Fv2lucGIbhPi2caWYvF5Lg/1769139725920/live/longSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/5f6038a64343be950bdcad93ea8ad410.png",06:00 ngày 23/01 Union Santa Fe vs CA Platense (1) [Người Lông] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769138285/709d0d43f66f615a4aa52b0c8e1c7e6c/953873115/live/nuiFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/ec1f55760a3fe7991d3553bcf7891ae1.png",03:00 ngày 23/01 Utrecht vs Racing Genk (1) [A Núi] Backup 1
+https://9ceg0825.edgemaxcdn.org/1769139725/28e9576bf845cd918bbdeaabeb1ddb28/598596724/live/longFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",07:00 ngày 23/01 Magic vs Hornets (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/LLAfF0XigmmQgOGL1YO_ew/Fv2lucGIbhPi2caWYvF5Lg/1769138285634/live/sd-6MvXMff1SHe8UjUTHD/playlist.m3u8
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769140086&sign=10b41caffdc954f909118182f0548317
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",07:00 ngày 23/01 Magic vs Hornets (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769140086/6ac46f61c243beee615ca186d92a05e0/224699860/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",07:00 ngày 23/01 Magic vs Hornets (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/CFRisgchp5Xi4arxVXS_Ag/Fv2lucGIbhPi2caWYvF5Lg/1769140086274/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",07:00 ngày 23/01 Magic vs Hornets (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/rZc8oP5zT_Z_JqZGvI4uBA/Fv2lucGIbhPi2caWYvF5Lg/1769140086274/live/phepSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",07:00 ngày 23/01 Magic vs Hornets (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769140086/607c70137a273bfb22ede8ade4d60181/153151480/live/phepFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",06:00 ngày 23/01 Banfield vs CA Huracan (1) [Cá Cờ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/coHD.flv?expire=1769140087&sign=8abd2a68fbcbda800d5b1b58586a5e98
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",06:00 ngày 23/01 Banfield vs CA Huracan (1) [Cá Cờ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769140087/034a30aeefb9b7fd322f32af21acb438/459916700/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",06:00 ngày 23/01 Banfield vs CA Huracan (1) [Cá Cờ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/MX_mZIhtiwoZW2lBis_aLA/Fv2lucGIbhPi2caWYvF5Lg/1769140087490/live/coHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",06:00 ngày 23/01 Banfield vs CA Huracan (1) [Cá Cờ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/hJF-RhIbphDcoLEswNTpdg/Fv2lucGIbhPi2caWYvF5Lg/1769140087491/live/coSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",06:00 ngày 23/01 Banfield vs CA Huracan (1) [Cá Cờ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769140087/b2e708f5617a8e4757b77ad7ba000ec8/163159648/live/coFHD/playlist.m3u8
 #EXTINF:0 group-title="Mãn nhãn" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9908_small.png",03:50 ngày 23/01 FC Utrecht vs Genk (Mãn nhãn) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
@@ -1450,6 +2028,9 @@ https://wtyi0525.edgemaxcdn.org/live/x10y3-1626/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad71710204.stream.hdplaylink.com/sklive/x10y2/playlist.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",05h30 23/01 Santos vs Corinthians Paulista
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/71426314.m3u8
 #EXTINF:0 group-title="blvtoptop" tvg-logo="https://media.api-sports.io/football/teams/10176.png",18h30 20/01 Japan U23 vs Korea Republic U23 (blvtoptop) Bún
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://cdn.xembanh.live/live/0dq4pt7si9/playlist.m3u8
