@@ -541,10 +541,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/29b10e44d54f1b97e6df9b3128f64fbc.png",10h30 ngày 27/01 Railways FC vs Punjab FA (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/6703e785cdc4728c241a43abdb334a52/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/4a5873c2f4d2aea786dc787a37b4b34c.png",02h45 ngày 26/01 AS Roma vs AC Milan (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -701,12 +697,24 @@ https://mrkw1025.edgemaxcdn.org/live/m504nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m505nd/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769451928.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors (Lương Sơn) BLV YẾN THANH m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769491266.png",12h30 ngày 27/01 Arsenal vs MAN UTD (Lương Sơn) BLV THỜI THIÊN REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769451928.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors (Lương Sơn) BLV YẾN THANH flv
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769491266.png",12h30 ngày 27/01 Arsenal vs MAN UTD (Lương Sơn) BLV THỜI THIÊN REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769491252.jpg",12h20 ngày 27/01 Arsenal vs Manchester United (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO4A/index.m3u8?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769491252.jpg",12h20 ngày 27/01 Arsenal vs Manchester United (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO4A.flv?expire=1891408380&sign=5274350aaa915df457fdffd606d49f30
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769491260.jpg",12h00 ngày 27/01 U23 China vs U23 Japan (Lương Sơn) BLV TỐNG GIANG REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1769491260.jpg",12h00 ngày 27/01 U23 China vs U23 Japan (Lương Sơn) BLV TỐNG GIANG REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31061_1h60a0qsyw2m.png",10h30 ngày 27/01 Bengal Nagpur Railway FC vs Punjab FA (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvVczJfBaqnmwhSQk/playlist.m3u8
@@ -737,22 +745,10 @@ https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ea4f22f4aa70fe8bc54e262d133cf1a1/image/small?v=1768601124",10h30 ngày 27/01 Railways FC vs Punjab FA (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6703e785cdc4728c241a43abdb334a52/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/645e2dbd7ecc6ffb7bc5efd7e58d1c5c/image/small?v=1768601124",08h00 ngày 27/01 Leon Women vs Monterrey Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/90c456b65d44a163f53afa36b4368eee/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3631e0ddd4d946b9e3ccf859771ddb41/image/small?v=1768601124",06h00 ngày 27/01 Barbados  U17(w) vs El Salvador (w) U17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/885693f81c465d18ab156ff6f87b563a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fe4c497a2e28be2c35654d3220a07fb4/image/small?v=1768601124",06h00 ngày 27/01 Queretaro Women vs Toluca Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/70a340f6412afd8f976594528148e167/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d5053d672dbb113f194cc11eee1de907/image/small?v=1768601124",08h00 ngày 27/01 Aserri FC vs Futbol Consultants Moravia (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -761,18 +757,10 @@ https://live.alilicloud.com/live/56204b8f51672ee4701aabfcb3e45ba4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/070b97135f4bc0ea5f2d471bcef856a7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9173662dd9d88090ecc730c5b6e96720/image/small?v=1768601124",06h00 ngày 27/01 Bermuda (w) U17 vs Bonaire U20 (W) (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ea4f22f4aa70fe8bc54e262d133cf1a1/image/small?v=1768601124",10h30 ngày 27/01 Railways FC vs Punjab FA (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/005d605e589beda029faf018a10f4556/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/01daa7a00964a19fc806e499733e9543/image/small?v=1768601124",06h00 ngày 27/01 Union Magdalena vs Bogota FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/95f0ba4a2c9aca55038cd838d8037381/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c4b3c0ca31b427301b4ddf91c7c1d856/image/small?v=1768601124",06h00 ngày 27/01 Portuguesa Desportos vs Guarani SP (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/06af5d2369afd3838d94aa70ec553d13/playlist.m3u8
+https://live.alilicloud.com/live/6703e785cdc4728c241a43abdb334a52/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/977be1a290e6ce903a251f6c0923fdbb/image/small?v=1768601124",06h30 ngày 27/01 Fortaleza vs Floresta CE (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1025,170 +1013,142 @@ https://stream.chuoichien.tv/duyhung/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/duyhung.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d5053d672dbb113f194cc11eee1de907/image/small?v=1768601124",08h00 ngày 27/01 Aserri FC vs Futbol Consultants Moravia (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/56204b8f51672ee4701aabfcb3e45ba4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ea4f22f4aa70fe8bc54e262d133cf1a1/image/small?v=1768601124",10h30 ngày 27/01 Railways FC vs Punjab FA (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6703e785cdc4728c241a43abdb334a52/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/effbfb30101d4f996f3b75b1846ec6f1/image/small?v=1768601124",08h00 ngày 27/01 Nicaragua U17 Women vs Dominica (W) U17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7d4b4c908ff38f5de4abb2412bcb243a/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f3466d514c5291900052d65e65eda254/image/small?v=1768601124",09h00 ngày 27/01 Municipal Pérez Zeledón vs Sporting FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/d32b0a00d419ccf632b9ced1c79410a3/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1769492133-0-0-8903b5a68085011a653c07c76f6222c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1769492133-0-0-2b132895741375d6a1823703ab33ff9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1769492133-0-0-a336ba51e72266f68c888fc4cda91e8a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1769492133-0-0-62045546d2960f1fc4904441b89b9a3a
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ea4f22f4aa70fe8bc54e262d133cf1a1/image/small?v=1768601124",10h30 ngày 27/01 Railways FC vs Punjab FA (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6703e785cdc4728c241a43abdb334a52/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769492133-0-0-406dc5331ac8f8562ebc5b55092c31cf
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769494293-0-0-422d196825cfe4aff18a33014eaf5393
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769492133-0-0-8b449e5f32847b09ca6460e878a64810
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769494293-0-0-28d1787780239b31b6ec7593411b4867
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769492133-0-0-3ed745baa017693558a816236f336412
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769494293-0-0-71fd22b688c32765cc19287f6bb0e153
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769492133-0-0-12a1ff782b5855f26ff6a3ad8be03582
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [KING] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769494293-0-0-61476dc8087c679c300f9648cf8119b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Ittihad Club vs Al Okhdood [Sóc nhàm nhang nhồ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1769492493-0-0-bf777116686fbf99418da311d9c66844
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1769494653-0-0-e5f37b1ff1ce15f2696a9ce17641f9b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Ittihad Club vs Al Okhdood [Sóc nhàm nhang nhồ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1769492493-0-0-c1dfbe666c8473019e0936a6b52e2912
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [KING] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1769494653-0-0-56449e22f84e858fc8e2cee8aa85d69a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Ittihad Club vs Al Okhdood [Sóc nhàm nhang nhồ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769492493-0-0-c977dca2728e311d6fb575a93e748cd8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1769494653-0-0-0dab3ee47d1188ae170bac283835d95a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Ittihad Club vs Al Okhdood [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769492493-0-0-32f62f1096e8f4c9ae65be62634ff138
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [HUNTER] (Socolive) flv
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1769494653-0-0-893341e5ff62b3d7e331fe97826a5104
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: AUS D1 - Melbourne Victory vs Sydney FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1769492493-0-0-bc743d7d3a3e3ff6434544dab5ff8dca
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1769494653-0-0-6dbecefd6afb8f8e44a7a61345cfa77d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: AUS D1 - Melbourne Victory vs Sydney FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1769492493-0-0-84c1cf8416aacfdf3583e20c6f1db18c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [HUNTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1769494653-0-0-4f1d0a8d87cf9e7cbb53d0ea541dcd48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: AUS D1 - Melbourne Victory vs Sydney FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769492493-0-0-77f0cf0e86b37edfaaf79b891fddb359
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1769494653-0-0-466cae3bbc83808d5b4c193059aa187b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: AUS D1 - Melbourne Victory vs Sydney FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769492493-0-0-496e90250d265b7b98dc5764ecc2d473
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BLV HENRY] (Socolive) flv
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1769494653-0-0-29d2209a3efdd597306ae138c962ae9d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ITA D1 - Hellas Verona vs Udinese [Sóc trèo cây ngô đồng] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1769492493-0-0-70834590049cdfb1f025f70207c329e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1769494653-0-0-6961973bcbe260390ac36b218a9f9a0e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ITA D1 - Hellas Verona vs Udinese [Sóc trèo cây ngô đồng] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1769492493-0-0-9e947a75b2f85dcd3baedf43aaded296
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BLV HENRY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1769494653-0-0-46eb4c99ced5099222da6094d923a643
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ITA D1 - Hellas Verona vs Udinese [Sóc trèo cây ngô đồng] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1769492493-0-0-691a4619b9ad8946185ec2a4ab23bceb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1769494653-0-0-464e3710c705fc9b6e999dc71fc101d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ITA D1 - Hellas Verona vs Udinese [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1769492493-0-0-9855f21a697ad79047b5606d773ba93f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BRIAN] (Socolive) flv
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1769494653-0-0-99ad577f9950d66521ab8e149f18769c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc mèo méo meo] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1769492853-0-0-ecf45d9d7519e71d555fae286f756a65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1769494653-0-0-3a3c3982a5551631b5e12e58ee5a6aa9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc mèo méo meo] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1769492853-0-0-40beb665f4cc4f065c2d5abaca895efc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BRIAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1769494653-0-0-a4067c48fa2fb76e8e72b2fad81e53ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc mèo méo meo] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1769492853-0-0-8048b562bfb7b2e2ab10c83043a90640
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1769494653-0-0-669dd89280ac5f560be024c85a8b577b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: ENG PR - Everton vs Leeds United [Sóc mèo méo meo] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1769492853-0-0-dbeb4de4e895f0e75b32f752304fe467
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [CHAN SENA] (Socolive) flv
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1769494653-0-0-bc252acf7fc4c74f51d34b138979ec3d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Nassr FC vs Al Taawoun [Sóc trong rừng xà nu] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1769492853-0-0-b1a5dc4891895585ab3314fef5f1bb1c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1769494653-0-0-e94d3877fe25e3900853701dfbeee2fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Nassr FC vs Al Taawoun [Sóc trong rừng xà nu] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1769492853-0-0-fda042bc3e071f5f0aa54891c0c30758
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [CHAN SENA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1769494653-0-0-82b4838fcf081e89af6006edeb77b57c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Nassr FC vs Al Taawoun [Sóc trong rừng xà nu] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769492853-0-0-9692aefe566d8d17579e059c39f230a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/21baba996ef07fd2bd0f36a9c161bfde.png",09h30 ngày 27/01 Minnesota Timberwolves vs Golden State Warriors [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1769494653-0-0-0895e1a7873c079c2b672fe5b09228c4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Nassr FC vs Al Taawoun [Sóc trong rừng xà nu] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769492853-0-0-d2bbbbf917c9ef5dbea76cdf3fd46cbc
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",09:30 ngày 27/01 Timberwolves vs Warriors (1) [Người Thương] HD Nhanh
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1769494653-0-0-2546c3259906f7da46cecc16a1d06104
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Hazem vs Damac [Sóc đau cổ vai gáy] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1769506925&sign=967504c5b538a7753c532b4bbda3686c
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",09:30 ngày 27/01 Timberwolves vs Warriors (1) [Người Thương] HD1
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1769494653-0-0-c7aafc2b1b7d92b3f800008db7c0ac5b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Hazem vs Damac [Sóc đau cổ vai gáy] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769506925/66d3559f8dccff4763e328bbae788827/570465417/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",09:30 ngày 27/01 Timberwolves vs Warriors (1) [Người Thương] HD2
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1769494653-0-0-475c08ef010530fdae16239cec81066b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Hazem vs Damac [Sóc đau cổ vai gáy] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/xRHT6V8tSJvCFYKR4wHdOQ/Fv2lucGIbhPi2caWYvF5Lg/1769506925012/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",09:30 ngày 27/01 Timberwolves vs Warriors (1) [Người Thương] SD
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1769494653-0-0-bdc93699367a7a37866dd2aa8f59240b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260123/1b8dd7e9799ca35a2992bca4664122f3.png",Tường thuật: KSA PR - Al Hazem vs Damac [Sóc đau cổ vai gáy] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/9mJPQFnKvycfoGM4WuWhWA/Fv2lucGIbhPi2caWYvF5Lg/1769506925013/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/hv2nHleM-KbXk58wB.png",09:30 ngày 27/01 Timberwolves vs Warriors (1) [Người Thương] FullHD
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769506925/6cb52cdfe9c07e45d48837cbbf457790/401346196/live/thuongFHD/playlist.m3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1769494653-0-0-f25ad343d90727e22641e0a62e1f3c56
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2e1e1eb6e269eb81851e9dd733a9e840.png",09:40 ngày 27/01 Alexander Zverev vs Learner Tien (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769532126&sign=6c5d759acab483df9e2a343dc3751891
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769534285&sign=fa3aa4719039f52caeed9c042ec6a826
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2e1e1eb6e269eb81851e9dd733a9e840.png",09:40 ngày 27/01 Alexander Zverev vs Learner Tien (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769532126/1e0fdd623b68b60304f89f602bbaa456/221468445/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769534285/29efd4808e47f055cee693b49e450a88/656374278/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2e1e1eb6e269eb81851e9dd733a9e840.png",09:40 ngày 27/01 Alexander Zverev vs Learner Tien (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/VwNkRP7FwgQdxXRwOHvxCQ/Fv2lucGIbhPi2caWYvF5Lg/1769532126174/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/de4whoNghnBp_Mt46hxfRw/Fv2lucGIbhPi2caWYvF5Lg/1769534285957/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2e1e1eb6e269eb81851e9dd733a9e840.png",09:40 ngày 27/01 Alexander Zverev vs Learner Tien (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/aSKydTfiuoEZcc23IsYFig/Fv2lucGIbhPi2caWYvF5Lg/1769532126175/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/nOcEo3L9YgP0ZdQf6CKA3w/Fv2lucGIbhPi2caWYvF5Lg/1769534285957/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/v2/team/2e1e1eb6e269eb81851e9dd733a9e840.png",09:40 ngày 27/01 Alexander Zverev vs Learner Tien (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769532126/793a568bb9be012c352139416f785626/672144288/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769534285/cffd1f4ddc58e36ecf931c8b703d25e4/146258362/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 27/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/AKAOeq82gBqyHq6g5w-XWg/Fv2lucGIbhPi2caWYvF5Lg/1769532485336/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/3HxN4PwK9ERym_AKFZDlSA/Fv2lucGIbhPi2caWYvF5Lg/1769534646693/live/may25/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",07:00 ngày 27/01 Australian Open (1) [Nhà Đài] Margaret Court Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/aYPdnpL7XOn76oxu0t6hQw/Fv2lucGIbhPi2caWYvF5Lg/1769532485337/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/xwGm0OsXeXDvESjtexqRqA/Fv2lucGIbhPi2caWYvF5Lg/1769534646694/live/may251/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 ngày 27/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/mMlAsKCmH93dkJwy8gIu7g/Fv2lucGIbhPi2caWYvF5Lg/1769532486439/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gRnoo0yYDXFUElt5Me3QGg/Fv2lucGIbhPi2caWYvF5Lg/1769534647881/live/may26/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 ngày 27/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/9Tr9mGjf7UHtecJwTD7HKw/Fv2lucGIbhPi2caWYvF5Lg/1769532486439/live/may261/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/2LP-p4aarclJqmUERGHM6w/Fv2lucGIbhPi2caWYvF5Lg/1769534647882/live/may261/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 ngày 27/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/9Poqt6eDaIWb2w3Izi_F9A/Fv2lucGIbhPi2caWYvF5Lg/1769532486440/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/t59kd-dmawvioV4Zjm9iaw/Fv2lucGIbhPi2caWYvF5Lg/1769534647882/live/may27/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",09:00 ngày 27/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/afSdaVBBekqXrJr-TowC3Q/Fv2lucGIbhPi2caWYvF5Lg/1769532486440/live/may271/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gvWAYOItGIeIdWVD6KT53g/Fv2lucGIbhPi2caWYvF5Lg/1769534647883/live/may271/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",09h30 27/01 Minnesota Timberwolves vs Golden State Warriors (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1201,9 +1161,6 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phancao/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",09h30 27/01 Minnesota Timberwolves vs Golden State Warriors
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87379114.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎", Беларусь 5 Интернет HD
