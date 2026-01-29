@@ -541,10 +541,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtv5-tay-nguyen/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:0 tvg-id="vietnamtoday" group-title="Kenh VTV" tvg-logo="Kenh VTV",Vietnam Today (HD 8Mbps)
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/6e3e684c59aa7d549e002b289f5345dd.png",21h45 ngày 29/01 Umm Salal vs Al-Arabi SC (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/116745f693c86540f648a349caeab837/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -561,6 +557,10 @@ https://live.alilicloud.com/live/fec8a6a202f11e6d56e8527711eeb893/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/852330d196b0145ad8c1f1ab26fea886/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/71edf287cdc7330698b3ae6b7cb4e8a9.png",23h30 ngày 29/01 Al-Nasr(OMA) vs Oman Club (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/79dab13b024d42f91d00a6b5956e06ac/playlist.m3u8
 #EXTINF:0 group-title="Lấy kinh" tvg-logo="https://img.thesports.com/football/team/2194d8f23b8504ac8ca5861a508ecbe3.png",20h15 ngày 29/01 Al Bataeh vs Al-Jazira(UAE) (Lấy kinh) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -705,24 +705,30 @@ https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2983_1gtzct7tvk1j.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2983_1gtzct7tvk1j.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2967_1h71mp157ht.png",22h30 ngày 29/01 Al Faisaly Amman vs Ramtha Club (Lương Sơn) BLV MAYBACH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2967_1h71mp157ht.png",22h30 ngày 29/01 Al Faisaly Amman vs Ramtha Club (Lương Sơn) BLV MAYBACH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4072_1gs4bj450c2f.png",21h45 ngày 29/01 Umm Salal vs Al-Arabi SC (Lương Sơn) BLV URA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2983_1gtzct7tvk1j.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4072_1gs4bj450c2f.png",21h45 ngày 29/01 Umm Salal vs Al-Arabi SC (Lương Sơn) BLV URA flv
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2983_1gtzct7tvk1j.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4072_1gs4bj450c2f.png",21h45 ngày 29/01 Umm Salal vs Al-Arabi SC (Lương Sơn) BLV DƯƠNG CHÍ m3u
+ https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2983_1gtzct7tvk1j.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Lương Sơn) BLV CHUNN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4072_1gs4bj450c2f.png",21h45 ngày 29/01 Umm Salal vs Al-Arabi SC (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2983_1gtzct7tvk1j.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Lương Sơn) BLV CHUNN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2796_1gzcyxfjb12r.png",22h00 ngày 29/01 Enppi vs Smouha SC (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -735,6 +741,30 @@ https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2796_1gzcyxfjb12r.png",22h00 ngày 29/01 Enppi vs Smouha SC (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3142_1hptatqhh030.png",23h30 ngày 29/01 Al-Nasr(OMA) vs Oman Club (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3142_1hptatqhh030.png",23h30 ngày 29/01 Al-Nasr(OMA) vs Oman Club (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3142_1hptatqhh030.png",23h30 ngày 29/01 Al-Nasr(OMA) vs Oman Club (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3142_1hptatqhh030.png",23h30 ngày 29/01 Al-Nasr(OMA) vs Oman Club (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV NHỊ KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
@@ -747,18 +777,6 @@ https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV THỜI THIÊN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV THỜI THIÊN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1767017994.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5529_1gqbqekjkf2z.png",23h00 ngày 29/01 Al Nasr Dubai vs Banni Yas (Lương Sơn) BLV A TỦA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
@@ -771,6 +789,78 @@ https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5529_1gqbqekjkf2z.png",23h00 ngày 29/01 Al Nasr Dubai vs Banni Yas (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phangsd2Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phanghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/phanghd2Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/phanghd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/6e3e684c59aa7d549e002b289f5345dd.png",21h45 ngày 29/01 Umm Salal vs Al-Arabi SC (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -819,6 +909,30 @@ https://mrkw1025.edgemaxcdn.org/live/chuoisd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/chuoihd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",00h00 ngày 30/01 Fiorentina (w) vs AC Milan (w) (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",00h00 ngày 30/01 Fiorentina (w) vs AC Milan (w) (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",00h00 ngày 30/01 Fiorentina (w) vs AC Milan (w) (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",00h00 ngày 30/01 Fiorentina (w) vs AC Milan (w) (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",00h00 ngày 30/01 Fiorentina (w) vs AC Milan (w) (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplussd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/83bd5ee757930fa265285df7ea5bd8bb.png",00h00 ngày 30/01 Fiorentina (w) vs AC Milan (w) (Ra Khơi) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/hplushd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/d73fc6a782904bb6819be4e0e86e8a55.png",22h30 ngày 29/01 Al Faisaly vs Ramtha Club (Ra Khơi) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -843,82 +957,26 @@ https://mrkw1025.edgemaxcdn.org/live/saysd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/sayhd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) SD 1
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/0e628eb260abf9d914aff8b1613030d9/image/small",00h00 ngày 30/01 Novara Women vs Budowlani Lodz Women (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) HD 1
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc48435558.stream.hdplaylink.com/live3/22e052367dd8474e8ebe94b746ee268c_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/0e628eb260abf9d914aff8b1613030d9/image/small",00h00 ngày 30/01 Novara Women vs Budowlani Lodz Women (Khán Đài A) hd_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) SD 2
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://stm02bc67274262.stream.hdplaylink.com/live4/22e052367dd8474e8ebe94b746ee268c_720/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/0e628eb260abf9d914aff8b1613030d9/image/small",00h00 ngày 30/01 Novara Women vs Budowlani Lodz Women (Khán Đài A) hd_3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) SD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",22h00 ngày 29/01 Al-Fateh SC vs Al-Ittihad Club (Ra Khơi) HD (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/sunhd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phangsd2Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phanghd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/phanghd2Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phangsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/1bd9415259f9b04af4c6164660af9a48.png",22h00 ngày 29/01 Enppi vs Smouha SC (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/phanghd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/nguumavuonghd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png",23h45 ngày 29/01 Al-Wakra vs Al Shahaniya (Ra Khơi) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/nguumavuonghd1Rk.flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live3.fastestcdn-global.com/live3/22e052367dd8474e8ebe94b746ee268c_720/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c60a071631f0ec24dcc8064c0e079fe5/image/small?v=1768601124",20h10 ngày 29/01 City Club vs Hatta (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d98dfa132f19ecf8a19e2028373ee743/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/61adacedef4318ecde39547a9ac85d80/image/small",23h00 ngày 29/01 PAOK vs Epitsentr Podoliani (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f7d5182f00c8672b880fac2deaa5643e/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2d33d8e8c82543293adb56a6297c2c9/image/small?v=1768601124",19h00 ngày 29/01 Gangwon Football Club vs Slovan Bratislava (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -959,6 +1017,10 @@ https://live3.fastestcdn-global.com/live3/795752aec6c14917a362b749bb19d7bb_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/116745f693c86540f648a349caeab837/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c6a946ce506b7a6c291bc87ee2e37ada/image/small?v=1768601124",23h30 ngày 29/01 AlvsNasr(OMA) vs Oman Club (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/79dab13b024d42f91d00a6b5956e06ac/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/64a364c6715a92e18d770c9d19d45737/image/small?v=1768601124",20h30 ngày 29/01 Estoril U23 vs Vizela U23 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -979,6 +1041,14 @@ https://live.alilicloud.com/live/8bfe6f8202b706a5f0b4d2d710a6cf5e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/542b7ff23ee479e802d5a1966770bd53/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/26b8b5a0c8e1f798f1259a617f19e5f2/image/small",22h30 ngày 29/01 Panathinaikos Women vs Crvena zvezda Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3d35cf0c9aae9907657f691160c220b7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8ef18e2ad0900e8d5baa508436824c0a/image/small?v=1768601124",23h30 ngày 29/01 AlvsWakrah SC vs Al Shahaniya (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/36572b60d824d1d91e93f326cebab6d5/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5f1e81d00cdc6bf2d704630d8fa930ce/image/small?v=1768601124",23h00 ngày 29/01 AlvsNasr Dubai vs Baniyas Club (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1003,38 +1073,6 @@ https://live.alilicloud.com/live/fec8a6a202f11e6d56e8527711eeb893/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/97a4f99bc6e66de9db96f69a14a5c55e/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130844_28c35d25.png",21h30 ngày 29/01 UMM Salal vs Al-Arabi SC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130844_28c35d25.png",21h30 ngày 29/01 UMM Salal vs Al-Arabi SC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad FC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad FC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad FC (Chuối Chiên) HD3
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad FC (Chuối Chiên) HD4
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad FC (Chuối Chiên) SD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot/index.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_599c89c5.png",22h00 ngày 29/01 Al-Fateh vs Al-Ittihad FC (Chuối Chiên) SD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://stream.chuoichien.tv/chuoihot.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134002_4cd99b1a.png",00h30 ngày 30/01 Al-Qadisiyah FC vs Al-Hilal Saudi FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1215,6 +1253,10 @@ https://live.alilicloud.com/live/9a511994b64add8abfc3398bc920812d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c1520419ce27e84a2ba14d2d55eb595e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/26b8b5a0c8e1f798f1259a617f19e5f2/image/small",22h30 ngày 29/01 Panathinaikos Women vs Crvena zvezda Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3d35cf0c9aae9907657f691160c220b7/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5f1e81d00cdc6bf2d704630d8fa930ce/image/small?v=1768601124",23h00 ngày 29/01 AlvsNasr Dubai vs Baniyas Club (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1247,6 +1289,10 @@ https://live8.fastestcdn-global.com/live8/68341920f2374d6b89ede37d4680c1ee_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/116745f693c86540f648a349caeab837/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c6a946ce506b7a6c291bc87ee2e37ada/image/small?v=1768601124",23h30 ngày 29/01 AlvsNasr(OMA) vs Oman Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/79dab13b024d42f91d00a6b5956e06ac/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/64a364c6715a92e18d770c9d19d45737/image/small?v=1768601124",20h30 ngày 29/01 Estoril U23 vs Vizela U23 (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1259,6 +1305,10 @@ https://live.alilicloud.com/live/49431e34485ec6909a861ac19c3be7cc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8bfe6f8202b706a5f0b4d2d710a6cf5e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8ef18e2ad0900e8d5baa508436824c0a/image/small?v=1768601124",23h30 ngày 29/01 AlvsWakrah SC vs Al Shahaniya (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/36572b60d824d1d91e93f326cebab6d5/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/54c0a4f2e30c047e561f386e04e0760e/image/small?v=1768601124",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1303,482 +1353,462 @@ https://live.alilicloud.com/live/9a38c9405ce6bb58c4908e98a18970dd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/fec8a6a202f11e6d56e8527711eeb893/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [SÙNG A MÚP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1769706693-0-0-4c246bdaa44f66eeb745ed3f5f9ae9aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [SÙNG A MÚP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1769706693-0-0-199246d2b501b3886f9a2d9f798578bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [SÙNG A MÚP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1769706693-0-0-5beacd0842eda6700b97898b8af12e53
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [SÙNG A MÚP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1769706693-0-0-4949f9cee0b011878c9cd37196b30417
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV TÔM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lsd.flv?auth_key=1769706693-0-0-4e408d66b100b4e595bad7a23fd7cc9c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV TÔM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-561379_lhd.flv?auth_key=1769706693-0-0-46ea795cc0308c2a14fdbdbd5aeb77f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV TÔM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lsd.m3u8?auth_key=1769706693-0-0-66c5e5189ec664a0963342ea02629480
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV TÔM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-561379_lhd.m3u8?auth_key=1769706693-0-0-3dfe48300b20bc7e083d47d94563ead1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1769706693-0-0-d30fda2c708e601a326dab463a5f0f1e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1769706693-0-0-2a588f55fbe91b2258e1b55fab80ffac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769706693-0-0-3caf3ec81e900635042917a9f04fb861
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1769706693-0-0-3a0d237ffb01641bdbf4831835b388e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=84371881b6dd5e09e4c2442be6c00b45&txTime=697bdb15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=2df18f0f56b1d5e1d9500ca48453f964&txTime=697bdb15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=84371881b6dd5e09e4c2442be6c00b45&txTime=697bdb15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=2df18f0f56b1d5e1d9500ca48453f964&txTime=697bdb15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1769706693-0-0-5bdf49aafcf87074273b9c8fd0690c35
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1769708853-0-0-b4a3a717fc2935e156405cb46b96a332
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1769706693-0-0-f3771b9ddae2ea6187585e651d0040b2
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1769708853-0-0-5de09d3faca18586c0449ae64b09a3a2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1769706693-0-0-23d0826b502f8c38812f3e5190c1c7df
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1769708853-0-0-2bb478a3386c049378fc8727e9741072
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1769706693-0-0-033e23883cf501ec100a7a70eb888e63
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) flv
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1769708853-0-0-b9fc43728e46de8d8bff9fb672041efe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1769706693-0-0-6c6bfbb23d5d5257a0ee7ee38f0548d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1769708853-0-0-54423e42553f7e038922dd8fd418cd47
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1769706693-0-0-4899406af3178635a07ea8645d6bb005
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1769708853-0-0-4390e8d3e27c443f9f37f7335108fbd8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1769706693-0-0-04f02ea2c2f647ba6ec61215e99b9d1b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769708853-0-0-ab44fe4801fae57a3bc44ee5cbab9a27
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1769706693-0-0-4cb88417ea669f75fefb537d23c45d10
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1769708853-0-0-7f6a14895fef9821cb02aa283ebd7d93
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=d705a292a49d0f0c9a5a1e79960a5502&txTime=697bdb15
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=52b4bce713190918aa8d0e3927b08e10&txTime=697be385
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=d8b9d7920836b30c09445c836ad32ca7&txTime=697bdb15
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=e2dd4de498dea6469f186909c9aa38d5&txTime=697be385
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=d705a292a49d0f0c9a5a1e79960a5502&txTime=697bdb15
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=52b4bce713190918aa8d0e3927b08e10&txTime=697be385
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4ecf63308d8c5db9dda24f64c452d7da.png",22h30 ngày 29/01 Al Faisaly vs Al-Ramtha SC [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=d8b9d7920836b30c09445c836ad32ca7&txTime=697bdb15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1769706693-0-0-681440369a788a67d743e6d6b9940839
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1769706693-0-0-e85c1b8384d6724ae72398ad4b996e08
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1769706693-0-0-933f56aa331fcbe4344dd2d6730e19cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1769706693-0-0-b5280714771416be389d34a34ff1fe6b
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=e2dd4de498dea6469f186909c9aa38d5&txTime=697be385
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769706693-0-0-d2ecbb4f3b722535205784234d8c9371
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769708853-0-0-839b41c90f02e887bec3d72e39804123
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769706693-0-0-00ad4f13b960f63099140bd2ad6443ff
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769708853-0-0-c0226f1d9a8c4fa8d22cd4a2c0bbd51a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769706693-0-0-385f743f757e1014051a44844e88bff7
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769708853-0-0-4be7b67b0b8b1e0df6a88664f92cdd50
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769706693-0-0-6d26e6474be20231ea7bb61486857dca
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769708853-0-0-beeecacd71ed1e98ab979c1e0fde6d87
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769707053-0-0-ff275bc22fa8007c466ad482cc4934a3
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769709213-0-0-9c24e57bac6731d36a64c87961f918f3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769707053-0-0-7f5f135de154b2f529436f2f8cc7dd0b
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769709213-0-0-9e3216c21d55e789a0e7c07acff061ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769707053-0-0-fb259b0c892ca4eb8105e19b0f1276d1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769709213-0-0-9dd254662968762af964c8b925416fbf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769707053-0-0-9b9f546c71277c3f2d041a78c99ac2c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1769707053-0-0-faa1f3843c4652865f4c092b93e0fa77
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1769707053-0-0-42117198144d6c3c052fa8fe2583c154
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1769707053-0-0-8c309b353c5e49afcc0ea0c750ee34ba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1769707053-0-0-616050938b3b9dbbf0c59959aee57d72
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769709213-0-0-7023809a784b250c5db8fe71a4b529f5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f0f05775ad7473ecac45538ea2b37add&txTime=697bdc7d
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=def5805f5c5a346e7f90e866f4397bc5&txTime=697be4ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=53ec1f7e8ba2cae53458d1d80942d123&txTime=697bdc7d
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5fadb8f85380429461b36445af5e7e12&txTime=697be4ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f0f05775ad7473ecac45538ea2b37add&txTime=697bdc7d
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=def5805f5c5a346e7f90e866f4397bc5&txTime=697be4ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=53ec1f7e8ba2cae53458d1d80942d123&txTime=697bdc7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=dc450df2862e33ee6b7e071f35570e89&txTime=697bdc7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=c49b64fa094e23d8979ba32fb51bcc0e&txTime=697bdc7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=dc450df2862e33ee6b7e071f35570e89&txTime=697bdc7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=c49b64fa094e23d8979ba32fb51bcc0e&txTime=697bdc7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1769707053-0-0-50687a3ddf6d25b462e9b514ab938572
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1769707053-0-0-ee541f7bc7d23287b097ad0defe19c24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769707053-0-0-3859eb8c59f6ae8111fbc1abad1f2cbb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769707053-0-0-a56baba8765aa85796f8590796afc1c1
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5fadb8f85380429461b36445af5e7e12&txTime=697be4ed
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [QUANG VINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769707053-0-0-abb6c37ec5691b2dd3705f4e738fcdf4
+https://pull06.scstream.net/live/stream-9912109_lsd.flv?auth_key=1769709213-0-0-b85b51ef7710051b7b0d307194702bda
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [QUANG VINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769707053-0-0-c4d2eeee711f5d1c209d63c98f1860e4
+https://pull06.scstream.net/live/stream-9912109_lhd.flv?auth_key=1769709213-0-0-bc4cfcdd8520d8fe5468150bbebe5010
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [QUANG VINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769707053-0-0-af3b03018922171756a728a8479adb6a
+https://pull.niues.live/live/stream-9912109_lsd.m3u8?auth_key=1769709213-0-0-b062e53edf411082f3240c2c308b4da2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [QUANG VINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769707053-0-0-8423d89c82cd0e2dbfd72bc4f73dd40d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [RICKHANTER] (Socolive) flv
+https://pull.niues.live/live/stream-9912109_lhd.m3u8?auth_key=1769709213-0-0-b52f86b5462ec07d92400df1e9ed3cde
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=3349cf67c177649f860ae1a26b8b077f&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1769709573-0-0-0da8776fa92d113006f78c429643a25c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=762c3fa8e1d36b91857011fad3ac9bfe&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [RICKHANTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1769709573-0-0-f8c0bb5324b4c4d6c0603ec2be5f9108
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=3349cf67c177649f860ae1a26b8b077f&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1769709573-0-0-86151b45802ad5fae4fb9b2444d5c41e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [RED BULL] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=762c3fa8e1d36b91857011fad3ac9bfe&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=b778fc6d3439aa5d89e476dafe66b118&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=4be86f5cbd2e46eb45f92c7f553b2176&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=b778fc6d3439aa5d89e476dafe66b118&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0f6b851f1e6d6d70ef6190de62cec97c.png",21h30 ngày 29/01 Umm Salal vs Al-Arabi SC [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=4be86f5cbd2e46eb45f92c7f553b2176&txTime=697bdde5
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1769709573-0-0-091f6d1dfcd8c75a7a357f544b950a22
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1769707413-0-0-a4918f71b05b198769a9245bf7a78cf1
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1769709573-0-0-5207d1e3a17e02c024a48a5c4d621bbf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1769707413-0-0-63ad13749b994a862490526448b36713
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1769709573-0-0-df07f89420022697736f15c494c1bea3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1769707413-0-0-4a1e206d7b84d81bcff3a458214356d5
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1769709573-0-0-20fa418f8735a2bb822cf662f706937e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1769707413-0-0-e59bb92b99333547ab7bef0e1a4cb716
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1769707413-0-0-ccf4cb1d254c46b075454c1f5fd0fe48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1769707413-0-0-600a2ab608385aa73137c49ddb4c018f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1769707413-0-0-102148ff6a9a5f94fe0e90d4302c03c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1769707413-0-0-75f38ca5670b3ae203682e7c22b8289f
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1769709573-0-0-dd9531351a807ccbbd968a861e8a3dae
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=ded885be24b451bef7d1e8708d9db615&txTime=697bdde5
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=9eb46486703593c69510bf9af73dbcfd&txTime=697be655
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=fc8b14efad517f6ec52c7e5fc1bc05ef&txTime=697bdde5
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=752ac8cebd0c470a23ee0e9fb29bf866&txTime=697be655
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=ded885be24b451bef7d1e8708d9db615&txTime=697bdde5
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=9eb46486703593c69510bf9af73dbcfd&txTime=697be655
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=fc8b14efad517f6ec52c7e5fc1bc05ef&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) flv
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=752ac8cebd0c470a23ee0e9fb29bf866&txTime=697be655
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1769707413-0-0-803961886821bf1a5936a18ab062af7c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1769709573-0-0-367449719c1f8fefd92f3cbad61097c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1769707413-0-0-c8c92ef3f92ad3149998f52791147318
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1769709573-0-0-1ae031bc812f74e72260d757f1cf44fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1769707413-0-0-3dbc3f70b6a8b4f25aee4f26d54ab063
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1769709573-0-0-61a5d5efbd58fe9aaefcf5e02ae9f2d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1769707413-0-0-9e18353c35514884fa9eb913780a853a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1769709573-0-0-2408ed0ac9d6d419a74984d80fd210eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1769707413-0-0-0f7b229267846cb8dc8dd434b96f9948
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1769709573-0-0-e0455a170c1bfa4816282d41935e30d2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1769707413-0-0-b9a98e6e9d76f12d5a75ff40577d6e2e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1769709573-0-0-4a645f6cd17d4054b6be62e8931d527b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1769707413-0-0-4dc9ddf609beb6a66d76a88f83b81c43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1769709573-0-0-95f34759c11e79223d2c791a0b9efcb0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1769707413-0-0-a1ce0ccebd7db5eaa6b1460f956ddd30
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1769709573-0-0-1e338c9c7c64957c9ae2da2e595ca3c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1769709573-0-0-7d20b1d6bba165974e0be6a44aa07d05
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1769709573-0-0-0794dad409c2359dd330008e12b65a30
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1769709573-0-0-9b52ba899f12f7d4c6c71ce2135bf7e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1769709573-0-0-0ee1ccf1c74aa4b0bbe36d8b82d6df9c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1769709573-0-0-e23a33764fd490a295776a12a046e5a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1769709573-0-0-5a2ba2406af96cd5be36b748a4eae6f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1769709573-0-0-3ab7b5edb51a52fb059342c80773cfbc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0b618ad521920f724d3361b89228b1d3.png",22h00 ngày 29/01 Al Fateh SC vs Al Ittihad Club [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1769709573-0-0-798d5ec2ace43418d515baa0e2893b35
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=124f78f08aecc3ed0f4410ffe08e2884&txTime=697bdde5
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=d5461ca558a091a4aa7865da7146cc72&txTime=697be655
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=2bf03d734f02f1cb46ece0766937ca90&txTime=697bdde5
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=8159a23f820789449859994f0421ec0c&txTime=697be655
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=124f78f08aecc3ed0f4410ffe08e2884&txTime=697bdde5
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=d5461ca558a091a4aa7865da7146cc72&txTime=697be655
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2bf03d734f02f1cb46ece0766937ca90&txTime=697bdde5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) flv
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8159a23f820789449859994f0421ec0c&txTime=697be655
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/e80ceb57181bbe9b008bcbb9a8618f86.png",00h30 ngày 30/01 Al Qadsiah vs Al Hilal [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1769707413-0-0-131ed0f90c9fd57628403663e710edbb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1769709573-0-0-8f6beed15e55c60d27aa24903d63a9f3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/e80ceb57181bbe9b008bcbb9a8618f86.png",00h30 ngày 30/01 Al Qadsiah vs Al Hilal [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1769707413-0-0-3108f46d376c7607fd1d4e86625c4d35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1769709573-0-0-92f56528dc1869aaa942b19c86c21214
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/e80ceb57181bbe9b008bcbb9a8618f86.png",00h30 ngày 30/01 Al Qadsiah vs Al Hilal [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769707413-0-0-0a8d0c330626682fe349326389a9c279
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",UAE LP: Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1769709573-0-0-a3fa300b6fd0260a70b72a9c62514eac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/e80ceb57181bbe9b008bcbb9a8618f86.png",00h30 ngày 30/01 Al Qadsiah vs Al Hilal [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769707413-0-0-354d48d79b4e9331f7ee6a09ce2e70eb
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1769709573-0-0-a808bc8e19901d00bf476f9448e8836b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1769709573-0-0-734fe434af2369670fc1c551b34c576d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1769709573-0-0-22ffff80bd7a67102a494e2c580efd54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1769709573-0-0-4aeeaf1dbc54a56afd19a98ec1ed70d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1769709573-0-0-76f01f9c594aebecdbfb9933157a73d5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1769707413-0-0-dddf862c1624323a7b51f90eb6ab337e
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1769709573-0-0-f9c2b2628e02bfcd0569c233e6b5f9aa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1769707413-0-0-06d724a8a6c7a85ad98359e670ab2abd
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1769709573-0-0-b08968b8ac8a3ef04e6044967d7a7f15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769707413-0-0-081b36266852245f9a40eb4b76bd7d37
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1769709573-0-0-e467ad27bff8233f45b6069bc1f77fc2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/0a38de46787b460f1677f65b8dacb1e9.png",22h00 ngày 29/01 Enppi vs Smouha SC [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769707413-0-0-c5bde58836b273927765b73a2687fdd7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) flv
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1769709573-0-0-7f5481de8a8df56721ee9484a2a06960
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1769707413-0-0-0822bb2f033910927320743ce550a878
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1769709573-0-0-2fb79b896b3b08f13fd803876fab9353
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1769707413-0-0-f39c234874a0ef032d25f6cbf01c0909
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1769709573-0-0-6bc4526a04b4c5f4ad52dbef27a16aec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1769707413-0-0-1e50645699de4edf63f14baa9d88ff60
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [MR BÍCH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1769709573-0-0-7f2a23dee06f46f7986f2688db630bf4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/4e3287982b99d59c7a93a1727c08c102.png",23h45 ngày 29/01 Al-Wakrah SC vs Al Shahaniya [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1769707413-0-0-ed260a5eb5ad7b33a4a7c15d698d1a98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) flv
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1769709573-0-0-4c8142399686478cb260fe42716cd2a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1769707413-0-0-409635ac1cfa7a8f65eb47dae3f60257
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=f53cca2a642133cc2ce1e0b475ef8041&txTime=697be655
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1769707413-0-0-3f3785803aafc8c6ca8e5bc7ec8b9ad5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=ba12c79dce7fd658a873b40f68174cec&txTime=697be655
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1769707413-0-0-90720d17f8aefdf05fb5a39607666b84
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260125/ed1c59f04dc3eed69dca42d3671fd284.png",QAT D1: Al-Wakrah SC vs Al Shahaniya [BLV NIBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=f53cca2a642133cc2ce1e0b475ef8041&txTime=697be655
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XAVI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1769707413-0-0-30c8ec9485ac0ceeaf4b914611110091
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/327b0fd820d2cf1ca80ad08cc86b8d6e.png",21:45 ngày 29/01 Umm Salal vs Al Arabi (1) [Tai Lung] HD Nhanh
+https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=ba12c79dce7fd658a873b40f68174cec&txTime=697be655
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1769720767&sign=99aa50197d6a8f1ea17b4c23bc786d85
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/327b0fd820d2cf1ca80ad08cc86b8d6e.png",21:45 ngày 29/01 Umm Salal vs Al Arabi (1) [Tai Lung] HD1
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1769709573-0-0-b618bed7d116a78c9f37bd177672d9c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720767/536c16365cef9ce25af2ee564a7c766b/283746284/live/lungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/327b0fd820d2cf1ca80ad08cc86b8d6e.png",21:45 ngày 29/01 Umm Salal vs Al Arabi (1) [Tai Lung] HD2
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1769709573-0-0-44baeef8ccc7998784a3e09a5235cd30
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/lpjsPzl5kGjjLahmJ2TesA/Fv2lucGIbhPi2caWYvF5Lg/1769720767805/live/lungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/327b0fd820d2cf1ca80ad08cc86b8d6e.png",21:45 ngày 29/01 Umm Salal vs Al Arabi (1) [Tai Lung] SD
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1769709573-0-0-4cf5e361f9039d369a7a5f50a28180fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/4QJGcf3kKYYnvqh_I-Z9NA/Fv2lucGIbhPi2caWYvF5Lg/1769720767805/live/lungSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/327b0fd820d2cf1ca80ad08cc86b8d6e.png",21:45 ngày 29/01 Umm Salal vs Al Arabi (1) [Tai Lung] FullHD
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1769709573-0-0-30eda86c1dc945127d8d745a14bd7b7e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720767/686a96376e9b8e0b63ef1960f819beb8/303025551/live/lungFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/327b0fd820d2cf1ca80ad08cc86b8d6e.png",21:45 ngày 29/01 Umm Salal vs Al Arabi (1) [Tai Lung] Backup 1
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1769709573-0-0-3dee18e2c70871b45cbdd95d8441b336
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/-_gKr6HW_nyg_d1OGHavgQ/Fv2lucGIbhPi2caWYvF5Lg/1769720767803/live/sd-6MvYqjjc1Q36xpHeY3/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] HD Nhanh
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1769709573-0-0-c39becf19096e7a740e178a1c97cb6e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1769720769&sign=34f4e9e40642469b85a492122950e49d
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] HD1
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769709573-0-0-224b966f7ac8c23ae9aa4a0676a3e64c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260126/86eec0c78cdf948b6f99002977c6a9d9.png",23h00 ngày 29/01 Al-Nasr Dubai vs Baniyas Club [BLV MIXI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720769/36cfa86a2c110d9b32a83679ddbb6579/253168522/live/nuiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] HD2
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769709573-0-0-141399b50de44ab3abbe2b62f1697065
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [Lửng Mật] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/r7GJATKVC97dDNgZ37adCA/Fv2lucGIbhPi2caWYvF5Lg/1769720769058/live/nuiHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] SD
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1769709573-0-0-dce9223a39af08390824cf7cefd72ae0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [Lửng Mật] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/pUxv5iBbakBweKnDFcn8QQ/Fv2lucGIbhPi2caWYvF5Lg/1769720769058/live/nuiSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] FullHD
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1769709573-0-0-85ef16b3996e99c0bd0a9347ec0671ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [Lửng Mật] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720769/c32b5223c1ef28765f28495dd14c9263/514395901/live/nuiFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] HD Nhanh
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1769709573-0-0-2b6cb0978ceccffaef2aaf6c3be5639e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [Lửng Mật] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1769720770&sign=868e87be3267e380f33a961e2bf6b1e7
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] HD1
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1769709573-0-0-f0793ebec5b74a6d8ca862927284a864
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720770/e4a5ce4bbaa221edca7782c11c800ceb/735279520/live/thuHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] HD2
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1769709573-0-0-d9353de57f6987b47c4003c0c83583ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ptqtlR0VYwjyA6tK3HMAKA/Fv2lucGIbhPi2caWYvF5Lg/1769720770494/live/thuHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] SD
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1769709573-0-0-d4a75e2160723a7149ca818dc958e0e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/a4TXJura5jWtsEn_XiwxZA/Fv2lucGIbhPi2caWYvF5Lg/1769720770494/live/thuSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] FullHD
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1769709573-0-0-13ac886f220d2a44f01cad94fe236afb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/59689efeb23d1fb341955597969c1655.png",00h30 ngày 30/01 Al Hazem vs Al Shabab FC [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720770/c93bf4e9591325b412b2d7c5976ce622/646870995/live/thuFHD/playlist.m3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1769709573-0-0-72775b4185f17abf407300d11cead9ef
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-o61su9ssochp.png",22:30 ngày 29/01 BC.Game vs 3DMax (1) [Trâu Gác Bếp] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1769746326&sign=0e7df4cc696d532f1a5329ee315e79e6
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1769748490&sign=45c095f5b8366ccbf4f8d9944d51db0e
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-o61su9ssochp.png",22:30 ngày 29/01 BC.Game vs 3DMax (1) [Trâu Gác Bếp] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769746326/7b0ca2e625fd614d22d1d9690d3e9a34/276867958/live/trauHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769748490/ca4a1dcecbeef8575ec3f65c2a5b12dc/139323821/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-o61su9ssochp.png",22:30 ngày 29/01 BC.Game vs 3DMax (1) [Trâu Gác Bếp] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/sOYSpF6kp7XEhNwqEx8y2w/Fv2lucGIbhPi2caWYvF5Lg/1769746326841/live/trauHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/_JpsX8Hq6QEgQnDUt9ezkg/Fv2lucGIbhPi2caWYvF5Lg/1769748490167/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-o61su9ssochp.png",22:30 ngày 29/01 BC.Game vs 3DMax (1) [Trâu Gác Bếp] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/maz0v6qjf4PW8T9_tisUEg/Fv2lucGIbhPi2caWYvF5Lg/1769746326861/live/trauSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ycQNgmwrP6QxMvbJL6xfVQ/Fv2lucGIbhPi2caWYvF5Lg/1769748490167/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-o61su9ssochp.png",22:30 ngày 29/01 BC.Game vs 3DMax (1) [Trâu Gác Bếp] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769746326/9691c500865fee8b99cc6cb6f8ef3d56/321465336/live/trauFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769748490/4f8849603ff65febdc6baae01e685776/230145295/live/trauFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-3yftccvdbtji.png",22:30 ngày 29/01 Ninja In Pyjmas vs Passion UA (1) [Người Phép] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769746330&sign=fd36bde5cd455a682aefe8e11c042da0
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769748491&sign=f453405fd839a108f5e038d3345515f2
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-3yftccvdbtji.png",22:30 ngày 29/01 Ninja In Pyjmas vs Passion UA (1) [Người Phép] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769746330/5cebe5d5cf77cd814a81de4532583abd/703348376/live/phepHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769748491/262eb4d307778f42d3841feeef71058d/425532898/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-3yftccvdbtji.png",22:30 ngày 29/01 Ninja In Pyjmas vs Passion UA (1) [Người Phép] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/68OlZNN5jcp_ZFL8KrnngQ/Fv2lucGIbhPi2caWYvF5Lg/1769746330112/live/phepHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/tOzAie2gZaIONbMgXD3azw/Fv2lucGIbhPi2caWYvF5Lg/1769748491906/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-3yftccvdbtji.png",22:30 ngày 29/01 Ninja In Pyjmas vs Passion UA (1) [Người Phép] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/377fp9KkQV9Plw7i1XYZ2g/Fv2lucGIbhPi2caWYvF5Lg/1769746330113/live/phepSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/pFS4raSSxOOD-QsXH1M1_w/Fv2lucGIbhPi2caWYvF5Lg/1769748491906/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-3yftccvdbtji.png",22:30 ngày 29/01 Ninja In Pyjmas vs Passion UA (1) [Người Phép] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769746330/108fc792dac3b22495d724a004fe4657/957605241/live/phepFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769748491/0c80869d96fd989d0531b44689c8af3b/294620437/live/phepFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1769723293&sign=85e039df58f952abff07fd2c0e0b524a
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723293/ae272e8ba65a83f074df4f24a67fc058/877001531/live/nuiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/7WZFiSdvRWVRVGIoJJq_gQ/Fv2lucGIbhPi2caWYvF5Lg/1769723293086/live/nuiHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/p5zCPFXIdi7TTvLT8czVkw/Fv2lucGIbhPi2caWYvF5Lg/1769723293086/live/nuiSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",23:30 ngày 29/01 Slovenia vs Belarus (1) [A Núi] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723293/04328592aa2d5a0de659c46622c76596/546321524/live/nuiFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1769723294&sign=905e7ea2490256f8838bc133e7c95942
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723294/335c82c96ec7b30cb6b2bf50e2ee6705/231975926/live/thuHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/L0GYVmqpsqVhWMxpIbxpeA/Fv2lucGIbhPi2caWYvF5Lg/1769723294246/live/thuHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/PZBoCT0IphwKc83ICSAVrg/Fv2lucGIbhPi2caWYvF5Lg/1769723294247/live/thuSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Spain.png",23:30 ngày 29/01 Spain vs Belgium (1) [Cá Sát Thủ] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723294/d0a0e37eb38297f76f74b2295022e776/614090062/live/thuFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png",00:00 ngày 30/01 Galatasaray vs Halkbank (1) [Lơ Đao] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1769723296&sign=fd1d738ffd7faba3a4bc1ecd3f014546
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png",00:00 ngày 30/01 Galatasaray vs Halkbank (1) [Lơ Đao] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723296/5333c8ef7f707d870a86b39ba2bb80dc/352115238/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png",00:00 ngày 30/01 Galatasaray vs Halkbank (1) [Lơ Đao] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/6p_3N9uF5N9wMF2aArLdIA/Fv2lucGIbhPi2caWYvF5Lg/1769723296840/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png",00:00 ngày 30/01 Galatasaray vs Halkbank (1) [Lơ Đao] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/r0evCOxFt8JJSmi39x8yIQ/Fv2lucGIbhPi2caWYvF5Lg/1769723296840/live/daoSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/2b340a75f4a904fd8c37f8396c293db5.png",00:00 ngày 30/01 Galatasaray vs Halkbank (1) [Lơ Đao] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723296/26adf552b0f96daf467b5d8f02244727/505291649/live/daoFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/221414eeeadfd7d017d4811749fe3b5f.png",00:00 ngày 30/01 Novara W vs Budowlani Lodz W (1) [Người Kiến] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1769723298&sign=97283725117fd508fdcc361b8d3716f8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/221414eeeadfd7d017d4811749fe3b5f.png",00:00 ngày 30/01 Novara W vs Budowlani Lodz W (1) [Người Kiến] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723298/18f47a5a82d20485d10d99f82e6fa0c4/287147616/live/kienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/221414eeeadfd7d017d4811749fe3b5f.png",00:00 ngày 30/01 Novara W vs Budowlani Lodz W (1) [Người Kiến] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/9chd_nQZoyLEucD8kSSQ5w/Fv2lucGIbhPi2caWYvF5Lg/1769723298603/live/kienHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/221414eeeadfd7d017d4811749fe3b5f.png",00:00 ngày 30/01 Novara W vs Budowlani Lodz W (1) [Người Kiến] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/7orTTrLJpz9thfYoaMSkyw/Fv2lucGIbhPi2caWYvF5Lg/1769723298604/live/kienSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/221414eeeadfd7d017d4811749fe3b5f.png",00:00 ngày 30/01 Novara W vs Budowlani Lodz W (1) [Người Kiến] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769723298/2c90effc2fec0fed3bdafa635ba7bc61/627446969/live/kienFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",22:00 ngày 29/01 Al Fateh vs Al Ittihad (1) [Người Già] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769720410&sign=7f3aa8dffd5336ed762af85668afd4e2
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1769723650&sign=83ce1e21e8555d90cdd3568b7c3ee447
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",22:00 ngày 29/01 Al Fateh vs Al Ittihad (1) [Người Già] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720410/6a4397b1c255648b0422a07a9ee6c85b/788486472/live/oldHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769723650/8e60899452721db1df578ab54019259f/868400585/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",22:00 ngày 29/01 Al Fateh vs Al Ittihad (1) [Người Già] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/9fdjSh22gooRPWLMzAknkQ/Fv2lucGIbhPi2caWYvF5Lg/1769720410551/live/oldHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/2TZAwyeOq-qAJLR5bxP_ig/Fv2lucGIbhPi2caWYvF5Lg/1769723650927/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",22:00 ngày 29/01 Al Fateh vs Al Ittihad (1) [Người Già] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/5PUNxyumty4JSPwvHf6CGw/Fv2lucGIbhPi2caWYvF5Lg/1769720410552/live/oldSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/h8q96TIzvBPJVq8uiURn0Q/Fv2lucGIbhPi2caWYvF5Lg/1769723650927/live/oldSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",22:00 ngày 29/01 Al Fateh vs Al Ittihad (1) [Người Già] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769720410/4ef1c4fc4c8e3e380e635716ae41885e/219651782/live/oldFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769723650/ae30d32b6d82542158855ef1a876c563/977430012/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",22:00 ngày 29/01 Al Fateh vs Al Ittihad (1) [Người Già] Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Ts6b3ugM7ChWVmsT79bXkA/Fv2lucGIbhPi2caWYvF5Lg/1769720410549/live/sd-6MvXc75SJkJ3NRp21q/playlist.m3u8
+https://apisportzz179528093.nsnd.live/dZJCxa-N5IiiBCXrnJ4OuA/Fv2lucGIbhPi2caWYvF5Lg/1769723650926/live/sd-6MvXc75SJkJ3NRp21q/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",09:00 ngày 29/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/zTMA0PaWCQsnlRK-efFpyg/Fv2lucGIbhPi2caWYvF5Lg/1769746690885/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/RPlOMTB-LBirXNbEhzHO3g/Fv2lucGIbhPi2caWYvF5Lg/1769748853186/live/may25/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",09:00 ngày 29/01 Australian Open (1) [Nhà Đài] Margaret Court Arena
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/fVOQkzIj3txVqSoxakHIhA/Fv2lucGIbhPi2caWYvF5Lg/1769746690886/live/may251/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/8_PDRxh4ih-FXwXTNbjj4g/Fv2lucGIbhPi2caWYvF5Lg/1769748853187/live/may251/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",12:00 ngày 29/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/i1A65W8rnjCw7DRINkP0FA/Fv2lucGIbhPi2caWYvF5Lg/1769746693155/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/knZJ6Wj0omhcRM8TsUnA9w/Fv2lucGIbhPi2caWYvF5Lg/1769748854414/live/may21/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",12:00 ngày 29/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/CS7bFMujlZu9eTUggbSNJg/Fv2lucGIbhPi2caWYvF5Lg/1769746693156/live/may211/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/pDVV9nwCimaEruBB3g5New/Fv2lucGIbhPi2caWYvF5Lg/1769748854415/live/may211/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",12:00 ngày 29/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 3
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/tO93OjyM2f24AaHp7TzxVA/Fv2lucGIbhPi2caWYvF5Lg/1769746693156/live/may212/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/I0nXJcPGuehDZ9yG8C7oQg/Fv2lucGIbhPi2caWYvF5Lg/1769748854416/live/may212/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",12:00 ngày 29/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 4
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/QcjQkfFe8omNGpe4_ikQ7g/Fv2lucGIbhPi2caWYvF5Lg/1769746693156/live/may213/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/DalTtsAWm9IlnbDn3oUXGQ/Fv2lucGIbhPi2caWYvF5Lg/1769748854416/live/may213/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/03/Al-Fateh_FC_logo.jpg?20210201090010",22h00 29/01 Al-Fateh vs Al-Ittihad FC (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1815,30 +1845,18 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Umm_Salal_SC_logo.svg/1200px-Umm_Salal_SC_logo.svg.png",21h45 29/01 Umm Salal -  Al-Arabi SC (Hội Quán) FULL HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Umm_Salal_SC_logo.svg/1200px-Umm_Salal_SC_logo.svg.png",21h45 29/01 Umm Salal -  Al-Arabi SC (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Umm_Salal_SC_logo.svg/1200px-Umm_Salal_SC_logo.svg.png",21h45 29/01 Umm Salal -  Al-Arabi SC (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80",22h00 29/01 Al Fateh vs Al-Ittihad FC
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/6e3e684c59aa7d549e002b289f5345dd.png!w80",21h45 29/01 Umm-Salal vs Al Arabi
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/1bd9415259f9b04af4c6164660af9a48.png!w80",22h00 29/01 Enppi vs Smouha
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/2011473c10a119e01f2085bb836b62b2.png!w80",23h00 29/01 Al Nasr Dubai vs Bani Yas
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/43612277.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/c47e10954dc1d2b623ddf0d89d63c14d.png!w80",23h45 29/01 Al Wakra vs Al-Shahaniya
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/97885009.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="🎎|Selection Sport|🎎", Беларусь 5 Интернет HD
