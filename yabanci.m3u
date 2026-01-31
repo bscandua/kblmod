@@ -475,7 +475,7 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Kenh VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png",❤️| VTV5 ¹⁰⁸⁰
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Kenh VTV" tvg-logo="https://i.ibb.co/ycFFS1xF/Logo-vtv-c-n-th-2022.png",❤️| VTV6 ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="vtvcantho" group-title="Kenh VTV" tvg-logo="https://i.ibb.co/ycFFS1xF/Logo-vtv-c-n-th-2022.png",❤️| VTV6 ¹⁰⁸⁰
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kenh VTV" tvg-logo="Kenh VTV",❤️| VTV7 ¹⁰⁸⁰
 udp://@225.1.2.96:30120
@@ -499,10 +499,10 @@ udp://@225.1.3.78:30120
 https://jmp2.uk/sam-GBBC2300002GG.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-logo="https://i.ibb.co/FgymSBY/900.png" group-title="📽️| Minh Đức Giải Trí", Action Hollywood Movies
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",▶️| Hollywood Classics
-https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/OnliveTV/hollywood-classic-hd/Free.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",▶️| In The Box
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",▶️| BOX Movie¹
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=2025
+https://toiyeuvietnam.dpdns.org/OnliveTV/box-movie-1-hd/Free.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",▶️| Box Hits
 #EXTINF:-1 tvg-id="man" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/0CPzK4F/Man-150x901j3.png",▶️| Man
 https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
@@ -545,10 +545,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9951
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/250b589c160893f25788c39352fa9ee9/playlist.m3u8
-#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/d5fdde8a6a54b3af6579c0045191928a.png",12h30 ngày 31/01 Hekari Souths United FC vs Auckland FC Reserves (Bún Chả)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv3.com/
-https://live.alilicloud.com/live/49cf66a7df5f0f7ac34190e60381bdf7/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/cb7c21cdf0ae82e8a97065118f89f816.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -561,6 +557,18 @@ https://live.alilicloud.com/live/dadd9c8713df60672d1a9dec085b5e0f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
 https://live.alilicloud.com/live/a64d0531846af7f0d8ae9c8d2e04993e/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/16c2d7a61e2b6829ac8d3912b4e5357d.png",14h00 ngày 31/01 Hang Yuan FC (w) vs Taichung Sakura (W) (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/f52da14b19bc743adce8a47db1a1dd1a/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/658bb260bf2d0692e2cfdd34f68c9a82.png",14h00 ngày 31/01 Valkyrie (W) vs Taichung Blue Whale (w) (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/f1a34dd382048bd0ac70ca7ef894bb5b/playlist.m3u8
+#EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/8d9561a580262bbe28642af67c42cf83.png",14h00 ngày 31/01 Kitchee vs Kwoon Chung Southern (Bún Chả)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv3.com/
+https://live.alilicloud.com/live/b7b99c3d57da64836ec49a68d976ca2e/playlist.m3u8
 #EXTINF:0 group-title="Bún chả" tvg-logo="https://cdn.rapid-api.icu/football/team/21551996567bcd206ee574043d509a84.png",20h00 ngày 31/01 Real Oviedo vs Girona FC (Bún Chả)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv3.com/
@@ -673,6 +681,18 @@ https://mrkw1025.edgemaxcdn.org/live/m204nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://mrkw1025.edgemaxcdn.org/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8006_20130923115335.png",12h30 ngày 31/01 Adelaide United (W) vs Melbourne City (W) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8006_20130923115335.png",12h30 ngày 31/01 Adelaide United (W) vs Melbourne City (W) (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3009_1gxmc3935je.png",14h00 ngày 31/01 Kitchee vs Southern District (Lương Sơn) NHÀ ÐÀI m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MvXcLAN4iEGURqV6L/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3009_1gxmc3935je.png",14h00 ngày 31/01 Kitchee vs Southern District (Lương Sơn) NHÀ ÐÀI flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/55506_1h9yf9yeq71c.png",13h30 ngày 31/01 Malut United vs Bhayangkara Solo FC (Lương Sơn) BLV GIÁO SƯ XOAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0
@@ -691,12 +711,12 @@ https://auto.cdnok9.com/live/sd-6MvYrF62CHeWra67rU/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8044_1jqt0d625n1m.png",12h30 ngày 31/01 Hekari Souths United FC vs Auckland FC Reserves (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2443_1hdajpw3vks.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar (Lương Sơn) BLV PHONG VÂN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/44645_1jxkfsj5bw1b.png",14h00 ngày 31/01 Hang Yuan FC (W) vs Taichung Sakura (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2443_1hdajpw3vks.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar (Lương Sơn) BLV PHONG VÂN flv
+https://auto.cdnok9.com/live/sd-6MvXbppgC3oyTShwjS/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/44645_1jxkfsj5bw1b.png",14h00 ngày 31/01 Hang Yuan FC (W) vs Taichung Sakura (W) (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2443_1hdajpw3vks.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar (Lương Sơn) BLV VƯƠNG LUÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -709,18 +729,56 @@ https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9c
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2443_1hdajpw3vks.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar (Lương Sơn) BLV KAKA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2443_1hdajpw3vks.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar (Lương Sơn) BLV PHONG VÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2443_1hdajpw3vks.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar (Lương Sơn) BLV PHONG VÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6142_1gqrke40pa29.png",13h00 ngày 31/01 Sydney FC (W) vs WS Wanderers (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvY73BxbRWKH17H5n/playlist.m3u8
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6142_1gqrke40pa29.png",13h00 ngày 31/01 Sydney FC (W) vs WS Wanderers (W) (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8006_20130923115335.png",12h30 ngày 31/01 Adelaide United (W) vs Melbourne City (W) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/70270_1k5myrjcwq2h.png",14h00 ngày 31/01 Valkyrie (W) vs Taichung Blue Whale (W) (Lương Sơn) NHÀ ÐÀI m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8006_20130923115335.png",12h30 ngày 31/01 Adelaide United (W) vs Melbourne City (W) (Lương Sơn) BLV TÔN LẬP flv
+https://auto.cdnok9.com/live/sd-6MvXbppf2dg87wzbrU/playlist.m3u8
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/70270_1k5myrjcwq2h.png",14h00 ngày 31/01 Valkyrie (W) vs Taichung Blue Whale (W) (Lương Sơn) NHÀ ÐÀI flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/57fe5458097be02566b6571ae4615d16.png",14h30 ngày 31/01 Persipal Palu vs Persela Lamongan (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m205nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/4d58ff44865806627c28fb2a96705515.png",14h30 ngày 31/01 Brisbane City vs Moreton Bay United (Ra Khơi) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
+#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) HD  (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
 #EXTINF:0 group-title="Ra khơi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEveNNrm_0yLKgiupin7fbYP2BCojSpl8Efg&s",12h30 ngày 31/01 M2M FC vs Ahbab FC (Ra Khơi) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -829,30 +887,26 @@ https://mrkw1025.edgemaxcdn.org/live/nungsd1Rk.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://mrkw1025.edgemaxcdn.org/live/nunghd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) SD 1
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ef1f30fce5ebd6ba8f4c7fa81974522a/image/small?v=1768601124",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/musd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) HD 1
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a64d0531846af7f0d8ae9c8d2e04993e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9fe07acbf6fed75d764a80793a2b9a52/image/small?v=1768601124",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) SD 2
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/dadd9c8713df60672d1a9dec085b5e0f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/aafc0223b932fdbe6833207569b2f7b7/image/small",12h00 ngày 31/01 KAL Jumbos vs KB Stars (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) HD 2
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/814c7bea77a7b4602d40067d7b6657f8/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b6fdd512ebe87c266431902e66b80566/image/small?v=1768601124",14h00 ngày 31/01 Kitchee vs Kwoon Chung Southern (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/muhd2RK/playlist.m3u8
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) SD  (Nhanh)
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b7b99c3d57da64836ec49a68d976ca2e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fcd9dbccf161ffce5545a7557e3c37b4/image/small?v=1768601124",14h00 ngày 31/01 Hang Yuan FC Women vs Taichung Sakura (W) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/musd1Rk.flv
-#EXTINF:0 group-title="Ra khơi" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13h00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (Ra Khơi) HD  (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://mrkw1025.edgemaxcdn.org/live/muhd1Rk.flv
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f52da14b19bc743adce8a47db1a1dd1a/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2c4650693532a8c428f0dce9b6ce1eb0/image/small?v=1768601124",12h00 ngày 31/01 Hekari Souths United FC vs Auckland FC Reserves (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -873,10 +927,6 @@ https://stm02bc67274262.stream.hdplaylink.com/live4/a3394bc9703d44259cf77c33dae2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live3.fastestcdn-global.com/live3/a3394bc9703d44259cf77c33dae2b076_720/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0c52ed805b5ef3e35c7fe14aa579db69/image/small?v=1768601124",08h00 ngày 31/01 Alebrijes de Oaxaca vs Mineros de Zacatecas (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9876055002c266a03240cd0b17f8cfb7/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/177e89fb69aedfacbcda0248fd469b48/image/small?v=1768601124",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -885,10 +935,6 @@ https://live.alilicloud.com/live/250b589c160893f25788c39352fa9ee9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b0a3eac14206fb049464bc03f617addc/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/48473f83852e5224ee45bc100a03c553/image/small?v=1768601124",08h00 ngày 31/01 Belize U17 (w) vs Dominican Republic U17 Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b4edb044b6f6871d657d4d77d5dca588/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e6bbc06aae0f0ce3c6d64fc07bcda6e1/image/small?v=1768601124",10h00 ngày 31/01 Club Atletico La Paz vs Venados FC Yucatán (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -897,6 +943,10 @@ https://live.alilicloud.com/live/9f5c8ac24d0e832a3f5cdc703303c128/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/e881acc2e85a5d8cd6a3dcdb21cbae5b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/c3c68807405f8a6afae66040d0f2b4b7/image/small",14h00 ngày 31/01 Daejeon KGC Women vs Hyundai E&C Hillstate Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4c022f742fd55ab7361f27d74c6cdde6/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/c3c68807405f8a6afae66040d0f2b4b7/image/small",14h00 ngày 31/01 Daejeon KGC Women vs Hyundai E&C Hillstate Women (Khán Đài A) hd_1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -913,18 +963,10 @@ https://live3.fastestcdn-global.com/live3/cedac5202ec54ed99f2bf6ad5e2d4f1f_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/aaac240d2d0f09832e64f2c0bfd7fdd3/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ef1f30fce5ebd6ba8f4c7fa81974522a/image/small?v=1768601124",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8f0637a139920d7bbd773e44beff1b01/image/small?v=1768601124",14h00 ngày 31/01 Valkyrie (W) vs Taichung Blue Whale Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a64d0531846af7f0d8ae9c8d2e04993e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9fe07acbf6fed75d764a80793a2b9a52/image/small?v=1768601124",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dadd9c8713df60672d1a9dec085b5e0f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/aafc0223b932fdbe6833207569b2f7b7/image/small",12h00 ngày 31/01 KAL Jumbos vs KB Stars (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/814c7bea77a7b4602d40067d7b6657f8/playlist.m3u8
+https://live.alilicloud.com/live/f1a34dd382048bd0ac70ca7ef894bb5b/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133803_b1fa7a37.png",12h30 ngày 31/01 Adelaide United W vs Melbourne City W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1357,26 +1399,34 @@ https://stream.chuoichien.tv/chuoi99/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoi99.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/43391f9cc516180be678d1ad1a1f79f5/image/small?v=1768601124",10h00 ngày 31/01 Club Deportivo Dorados de Sinaloa vs Tepatitlan FC (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ef1f30fce5ebd6ba8f4c7fa81974522a/image/small?v=1768601124",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b0a3eac14206fb049464bc03f617addc/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c79ba598a2047cec55d9514c0d9ffbd2/image/small?v=1768601124",10h06 ngày 31/01 FC Juarez vs Cruz Azul (Gà Vàng) source
+https://live.alilicloud.com/live/a64d0531846af7f0d8ae9c8d2e04993e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2c4650693532a8c428f0dce9b6ce1eb0/image/small?v=1768601124",12h00 ngày 31/01 Hekari Souths United FC vs Auckland FC Reserves (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/141c471cc008079fa4790a061e229d11/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e6bbc06aae0f0ce3c6d64fc07bcda6e1/image/small?v=1768601124",10h00 ngày 31/01 Club Atletico La Paz vs Venados FC Yucatán (Gà Vàng) source
+https://live.alilicloud.com/live/49cf66a7df5f0f7ac34190e60381bdf7/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9fe07acbf6fed75d764a80793a2b9a52/image/small?v=1768601124",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9f5c8ac24d0e832a3f5cdc703303c128/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7469a3ba655842152c7fb9879022215f/image/small?v=1768601124",10h00 ngày 31/01 Pumas U.N.A.M. vs Santos Laguna (Gà Vàng) source
+https://live.alilicloud.com/live/dadd9c8713df60672d1a9dec085b5e0f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/aafc0223b932fdbe6833207569b2f7b7/image/small",12h00 ngày 31/01 KAL Jumbos vs KB Stars (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e881acc2e85a5d8cd6a3dcdb21cbae5b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0101f1de09caf882760af37af9a4739b/image/small?v=1768601124",10h00 ngày 31/01 Correcaminos de la U.A.T. vs Tlaxcala FC (Gà Vàng) source
+https://live.alilicloud.com/live/814c7bea77a7b4602d40067d7b6657f8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b6fdd512ebe87c266431902e66b80566/image/small?v=1768601124",14h00 ngày 31/01 Kitchee vs Kwoon Chung Southern (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/aaac240d2d0f09832e64f2c0bfd7fdd3/playlist.m3u8
+https://live.alilicloud.com/live/b7b99c3d57da64836ec49a68d976ca2e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fcd9dbccf161ffce5545a7557e3c37b4/image/small?v=1768601124",14h00 ngày 31/01 Hang Yuan FC Women vs Taichung Sakura (W) (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f52da14b19bc743adce8a47db1a1dd1a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/c3c68807405f8a6afae66040d0f2b4b7/image/small",14h00 ngày 31/01 Daejeon KGC Women vs Hyundai E&C Hillstate Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4c022f742fd55ab7361f27d74c6cdde6/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/177e89fb69aedfacbcda0248fd469b48/image/small?v=1768601124",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1409,518 +1459,466 @@ https://live8.fastestcdn-global.com/live8/1d4ca45315954dcfa5b6b934fecc6486_720/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live8.fastestcdn-global.com/live8/1d4ca45315954dcfa5b6b934fecc6486_720/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ef1f30fce5ebd6ba8f4c7fa81974522a/image/small?v=1768601124",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8f0637a139920d7bbd773e44beff1b01/image/small?v=1768601124",14h00 ngày 31/01 Valkyrie (W) vs Taichung Blue Whale Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a64d0531846af7f0d8ae9c8d2e04993e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2c4650693532a8c428f0dce9b6ce1eb0/image/small?v=1768601124",12h00 ngày 31/01 Hekari Souths United FC vs Auckland FC Reserves (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/49cf66a7df5f0f7ac34190e60381bdf7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9fe07acbf6fed75d764a80793a2b9a52/image/small?v=1768601124",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/dadd9c8713df60672d1a9dec085b5e0f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/volleyball/team/aafc0223b932fdbe6833207569b2f7b7/image/small",12h00 ngày 31/01 KAL Jumbos vs KB Stars (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/814c7bea77a7b4602d40067d7b6657f8/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1769844933-0-0-41d695f05f397b55fc610ac5bc034966
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1769844933-0-0-b9c2544fe3b7ce0fe9437a6262fb4724
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769844933-0-0-a40678f33348c415e0e2a85310a66f29
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1769844933-0-0-a5e746abf1ca70017a9349dd9c8cb5c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=be9665017e5d3214aebad13fdcf983e2&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=68b81835f932872b94639c89477a68fc&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=be9665017e5d3214aebad13fdcf983e2&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=68b81835f932872b94639c89477a68fc&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=b3a7c028fa1bd4a77d7178efad56053e&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=21ec921384b80b99645d309359bb5f30&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=b3a7c028fa1bd4a77d7178efad56053e&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=21ec921384b80b99645d309359bb5f30&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769844933-0-0-dc51eaed96f3cfdcb5db1a64caa75416
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769844933-0-0-f1942cd0cb708a9cfbf6100e8261b714
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769844933-0-0-b27953ccf2cc5e06f637a51309713ced
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769844933-0-0-738bd75273be252110d709c88864441c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1769844933-0-0-80bacb39b90aaef45667bc428bf84790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1769844933-0-0-5d9df4e34d4305ce20670724dcc7502f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1769844933-0-0-c970624a1f9d05cd13d0b772ff9e52eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1769844933-0-0-7197deb7ee2a24debdfa00164cc6d257
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1769844933-0-0-63e1b02bd12c89be25d2a71c7e5aac40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1769844933-0-0-d8b6d7d1350b66e0a1a9ae3434d8a767
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1769844933-0-0-c56e7e77c2069a590805dfadeac1ae90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1769844933-0-0-5bbe696970bb790bfb7fe75ebfabcbfc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1769844933-0-0-c1d20a135ce7c443b82d0c05fe3ce9cf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1769844933-0-0-35f8e1f366a6a0b797e82159c0c4effb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769844933-0-0-d38b5889965f807141d64ce4b58ed564
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769844933-0-0-75456aa5eb36303ad69c5e3221aae232
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1769844933-0-0-2ed63ee3dc089f317e3f87f11f8d8ef8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1769844933-0-0-720533e44526a08bcf5b18bf961656e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1769844933-0-0-1d7f1ab008ebaa70b47a9608cce7f48c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1769844933-0-0-52b6e7750a21cc86b4ae6e144b96374a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1769844933-0-0-c99a0f1dadfcfe81f1039b2246258dd9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1769844933-0-0-3f469a8e595bd28eace177a31a2f81a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1769844933-0-0-3149c99acb73d976bc1a21e78a06ee35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1769844933-0-0-4cf95999904037970d905cdd301ec9a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=c780480831c16dd66a0d14cf67df21da&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=c0475bc927d318dfdc1734c55e8a6c36&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=c780480831c16dd66a0d14cf67df21da&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c0475bc927d318dfdc1734c55e8a6c36&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=2b13439ef75f7ac655acc02937479273&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=bbedd809d417d9c066bdd3c0556b2cd3&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=2b13439ef75f7ac655acc02937479273&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=bbedd809d417d9c066bdd3c0556b2cd3&txTime=697df715
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1769844933-0-0-e300c0b84853f62b87cd0732bfb26c40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1769844933-0-0-b965936cad15d269eb1ed1d3d8b94a34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1769844933-0-0-3d81a4cc7f5aa68ba4a310c25d65a558
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1769844933-0-0-780235189da3102799a7ceb8a157562d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769844933-0-0-880c8b64b5c9274b6f8a87b5e50e6c3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769844933-0-0-0f37f3f64993d92333dcd2c474f584f1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769844933-0-0-a6ee6afeb8e6ebbc4b99f2f072a258d3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769844933-0-0-6fe9ceb9a1e6cdf2d5204b532bd7d8ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=2e31458d63f93640932a5972f5ee2f4c&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=433284868f1fb6c08a3e5f0a35cc841e&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=2e31458d63f93640932a5972f5ee2f4c&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=433284868f1fb6c08a3e5f0a35cc841e&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1769845293-0-0-16d0f367c5ad285d933994cf22cdafba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1769845293-0-0-86afb7b6b49ee424b0b133ac02f0c668
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1769845293-0-0-7286b66133a237438519426db99287a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1769845293-0-0-c7da6969c49c220c7fcd5cb7b1e5a3bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=3d2992652c88a8c58a4c57d0a52f3319&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=ed4d65db96782cd3446f8b82d7010eb4&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=3d2992652c88a8c58a4c57d0a52f3319&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ed4d65db96782cd3446f8b82d7010eb4&txTime=697df87d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1769845293-0-0-d157f6b7d20706eb9b452a4a3fe62cfe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1769845293-0-0-d6f7f6bdb7aed6b705c11db9daf394c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769845293-0-0-5051bb8780a5e979e8ba095b5f7ac78d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769845293-0-0-58c53d1f3c977c86d1df79cf6554f7f4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1769845293-0-0-a57871a78a0b7e6dfba6852b5a5cbf00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1769845293-0-0-a281c223c7806144acf478bc74234303
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1769845293-0-0-a2a5740d135e12d40bd74a103f584de0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1769845293-0-0-427b85803754aa9f6d5f0cf2e16896d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769845653-0-0-a41310a7e15c7cad3a18e50616a643e7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769845653-0-0-4ae69666ba19e0d3de50031fdd1f9973
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769845653-0-0-3928288db530d212d5ce3df26c7865c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769845653-0-0-5ae0e0b575521e16937ba54fea171cb3
+https://live.alilicloud.com/live/f1a34dd382048bd0ac70ca7ef894bb5b/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV XAVI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=bd16ad50acab7a1facc4cb3b2cb4f7f7&txTime=697df9e5
+https://pull.niur.live/live/stream-525090_lsd.flv?txSecret=9277d007f73de0a21e783a7884fdaf7f&txTime=697dfe1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV XAVI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=b817b4f8bf3d5849092a3b6daf5ed4fe&txTime=697df9e5
+https://pull.niur.live/live/stream-525090_lhd.flv?txSecret=06cc7236538c778b2c8969aaabd95b90&txTime=697dfe1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV XAVI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=bd16ad50acab7a1facc4cb3b2cb4f7f7&txTime=697df9e5
+https://pull.niur.live/live/stream-525090_lsd.m3u8?txSecret=9277d007f73de0a21e783a7884fdaf7f&txTime=697dfe1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV XAVI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=b817b4f8bf3d5849092a3b6daf5ed4fe&txTime=697df9e5
+https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=06cc7236538c778b2c8969aaabd95b90&txTime=697dfe1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1769845653-0-0-b6f05a88aa8e7c57352956ea3dba283d
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1769846733-0-0-95c641a0179a56afd2b6f3bc202e94b7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1769845653-0-0-b281c5f6986179f806e2c57dff3ba59d
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1769846733-0-0-d91d6404e2e553053fa78297e415c759
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1769845653-0-0-da957b26008cc657a3f0ad57e2e58206
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1769846733-0-0-73a219cd00798fd0559fd232f9e25a6a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1769845653-0-0-e79ae0a71da92ea6f4b9e0a6e2ceeba6
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1769846733-0-0-f87f339dd77fa74a049ea80d5aa66765
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=0886ead439e40f0c806b0d7c4e97bb17&txTime=697df9e5
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=a32d469d66718a48f196b0ea96a2b225&txTime=697dfe1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=5240fb1f811501fb69fc9ba7c5c6450b&txTime=697df9e5
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=9e59669d168e0a8db08705e966493acc&txTime=697dfe1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=0886ead439e40f0c806b0d7c4e97bb17&txTime=697df9e5
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=a32d469d66718a48f196b0ea96a2b225&txTime=697dfe1d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=5240fb1f811501fb69fc9ba7c5c6450b&txTime=697df9e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/7235ee5dafb8cc74958673cc38e09817.png",12h00 ngày 31/01 LG Sakers vs Mobis Phoebus [BRIAN] (Socolive) flv
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=9e59669d168e0a8db08705e966493acc&txTime=697dfe1d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1769845653-0-0-66df6eccaebe011f3b02eb9de831d383
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/7235ee5dafb8cc74958673cc38e09817.png",12h00 ngày 31/01 LG Sakers vs Mobis Phoebus [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1769846733-0-0-496081c38b04f15ed7661353d95bca7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1769845653-0-0-7ed16c6b8e35b16c8a37d2f7eb68ea64
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/7235ee5dafb8cc74958673cc38e09817.png",12h00 ngày 31/01 LG Sakers vs Mobis Phoebus [BRIAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1769846733-0-0-26e8645b7110a2afa645b8b4b4c6c5e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1769845653-0-0-153711bd407efcdf6e27a00ff55a9f65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/7235ee5dafb8cc74958673cc38e09817.png",12h00 ngày 31/01 LG Sakers vs Mobis Phoebus [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1769846733-0-0-d4bda62479be99bcb206807afa91e5d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1769845653-0-0-907d3fbd2bf88ca01d1bb9976bca0c0a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1769845653-0-0-07cdc382ae476d8a46b41ade9d431f65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1769845653-0-0-26e3a0c625b0a2034cd3416bcd405d0f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769845653-0-0-fe00ecdb061962ccc76651795539d652
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769845653-0-0-ac2cad9c7e7038c2587ba219885c70d5
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1769846733-0-0-751b79f0de846852ed52cd58f6afa6df
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1769845653-0-0-efa3c91dff01896191feae11fa8ada84
+https://pull06.scstream.net/live/stream-515530_lsd.flv?auth_key=1769846733-0-0-a042d819b7618c7db14430c37adf86dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1769845653-0-0-2d58c09b4dee5cce210280f4d1530815
+https://pull06.scstream.net/live/stream-515530_lhd.flv?auth_key=1769846733-0-0-ae859a4508e366ee08a9d8a904ace564
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769845653-0-0-a5608d6efed4f79c9b99a31eb49d09ed
+https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1769846733-0-0-80d02fe493173d8b9c9d9b8f4daa66f3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769845653-0-0-cb146ea46279362deb2da74fb1b276d9
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] HD Nhanh
+https://pull.niues.live/live/stream-515530_lhd.m3u8?auth_key=1769846733-0-0-0a8baafc0c802731ccc81ce6ffffafb0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1769884566&sign=c98cf7fc96878b3f0eab1097cfba2696
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] HD1
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1769846733-0-0-79062d0528935101a520a2aafbb1304a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769884566/064fced78603b324ccc3d16a00a3b324/117433404/live/heHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] HD2
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1769846733-0-0-644f031e81f1323891f8befc76cd341e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Tma7pXnOxumZfXsgxXkbuQ/Fv2lucGIbhPi2caWYvF5Lg/1769884566263/live/heHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] SD
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1769846733-0-0-3ea6367f16f82f49bef9e3e0060ecff6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/97764c6eca5a0e6ca9af034786047299.png",13h05 ngày 31/01 Ibaraki Robots vs SeaHorses Mikawa [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/b5HEayaUT5xaXRQdKYmzuw/Fv2lucGIbhPi2caWYvF5Lg/1769884566263/live/heSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] FullHD
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1769846733-0-0-f1a57b22eb3c55a108059f86128b0166
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769884566/256bc10b3ea62bb2218589fbbe788a21/970929996/live/heFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-sht4h7iri21j.png",11:05 ngày 31/01 All Star (1) [Người Kiến] HD Nhanh
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1769847093-0-0-050d1641ff59c8e9df73171eafb27af6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/kienHD.flv?expire=1769859367&sign=d04b403d9ba84cac4abe2d92275a9f1a
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-sht4h7iri21j.png",11:05 ngày 31/01 All Star (1) [Người Kiến] HD1
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1769847093-0-0-b8d0ce2da1ba8f89bf401c7176e64b0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859367/04144aacc782c90dca4138547f463154/103693070/live/kienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-sht4h7iri21j.png",11:05 ngày 31/01 All Star (1) [Người Kiến] HD2
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769847093-0-0-437ba7803e8ddc582fc2579fc349b6e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/ELyYkbRe37fiZObdg3s5hw/Fv2lucGIbhPi2caWYvF5Lg/1769859367642/live/kienHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-sht4h7iri21j.png",11:05 ngày 31/01 All Star (1) [Người Kiến] SD
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1769847093-0-0-6f3c0dd503f76fdd3318bc27e2eea782
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/CeXv6fOgAffCBqVym8q-Xw/Fv2lucGIbhPi2caWYvF5Lg/1769859367642/live/kienSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img-90p.4shares.live/images/teamhomelogo-sht4h7iri21j.png",11:05 ngày 31/01 All Star (1) [Người Kiến] FullHD
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=c30fa7b2c6f38e991a6a08a52e4b4ccf&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859367/93d8843a27f645dc21988b60fc4d0c2c/650874219/live/kienFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",12:00 ngày 31/01 KCC Egis vs Seoul Thunders (1) [Người Gầy] HD Nhanh
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=2cbeeeec90226e30e6217de4d5dce31d&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1769859369&sign=25115d7c5af802e0207930e48287aea1
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",12:00 ngày 31/01 KCC Egis vs Seoul Thunders (1) [Người Gầy] HD1
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=c30fa7b2c6f38e991a6a08a52e4b4ccf&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859369/56b6b8d0160b279f1e98132a41784f9f/175804286/live/gayHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",12:00 ngày 31/01 KCC Egis vs Seoul Thunders (1) [Người Gầy] HD2
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=2cbeeeec90226e30e6217de4d5dce31d&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Oed36lYjXkYAXgwD2JKU_g/Fv2lucGIbhPi2caWYvF5Lg/1769859369339/live/gayHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",12:00 ngày 31/01 KCC Egis vs Seoul Thunders (1) [Người Gầy] SD
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1769847093-0-0-ed8ede42999dc5e13d5458c918f61789
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/-VTvr23eUkbKtIXxnXNddw/Fv2lucGIbhPi2caWYvF5Lg/1769859369339/live/gaySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",12:00 ngày 31/01 KCC Egis vs Seoul Thunders (1) [Người Gầy] FullHD
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1769847093-0-0-f10d056663de1ad887594a6cd8a89ac1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859369/c9774d69db45bafa33cbeeb8a593750f/789239023/live/gayFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",12:00 ngày 31/01 Changwon LG Sakers vs Ulsan Mobis Phoebus (1) [Người Cast] HD Nhanh
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1769847093-0-0-2b991dca93916607a1f006d62a678335
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV SINGER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z3HD.flv?expire=1769859370&sign=7ae42196ca66c819f3b61428f0347632
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",12:00 ngày 31/01 Changwon LG Sakers vs Ulsan Mobis Phoebus (1) [Người Cast] HD1
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1769847093-0-0-3a97d721e45362c575aef9cf78b7f7e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859370/918a3689218230d28a3178d83f0d1b52/138133347/live/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",12:00 ngày 31/01 Changwon LG Sakers vs Ulsan Mobis Phoebus (1) [Người Cast] HD2
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1769847093-0-0-4156a414a9458d279a536bae760a1197
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/nf1RvmgMI8mitZezS78sVQ/Fv2lucGIbhPi2caWYvF5Lg/1769859370571/live/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",12:00 ngày 31/01 Changwon LG Sakers vs Ulsan Mobis Phoebus (1) [Người Cast] SD
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1769847093-0-0-70e4025778a0239ff955eec23d49765f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/pKKwLby9_9xf7E3A8Avdzg/Fv2lucGIbhPi2caWYvF5Lg/1769859370572/live/Z3SD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/0cf520e89a4e49ed18e9c4aeabcc4b66.png",12:00 ngày 31/01 Changwon LG Sakers vs Ulsan Mobis Phoebus (1) [Người Cast] FullHD
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1769847093-0-0-773954c51f48b564c8a7d8e535aaec56
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859370/093571752e68b73f928f6725fec4473b/860871826/live/Z3FHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] HD Nhanh
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1769847093-0-0-66891fa951a984919f58f997e658b982
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1769859371&sign=16f177b64fb1e84f64a3310e2fa2d214
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] HD1
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1769847093-0-0-496883ef556ab345525ccb011cb9dfba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859371/f353fdc3be12f9e222a92e373f8063ff/134078006/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] HD2
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1769847093-0-0-8014c32490299dd4d034d92b1edb1313
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/Yk2Kt25IQcLMXN6aZEciQw/Fv2lucGIbhPi2caWYvF5Lg/1769859371801/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] SD
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1769847093-0-0-534b45c80046bfefb19464e1cfccb1f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/x6xIqiQNVwGrkqv07eJubw/Fv2lucGIbhPi2caWYvF5Lg/1769859371801/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] FullHD
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1769847093-0-0-5057ae7ca98583381655982b1deddb2d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859371/fa1e739ab49df00ddb726758720944b4/651889918/live/dungFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",08:00 ngày 31/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=9f6313703be964faba815795f8291e53&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/abHI30ZIZ8BND5FqiFGA2Q/Fv2lucGIbhPi2caWYvF5Lg/1769884573097/live/may24/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",12:00 ngày 31/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 1
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=320b91c87771e0ebcde886be895b67e1&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/mcdJWizioxVBYZoPzLO8ZA/Fv2lucGIbhPi2caWYvF5Lg/1769884574306/live/may21/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] HD Nhanh
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=9f6313703be964faba815795f8291e53&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1769859728&sign=372ee90c2c6e6c6b2db9d8e910f10b42
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] HD1
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=320b91c87771e0ebcde886be895b67e1&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859728/860ba6451f399ea5a6313e521464622a/330251686/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] HD2
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1769847093-0-0-9e70e860da1f70bfbb99c64a90d85636
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/yXBVsnix_wy45JePhdcIXw/Fv2lucGIbhPi2caWYvF5Lg/1769859728167/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] SD
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1769847093-0-0-e3086dff07a980ede2efd5339b90e478
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/wV_OXeyAYy7rno9RUB8ghg/Fv2lucGIbhPi2caWYvF5Lg/1769859728167/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] FullHD
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1769847093-0-0-f1c7bb534f3d1f8336f207759891d223
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859728/a961c2901b461ccb1b2459098eb68d23/609812691/live/luaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] HD Nhanh
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1769847093-0-0-99842a96a73ef0c5d56ceb083f003388
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769859729&sign=7e14de5eaf4c5ae25c3f99fa999e76ff
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] HD1
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=2f445ad88d49b28f3386c0aebad313bb&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859729/8f17166c02b528c1fb303f7e1e4d22d3/266240263/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] HD2
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=b49139bff624c83703f1e4f09b789ff7&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/VXO3Mcnwbmu5xv5Kwa0IkA/Fv2lucGIbhPi2caWYvF5Lg/1769859729364/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] SD
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=2f445ad88d49b28f3386c0aebad313bb&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/Zd6n2Q1-ifpjQ3_ZbZGrdQ/Fv2lucGIbhPi2caWYvF5Lg/1769859729364/live/mySD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] FullHD
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b49139bff624c83703f1e4f09b789ff7&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769859729/478d76961ae964073781beace66f2f4d/368802569/live/myFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] Backup 1
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1769847093-0-0-fd6a370776cbb941172c2ac2114c69a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/bThAhSTvMBPr8LfRGFAx8A/Fv2lucGIbhPi2caWYvF5Lg/1769859729362/live/sd-6MvY6kwvopmRFpeCB5/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] HD Nhanh
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1769847093-0-0-e64a1e2e9806c6f518971f81614a304d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1769860086&sign=ea3214dcbb7dd345a482cb35e609a9ae
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] HD1
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1769847093-0-0-d30c5d353778be46cad3e29109efe2b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/2f0ecff5c91989c207112df249feaad4.png",12h30 ngày 31/01 Adelaide United Women vs Melbourne City Women [BLV EDRIC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769860086/addad858511ea1c11d530e4ffc4ed7bc/614859174/live/khiaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] HD2
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1769847093-0-0-c6a33130afd5eb63b89aef1bb81dc255
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/dJJgJWZihYJhfzTpA4Bajg/Fv2lucGIbhPi2caWYvF5Lg/1769860086974/live/khiaHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] SD
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=4bb914fee8e3b2bc9826d60808fa00a0&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/GmHy9wD50Y5yUMWxpZ3Tfg/Fv2lucGIbhPi2caWYvF5Lg/1769860086975/live/khiaSD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] FullHD
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=2b86850bec22fc7d8f74b0f47c9e8307&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769860086/c62350f58f7c517468154bcd4419bb8e/651285954/live/khiaFHD/playlist.m3u8
-#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] Backup 1
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=4bb914fee8e3b2bc9826d60808fa00a0&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BÚA TẠ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/CwDs2VQmesVvo4hUDrWqDg/Fv2lucGIbhPi2caWYvF5Lg/1769860086972/live/sd-6MvY73BxbRWKH16c3d/playlist.m3u8
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=2b86850bec22fc7d8f74b0f47c9e8307&txTime=697dff85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1769847093-0-0-783230b484ca915141d2e002880bcf48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1769847093-0-0-edb08d271878c1108f7026070955d373
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1769847093-0-0-05abb6e400d7ed09d2bf87faa9b32d63
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/5771ae1ff53c53fec0b6567558caa7cb.png",13h00 ngày 31/01 Sydney FC Women vs WS Wanderers Women [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769847093-0-0-a46dd6b0efee7bdbf2382dd9f1c9ecc4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1769847093-0-0-453bf3939eb8467e3a505371545ee875
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1769847093-0-0-de18ae5813ae47e46de3354a8e3afcb0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1769847093-0-0-7406ffb99a19322056e476b6a1a4d4b0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/a8f8e50a14933f805e69505bc9376e6d.png",12h35 ngày 31/01 Nagasaki vs Hiroshima D. [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1769847093-0-0-0654dd13066f489cd589739408939c48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1769847093-0-0-7c4228641ffce6cc2b908fec06337ce1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1769847093-0-0-bad0742fc072af1c86def269c79e4e25
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1769847093-0-0-9dd16214ef6a83f510bfe1b0904e3a78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260128/f479828a9accd09456c25a55da89011b.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1769847093-0-0-d4c03877faff1ac49495de7fd3560a99
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lsd.flv?auth_key=1769847454-0-0-e9e2eaebeeed3cce45f400d52c25fad0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-459401_lhd.flv?auth_key=1769847454-0-0-3fb5bbc9c4f42d73a4eb6c53dbdca8c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1769847454-0-0-e7ab2bd522ac4af29538b5339b396544
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1769847454-0-0-256cf9ece2bd08b997f1eb68b98a326e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=74207fb023e838cf5d4a531b18fd8cc8&txTime=697e00ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=4318d2ae695e1c16de133c7a25876462&txTime=697e00ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=74207fb023e838cf5d4a531b18fd8cc8&txTime=697e00ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/392c74d288de478b54ae9c61fc5102c9.png",13h00 ngày 31/01 Newcastle Jets vs Brisbane Roar [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=4318d2ae695e1c16de133c7a25876462&txTime=697e00ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=e671ee38b6e79c1826f2ecc92ca88843&txTime=697e00ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=bce1c6de40b1363dcef60816eb20bdb7&txTime=697e00ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=e671ee38b6e79c1826f2ecc92ca88843&txTime=697e00ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/f3480b6e35e61b153fb223d68c033ebe.png",13h30 ngày 31/01 Malut United vs Bhayangkara Presisi Indonesia FC [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=bce1c6de40b1363dcef60816eb20bdb7&txTime=697e00ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1769847454-0-0-83a72e5a4050d92ae1e1b63745f77073
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1769847454-0-0-1557a4864f93cbdfedd20918bf4cafad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1769847454-0-0-df6d92c69ca3b53298cbbc957974ff9b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1769847454-0-0-4ba8c146a120887237fedf9ec9624bef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1769847453-0-0-52b45a725400213794a3169be321dd1a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1769847453-0-0-234858df2b6310037355533dd88064fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1769847453-0-0-203ed82ade87fcffd653c32dc0e005f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/cf91c1107c97c372dbec4282a0f36a68.png",13h30 ngày 31/01 Adelaide vs South East Melbourne [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1769847453-0-0-e353bb34465c41e53b5bc2f2d7a8f024
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/936157bfc1c66a868484affa5c6e4d5d.png",14h30 ngày 31/01 Persipal Palu vs Persela Lamongan [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/936157bfc1c66a868484affa5c6e4d5d.png",14h30 ngày 31/01 Persipal Palu vs Persela Lamongan [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/936157bfc1c66a868484affa5c6e4d5d.png",14h30 ngày 31/01 Persipal Palu vs Persela Lamongan [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-480p.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260129/936157bfc1c66a868484affa5c6e4d5d.png",14h30 ngày 31/01 Persipal Palu vs Persela Lamongan [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://stream-flv.dfsfe.top/lives/406865-720p.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/27c39fe5d773bd8755d61b4e49abdd3e.png",14:00 ngày 31/01 Daejeon KGC W vs Hyundai E&C Hillstate W (1) [Người Băng] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1769860088&sign=e50e4a025d98012c2e59eb1ace460eda
+https://hotlivezz179536519.akainu.xyz/live/bangHD.flv?expire=1769861165&sign=0e8c7db83364103eb337c96e64fce77d
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/27c39fe5d773bd8755d61b4e49abdd3e.png",14:00 ngày 31/01 Daejeon KGC W vs Hyundai E&C Hillstate W (1) [Người Băng] HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769860088/59f96eb01c050db42a0c544891ea94ea/273119761/live/bangHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769861165/d18e69daa0a52b4fc69517d048402534/654324832/live/bangHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/27c39fe5d773bd8755d61b4e49abdd3e.png",14:00 ngày 31/01 Daejeon KGC W vs Hyundai E&C Hillstate W (1) [Người Băng] HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179266008.akainu.xyz/bFVUwfnkLzwff2qAnbxigw/Fv2lucGIbhPi2caWYvF5Lg/1769860088213/live/bangHD/playlist.m3u8
+https://hotlivezz179266008.akainu.xyz/QAvK5KSUcBnK2O429P4Csg/Fv2lucGIbhPi2caWYvF5Lg/1769861165982/live/bangHD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/27c39fe5d773bd8755d61b4e49abdd3e.png",14:00 ngày 31/01 Daejeon KGC W vs Hyundai E&C Hillstate W (1) [Người Băng] SD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/KvuSDiTDcDBbmrONXJFIkQ/Fv2lucGIbhPi2caWYvF5Lg/1769860088214/live/bangSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/BCmMdXcKI047FML2MKRUZg/Fv2lucGIbhPi2caWYvF5Lg/1769861165983/live/bangSD/playlist.m3u8
 #EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/27c39fe5d773bd8755d61b4e49abdd3e.png",14:00 ngày 31/01 Daejeon KGC W vs Hyundai E&C Hillstate W (1) [Người Băng] FullHD
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://9ceg0825.edgemaxcdn.org/1769860088/786c8f7d900fb84d0ea091445bae7939/186656961/live/bangFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769861165/c8e41864aac913e85b6d30accfa4b624/824188507/live/bangFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/khiaHD.flv?expire=1769861167&sign=8b00c428fd62358b5cc1ce15e3c1233a
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861167/e05554e4231370adbef963f8abe07e70/301798826/live/khiaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/L9njkXkrj-9uq0qRC8-VHA/Fv2lucGIbhPi2caWYvF5Lg/1769861167245/live/khiaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/zspJ2MlENh80e1C2gbyhjQ/Fv2lucGIbhPi2caWYvF5Lg/1769861167246/live/khiaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861167/c3b4b83a0c91d032552e2e10c8c52289/410890798/live/khiaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/73846b93d2c8090dff7051184a581b34.png",13:00 ngày 31/01 Sydney FC (w) vs WS Wanderers (w) (1) [Ba Khía] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/5kdr6aV-ZjVCh4ZMpaFEWA/Fv2lucGIbhPi2caWYvF5Lg/1769861167242/live/sd-6MvY73BxbRWKH16c3d/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/heHD.flv?expire=1769886726&sign=8a6917b1731a09ce9207454a546bfd30
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769886726/c866f953ec764f04bfcee3c62be8e863/400443865/live/heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/Og_2lx0iK5v5Vs9MmzJ9Cg/Fv2lucGIbhPi2caWYvF5Lg/1769886726761/live/heHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/K94YQuBMdC8HYKXKetx3LA/Fv2lucGIbhPi2caWYvF5Lg/1769886726761/live/heSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://g7w1r.4shares.live/files/bia.png",11:00 ngày 31/01 2025 Asian Pool Championship (1) [Cá‎ Hề] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769886726/4d9bf9348c0307dfcf802ec7817f819b/235412216/live/heFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1769861527&sign=810828d390c54f2645f56de35161beda
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861527/e6d02b79284e3ad398ddcb915a1e24cd/250479709/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/aPYUIYlb_LFtxD6AzldKSQ/Fv2lucGIbhPi2caWYvF5Lg/1769861527940/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/zE-QYZ_RiLyGerS_GgFxtA/Fv2lucGIbhPi2caWYvF5Lg/1769861527941/live/dungSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/volleyball/team/6e272d1f4c1eaf9719f7bf7e84b9f0e6.png",13:05 ngày 31/01 Tokyo Great Bears vs JT Thunders (1) [Người Dưng] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861527/01ac54e22ba726e704b540f51d99db66/658336275/live/dungFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/Wr0BloW1-xMAwamk9.png",08:00 ngày 31/01 Australian Open (1) [Nhà Đài] Rod Laver Arena
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/HDDAeIBXa0fh-sC6GdTN3A/Fv2lucGIbhPi2caWYvF5Lg/1769886729135/live/may24/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://static.flashscore.com/res/image/data/lQkC0ofU-4MiRgyRn.png",12:00 ngày 31/01 Thailand Masters 2026 (1) [Nhà Đài] Sân 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/k2aLQxQJFbAFus1zFuMzRg/Fv2lucGIbhPi2caWYvF5Lg/1769886730338/live/may21/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1769861886&sign=747d6fb825b40b630b5ec69f0c480199
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861886/48048104dec8e9f76e96b2e123097807/573933117/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/GvF9sX4GcVuq8_JPe4HJFQ/Fv2lucGIbhPi2caWYvF5Lg/1769861886222/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/hcwuhjfn8I5QqhJ849tyHA/Fv2lucGIbhPi2caWYvF5Lg/1769861886222/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png",13:30 ngày 31/01 Adelaide 36ers vs South East Melbourne (1) [Người Lửa] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861886/71aacdb1691831c476e36c29fd22d294/334784778/live/luaFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/myHD.flv?expire=1769861887&sign=4402e70f87ace10fc5dd4c30bdd45183
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861887/451c9bec489779623b3ec4889d37179d/148372435/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/yIASgPRjMNfW98zLzFyuGA/Fv2lucGIbhPi2caWYvF5Lg/1769861887404/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/M5zYiu69Iq3PLC6hCP68yg/Fv2lucGIbhPi2caWYvF5Lg/1769861887405/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861887/0ac43f705431a4b70f37fee69d9f4f14/636532905/live/myFHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/football/team/d81fb9c5f0a147090f050e3c120c651c.png",13:00 ngày 31/01 Newcastle Jets vs Brisbane Roar (1) [Mỳ Tôm] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ExL1KN0YvsPDlQZp9oY7PQ/Fv2lucGIbhPi2caWYvF5Lg/1769861887401/live/sd-6MvY6kwvopmRFpeCB5/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png",14:30 ngày 31/01 Seoul SK Knights vs Goyang Sono (1) [Người Phép] HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1769861888&sign=fee3a29085a8921c8d831d0c1bbfb8ab
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png",14:30 ngày 31/01 Seoul SK Knights vs Goyang Sono (1) [Người Phép] HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861888/ebb3aff954b7b16c242a7a660887a3dc/377795982/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png",14:30 ngày 31/01 Seoul SK Knights vs Goyang Sono (1) [Người Phép] HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179266008.akainu.xyz/NSFV9pxFqhMLz_ahp7XOJw/Fv2lucGIbhPi2caWYvF5Lg/1769861888990/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png",14:30 ngày 31/01 Seoul SK Knights vs Goyang Sono (1) [Người Phép] SD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/oN1rXuXbz0udhfrniiV1FA/Fv2lucGIbhPi2caWYvF5Lg/1769861888990/live/phepSD/playlist.m3u8
+#EXTINF:0 group-title="10Cam" tvg-logo="https://img.thesports.com/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png",14:30 ngày 31/01 Seoul SK Knights vs Goyang Sono (1) [Người Phép] FullHD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://9ceg0825.edgemaxcdn.org/1769861888/3bfff2762180c54a9b872c113dec356d/749601224/live/phepFHD/playlist.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/844px-Newcastle_United_Jets_Logo.svg.png",13h00 31/01 Newcastle Jets vs Brisbane Roar (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
