@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/leWw1zz.png" group-title="In The Box",Box Movie 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/leWw1zz.png" group-title="In The Box",Box Movie 1
+https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
+https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png" group-title="In The Box",Box Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png" group-title="In The Box",Box Hits
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EDOvcL.png" group-title="In The Box",Hollywood Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EDOvcL.png" group-title="In The Box",Hollywood Classics
+https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kPJktTH.png" group-title="In The Box",Music Box
+https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8nALCG.png" group-title="In The Box",Woman
+https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/41wJdvL/history.png" group-title="Quốc tế",History
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="https://vnepg.site/logos/1.png",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kenh VTV" tvg-logo="https://vnepg.site/logos/2.png",VTV2
@@ -482,12 +500,12 @@ https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8674_1hc9wzv97628.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho (Lương Sơn) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/66013_1j25bscydb12.png",16h30 ngày 06/03 Dagon Port vs Laconi Lian (Lương Sơn) BLV QUAN VŨ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV DƯƠNG QUÁ flv
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/66013_1j25bscydb12.png",16h30 ngày 06/03 Dagon Port vs Laconi Lian (Lương Sơn) BLV QUAN VŨ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+ https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2429_1hd5avvjts1y.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
@@ -506,6 +524,12 @@ https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e5
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2429_1hd5avvjts1y.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772727314.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772727314.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4472_1ht6ew1xwn1w.png",15h30 ngày 06/03 Green Gully Cavaliers vs Hume City (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -518,24 +542,42 @@ https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4472_1ht6ew1xwn1w.png",15h30 ngày 06/03 Green Gully Cavaliers vs Hume City (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/66013_1j25bscydb12.png",16h30 ngày 06/03 Dagon Port vs Laconi Lian (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV LÝ ỨNG flv
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/66013_1j25bscydb12.png",16h30 ngày 06/03 Dagon Port vs Laconi Lian (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV TỐNG GIANG m3u
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/66013_1j25bscydb12.png",16h30 ngày 06/03 Dagon Port vs Laconi Lian (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV TỐNG GIANG flv
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/66013_1j25bscydb12.png",16h30 ngày 06/03 Dagon Port vs Laconi Lian (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV LEO m3u
+ https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/17719_20200324100443.gif",17h00 ngày 06/03 Than Quang Ninh vs Truong Tuoi Dong Nai (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9219_1h4ava1jtxz.png",15h00 ngày 06/03 Uzbekistan (W) vs China (W) (Lương Sơn) BLV LEO flv
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/17719_20200324100443.gif",17h00 ngày 06/03 Than Quang Ninh vs Truong Tuoi Dong Nai (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/17719_20200324100443.gif",17h00 ngày 06/03 Than Quang Ninh vs Truong Tuoi Dong Nai (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/17719_20200324100443.gif",17h00 ngày 06/03 Than Quang Ninh vs Truong Tuoi Dong Nai (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20584_20200320191145.gif",17h00 ngày 06/03 Osaka FC vs Nara Club (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20584_20200320191145.gif",17h00 ngày 06/03 Osaka FC vs Nara Club (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20584_20200320191145.gif",17h00 ngày 06/03 Osaka FC vs Nara Club (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/20584_20200320191145.gif",17h00 ngày 06/03 Osaka FC vs Nara Club (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0598a92ee78e6dfe6a3f22a3bc910ab9/image/small?v=1768601124",14h45 ngày 06/03 Modbury Vista (w) vs FFSA NTC Girls (w) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -544,30 +586,38 @@ https://live.alilicloud.com/live/7e42dfad9dedcfaf44b230b164717bca/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/2b2a76380b1cf417abb4a5dc18202038/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/football/team/0eed1b79b7b63de4fd62d4f861719c03.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/27995ddd0093e55589f052660b317e96/image/small?v=1768601124",17h00 ngày 06/03 West Torrens Birkalla Women vs Campbelltown City (w) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1ef8299ed22cfbeede3c0364dc528e4f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/football/team/0eed1b79b7b63de4fd62d4f861719c03.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/34fcda74b36a44aaa4ee597ecf6ff2b4/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/football/team/0eed1b79b7b63de4fd62d4f861719c03.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/34fcda74b36a44aaa4ee597ecf6ff2b4/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img0.aiscore.com/football/team/0eed1b79b7b63de4fd62d4f861719c03.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/34fcda74b36a44aaa4ee597ecf6ff2b4/index.m3u8
+https://live.alilicloud.com/live/4dc7e54461f297081fca51aecf85d633/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8d06882fc85c80295436b15142193e27/image/small?v=1768601124",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/beb94c81d79c2df9a94243b14bc0fbcc/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/64cced5aabd7c1e978c196a5198727fa/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/0d534de72d374fa48e61374d9b696425/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/0d534de72d374fa48e61374d9b696425/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/0d534de72d374fa48e61374d9b696425/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/19372350dead3693d16c0c453741fc1f/image/small?v=1768601124",13h00 ngày 06/03 Box Hill Women vs Heidelberg United Women (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/515dbc28d58a107b7598379c08cf14e8/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/77ed2e0a3eb9bdd8d81a7dc757f85d43/image/small?v=1768601124",17h00 ngày 06/03 FC Osaka vs Nara Club (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8a8c36506732841d6af7a20c83b7de6e/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0bf10ed53b2411d5ee6beb933bb558af/image/small?v=1768601124",12h30 ngày 06/03 Adelaide United FC Youth vs White City Woodville (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -584,6 +634,10 @@ https://pull-live3.fastestcdn-global.com/live/8bf4461b04c944fdafc194f0bf23ac84/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live3.fastestcdn-global.com/live/8bf4461b04c944fdafc194f0bf23ac84/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c938c73c8c18289d9d071b55c9e97840/image/small?v=1768601124",17h00 ngày 06/03 West Adelaide Women vs Adelaide Comets Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a736eee0386561b31c9bd027455751d6/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8406125fab0246157d0aeaa7443774d1/image/small?v=1768601124",15h45 ngày 06/03 Bangladesh Police Club vs Brothers Union (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -612,6 +666,22 @@ https://live.alilicloud.com/live/e7ec19f1e969496b64d5cc43fdf8cbce/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f34956777a4af3c7b0e1287e157aedab/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9ea6b5049f2e16e178aa675499cf3589/image/small?v=1768601124",16h45 ngày 06/03 Adelaide University Women vs Flinders United Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3042de7ff9ba13dedbe2052aedf18ab9/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/9021c5a366639bdf43573efd12c10f67/image/small",17h05 ngày 06/03 Osaka Sakai vs Suntory Sunbirds (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/e23fd87367ac4e918a966116b6db0c42/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/9021c5a366639bdf43573efd12c10f67/image/small",17h05 ngày 06/03 Osaka Sakai vs Suntory Sunbirds (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/e23fd87367ac4e918a966116b6db0c42/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/volleyball/team/9021c5a366639bdf43573efd12c10f67/image/small",17h05 ngày 06/03 Osaka Sakai vs Suntory Sunbirds (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/e23fd87367ac4e918a966116b6db0c42/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/48420c69bf30c3148d7d39f04d7aeb94/image/small?v=1768601124",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -648,14 +718,6 @@ https://live.alilicloud.com/live/2841018d125251c90c11604f3e2ed47a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0b9e4a7c9d6ca03c2729f762d5388d94/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142848_7bd3d526.png",15h00 ngày 06/03 Uzbekistan W vs China W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142848_7bd3d526.png",15h00 ngày 06/03 Uzbekistan W vs China W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130442_7beb7455.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1168,14 +1230,54 @@ https://live.alilicloud.com/live/7e42dfad9dedcfaf44b230b164717bca/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/2b2a76380b1cf417abb4a5dc18202038/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/27995ddd0093e55589f052660b317e96/image/small?v=1768601124",17h00 ngày 06/03 West Torrens Birkalla Women vs Campbelltown City (w) (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4dc7e54461f297081fca51aecf85d633/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8d06882fc85c80295436b15142193e27/image/small?v=1768601124",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/beb94c81d79c2df9a94243b14bc0fbcc/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/64cced5aabd7c1e978c196a5198727fa/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/9a695b163b6a458db7f5eca327c8ff2f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/9a695b163b6a458db7f5eca327c8ff2f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/9a695b163b6a458db7f5eca327c8ff2f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/9a695b163b6a458db7f5eca327c8ff2f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/9a695b163b6a458db7f5eca327c8ff2f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/408236921c6c64c42b4d10d5df6569db/image/small?v=1768601124",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/9a695b163b6a458db7f5eca327c8ff2f/index.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/19372350dead3693d16c0c453741fc1f/image/small?v=1768601124",13h00 ngày 06/03 Box Hill Women vs Heidelberg United Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/515dbc28d58a107b7598379c08cf14e8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/77ed2e0a3eb9bdd8d81a7dc757f85d43/image/small?v=1768601124",17h00 ngày 06/03 FC Osaka vs Nara Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8a8c36506732841d6af7a20c83b7de6e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c938c73c8c18289d9d071b55c9e97840/image/small?v=1768601124",17h00 ngày 06/03 West Adelaide Women vs Adelaide Comets Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a736eee0386561b31c9bd027455751d6/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8406125fab0246157d0aeaa7443774d1/image/small?v=1768601124",15h45 ngày 06/03 Bangladesh Police Club vs Brothers Union (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1196,35 +1298,7 @@ https://live.alilicloud.com/live/d7d1a806b89ab9d05c142bbd349c6f12/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/cd56ef76796046a88d95770134bb5331/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/p0lwCRBr-zme0ZSUQ.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1ef8299ed22cfbeede3c0364dc528e4f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/p0lwCRBr-zme0ZSUQ.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/3f7dc09a81314e72ab614ea6bbc43958/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/p0lwCRBr-zme0ZSUQ.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/3f7dc09a81314e72ab614ea6bbc43958/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/p0lwCRBr-zme0ZSUQ.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/3f7dc09a81314e72ab614ea6bbc43958/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/p0lwCRBr-zme0ZSUQ.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/3f7dc09a81314e72ab614ea6bbc43958/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/p0lwCRBr-zme0ZSUQ.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/3f7dc09a81314e72ab614ea6bbc43958/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://static.flashscore.com/res/image/data/p0lwCRBr-zme0ZSUQ.png",15h00 ngày 06/03 Uzbekistan Women vs China Women (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/3f7dc09a81314e72ab614ea6bbc43958/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cfe4297733f373607da55f0a3193b2ed/image/small?v=1768601124",13h00 ngày 06/03 Preston Lions Women vs Boroondara Eagles Women (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cfe4297733f373607da55f0a3193b2ed/image/small?v=1768601124",16h30 ngày 06/03 Preston Lions Women vs Boroondara Eagles Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e7ec19f1e969496b64d5cc43fdf8cbce/playlist.m3u8
@@ -1232,6 +1306,10 @@ https://live.alilicloud.com/live/e7ec19f1e969496b64d5cc43fdf8cbce/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/f34956777a4af3c7b0e1287e157aedab/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9ea6b5049f2e16e178aa675499cf3589/image/small?v=1768601124",16h45 ngày 06/03 Adelaide University Women vs Flinders United Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3042de7ff9ba13dedbe2052aedf18ab9/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/48420c69bf30c3148d7d39f04d7aeb94/image/small?v=1768601124",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1264,7 +1342,7 @@ https://pull-live7.fastestcdn-global.com/live/ac5969975c2241f6a761995a94b299ca/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/42d42c078330b88c52a83c3e8ad40ead/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/13bbaae5602c22b0e1b1e6b9408e989a/image/small?v=1768601124",13h00 ngày 06/03 Bentleigh Greens Women vs Spring Hills FC Women (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/13bbaae5602c22b0e1b1e6b9408e989a/image/small?v=1768601124",16h30 ngày 06/03 Bentleigh Greens Women vs Spring Hills FC Women (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/1bc7fe7bd09e8460f1a0e87af9586616/playlist.m3u8
@@ -1292,354 +1370,318 @@ https://live.alilicloud.com/live/2841018d125251c90c11604f3e2ed47a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0b9e4a7c9d6ca03c2729f762d5388d94/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1772792617-0-0-cbcc037363d5d740e65cf037d41bd50d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1772792617-0-0-271ff73c7213c13e21134aa37d1950c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1772792617-0-0-414ca6ee429f45c20a3ad787064b1871
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1772792617-0-0-290500f78dd49b0ed44f149d4fb19c1b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1772792617-0-0-9a08d569ff7303638a74e18ee8ddd75f
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1772794777-0-0-c8885ba2c961dc74f0e8edc2db6cdec9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1772792617-0-0-656a84f1fd93ee62a146d12895ab94f4
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1772794777-0-0-6304088b73f2a6dcc9d3d0cb32163f92
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772792617-0-0-d1e79ea71f206adf767376c10d6ab89b
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1772794777-0-0-045340b165482d36d7c91d6b4d7ef2fd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772792617-0-0-2d1a25e0cdefc733743d2a565ebd6a97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÔNG CHẤT] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1772792617-0-0-52a73a6c03ad374ea988147896647fe0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÔNG CHẤT] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1772792617-0-0-2a8d161c58b65d97036500f4c3625dfb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÔNG CHẤT] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1772792617-0-0-b2ce8af18f3a2a21ae6d17e9d328aa6d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1772792617-0-0-37e103bfcca9dcf54e034875c9881eee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV  TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1772792617-0-0-374ec088d5efe4fe09de493de6479ca5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV  TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1772792617-0-0-2873d582f98970ee64121ca48e28fbb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV  TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1772792617-0-0-3362828a6d91ce4996439ad2351f5d73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV  TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1772792617-0-0-5e5bd049f9f17707978b045d07fcbd46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1772792617-0-0-754ab93316582a6937284c582f783f20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1772792617-0-0-5a64c6571fff06fe3ce0dba854d4a124
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1772792617-0-0-1f52a8ed019d8e81c4c1e6def6420637
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1772792617-0-0-0978c1497cac167732f963f649239c42
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772792617-0-0-d0dcdb46482082bea65e7ce56e8e6761
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772792617-0-0-3de1bb1dcd0064322c84c6f2d7146932
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772792617-0-0-834b4cd3929b50f8fd893637015fc033
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772792617-0-0-60dbc74627bdbb28bead6d47f12633cf
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1772794777-0-0-3c978849b1891970826cdd2278955d1f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772792617-0-0-806ec2d27d93a43aab49926347061359
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1772794777-0-0-fe279829e702ef9fa8eaec74ea31e9f7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772792617-0-0-e7ceee31fbaf8f3657d7cf862276ca10
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1772794777-0-0-10574951937e8ceab251fabe4479f58f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772792617-0-0-3d5a0ea4059be7422ca4e49d475390db
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1772794777-0-0-061537c2c739c7c91a8b9517209d3be1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772792617-0-0-87d93610f8af308b155401c4b132813b
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1772794777-0-0-5405055cdc9a55f22f030360eff1d108
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1772794777-0-0-f434b06162647ef678ed1b9f245c9c0b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1772794777-0-0-1f891df868e4b382e184a846fe224f18
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1772794777-0-0-e51f1a3e6fedb3a25ab08dbd45152345
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1772794777-0-0-39958b6984817e8ccc3f893144c3a48e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772792617-0-0-a27ab3dddbeed42baba7f9b37bf382ed
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1772794777-0-0-3b66640b6a9a063e6077fc56567b356f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772792617-0-0-2869da8c283f4cd3de67fa607ecb6cd8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1772794777-0-0-48485ad78516a46e824f7991beac5bd2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772792617-0-0-4bf83c729099ea75e283e86cdddf2066
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1772794777-0-0-d23a098d5ccf5bb091f139f7738a7a10
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772792617-0-0-7e4e5912427182a90678ae8114980e48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1772792617-0-0-7334ff9df327146c38e7231205c47e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1772792617-0-0-a6a17146337e70447f05e33550ee02d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1772792617-0-0-1529c980ee761a6e15ea795dfeaaf696
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1772792617-0-0-a0616e19462be8adfa8d16c18c5c84dc
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1772794777-0-0-2fb27549eda2b80a97daf6fc1b3a3839
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772792617-0-0-1ed384b4530f8c8a2dca866db0a20c3b
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1772794777-0-0-f60ba1b72746ecb9147cd7952287540b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772792617-0-0-15fb9c975665225a9a8582eebd15541e
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1772794777-0-0-7000119d06798b6d2fa4cc7403115173
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772792617-0-0-48ff969c67f731503e568d3ddfa63a47
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1772794777-0-0-5b76972cebfb4d2ec89b73653f83b162
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772792617-0-0-5433f9cae7d559e06af979437580d172
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1772794777-0-0-9417efa55573b7d003797d2c120aa2af
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1772794781-0-0-3c70c83de651650b4ea26ce449fee225
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1772794781-0-0-a35c8cd37d0858cf0519e26789c9aa8c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1772794781-0-0-40f2a4b644b91bda7cce2aad675cddbf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1772794781-0-0-fa3bd3149b3113f0b0aac2c5acd2f0a0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1772792617-0-0-bb6969cef7d6f73dd7d953e917c909f5
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1772794777-0-0-6d0a240784f6545e36ed885dcd2cb6f0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1772792617-0-0-4d8e8dacfc0a56358433b90d10fb4105
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1772794777-0-0-60621bc7165cf204874fdcfed07e264a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1772792617-0-0-c3a6e4ae76ff8a586912db3831c53c1d
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1772794777-0-0-689a7d40a1931d27017db2eae33d06af
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1772792617-0-0-c06872fe536546f93b8f741253a246fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) flv
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1772794777-0-0-01cbf4f614b9449fe449a22eb1f78d26
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1772792617-0-0-a8c31d5e458e5127ffc1392a9f020c20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1772794777-0-0-ed82109d67a4ddb33c8e28b5340fd2d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV ENZO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1772792617-0-0-1f8463c1b01f812dc0d18583163a0405
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1772794777-0-0-3527b364d69d37b7be93cc27d2633556
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV ENZO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1772792617-0-0-d230b38a587ea1149e7112b8ef7f5d32
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1772794777-0-0-87d9fe5699c39680dd67d6a9f70a069f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/d01a8633eb64e1fee0e6a00ebb4baa45.png",17h00 ngày 06/03 FC Osaka vs Nara Club [BLV ENZO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1772792617-0-0-8b39e6bc1977d97c668598c1e4db58ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1772792617-0-0-1fddf8ac93add3074d9eaad8c39b59b3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1772792617-0-0-aa9ace12b3d696660ccb1d0e8fe45fc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1772792617-0-0-96405bb0c8bece02f6643085b5868446
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1772792617-0-0-c1a531c311d26306ebd39e995847f634
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1772794777-0-0-db13907344fac8f69a8c255bb777ffbb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/18e1204cb0dad2c17991569bb6c4f1f5.png",15h30 ngày 06/03 Green Gully Cavaliers vs Hume City [BLV SATIVA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1772792617-0-0-30a5e36cda802de5187429fc4da8d54c
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1772794777-0-0-1a0552c266331c2b63d25c25234a9c73
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/18e1204cb0dad2c17991569bb6c4f1f5.png",15h30 ngày 06/03 Green Gully Cavaliers vs Hume City [BLV SATIVA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1772792617-0-0-a8a515d90964b40301c0e39a7ca86ced
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1772794777-0-0-4cc13b24e39becc200f729ad05bcce90
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/18e1204cb0dad2c17991569bb6c4f1f5.png",15h30 ngày 06/03 Green Gully Cavaliers vs Hume City [BLV SATIVA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1772792617-0-0-d221018540a5fc79e193bf19fa4e9a8b
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1772794777-0-0-78776b2f4628ce8f77d4161070fe19a3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/18e1204cb0dad2c17991569bb6c4f1f5.png",15h30 ngày 06/03 Green Gully Cavaliers vs Hume City [BLV SATIVA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1772792617-0-0-9b756a005f766d451d73bd6527461ef7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV Củ Cải] (Socolive) flv
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1772794777-0-0-397db3cdc9726c2059170a00134a18a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1772792977-0-0-11c54878f8a79446b82a6b3071ec4d4b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1772794777-0-0-b2ce83d2d859682fa22a7a30ef0ba62d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1772792977-0-0-2af524f556734b9dedd12e601ec47317
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV Củ Cải] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1772794777-0-0-bc255a83f16db63cab4e5f28b8a0efae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1772792977-0-0-314440cefdfe6065848d31f91e65b76f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1772794777-0-0-a2414448fc626eb22c347b3727213ff4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [GOAT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1772792977-0-0-6264808c7191e288f6767a87d8dd3ebd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) flv
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1772794777-0-0-a7a4d827c502a252b576c6201092175c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1772792977-0-0-b50ef9cfb5fa7171c5f0e2558e64ed8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1772794777-0-0-cf7bffe64ffd779fa60b3ad19eed4488
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1772792977-0-0-c60ee555c816892e3b6f51bfd2356d42
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1772794777-0-0-9cb66365a54cb75b1a9deeed05aeab42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1772792977-0-0-9c49abb833fc61274822f4c911fcae0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1772794777-0-0-4248a15db7fa48e78ac8cf4fe4f76e8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1772792977-0-0-30ab78b1648a5f9bcd6355a9d0f72446
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) flv
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1772794777-0-0-1bae2a82b5e01ee7c359c87ba737a60d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772792977-0-0-2e45e50e56285a106b30728c635f0ef9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1772794777-0-0-c78929b1f9354ca135ae510d74b26cc3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772792977-0-0-ef374da181b5f75f977fa90d7e714241
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1772794777-0-0-1a012f49b381c4127a4f1c442f18d459
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772792977-0-0-a5d308449581ecffd686d794a6b53665
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1772794777-0-0-5911eef359c33c18587ec82d99e377d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772792977-0-0-adaf4be3b73e878e604d6129d033d15c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) flv
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1772794777-0-0-21016e0038f3eb909077c9f8d99dcaae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1772792977-0-0-1af4b4619a26d67432370f1aaafa211c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1772794777-0-0-16f741f37a62b5fd79f50d372ea0207b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1772792977-0-0-9b408471c860ae4c5dc03a0e1c33dbff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1772794777-0-0-5ee7e4c0ff6e9f517cced5a026e288c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1772792977-0-0-e84089e8a21d278f14cae4641ed05450
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1772794777-0-0-7b23da2c32400fb00aa8393f1dc9918d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1772792977-0-0-5aa6a7e4b23c28b4da7afc61317c5622
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1772794777-0-0-6d35f369ee1b21e054e598a7bbcc210b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1772792977-0-0-219be3e115003b2de7881ba50d45152e
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1772795137-0-0-38dece27e6daaf853866cf6a5a0bac4f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1772792977-0-0-904efbf8b70c7f2ccf4fea0d989031b0
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1772795137-0-0-45a49db5710da5dbff0a6c76bd883f48
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1772792977-0-0-5a8a06d38a8ad5dafe37aa002523f764
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1772795137-0-0-30d1705400a0b6753e1f0aaf17e8084b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1772792977-0-0-d925bc51500401b775082d099367b1d3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÚ ĐÊM] (Socolive) flv
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1772795137-0-0-55ab9fa30139d598b41a904089b85383
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1772793337-0-0-2201de87d1f429189a01ef4548050e90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÚ ĐÊM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1772795137-0-0-05620cf37934ae2201b68225d95559fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1772793337-0-0-e7a4ca5515396a5120ff218f3007a419
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÚ ĐÊM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1772795137-0-0-6f7a8682413c2177b14a0d57eca17f80
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1772793337-0-0-03cf5fec4f926f9f3e0a0f44fff7ea92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/47633cb35b101f64878f4064b4c01eeb.png",15h00 ngày 06/03 Uzbekistan Women vs China Women [CÚ ĐÊM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1772795137-0-0-95b5ae5985223f91a0aba0d714e96d02
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/56f59f856b7cfe924d23c0dc47c7784a.png",16h30 ngày 06/03 Rochedale Rovers vs Queensland Lions SC [BLV LIO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1772793337-0-0-e0ec239db3c722223ceb9aaa5afd60cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) flv
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1772795137-0-0-173f09842ff8799c5be54d83e0639303
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772793337-0-0-c3981e74b0eeef78c2f6c652fbd803ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1772795137-0-0-f89d5bb763fb6ccad9287ec6f46c6775
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772793337-0-0-1baa6330c1c1862df24388feaccd3917
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1772795137-0-0-f212f307d26b0f65185400f6fa041ab1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772793337-0-0-f84c77623590fc28a71c19bfce1acc7f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1772795137-0-0-6353fe9bd37bc96edc7d76de10bfe2f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/dd6c0420505bff1707e9e05663c99c71.png",17h00 ngày 06/03 Suwon KT vs Seoul Knights [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772793337-0-0-ea91102fe09023c908ca1380046f6d08
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1772795137-0-0-9d30d211f6cd3d7b2a4e623ba697fc03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1772795137-0-0-7289a5e0e02e90b13bee21483b739e4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1772795137-0-0-8c3481227764b467848ebe67538b9524
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1772795137-0-0-24057ff5218936e2faf2f749927bf557
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/86a6e05feedd785fdc4e6ad3b0de2814.png",16h30 ngày 06/03 Brisbane Wolves vs Moreton City Excelsior FC [BLV NIBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1772795137-0-0-9b8ce736b3afa26983ff5b602ca5f844
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1772795137-0-0-64056dea1dd1e65a5aa96bc65c3b2613
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1772795137-0-0-831d0a3077a5c3e40686390ffe1d9592
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1772795137-0-0-e6aa6ced27ac9e712c80f01980925b5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/c31ac70893fa10a176ad232cb879257f.png",16h00 ngày 06/03 Valentine vs Cooks Hill United [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1772795137-0-0-2ca7c06e4cac06a1ec54716e18db2fce
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1772793337-0-0-5f92bfa096e980611555552ccae5e3e9
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1772795497-0-0-4d6e585557e29c3e3d87a8d3111e655b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1772793337-0-0-bcdbaa6c63a95491317e6e0c420a09ab
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1772795497-0-0-f8e0afc933240fd625b17ba99f13d668
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1772793337-0-0-58128ff1ea56e70896a4c614b3f9e3c8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1772795497-0-0-86d0a23c8ffab5ce876e5a69c7155692
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1772793337-0-0-6be8849656661cbc05bfb0461f98f9df
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1772795497-0-0-57f195855143e08d4540c64b7e883ba6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1772793337-0-0-8222bb8ac2b4649f9d8ba7aa42854c9d
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1772795497-0-0-724e9458dcec3370a0a584fee51ffd52
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1772793337-0-0-8585294c6286b30b9d8396aa14de8c56
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1772795497-0-0-569c34ce51535370455124abcfaaa20a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1772793337-0-0-3de67649bf8667d7bd59f6d400e84bda
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1772795497-0-0-b17d4a99553f4a8ebbb6dc39176fdaf4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1772793337-0-0-56728095df1cf7f8555aa341ffd0dad2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) flv
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1772795497-0-0-a191e5678ad085c4048123fc316083c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=487ccaa43378a76216f72fcf0d3c8039&txTime=69aaf449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1772795497-0-0-999f16a50c94e4410cdcf2f6a1e77a33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=2f7d2f22ac9997d11064c9525b06c9dc&txTime=69aaf449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1772795497-0-0-74809541af92246b95000960fb3dfa08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=487ccaa43378a76216f72fcf0d3c8039&txTime=69aaf449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1772795497-0-0-375f9792e62c59a3072b5903f94c218d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/15b28b483d4aa9448c7cfb19b1d96ac3.png",15h35 ngày 06/03 Adelaide United vs Wellington Phoenix [LOKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=2f7d2f22ac9997d11064c9525b06c9dc&txTime=69aaf449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=9bb614b26ef48a0e3fa590be55e26279&txTime=69aaf449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=86e9ca671f9c36431171bbe55ffa0843&txTime=69aaf449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=9bb614b26ef48a0e3fa590be55e26279&txTime=69aaf449
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=86e9ca671f9c36431171bbe55ffa0843&txTime=69aaf449
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1772795497-0-0-431eb36e8fb92eb6e61c2a98944f8a2c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV KAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=fe681f6b80014fe900b4c66a0bba71ff&txTime=69aaf449
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=07365f25c2bb617f6605e40bf4dc0722&txTime=69aafcb9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV KAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=e21e4fb0444f447f18851360f340bb20&txTime=69aaf449
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=3c9e3a538dc675ea970662770c80b206&txTime=69aafcb9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV KAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=fe681f6b80014fe900b4c66a0bba71ff&txTime=69aaf449
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=07365f25c2bb617f6605e40bf4dc0722&txTime=69aafcb9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/8dcb834cf0416fbe36b94d17391f8a4b.png",17h00 ngày 06/03 Quang Ninh vs Truong Tuoi Dong Nai [BLV KAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e21e4fb0444f447f18851360f340bb20&txTime=69aaf449
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=3c9e3a538dc675ea970662770c80b206&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=bc4e75518be77c1221e4214834b54f25&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=45686d61cc52a7b824305e7511b4a3b0&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=bc4e75518be77c1221e4214834b54f25&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/752660a991f5960cbf86e7bf9954fcf7.png",15h45 ngày 06/03 Dandenong City SC vs Caroline Springs George Cross [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=45686d61cc52a7b824305e7511b4a3b0&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=5af2279c4224b6ba6d854be04c3d1252&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=f6d5215378aebcb7838cfa65bdee8a0b&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=5af2279c4224b6ba6d854be04c3d1252&txTime=69aafcb9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260302/59483770d1c607f3955cb82df0cd1170.png",16h00 ngày 06/03 Dong Tam Long An vs Xuan Thien Phu Tho [BLV ANH TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f6d5215378aebcb7838cfa65bdee8a0b&txTime=69aafcb9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1772793337-0-0-f1c03b93b0fb4b623f13ef2680b7ec17
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1772795497-0-0-393ea8b577018c5c0d0a26fd124d27dc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1772793337-0-0-4bf78cf9a548bfbf37a6c6b867d57c23
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1772795497-0-0-b6ac267e3f4822af63866d3b5055b2e2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1772793337-0-0-55ec07ba574c2a7cb7e097b3b8deb2cd
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1772795497-0-0-e00ec936dc95d9b5a7ff66fe55e7480e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260304/a220fff16d13ced34e2d80928f3917df.png",17h00 ngày 06/03 LG Sakers vs Mobis Phoebus [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1772793337-0-0-5b42d750f698ec9e7857ddfb92d0cd74
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1772795497-0-0-02f2a858f93910188ae09f068ddff944
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772793337-0-0-4bf5cf6c03b665093331b6154d5d15c1
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1772795497-0-0-6f46883fe365a1b5a96d3cc2db39d325
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772793337-0-0-feedcec706464c3c9f5202fa252886c2
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1772795497-0-0-3bbbd8c8ef8692c3e3bc7c922e2302d4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772793337-0-0-7448765562ade1a01d8e865aa14070e0
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1772795497-0-0-4ce1a25a55927e8ffe9fc9f321f4b045
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260301/957f0a46d79430408e4ace766225857c.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772793337-0-0-946acbb54dc66faaad98ff8abfa1388a
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/16945.png",15h00 06/03 Uzbekistan W vs China W (Hội Quán) FULL HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/16945.png",15h00 06/03 Uzbekistan W vs China W (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/16945.png",15h00 06/03 Uzbekistan W vs China W (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tldm0825.edgemaxcdn.org/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1772795497-0-0-c5621d40ba988242615b47cb8954f7fd
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaynMw1lJOl1hU7wpcWGXGahjFbtj8Iid7Q&s",16h00 06/03 Long An vs Xuan Thien Phu Tho (Hội Quán) FULL HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1655,13 +1697,31 @@ https://tldm0825.edgemaxcdn.org/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80",15h35 06/03 Adelaide United vs Wellington Phoenix
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/0eed1b79b7b63de4fd62d4f861719c03.png!w80",15h00 06/03 Uzbekistan Nữ vs Trung Quốc Nữ
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/becd43ab1a8ed0594efc2a513b1c33e4.png!w80",16h30 06/03 Dagon Port vs Rakhine United
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/75748097.m3u8
+https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/1bb4601b175d145f9490a4f4f7e602b7.png!w80",16h00 06/03 Kahibah FC vs Edgeworth Eagles
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/08552895.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/479d859dacd00866ef0da188c0617234.png!w80",17h00 06/03 Than Quảng Ninh vs Bình Phước
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/33982309.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/df5c70d45e8e013f82e098da8d134134.png!w80",17h00 06/03 Osaka FC vs Nara Club
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/75748097.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Quê Choa",[A-League] 15h35 06/03 Adelaide United vs Wellington Phoenix [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 15h35 06/03 Adelaide United vs Wellington Phoenix [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
+#EXTINF:-1 group-title="Quê Choa",[A-League] 15h35 06/03 Adelaide United vs Wellington Phoenix [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
 #EXTINF:-1 group-title="Общие", Ссылка на плейлист устарела
 https://loganettv.vercel.app/all.m3u
 #EXTINF:-1 group-title="Общие", Новая ссылка https://loganettv.vercel.app/all.m3u
