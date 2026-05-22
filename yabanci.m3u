@@ -1,8 +1,30 @@
 #EXTM3U
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/df9cc6ce125ac78a10c2fe3ba765f94a.png",10h30 ngày 22/05 Sunrise Orissa vs KLASA (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68941_1jrj4svr4m0.png",14h00 ngày 22/05 Auckland FC Reserves vs Eastern Suburbs AFC (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68941_1jrj4svr4m0.png",14h00 ngày 22/05 Auckland FC Reserves vs Eastern Suburbs AFC (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779431896.png",14h00 ngày 22/05 Dalian Yingbo B vs Taian Tiankuang (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779431896.png",14h00 ngày 22/05 Dalian Yingbo B vs Taian Tiankuang (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779431887.png",14h00 ngày 22/05 Dalian Yingbo B vs Taian Tiankuang (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779431887.png",14h00 ngày 22/05 Dalian Yingbo B vs Taian Tiankuang (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/c6cb750c514ef46797d8950e649d0aad.png",14h00 ngày 22/05 Auckland FC Reserves vs Eastern Suburbs AFC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
-https://www3.f2k3.shop/live/23e024fffebebc588b677a8c6014d261/playlist.m3u8
+https://www3.f2k3.shop/live/a8b5314db50256bb647d6d674f747937/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/bf15765055eda003a3410454713c8e4d.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/0a0a60335205528a5a8006b6bf01a193/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260417_091125_e069e829.png",16h00 ngày 22/05 TP. Hồ Chí Minh vs Trường Tươi Đồng Nai (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -211,91 +233,197 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/df9cc6ce125ac78a10c2fe3ba765f94a.png",10h30 ngày 22/05 Sunrise Orissa vs KLASA (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/c6cb750c514ef46797d8950e649d0aad.png",14h00 ngày 22/05 Auckland FC Reserves vs Eastern Suburbs AFC (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/23e024fffebebc588b677a8c6014d261/playlist.m3u8
+https://www3.f2k3.shop/live/a8b5314db50256bb647d6d674f747937/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/bf15765055eda003a3410454713c8e4d.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/0a0a60335205528a5a8006b6bf01a193/playlist.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779439315-0-0-4dcbb6b20b0f49781eb10d9dbb8f0c0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779439315-0-0-221badf6c05688439d75cbe062a3dddb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779439315-0-0-cdd9a09b991c431254df5ff828217b0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779439315-0-0-d25e872f7fda89a9a0d44a12e05ac265
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779439315-0-0-e929b4336a2249991f69bb674d8f4845
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779439315-0-0-59c375782ceeb69f95e175fa10ec9f73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779439315-0-0-3357aa1754c7f03fbc50e47483167475
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779439315-0-0-5359b3892ef8c485537a706fb9818ef0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779427435-0-0-26a3a2da582e961c3207d7164296a8ee
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779439315-0-0-be57cd9391025b098591bb53cef37fa7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779427435-0-0-18251edcffa1f578b4016611e3300625
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779439315-0-0-14f7b6228e73a2cd513829d407d8ea12
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779427435-0-0-d5e8daddf20eb89cab4c5f178144d109
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779439315-0-0-11aa775990e683ffeb351e59a698720e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779427435-0-0-64381b59e3c02396659f71aeafb7b0be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: UEFA EL - SC Freiburg vs Aston Villa [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779439315-0-0-a9408bd42c4308760bf3311e29b389a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1779427435-0-0-34b103e00ece92509a0f70ded86855e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: UEFA EL - SC Freiburg vs Aston Villa [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779439675-0-0-21ab30a84a90e2e1bfa4f560d29338e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1779427435-0-0-d9856c73aab6127d3f78e221c5e83269
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: UEFA EL - SC Freiburg vs Aston Villa [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779439675-0-0-7f6a6abc5963e5f3f08a1a2262d95727
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1779427435-0-0-c44708c9a865bcf051a1b3dc15fea0e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: UEFA EL - SC Freiburg vs Aston Villa [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779439675-0-0-e044f957f4c34cfae5c04fd7a8d82f4f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1779427435-0-0-cdf1cc7cfa419b5024cc07a07be1a90e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: NOR D1 - Lillestrom vs Kristiansund BK [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779439675-0-0-a514a99956429a388c59dbb6f0dc513c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1779427435-0-0-bc19565b6ffd102d9b802d4e360b963d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: NOR D1 - Lillestrom vs Kristiansund BK [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1779439675-0-0-a2f9f3970711d65d56a6c275a0cdb2d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV VITAMIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1779427435-0-0-ae03950692a5193efeaca1c16788c3bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: NOR D1 - Lillestrom vs Kristiansund BK [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1779439675-0-0-9e00a82b0b005fb9e7afa94386685567
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV VITAMIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1779427435-0-0-cfad551d4efd4bf813c6ccfd1298af99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: NOR D1 - Lillestrom vs Kristiansund BK [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779439675-0-0-10d031f3c7762878e3927a27f178aa87
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV VITAMIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1779427435-0-0-9ea5b744ee38b1a1aec6b993b98331e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: MGL D1 - Khangarid FC vs Central Stallions [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779439675-0-0-03b9dfed086326869137b554511e4c46
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1779427435-0-0-fce009cc9b6df5260fd868e7fd45135b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: MGL D1 - Khangarid FC vs Central Stallions [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1779439675-0-0-aee69248f99f89462df806ed31bc8593
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1779427435-0-0-d06c384788a2b553e3944d69b08cd595
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: MGL D1 - Khangarid FC vs Central Stallions [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1779439675-0-0-467f35ab902e68073b81aa64f9f5732c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1779427435-0-0-2e8f1eb321e106bbd215b299ff554dfd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: MGL D1 - Khangarid FC vs Central Stallions [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779439675-0-0-2d62fe68deb19d7e50dfd6dd7fa7722f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1779427435-0-0-717437317a715e80f8586b7e54d925e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: IND SL - Punjab vs Mumbai City FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779439675-0-0-c2fe24e6ce0b768781de3731cc44228b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1779427435-0-0-2e293ba5714dffdd32135280db48a53d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: IND SL - Punjab vs Mumbai City FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779439675-0-0-d03bd6e48bb1c7de45526977f3d3c4f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1779427435-0-0-d294e35de82fa172e65d837890aeb5e6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: IND SL - Punjab vs Mumbai City FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779439675-0-0-bccfb5ac0ff266e66103c6e567e723dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1779427435-0-0-87433d90eb152d965c30e5c212bd1eef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: IND SL - Punjab vs Mumbai City FC [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779439675-0-0-ed45fa5932e1406377ab1c1525556286
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1779427435-0-0-2b5f67512b1e2a1f30c149ceec5442b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: KSA PR - Al Nassr FC vs Damac [Sóc trong rừng xà nu] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779439675-0-0-55d1ff49a151f863ed2e8af6284db5ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1779427435-0-0-2e26b0f9007312eec2ca9ee4321cee2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: KSA PR - Al Nassr FC vs Damac [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779439675-0-0-06c7fb5698e3f6ff2ad24ec2ce03458d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1779427435-0-0-60dec33fe3fae8a030aff9dc55a85753
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: KSA PR - Al Nassr FC vs Damac [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1779439675-0-0-ce8a0178702ce68c0dbf58042c6491a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1779427435-0-0-cca26d8bc5cd9dfc6556181dd61bbacd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: KSA PR - Al Nassr FC vs Damac [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779439675-0-0-5eaa38808cf201d74a36d8e9e0ba14f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1779427435-0-0-1c56c72df515d53f8fab4fc5969f5650
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: FIN D1 - Ilves Tampere vs Inter Turku [Sóc mèo méo meo] (Socolive) flv
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779439675-0-0-edf590a9a9e6cae334ff33163305db01
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1779427435-0-0-c9fab9b315846f2c2cc141a4cbf1600f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: FIN D1 - Ilves Tampere vs Inter Turku [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779440035-0-0-04b8d41eb299c4ca572974dbf7868b42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1779427435-0-0-a97e1d23115cf2a922894686105e1a8c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: FIN D1 - Ilves Tampere vs Inter Turku [Sóc mèo méo meo] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779440035-0-0-447ed09bc7915f6e5fd9a6d8cb18a1db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1779427435-0-0-14eff6d309a1c90c7b7ce8d3f12e124d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/16f5c1248bfc1f6722de070e805680a1.png",Tường thuật: FIN D1 - Ilves Tampere vs Inter Turku [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779440035-0-0-98b700270df361008b13c3e92a37497b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1779427435-0-0-3ed8aed7ca71243f47fae6035cc873f9
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779440035-0-0-b5c7565a03ad76680968d29894dd389f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BRIAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1779440035-0-0-12c679eb598c6a827809f49b14ebe933
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BRIAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1779440035-0-0-995fbc66213e4105c2b147792783ad03
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BRIAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779440035-0-0-c042953809beedd198b832878ad637fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260520/ba1314dfc0996935eca53d2557565cb2.png",14h30 ngày 22/05 Manawatu Jets vs Canterbury Rams [BRIAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779440035-0-0-57b1edf617eb8a5ae92efcc6508a0627
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1779440035-0-0-92bc9f90a5348de33ff30bf092b5121e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1779440035-0-0-716c36798f670427c3e7e8ca40d352a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779440035-0-0-75d6df3ba3f545d89fec050610439b87
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779440035-0-0-ac581381ed0ca59034344b27dd5b699b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1779440035-0-0-965501caf8492b1131c052209e0a4aae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1779440035-0-0-81ec096a9794e4f9a5f2063157588e5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1779440035-0-0-ea6c0364f27de3752c42d512355275f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260518/ca41dd40cbfadc4a2b3cd109e21782b0.png",14h00 ngày 22/05 Dalian Yingbo B vs Tai'an Tiankuang [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779440035-0-0-a453ba0c308ebcbb886101156cb03697
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",14h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",14h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",14h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",14h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",14h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",14h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",15h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",15h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",15h00 22/05 PERODUA Malaysia Masters 2026 (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/bf15765055eda003a3410454713c8e4d.png!w80",14h00 22/05 Dalian Yingbo B vs Taian Tiankuang
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/8f06ac7835bf0ddf790691efc2d39aab.png!w80",14h30 22/05 Manawatu Jets vs Canterbury Rams
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87379114.m3u8
